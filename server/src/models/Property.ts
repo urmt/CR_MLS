@@ -1,47 +1,33 @@
 import mongoose, { Document } from 'mongoose'
 
 export interface IProperty extends Document {
-  title: string
-  description: string
-  price: number
-  location: string
-  coordinates: {
-    lat: number
-    lng: number
+  // ... existing fields ...
+  legalDetails: {
+    folioReal: string // National Registry ID
+    waterConcession: boolean
+    concessionType: 'beach' | 'navigable' | 'none'
+    surveyPlan: string // URL to survey document
+    zoning: string
+    municipalPermits: boolean
+    registered: boolean
+    boundariesVerified: boolean
   }
-  propertyType: 'house' | 'apartment' | 'land' | 'commercial'
-  bedrooms: number
-  bathrooms: number
-  area: number
-  images: string[]
-  contact: {
-    name: string
-    email: string
-    phone: string
-  }
-  accessList: string[] // List of payer emails who purchased access
 }
 
 const propertySchema = new mongoose.Schema<IProperty>({
-  title: { type: String, required: true },
-  description: { type: String, required: true },
-  price: { type: Number, required: true },
-  location: { type: String, required: true },
-  coordinates: {
-    lat: { type: Number, required: true },
-    lng: { type: Number, required: true }
-  },
-  propertyType: { type: String, enum: ['house', 'apartment', 'land', 'commercial'], required: true },
-  bedrooms: { type: Number, required: true },
-  bathrooms: { type: Number, required: true },
-  area: { type: Number, required: true },
-  images: [{ type: String }],
-  contact: {
-    name: { type: String, required: true },
-    email: { type: String, required: true },
-    phone: { type: String, required: true }
-  },
-  accessList: [{ type: String }] // Store payer emails
+  // ... existing schema ...
+  legalDetails: {
+    folioReal: { type: String, required: true },
+    waterConcession: { type: Boolean, default: false },
+    concessionType: { 
+      type: String, 
+      enum: ['beach', 'navigable', 'none'], 
+      default: 'none' 
+    },
+    surveyPlan: { type: String }, // URL to document
+    zoning: { type: String },
+    municipalPermits: { type: Boolean, default: false },
+    registered: { type: Boolean, default: false },
+    boundariesVerified: { type: Boolean, default: false }
+  }
 }, { timestamps: true })
-
-export const Property = mongoose.model<IProperty>('Property', propertySchema)
