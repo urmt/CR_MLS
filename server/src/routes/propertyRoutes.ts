@@ -1,13 +1,23 @@
 import express from 'express'
-import { checkPropertyAccess } from '../controllers/propertyController'
-import { verifyProperty } from '../controllers/propertyController'
+import { 
+  createProperty,
+  getPropertyById,
+  checkPropertyAccess,
+  verifyProperty
+} from '../controllers/propertyController'
+import { completeManualVerification } from '../services/manualVerificationService'
 
-// Add to routes
+const router = express.Router()
+
+// Define routes
+router.post('/', createProperty)
+router.get('/:id', getPropertyById)
+router.get('/:id/access', checkPropertyAccess) // No authentication needed
 router.get('/:id/verify', verifyProperty)
+router.post('/:id/verify-callback', (req, res) => {
+  const { verified } = req.body
+  completeManualVerification(req.params.id, verified)
+  res.status(200).send()
+})
 
-// Add to existing routes
-router.get('/:id/access', protect, checkPropertyAccess)
-import { verifyProperty } from '../controllers/propertyController'
-
-// Add to routes
-router.get('/:id/verify', verifyProperty)
+export default router
