@@ -4,6 +4,25 @@ import { zodResolver } from '@hookform/resolvers/zod'
 import { z } from 'zod'
 import { Property } from '../types/property'
 
+// Update the propertySchema
+const legalDetailsSchema = z.object({
+  folioReal: z.string().min(5, 'Folio Real is required'),
+  waterConcession: z.boolean(),
+  concessionType: z.enum(['beach', 'navigable', 'none']),
+  surveyPlan: z.string().url('Invalid URL').optional(),
+  zoning: z.string().optional(),
+  municipalPermits: z.boolean(),
+  registered: z.boolean(),
+  boundariesVerified: z.boolean()
+})
+
+// Add to main propertySchema
+const propertySchema = z.object({
+  // ... existing fields ...
+  legalDetails: legalDetailsSchema
+})
+
+
 const propertySchema = z.object({
   title: z.string().min(5, 'Title must be at least 5 characters'),
   description: z.string().min(20, 'Description must be at least 20 characters'),
@@ -21,7 +40,8 @@ const propertySchema = z.object({
   contact: z.object({
     name: z.string().min(2, 'Name must be at least 2 characters'),
     email: z.string().email('Invalid email address'),
-    phone: z.string().min(8, 'Phone must be at least 8 characters')
+    phone: z.string().min(8, 'Phone must be at least 8 characters'),
+  legalDetails: legalDetailsSchema
   })
 })
 
