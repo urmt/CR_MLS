@@ -46,6 +46,97 @@ const PropertyForm: React.FC<PropertyFormProps> = ({ onSubmit, isSubmitting }) =
           />
           {errors.title && <p className="text-red-500 text-sm mt-1">{errors.title.message}</p>}
         </div>
+
+        // Add to the form component
+<div className="mt-8 border-t pt-6">
+  <h2 className="text-xl font-bold mb-4">Costa Rica Legal Verification</h2>
+  
+  <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+    <div>
+      <label className="block text-sm font-medium mb-1">Folio Real (National Registry ID)</label>
+      <input 
+        {...register('legalDetails.folioReal')} 
+        className="w-full px-3 py-2 border rounded-md" 
+        placeholder="e.g. 3-123456789"
+      />
+      {errors.legalDetails?.folioReal && <p className="text-red-500 text-sm mt-1">{errors.legalDetails.folioReal.message}</p>}
+    </div>
+    
+    <div>
+      <label className="block text-sm font-medium mb-1">Water Concession</label>
+      <select 
+        {...register('legalDetails.waterConcession')} 
+        className="w-full px-3 py-2 border rounded-md"
+      >
+        <option value="false">No water concession</option>
+        <option value="true">Has water concession</option>
+      </select>
+    </div>
+  </div>
+  
+  <div className="mt-4 grid grid-cols-1 md:grid-cols-2 gap-6">
+    <div>
+      <label className="block text-sm font-medium mb-1">Concession Type</label>
+      <select 
+        {...register('legalDetails.concessionType')} 
+        className="w-full px-3 py-2 border rounded-md"
+      >
+        <option value="none">No concession</option>
+        <option value="beach">Beach concession</option>
+        <option value="navigable">Navigable water concession</option>
+      </select>
+    </div>
+    
+    <div>
+      <label className="block text-sm font-medium mb-1">Survey Plan URL</label>
+      <input 
+        {...register('legalDetails.surveyPlan')} 
+        className="w-full px-3 py-2 border rounded-md" 
+        placeholder="https://..."
+      />
+      {errors.legalDetails?.surveyPlan && <p className="text-red-500 text-sm mt-1">{errors.legalDetails.surveyPlan.message}</p>}
+    </div>
+  </div>
+  
+  <div className="mt-4 grid grid-cols-1 md:grid-cols-3 gap-4">
+    <label className="flex items-center">
+      <input 
+        type="checkbox" 
+        {...register('legalDetails.municipalPermits')} 
+        className="mr-2"
+      />
+      Municipal Permits Obtained
+    </label>
+    
+    <label className="flex items-center">
+      <input 
+        type="checkbox" 
+        {...register('legalDetails.registered')} 
+        className="mr-2"
+      />
+      Properly Registered
+    </label>
+    
+    <label className="flex items-center">
+      <input 
+        type="checkbox" 
+        {...register('legalDetails.boundariesVerified')} 
+        className="mr-2"
+      />
+      Boundaries Verified
+    </label>
+  </div>
+  
+  <div className="mt-4">
+    <label className="block text-sm font-medium mb-1">Zoning Classification</label>
+    <input 
+      {...register('legalDetails.zoning')} 
+      className="w-full px-3 py-2 border rounded-md" 
+      placeholder="e.g. Residential, Commercial, Mixed-Use"
+    />
+  </div>
+</div>
+
         
         <div>
           <label className="block text-sm font-medium mb-1">Price ($)</label>
