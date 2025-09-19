@@ -1,18 +1,38 @@
-// @desc    Check if user has access to property contact info
-// @route   GET /api/properties/:id/access
-// @access  Private
-export const checkPropertyAccess = asyncHandler(async (req: Request, res: Response) => {
-  const property = await Property.findById(req.params.id)
-  
-  if (!property) {
-    res.status(404)
-    throw new Error('Property not found')
-  }
+import { Request, Response } from 'express'
+import asyncHandler from 'express-async-handler'
+import { Property } from '../models/Property'
 
-  // Check if user has purchased access or is the agent
-  const hasAccess = 
-    property.accessList.includes(req.user.id) || 
-    property.agent.toString() === req.user.id
+// @desc    Create a new property listing
+// @route   POST /api/properties
+// @access  Public
+export const createProperty = asyncHandler(async (req: Request, res: Response) => {
+  const { 
+    title, 
+    description, 
+    price, 
+    location, 
+    coordinates, 
+    propertyType, 
+    bedrooms, 
+    bathrooms, 
+    area, 
+    images, 
+    contact 
+  } = req.body
 
-  res.json({ hasAccess })
+  const property = await Property.create({
+    title,
+    description,
+    price,
+    location,
+    coordinates,
+    propertyType,
+    bedrooms,
+    bathrooms,
+    area,
+    images,
+    contact
+  })
+
+  res.status(201).json(property)
 })
