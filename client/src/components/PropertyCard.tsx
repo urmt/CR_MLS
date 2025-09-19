@@ -21,6 +21,21 @@ const PropertyCard: React.FC<PropertyCardProps> = ({ property, onViewDetails }) 
             No Image
           </div>
         )}
+
+        // Add to the property card component
+<div className="absolute top-2 left-2 flex flex-col gap-1">
+  {property.legalDetails.registered && (
+    <span className="bg-green-500 text-white text-xs px-2 py-1 rounded">
+      Registered
+    </span>
+  )}
+  {property.legalDetails.boundariesVerified && (
+    <span className="bg-blue-500 text-white text-xs px-2 py-1 rounded">
+      Boundaries Verified
+    </span>
+  )}
+</div>
+        
         <div className="absolute top-2 right-2 bg-blue-500 text-white px-2 py-1 rounded">
           ${property.price.toLocaleString()}
         </div>
