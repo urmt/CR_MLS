@@ -14,8 +14,12 @@ export interface IProperty extends Document {
   bathrooms: number
   area: number
   images: string[]
-  agent: mongoose.Types.ObjectId
-  isFeatured: boolean
+  contact: {
+    name: string
+    email: string
+    phone: string
+  }
+  accessList: string[] // List of payer emails who purchased access
 }
 
 const propertySchema = new mongoose.Schema<IProperty>({
@@ -32,8 +36,12 @@ const propertySchema = new mongoose.Schema<IProperty>({
   bathrooms: { type: Number, required: true },
   area: { type: Number, required: true },
   images: [{ type: String }],
-  agent: { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true },
-  isFeatured: { type: Boolean, default: false }
+  contact: {
+    name: { type: String, required: true },
+    email: { type: String, required: true },
+    phone: { type: String, required: true }
+  },
+  accessList: [{ type: String }] // Store payer emails
 }, { timestamps: true })
 
 export const Property = mongoose.model<IProperty>('Property', propertySchema)
