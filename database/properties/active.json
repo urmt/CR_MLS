@@ -1,0 +1,36 @@
+{
+  "properties": [
+    {
+      "id": "sample_001",
+      "title": "Beautiful House in Escazu",
+      "price_usd": 350000,
+      "price_text": "$350,000",
+      "location": "Escazu, San Jose, Costa Rica",
+      "description": "Stunning 3-bedroom house with mountain views in the prestigious Escazu area. Modern kitchen, large living spaces, and private garden.",
+      "images": [
+        "https://example.com/house1_1.jpg",
+        "https://example.com/house1_2.jpg"
+      ],
+      "url": "https://example.com/property/sample_001",
+      "source": "sample_data",
+      "category": "residential",
+      "scraped_at": "2024-12-15T10:00:00Z"
+    },
+    {
+      "id": "sample_002", 
+      "title": "Beachfront Condo in Guanacaste",
+      "price_usd": 220000,
+      "price_text": "$220,000",
+      "location": "Tamarindo, Guanacaste, Costa Rica",
+      "description": "Luxury 2-bedroom oceanfront condo with direct beach access. Perfect for vacation rental or permanent residence.",
+      "images": [
+        "https://example.com/condo1_1.jpg"
+      ],
+      "url": "https://example.com/property/sample_002",
+      "source": "sample_data",
+      "category": "luxury",
+      "scraped_at": "2024-12-15T10:15:00Z"
+    }
+  ],
+  "last_updated": "2024-12-15T10:30:00Z"
+}

@@ -1,0 +1,84 @@
+{
+  "sources": {
+    "encuentra24_cr": {
+      "name": "Encuentra24 Costa Rica",
+      "base_url": "https://www.encuentra24.com/costa-rica-es",
+      "endpoints": {
+        "houses": "/bienes-raices-venta-casas",
+        "condos": "/bienes-raices-venta-condominios", 
+        "land": "/bienes-raices-venta-terrenos",
+        "commercial": "/bienes-raices-venta-locales-comerciales"
+      },
+      "selectors": {
+        "listing": ".ann_item_data",
+        "title": ".ann_title", 
+        "price": ".ann_price",
+        "location": ".ann_location",
+        "details": ".ann_description",
+        "images": ".ann_image img",
+        "link": ".ann_title a"
+      },
+      "active": true,
+      "scrape_frequency": "6h",
+      "max_pages": 50
+    },
+    "lamudi_cr": {
+      "name": "Lamudi Costa Rica",
+      "base_url": "https://www.lamudi.com.cr",
+      "endpoints": {
+        "buy": "/buy",
+        "rent": "/rent"
+      },
+      "selectors": {
+        "listing": ".ListingCell-KeyInfo-title",
+        "title": ".ListingCell-KeyInfo-title-text",
+        "price": ".PriceSection-FirstPrice",
+        "location": ".ListingCell-KeyInfo-address-text",
+        "details": ".ListingCell-KeyInfo-title-text",
+        "images": ".LazyImage img",
+        "link": ".ListingCell-AllInfo a"
+      },
+      "active": true,
+      "scrape_frequency": "6h", 
+      "max_pages": 30
+    },
+    "craigslist_cr": {
+      "name": "Craigslist Costa Rica",
+      "base_url": "https://sanjose.craigslist.org",
+      "endpoints": {
+        "real_estate": "/search/rea"
+      },
+      "selectors": {
+        "listing": ".result-row",
+        "title": ".result-title",
+        "price": ".result-price",
+        "location": ".result-location",
+        "link": ".result-title a"
+      },
+      "active": true,
+      "scrape_frequency": "12h",
+      "max_pages": 20
+    },
+    "government_registry": {
+      "name": "Registro Nacional CR",
+      "base_url": "https://www.registronacional.go.cr",
+      "type": "api",
+      "api_endpoint": "/api/propiedades/publicas",
+      "requires_key": true,
+      "active": false,
+      "note": "Requires government API key"
+    }
+  },
+  "scraping_rules": {
+    "min_price_usd": 10000,
+    "max_price_usd": 50000000,
+    "required_fields": ["title", "price", "location"],
+    "duplicate_detection": "title_similarity",
+    "image_download": true,
+    "max_images_per_property": 10,
+    "respect_robots_txt": true,
+    "user_agent": "CostaRica-MLS-Bot/1.0",
+    "delay_between_requests": 2000,
+    "max_retries": 3
+  }
+}

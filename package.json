@@ -1,0 +1,14 @@
+{
+  "name": "costa-rica-mls",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "docker-compose up --build",
+    "stop": "docker-compose down",
+    "clean": "docker-compose down -v --rmi all"
+  },
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}

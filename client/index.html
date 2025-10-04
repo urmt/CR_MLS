@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Costa Rica MLS - Multiple Listing Service</title>
+    <meta name="description" content="Costa Rica Multiple Listing Service - Find properties, houses, condos, land and commercial real estate in Costa Rica" />
+    <meta name="keywords" content="Costa Rica, real estate, property, MLS, houses, condos, land, commercial" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://ipfs.io/" />
+    <meta property="og:title" content="Costa Rica MLS - Multiple Listing Service" />
+    <meta property="og:description" content="Find properties, houses, condos, land and commercial real estate in Costa Rica" />
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:title" content="Costa Rica MLS - Multiple Listing Service" />
+    <meta property="twitter:description" content="Find properties, houses, condos, land and commercial real estate in Costa Rica" />
+    
+    <!-- Preload critical resources -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- IPFS-specific headers for decentralized hosting -->
+    <meta name="ipfs-hash" content="" id="ipfs-hash">
+    <meta name="last-updated" content="" id="last-updated">
+    
+    <style>
+      /* Loading screen styles */
+      #loading-screen {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        z-index: 9999;
+        color: white;
+        font-family: 'Inter', sans-serif;
+      }
+      
+      .loading-spinner {
+        width: 50px;
+        height: 50px;
+        border: 3px solid rgba(255, 255, 255, 0.3);
+        border-top: 3px solid white;
+        border-radius: 50%;
+        animation: spin 1s linear infinite;
+        margin-bottom: 20px;
+      }
+      
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      
+      .loading-text {
+        font-size: 18px;
+        font-weight: 500;
+        margin-bottom: 10px;
+      }
+      
+      .loading-subtext {
+        font-size: 14px;
+        opacity: 0.8;
+        text-align: center;
+        max-width: 300px;
+        line-height: 1.5;
+      }
+      
+      /* Hide loading screen when app loads */
+      .app-loaded #loading-screen {
+        opacity: 0;
+        visibility: hidden;
+        transition: opacity 0.5s ease-out, visibility 0.5s ease-out;
+      }
+      
+      /* Base styles */
+      body {
+        margin: 0;
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+          'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+          sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        background-color: #f8fafc;
+      }
+      
+      #root {
+        min-height: 100vh;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Loading Screen -->
+    <div id="loading-screen">
+      <div class="loading-spinner"></div>
+      <div class="loading-text">Loading Costa Rica MLS</div>
+      <div class="loading-subtext">
+        Fetching the latest property listings from decentralized storage...
+      </div>
+    </div>
+    
+    <!-- React App Root -->
+    <div id="root"></div>
+    
+    <!-- IPFS Status Indicator -->
+    <div id="ipfs-status" style="position: fixed; bottom: 10px; right: 10px; background: rgba(0,0,0,0.1); color: #666; padding: 5px 10px; border-radius: 15px; font-size: 12px; font-family: monospace; display: none;">
+      🌐 IPFS
+    </div>
+    
+    <script type="module" src="/src/main.tsx"></script>
+    
+    <script>
+      // IPFS detection and status
+      if (window.location.protocol === 'https:' && window.location.hostname.includes('ipfs')) {
+        document.getElementById('ipfs-status').style.display = 'block';
+        document.getElementById('ipfs-status').innerHTML = '🌐 IPFS: ' + window.location.hostname.split('.')[0].slice(0, 8) + '...';
+      }
+      
+      // Remove loading screen when React app is ready
+      window.addEventListener('load', function() {
+        setTimeout(() => {
+          document.body.classList.add('app-loaded');
+        }, 500);
+      });
+      
+      // Service Worker for offline support (optional)
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function() {
+          navigator.serviceWorker.register('/sw.js').catch(function(error) {
+            console.log('ServiceWorker registration failed: ', error);
+          });
+        });
+      }
+      
+      // Update last updated timestamp
+      document.getElementById('last-updated').content = new Date().toISOString();
+    </script>
+  </body>
+</html>
