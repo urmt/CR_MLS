@@ -1,7 +1,7 @@
 import CryptoJS from 'crypto-js';
 
 // Master encryption key (in production, this should be generated and stored securely)
-const MASTER_KEY = process.env.REACT_APP_MASTER_KEY || 'CostaRica-MLS-2024-SecureKey';
+const MASTER_KEY = import.meta.env.VITE_MASTER_KEY || 'CostaRica-MLS-2024-SecureKey';
 
 export interface EncryptedCredentials {
   emailjs: {
@@ -86,23 +86,22 @@ export class EncryptionManager {
    * Get default credentials (encrypted in code)
    */
   private getDefaultCredentials(): EncryptedCredentials {
-    // These are encrypted versions of the actual credentials
-    // In production, these would be properly encrypted
+    // Use environment variables directly for client-side deployment
     return {
       emailjs: {
-        serviceId: this.decrypt(process.env.REACT_APP_EMAILJS_SERVICE_ID || ''),
-        templateId: this.decrypt(process.env.REACT_APP_EMAILJS_TEMPLATE_ID || ''),
-        publicKey: this.decrypt(process.env.REACT_APP_EMAILJS_PUBLIC_KEY || '')
+        serviceId: import.meta.env.VITE_EMAILJS_SERVICE_ID || '',
+        templateId: import.meta.env.VITE_EMAILJS_TEMPLATE_ID || '',
+        publicKey: import.meta.env.VITE_EMAILJS_PUBLIC_KEY || ''
       },
       paypal: {
-        clientId: this.decrypt(process.env.REACT_APP_PAYPAL_CLIENT_ID || '')
+        clientId: import.meta.env.VITE_PAYPAL_CLIENT_ID || ''
       },
       aws: {
-        lambdaPdfUrl: this.decrypt(process.env.REACT_APP_AWS_LAMBDA_PDF_URL || '')
+        lambdaPdfUrl: import.meta.env.VITE_AWS_LAMBDA_PDF_URL || ''
       },
       github: {
         repoUrl: 'https://api.github.com/repos/urmt/CR_MLS/contents/database',
-        rawContentUrl: 'https://raw.githubusercontent.com/urmt/CR_MLS/main/database'
+        rawContentUrl: import.meta.env.VITE_GITHUB_RAW_URL || 'https://raw.githubusercontent.com/urmt/CR_MLS/main/database'
       }
     };
   }

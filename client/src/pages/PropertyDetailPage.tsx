@@ -69,7 +69,7 @@ const PropertyDetailPage: React.FC = () => {
               <div className="mb-8">
                 <h2 className="text-xl font-semibold mb-3">Photos</h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                  {property.images.map((image, index) => (
+                  {property.images.map((_, index) => (
                     <div key={index} className="bg-gray-200 rounded-lg h-64 flex items-center justify-center">
                       <span className="text-gray-500">📷 Photo {index + 1}</span>
                     </div>
