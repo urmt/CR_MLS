@@ -18,7 +18,7 @@ async function testEmailJS() {
     template_id: EMAILJS_TEMPLATE_ID,
     user_id: EMAILJS_PUBLIC_KEY,
     template_params: {
-      to_email: 'test@example.com', // This will use the default recipient from your template
+      to_email: 'your-actual-email@example.com', // CHANGE THIS TO YOUR EMAIL FOR TESTING
       to_name: 'Test User',
       subject: 'New Properties Available',
       category_name: 'Residential Properties',
