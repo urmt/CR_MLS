@@ -9,7 +9,3 @@ interface ImportMetaEnv {
   readonly VITE_PAYPAL_CLIENT_ID: string
   readonly VITE_AWS_LAMBDA_PDF_URL: string
 }
-
-interface ImportMeta {
-  readonly env: ImportMetaEnv
-}

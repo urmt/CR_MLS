@@ -6,6 +6,8 @@ This file provides guidance to WARP (warp.dev) when working with code in this re
 
 Costa Rica MLS is a **fully autonomous, maintenance-free** property registry system for Costa Rica real estate. The system is designed for **IPFS deployment with $0 ongoing costs**, featuring automated property scraping, serverless PDF generation, encrypted client-side operation, and automated email delivery of property listings by category.
 
+**Key Innovation**: A completely serverless architecture using GitHub as a free database and IPFS for hosting, requiring zero ongoing maintenance.
+
 ## 🚀 Autonomous IPFS Deployment Commands
 
 ### IPFS Static Deployment (Production)
@@ -23,13 +25,19 @@ node scripts/scraper.js
 node scripts/email-campaigns.js
 ```
 
-### Client Development (Static React App)
+### Client Development (React SPA)
 ```bash
-cd client
+# Development (from /client directory)
 npm install
-npm run dev          # Development server on port 3000
-npm run build        # Static build for IPFS deployment
-npm run preview      # Preview static build
+npm run dev          # Vite dev server on port 5173
+npm run build        # TypeScript compilation + Vite build
+npm run lint         # ESLint with auto-fix
+npm run preview      # Preview production build
+
+# Root-level development
+npm run start        # Docker Compose full stack (if server exists)
+npm run stop         # Stop Docker containers
+npm run clean        # Clean Docker resources
 ```
 
 ### GitHub Database Management
@@ -54,28 +62,50 @@ This system is designed to run **completely autonomously** on IPFS with:
 - 🆓 **Free EmailJS** (200 emails/month)
 
 ### Project Structure
-- **client/**: Static React SPA for IPFS deployment
-- **database/**: JSON-based database stored in GitHub
-- **scripts/**: Automated scraping and email campaigns
-- **serverless/**: AWS Lambda functions (PDF generation, payment processing)
-- **contracts/**: Polygon smart contracts for payments
-- **.github/workflows/**: Automated CI/CD and data management
+```
+CR_MLS_New/
+├── client/              # React 18 + TypeScript SPA
+│   ├── src/
+│   │   ├── components/  # Reusable UI components
+│   │   ├── contexts/    # React Context providers
+│   │   ├── hooks/       # Custom React hooks
+│   │   ├── pages/       # Route components
+│   │   ├── services/    # API services (GitHub Database)
+│   │   ├── types/       # TypeScript type definitions
+│   │   └── utils/       # Utility functions (encryption)
+│   ├── dist/           # Built static files for deployment
+│   └── package.json    # Client dependencies
+├── database/           # JSON database files
+│   ├── properties/     # Active, pending, sold properties
+│   ├── subscribers/    # Email subscription data
+│   ├── scraping/       # Scraper configuration
+│   └── config/         # System configuration
+├── scripts/            # Node.js automation scripts
+├── serverless/         # AWS Lambda functions
+├── contracts/          # Polygon smart contracts
+└── package.json        # Workspace configuration
+```
 
 ### Tech Stack
 
 #### Frontend (Client-Side Only)
-- **React 18** static build deployed to IPFS
+- **React 18 + TypeScript** with Vite build system
+- **TanStack Query** for server state management with caching
+- **React Router** for client-side routing
 - **GitHub Database Service** for fetching property data
 - **Encrypted Key Management** (CryptoJS client-side encryption)
 - **PayPal Client SDK** for direct payment processing
 - **EmailJS** for client-side email integration
-- **Web3.js** for blockchain interactions
+- **Radix UI** components for accessible UI elements
+- **Chart.js** for data visualization
+- **React Hook Form + Zod** for form validation
 
 #### Backend (Serverless Only)
 - **GitHub Actions** for automated property scraping
 - **AWS Lambda** for PDF generation (Puppeteer + S3)
 - **EmailJS API** for automated email campaigns
 - **Polygon Smart Contract** for payment escrow
+- **Node.js scripts** for scraping and email automation
 
 #### Infrastructure
 - **GitHub Repository** as free JSON database
@@ -86,24 +116,59 @@ This system is designed to run **completely autonomously** on IPFS with:
 ### Key Architectural Patterns
 
 #### Frontend Architecture
-- **Provider Pattern**: AuthContext for global authentication state
-- **Query Client Pattern**: TanStack Query for server state with caching
-- **Layout Components**: Nested routing with shared layout components
+- **Static SPA Pattern**: No backend server, all data from GitHub API
+- **Query Client Pattern**: TanStack Query for server state with 5min cache
+- **Service Layer Pattern**: GitHubDatabaseService for data access
+- **Encryption Pattern**: Client-side credential encryption with CryptoJS
 - **Form Validation**: React Hook Form integrated with Zod schemas
+- **Component Composition**: Radix UI primitives with custom styling
 
-#### Backend Architecture
-- **MVC Pattern**: Controllers, models, and routes separation
-- **Middleware Chain**: Authentication, error handling, and logging
-- **Service Layer**: External API integrations (PayPal, government APIs)
-- **Configuration Management**: Centralized config with environment variables
+#### Data Management
+- **GitHub as Database**: JSON files in `/database` directory
+- **Client-Side Caching**: TanStack Query + GitHubDatabaseService cache
+- **Real-Time Updates**: Manual refresh or timed cache invalidation
+- **Offline Support**: Cached data available when GitHub is unreachable
 
-#### Database Schema
-- **User Model**: Agent authentication with role-based access
-- **Property Model**: Complex schema with Costa Rican legal requirements
-  - `legalDetails.folioReal`: National Registry ID
-  - `concessionType`: Beach/navigable water concessions
-  - `municipalPermits`: Local government approvals
-- **Payment Model**: Transaction tracking for contact access fees
+#### Database Schema (JSON Files)
+- **Property Model** (`/database/properties/active.json`):
+  ```typescript
+  interface Property {
+    id: string;
+    title: string;
+    price_usd: number;
+    price_text: string;
+    location: string;
+    description?: string;
+    images: string[];
+    url?: string;
+    source: string;
+    category: string;
+    scraped_at: string;
+  }
+  ```
+- **Category Config** (`/database/config/categories.json`):
+  ```typescript
+  interface CategoryConfig {
+    name: string;
+    subcategories: string[];
+    email_price: number;
+    pdf_template: string;
+    auto_email: boolean;
+    frequency: string;
+  }
+  ```
+- **Scraping Sources** (`/database/scraping/sources.json`):
+  ```typescript
+  interface ScrapingSource {
+    name: string;
+    base_url: string;
+    endpoints: Record<string, string>;
+    selectors: Record<string, string>;
+    active: boolean;
+    scrape_frequency: string;
+    max_pages: number;
+  }
+  ```
 
 #### Blockchain Integration
 - **Polygon Network**: USDC-based property listing payments
@@ -112,31 +177,53 @@ This system is designed to run **completely autonomously** on IPFS with:
 
 ### API Integration Patterns
 
-#### Costa Rican Government APIs
-- **Registro Nacional**: Property ownership verification via `folioReal`
-- **MINAE**: Environmental restrictions and concessions
-- **Municipal Systems**: Zoning and permit validation
+#### GitHub Database API
+- **Raw Content API**: `https://raw.githubusercontent.com/urmt/CR_MLS/main/database/`
+- **Caching Strategy**: 5-minute client-side cache with fallback to expired data
+- **Error Handling**: Graceful degradation when GitHub is unavailable
+- **Rate Limiting**: Built-in via GitHub's CDN
 
-#### PayPal Integration
-- **Frontend**: `@paypal/react-paypal-js` for payment UI
-- **Backend**: Server SDK for payment processing and webhooks
-- **Serverless**: Converter function for crypto/fiat payment bridging
+#### External Services
+- **PayPal**: `@paypal/react-paypal-js` for client-side payments
+- **EmailJS**: Client-side email sending without backend
+- **AWS Lambda**: PDF generation via serverless functions
+- **IPFS**: Content-addressed storage for static hosting
 
 ### Development Environment
 
 #### Port Configuration
-- **Frontend**: 3000 (Vite dev server with API proxy)
-- **Backend**: 5000 (Express server)
-- **MongoDB**: 27017 (Docker container)
+- **Frontend**: 5173 (Vite dev server, configurable)
+- **Preview**: 4173 (Vite preview server)
 
-#### Hot Reload Setup
-- **Client**: Vite HMR with React Fast Refresh
-- **Server**: tsc-watch for TypeScript compilation and restart
-- **Docker**: Volume mounts for live code updates
+#### Development Tools
+- **Build System**: Vite 5.0+ with TypeScript support
+- **Hot Reload**: Vite HMR with React Fast Refresh
+- **Linting**: ESLint with TypeScript parser and React plugins
+- **Type Checking**: TypeScript 5.0+ with strict mode
+- **Package Manager**: npm (workspace configuration in root)
+
+#### Environment Variables (Development)
+```bash
+# Client environment variables (prefix with VITE_)
+VITE_MASTER_KEY=your-encryption-master-key
+VITE_EMAILJS_SERVICE_ID=encrypted-service-id
+VITE_EMAILJS_TEMPLATE_ID=encrypted-template-id
+VITE_EMAILJS_PUBLIC_KEY=encrypted-public-key
+VITE_PAYPAL_CLIENT_ID=encrypted-client-id
+VITE_AWS_LAMBDA_PDF_URL=encrypted-lambda-url
+VITE_GITHUB_RAW_URL=https://raw.githubusercontent.com/urmt/CR_MLS/main/database
+```
 
 ### Security Considerations
-- **JWT Authentication**: Secure token-based auth with bcrypt hashing
-- **Environment Variables**: Sensitive data in .env files (not committed)
-- **CORS Configuration**: Proper origin handling for API access
-- **Helmet Middleware**: Security headers for Express endpoints
+- **Client-Side Encryption**: All API keys encrypted with CryptoJS before localStorage
+- **Environment Variables**: Vite environment variables for build-time configuration
+- **No Backend**: Eliminates server-side attack vectors
+- **GitHub API**: Read-only access to public repository data
 - **PayPal Sandbox**: Development environment for payment testing
+- **HTTPS Only**: All external API calls use HTTPS
+
+### Testing and Quality
+- **TypeScript**: Strict type checking prevents runtime errors
+- **ESLint**: Code quality and consistency enforcement
+- **React Fast Refresh**: Instant feedback during development
+- **Build Validation**: TypeScript compilation errors prevent deployment

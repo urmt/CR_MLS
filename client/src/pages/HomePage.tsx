@@ -55,157 +55,150 @@ const HomePage: React.FC = () => {
   return (
     <div className="min-h-screen bg-white">
       {/* Navigation Header */}
-      <nav className="bg-white border-b border-gray-200">
-        <div className="container mx-auto px-4">
-          <div className="flex items-center justify-between h-16">
-            <div className="flex items-center space-x-8">
-              <div className="text-2xl font-bold text-blue-600">
-                Costa Rica MLS
-              </div>
-              <div className="hidden md:flex space-x-6">
-                <a href="#" className="text-gray-700 hover:text-blue-600 font-medium">Listings</a>
-                <a href="#" className="text-gray-700 hover:text-blue-600 font-medium">New Homes</a>
-                <a href="#" className="text-gray-700 hover:text-blue-600 font-medium">Find an Agent</a>
-                <a href="#" className="text-gray-700 hover:text-blue-600 font-medium">Market Insights</a>
-              </div>
+      <nav className="nav">
+        <div className="container">
+          <div className="nav-container">
+            <a href="#" className="nav-logo">
+              🇨🇷 Costa Rica MLS
+            </a>
+            <div className="nav-links">
+              <a href="#listings" className="nav-link">Listings</a>
+              <a href="#new-homes" className="nav-link">New Homes</a>
+              <a href="#agents" className="nav-link">Find an Agent</a>
+              <a href="#insights" className="nav-link">Market Insights</a>
             </div>
-            <div className="flex items-center space-x-4">
-              <button className="text-gray-700 hover:text-blue-600 font-medium">Login</button>
+            <div className="flex items-center gap-4">
+              <button className="btn btn-ghost btn-sm">Login</button>
+              <button className="btn btn-primary btn-sm">Sign Up</button>
             </div>
           </div>
         </div>
       </nav>
 
       {/* Hero Section */}
-      <div className="bg-gradient-to-r from-blue-600 to-blue-800 text-white">
-        <div className="container mx-auto px-4 py-16">
-          <div className="text-center mb-12">
-            <h1 className="text-5xl font-bold mb-4">
-              Costa Rica MLS Listings
+      <div className="hero">
+        <img 
+          src="/cover.jpg" 
+          alt="Costa Rica rainforest to ocean view" 
+          className="hero-bg"
+          onError={(e) => {
+            // Fallback if image doesn't exist yet
+            (e.target as HTMLImageElement).style.display = 'none';
+          }}
+        />
+        <div className="hero-overlay"></div>
+        <div className="container">
+          <div className="hero-content">
+            <h1 className="hero-title">
+              Discover Paradise
+              <br />Costa Rica Real Estate
             </h1>
-            <p className="text-xl text-blue-100 mb-8">
-              Your Trusted Real Estate Source in Costa Rica
+            <p className="hero-subtitle">
+              From Rainforest to Ocean - Your Dream Home Awaits
             </p>
-            <p className="text-lg text-blue-200">
-              Search Listings • Find Real Estate • Discover Your Dream Property
+            <p className="hero-description">
+              Explore luxury villas, beachfront properties, mountain retreats, and investment opportunities across Costa Rica's most beautiful locations.
             </p>
-          </div>
-
-          {/* Search Tabs */}
-          <div className="max-w-4xl mx-auto">
-            <div className="flex space-x-1 mb-4">
-              <button
-                className={`px-6 py-3 font-semibold rounded-t-lg ${
-                  activeTab === 'buy' 
-                    ? 'bg-white text-blue-600' 
-                    : 'bg-blue-700 text-white hover:bg-blue-600'
-                }`}
-                onClick={() => setActiveTab('buy')}
-              >
-                Find Real Estate
-              </button>
-              <button
-                className={`px-6 py-3 font-semibold rounded-t-lg ${
-                  activeTab === 'new' 
-                    ? 'bg-white text-blue-600' 
-                    : 'bg-blue-700 text-white hover:bg-blue-600'
-                }`}
-                onClick={() => setActiveTab('new')}
-              >
-                Find New Homes
-              </button>
-              <button
-                className={`px-6 py-3 font-semibold rounded-t-lg ${
-                  activeTab === 'agent' 
-                    ? 'bg-white text-blue-600' 
-                    : 'bg-blue-700 text-white hover:bg-blue-600'
-                }`}
-                onClick={() => setActiveTab('agent')}
-              >
-                Find Real Estate Agents
-              </button>
-            </div>
 
             {/* Search Form */}
-            <div className="bg-white rounded-lg rounded-tl-none p-8 shadow-xl">
+            <div className="search-form">
+              <div className="search-tabs">
+                <button
+                  className={`search-tab ${
+                    activeTab === 'buy' ? 'active' : ''
+                  }`}
+                  onClick={() => setActiveTab('buy')}
+                >
+                  🏠 Find Real Estate
+                </button>
+                <button
+                  className={`search-tab ${
+                    activeTab === 'new' ? 'active' : ''
+                  }`}
+                  onClick={() => setActiveTab('new')}
+                >
+                  🆕 Find New Homes
+                </button>
+                <button
+                  className={`search-tab ${
+                    activeTab === 'agent' ? 'active' : ''
+                  }`}
+                  onClick={() => setActiveTab('agent')}
+                >
+                  👨‍💼 Find Agents
+                </button>
+              </div>
               {activeTab === 'buy' && (
                 <>
                   <h3 className="text-xl font-semibold text-gray-800 mb-6">
-                    Search for listings near you.
+                    🔍 Find your perfect property in Costa Rica
                   </h3>
-                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-6">
-                    <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-2">
-                        City or Province <span className="text-red-500">*</span>
+                  <div className="search-grid">
+                    <div className="form-group">
+                      <label className="form-label">
+                        📍 Location <span className="text-primary">*</span>
                       </label>
                       <input
                         type="text"
-                        placeholder="San José, Cartago, Guanacaste..."
-                        className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                        placeholder="San José, Manuel Antonio, Tamarindo..."
+                        className="form-input"
                         value={searchFilters.location}
                         onChange={(e) => setSearchFilters({...searchFilters, location: e.target.value})}
                       />
                     </div>
                     
-                    <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-2">Property Type</label>
+                    <div className="form-group">
+                      <label className="form-label">🏠 Property Type</label>
                       <select
-                        className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                        className="form-select"
                         value={searchFilters.category}
                         onChange={(e) => setSearchFilters({...searchFilters, category: e.target.value})}
                       >
                         <option value="">All Property Types</option>
-                        <option value="residential">Houses</option>
-                        <option value="luxury">Luxury Homes</option>
-                        <option value="land">Land & Lots</option>
-                        <option value="commercial">Commercial</option>
+                        <option value="residential">🏡 Residential Homes</option>
+                        <option value="luxury">🏨 Luxury Villas</option>
+                        <option value="land">🌳 Land & Lots</option>
+                        <option value="commercial">🏢 Commercial</option>
                       </select>
                     </div>
 
-                    <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-2">Price Range</label>
+                    <div className="form-group">
+                      <label className="form-label">💰 Price Range</label>
                       <div className="grid grid-cols-2 gap-2">
                         <select
-                          className="p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                          className="form-select"
                           value={searchFilters.minPrice}
                           onChange={(e) => setSearchFilters({...searchFilters, minPrice: e.target.value})}
                         >
-                          <option value="">No minimum</option>
-                          <option value="50000">$50,000</option>
-                          <option value="100000">$100,000</option>
-                          <option value="150000">$150,000</option>
-                          <option value="200000">$200,000</option>
-                          <option value="250000">$250,000</option>
-                          <option value="300000">$300,000</option>
-                          <option value="400000">$400,000</option>
-                          <option value="500000">$500,000</option>
-                          <option value="750000">$750,000</option>
-                          <option value="1000000">$1,000,000+</option>
+                          <option value="">Min Price</option>
+                          <option value="50000">$50K</option>
+                          <option value="100000">$100K</option>
+                          <option value="200000">$200K</option>
+                          <option value="300000">$300K</option>
+                          <option value="500000">$500K</option>
+                          <option value="750000">$750K</option>
+                          <option value="1000000">$1M+</option>
                         </select>
                         <select
-                          className="p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                          className="form-select"
                           value={searchFilters.maxPrice}
                           onChange={(e) => setSearchFilters({...searchFilters, maxPrice: e.target.value})}
                         >
-                          <option value="">No maximum</option>
-                          <option value="100000">$100,000</option>
-                          <option value="150000">$150,000</option>
-                          <option value="200000">$200,000</option>
-                          <option value="250000">$250,000</option>
-                          <option value="300000">$300,000</option>
-                          <option value="400000">$400,000</option>
-                          <option value="500000">$500,000</option>
-                          <option value="750000">$750,000</option>
-                          <option value="1000000">$1,000,000</option>
-                          <option value="2000000">$2,000,000+</option>
+                          <option value="">Max Price</option>
+                          <option value="200000">$200K</option>
+                          <option value="300000">$300K</option>
+                          <option value="500000">$500K</option>
+                          <option value="750000">$750K</option>
+                          <option value="1000000">$1M</option>
+                          <option value="2000000">$2M+</option>
                         </select>
                       </div>
                     </div>
                   </div>
 
-                  <div className="text-center">
-                    <button className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-4 px-12 rounded-lg text-lg transition-colors">
-                      Search Properties
+                  <div className="text-center mt-8">
+                    <button className="btn btn-primary btn-xl">
+                      🔍 Search Properties
                     </button>
                   </div>
                 </>
@@ -214,42 +207,42 @@ const HomePage: React.FC = () => {
               {activeTab === 'new' && (
                 <>
                   <h3 className="text-xl font-semibold text-gray-800 mb-6">
-                    Search for new construction near you.
+                    🆕 Discover new construction projects
                   </h3>
-                  <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-                    <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-2">
-                        Please enter a City or Province
+                  <div className="search-grid">
+                    <div className="form-group">
+                      <label className="form-label">
+                        📍 Enter Location
                       </label>
                       <input
                         type="text"
-                        placeholder="Enter location in Costa Rica"
-                        className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+                        placeholder="Enter city or province in Costa Rica"
+                        className="form-input"
                       />
                     </div>
-                    <div>
-                      <label className="block text-sm font-medium text-gray-700 mb-2">Price Range</label>
+                    <div className="form-group">
+                      <label className="form-label">💰 Price Range</label>
                       <div className="grid grid-cols-2 gap-2">
-                        <select className="p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
-                          <option>No minimum</option>
-                          <option>$100,000</option>
-                          <option>$200,000</option>
-                          <option>$300,000</option>
-                          <option>$500,000</option>
+                        <select className="form-select">
+                          <option>Min Price</option>
+                          <option>$100K</option>
+                          <option>$200K</option>
+                          <option>$300K</option>
+                          <option>$500K</option>
                         </select>
-                        <select className="p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
-                          <option>No maximum</option>
-                          <option>$300,000</option>
-                          <option>$500,000</option>
-                          <option>$750,000</option>
-                          <option>$1,000,000+</option>
+                        <select className="form-select">
+                          <option>Max Price</option>
+                          <option>$300K</option>
+                          <option>$500K</option>
+                          <option>$750K</option>
+                          <option>$1M+</option>
                         </select>
                       </div>
                     </div>
                   </div>
-                  <div className="text-center">
-                    <button className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-4 px-12 rounded-lg text-lg transition-colors">
-                      Search New Homes
+                  <div className="text-center mt-8">
+                    <button className="btn btn-secondary btn-xl">
+                      🆕 Search New Homes
                     </button>
                   </div>
                 </>
@@ -258,18 +251,23 @@ const HomePage: React.FC = () => {
               {activeTab === 'agent' && (
                 <>
                   <h3 className="text-xl font-semibold text-gray-800 mb-6">
-                    Discover local experts in Costa Rica to help you buy or sell your home.
+                    👨‍💼 Connect with local real estate experts
                   </h3>
                   <div className="max-w-md mx-auto mb-6">
-                    <input
-                      type="text"
-                      placeholder="Enter City or Province"
-                      className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
-                    />
+                    <div className="form-group">
+                      <label className="form-label">
+                        📍 Enter Location
+                      </label>
+                      <input
+                        type="text"
+                        placeholder="Enter City or Province"
+                        className="form-input"
+                      />
+                    </div>
                   </div>
-                  <div className="text-center">
-                    <button className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-4 px-12 rounded-lg text-lg transition-colors">
-                      Find An Agent
+                  <div className="text-center mt-8">
+                    <button className="btn btn-outline btn-xl">
+                      👨‍💼 Find An Agent
                     </button>
                   </div>
                 </>
@@ -279,100 +277,101 @@ const HomePage: React.FC = () => {
         </div>
       </div>
 
-      {/* Costa Rica Map Section */}
-      <div className="py-16 bg-gray-50">
-        <div className="container mx-auto px-4 text-center">
-          <h2 className="text-3xl font-bold text-gray-800 mb-8">
-            Click on a Province to View MLS Listings in your area
+      {/* Costa Rica Provinces Section */}
+      <div className="section bg-gray-50">
+        <div className="container">
+          <h2 className="section-title">
+            🇨🇷 Explore Costa Rica by Province
           </h2>
+          <p className="section-subtitle">
+            Click on any province to discover properties in your desired location
+          </p>
           
-          {/* Costa Rica Provinces Grid */}
-          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 max-w-4xl mx-auto">
+          <div className="province-grid">
             {[
-              'San José', 'Alajuela', 'Cartago', 'Heredia',
-              'Guanacaste', 'Puntarenas', 'Limón'
+              { name: 'San José', emoji: '🏢' },
+              { name: 'Alajuela', emoji: '🌋' },
+              { name: 'Cartago', emoji: '⛰️' },
+              { name: 'Heredia', emoji: '🌿' },
+              { name: 'Guanacaste', emoji: '🏖️' },
+              { name: 'Puntarenas', emoji: '🌊' },
+              { name: 'Limón', emoji: '🌴' }
             ].map((province) => (
               <button
-                key={province}
-                className="bg-white border-2 border-blue-200 hover:border-blue-500 hover:bg-blue-50 p-4 rounded-lg font-semibold text-gray-700 hover:text-blue-600 transition-all"
-                onClick={() => setSearchFilters({...searchFilters, location: province})}
+                key={province.name}
+                className="province-card"
+                onClick={() => setSearchFilters({...searchFilters, location: province.name})}
               >
-                {province}
+                <div className="text-2xl mb-2">{province.emoji}</div>
+                {province.name}
               </button>
             ))}
-          </div>
-          
-          <div className="mt-8 text-center">
-            <div className="inline-block bg-white rounded-lg p-6 shadow-lg">
-              <h3 className="text-xl font-semibold text-gray-800 mb-2">
-                🇨🇷 Costa Rica Real Estate
-              </h3>
-              <p className="text-gray-600">
-                Explore properties across all 7 provinces of Costa Rica
-              </p>
-            </div>
           </div>
         </div>
       </div>
 
       {/* Featured Properties Section */}
-      <div className="py-16 bg-white">
-        <div className="container mx-auto px-4">
-          <div className="flex justify-between items-center mb-8">
-            <h2 className="text-3xl font-bold text-gray-800">Featured Properties</h2>
+      <div className="section bg-white">
+        <div className="container">
+          <div className="flex justify-between items-center mb-12">
+            <h2 className="section-title text-left mb-0">
+              🌟 Featured Properties
+            </h2>
             {stats && (
-              <div className="text-gray-600">
+              <div className="text-gray-600 text-sm">
                 Showing {properties.length} of {stats.total} properties
               </div>
             )}
           </div>
 
           {/* Properties Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
             {properties.slice(0, 8).map((property) => (
-              <div key={property.id} className="bg-white border border-gray-200 rounded-lg overflow-hidden hover:shadow-lg transition-shadow">
-                <div className="relative">
+              <div key={property.id} className="property-card">
+                <div className="property-card-image">
                   {property.images.length > 0 ? (
-                    <div className="w-full h-48 bg-gradient-to-br from-blue-100 to-blue-50 flex items-center justify-center relative">
-                      <div className="text-center">
-                        <div className="text-2xl mb-2">📷</div>
-                        <span className="text-sm text-gray-600">
+                    <>
+                      <div className="text-center text-white">
+                        <div className="text-3xl mb-2">📷</div>
+                        <span className="text-sm font-medium">
                           {property.images.length} Photo{property.images.length > 1 ? 's' : ''}
                         </span>
                       </div>
-                      <div className="absolute top-2 right-2">
-                        <span className="bg-blue-600 text-white px-2 py-1 rounded text-xs font-semibold capitalize">
-                          {property.category}
-                        </span>
+                      <div className="property-card-badge">
+                        {property.category}
                       </div>
-                    </div>
+                    </>
                   ) : (
-                    <div className="w-full h-48 bg-gray-100 flex items-center justify-center">
-                      <div className="text-center">
-                        <div className="text-3xl text-gray-400 mb-2">🏠</div>
-                        <span className="text-sm text-gray-500">No Photos</span>
+                    <>
+                      <div className="text-center text-white">
+                        <div className="text-4xl mb-2">🏠</div>
+                        <span className="text-sm opacity-80">No Photos</span>
                       </div>
-                    </div>
+                      <div className="property-card-badge">
+                        {property.category}
+                      </div>
+                    </>
                   )}
                 </div>
                 
-                <div className="p-4">
-                  <div className="text-xl font-bold text-blue-600 mb-2">
-                    ${property.price_usd?.toLocaleString() || 'Contact for Price'}
+                <div className="property-card-content">
+                  <div className="property-card-price">
+                    ${property.price_usd?.toLocaleString() || 'Price on request'}
                   </div>
                   
-                  <h3 className="font-semibold text-gray-800 mb-2 line-clamp-2">
+                  <h3 className="property-card-title">
                     {property.title}
                   </h3>
                   
-                  <div className="text-sm text-gray-600 mb-3">
-                    📍 {property.location.split(',').slice(0, 2).join(', ')}
+                  <div className="property-card-location">
+                    <span>📍</span>
+                    {property.location.split(',').slice(0, 2).join(', ')}
                   </div>
                   
-                  <div className="flex justify-between items-center text-xs text-gray-500">
+                  <div className="property-card-footer">
                     <span>Listed {new Date(property.scraped_at).toLocaleDateString()}</span>
-                    <button className="text-blue-600 hover:text-blue-800 font-semibold">
-                      View Details
+                    <button className="text-primary hover:text-primary font-semibold transition-colors">
+                      View Details →
                     </button>
                   </div>
                 </div>
@@ -382,14 +381,14 @@ const HomePage: React.FC = () => {
 
           {properties.length === 0 && (
             <div className="text-center py-16">
-              <div className="text-6xl mb-4">🏠</div>
+              <div className="text-6xl mb-6">🔍</div>
               <h3 className="text-2xl font-semibold text-gray-800 mb-4">No properties match your search</h3>
-              <p className="text-gray-600 mb-8">Try adjusting your search criteria to see more results.</p>
+              <p className="text-gray-600 mb-8">Try adjusting your search criteria or explore different locations to discover amazing properties.</p>
               <button 
-                className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg font-semibold"
+                className="btn btn-outline btn-lg"
                 onClick={() => setSearchFilters({category: '', minPrice: '', maxPrice: '', location: '', bedrooms: '', bathrooms: ''})}
               >
-                Clear All Filters
+                🔄 Clear All Filters
               </button>
             </div>
           )}
@@ -397,78 +396,72 @@ const HomePage: React.FC = () => {
       </div>
 
       {/* About Section */}
-      <div className="py-16 bg-gray-50">
-        <div className="container mx-auto px-4 text-center">
-          <h2 className="text-3xl font-bold text-gray-800 mb-8">
+      <div className="section bg-gray-50">
+        <div className="container">
+          <h2 className="section-title">
             What is Costa Rica MLS?
           </h2>
-          <div className="max-w-4xl mx-auto">
-            <p className="text-lg text-gray-600 leading-relaxed">
-              Costa Rica MLS is a comprehensive property search platform to find real estate listings 
-              throughout Costa Rica. We feature properties from trusted real estate professionals, 
-              including residential homes, luxury properties, commercial real estate, and land opportunities. 
-              Whether you're looking for a beachfront villa in Guanacaste, a mountain retreat in the Central Valley, 
-              or commercial property in San José, Costa Rica MLS connects you with the finest real estate opportunities 
-              in this beautiful Central American paradise.
-            </p>
-          </div>
+          <p className="section-subtitle max-w-4xl">
+            Costa Rica MLS is a comprehensive property search platform connecting you with the finest real estate opportunities throughout this beautiful Central American paradise. From beachfront villas in Guanacaste to mountain retreats in the Central Valley, we feature properties from trusted professionals across all categories.
+          </p>
           
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
-            <div className="text-center">
-              <div className="text-4xl mb-4">🏖️</div>
-              <h3 className="text-xl font-semibold text-gray-800 mb-2">Beach Properties</h3>
-              <p className="text-gray-600">Discover oceanfront homes and beachside investments</p>
+          <div className="feature-grid">
+            <div className="feature-card">
+              <div className="feature-icon">🏖️</div>
+              <h3 className="feature-title">Beach Properties</h3>
+              <p className="feature-description">Discover stunning oceanfront homes, beachside condos, and coastal investment opportunities along Costa Rica's pristine shores.</p>
             </div>
-            <div className="text-center">
-              <div className="text-4xl mb-4">🏔️</div>
-              <h3 className="text-xl font-semibold text-gray-800 mb-2">Mountain Retreats</h3>
-              <p className="text-gray-600">Find your perfect mountain getaway in the Central Valley</p>
+            <div className="feature-card">
+              <div className="feature-icon">🏔️</div>
+              <h3 className="feature-title">Mountain Retreats</h3>
+              <p className="feature-description">Find your perfect mountain sanctuary with breathtaking views, cool climates, and tranquil settings in the Central Valley.</p>
             </div>
-            <div className="text-center">
-              <div className="text-4xl mb-4">🏢</div>
-              <h3 className="text-xl font-semibold text-gray-800 mb-2">Commercial Properties</h3>
-              <p className="text-gray-600">Explore business opportunities and investment properties</p>
+            <div className="feature-card">
+              <div className="feature-icon">🏢</div>
+              <h3 className="feature-title">Commercial Properties</h3>
+              <p className="feature-description">Explore lucrative business opportunities and investment properties in Costa Rica's growing commercial markets.</p>
             </div>
           </div>
         </div>
       </div>
 
       {/* Footer */}
-      <footer className="bg-gray-800 text-white py-12">
-        <div className="container mx-auto px-4">
-          <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-            <div>
-              <h3 className="text-xl font-bold mb-4">Costa Rica MLS</h3>
-              <p className="text-gray-300">
-                Your trusted source for Costa Rica real estate listings and market insights.
+      <footer className="footer">
+        <div className="container">
+          <div className="footer-grid">
+            <div className="footer-section">
+              <h3>🇨🇷 Costa Rica MLS</h3>
+              <p>
+                Your trusted source for Costa Rica real estate listings, market insights, and property investment opportunities across all seven provinces.
               </p>
             </div>
-            <div>
-              <h4 className="font-semibold mb-4">Quick Links</h4>
-              <ul className="space-y-2 text-gray-300">
-                <li><a href="#" className="hover:text-white">Property Search</a></li>
-                <li><a href="#" className="hover:text-white">New Listings</a></li>
-                <li><a href="#" className="hover:text-white">Market Reports</a></li>
+            <div className="footer-section">
+              <h3>Quick Links</h3>
+              <ul className="footer-links">
+                <li><a href="#listings">🏠 Property Search</a></li>
+                <li><a href="#new-homes">🆕 New Listings</a></li>
+                <li><a href="#insights">📈 Market Reports</a></li>
+                <li><a href="#agents">👨‍💼 Find Agents</a></li>
               </ul>
             </div>
-            <div>
-              <h4 className="font-semibold mb-4">Locations</h4>
-              <ul className="space-y-2 text-gray-300">
-                <li><a href="#" className="hover:text-white">San José</a></li>
-                <li><a href="#" className="hover:text-white">Guanacaste</a></li>
-                <li><a href="#" className="hover:text-white">Puntarenas</a></li>
+            <div className="footer-section">
+              <h3>Popular Locations</h3>
+              <ul className="footer-links">
+                <li><a href="#">🏢 San José</a></li>
+                <li><a href="#">🏖️ Guanacaste</a></li>
+                <li><a href="#">🌊 Puntarenas</a></li>
+                <li><a href="#">🌴 Limón</a></li>
               </ul>
             </div>
-            <div>
-              <h4 className="font-semibold mb-4">Contact</h4>
-              <p className="text-gray-300">
-                Professional real estate services<br/>
-                throughout Costa Rica
+            <div className="footer-section">
+              <h3>Contact & Support</h3>
+              <p>
+                Professional real estate services throughout Costa Rica. Connecting buyers, sellers, and investors with their perfect properties since 2024.
               </p>
             </div>
           </div>
-          <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 Costa Rica MLS. All rights reserved.</p>
+          <div className="footer-bottom">
+            <p>&copy; 2024 Costa Rica MLS. All rights reserved. 🇨🇷 Pura Vida!</p>
           </div>
         </div>
       </footer>
