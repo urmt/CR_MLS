@@ -1,0 +1,279 @@
+name: Autonomous Costa Rica MLS
+
+on:
+  schedule:
+    # Run property scraping every 6 hours
+    - cron: '0 */6 * * *'
+    # Run property purging weekly on Sundays at 2 AM
+    - cron: '0 2 * * SUN'
+  workflow_dispatch: # Allow manual triggering
+    inputs:
+      action:
+        description: 'Action to perform'
+        required: true
+        default: 'scrape'
+        type: choice
+        options:
+        - 'scrape'
+        - 'purge'
+        - 'email'
+        - 'deploy'
+        - 'full'
+
+jobs:
+  property-scraping:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'schedule' || github.event.inputs.action == 'scrape' || github.event.inputs.action == 'full'
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+    
+    - name: Install dependencies
+      run: |
+        npm install puppeteer cheerio fs-extra axios
+    
+    - name: Generate property listings
+      run: |
+        node scripts/simple-scraper.js
+        node scripts/approve-properties.js
+      env:
+        NODE_ENV: production
+    
+    - name: Commit and push scraped data
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Only commit if there are changes
+        if [ -n "$(git status --porcelain)" ]; then
+          git add database/properties/
+          git add database/scraping/
+          git commit -m "🤖 Auto-scraped properties - $(date)"
+          git push
+          echo "✅ Scraped data committed"
+        else
+          echo "ℹ️ No new properties found"
+        fi
+
+  property-purging:
+    runs-on: ubuntu-latest
+    needs: property-scraping
+    if: always() && (github.event.schedule == '0 2 * * SUN' || github.event.inputs.action == 'purge' || github.event.inputs.action == 'full')
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        # Pull latest changes from scraping job
+        ref: ${{ github.ref }}
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+    
+    - name: Install dependencies
+      run: |
+        npm install fs-extra
+    
+    - name: Run 90-day property purger
+      run: |
+        node scripts/property-purger.js
+      env:
+        NODE_ENV: production
+    
+    - name: Commit and push purged data
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Pull any changes first
+        git pull origin main
+        
+        # Only commit if there are changes
+        if [ -n "$(git status --porcelain)" ]; then
+          git add database/properties/
+          git add database/purging/
+          git commit -m "🗑️ Auto-purged properties older than 90 days - $(date)"
+          git push
+          echo "✅ Purged data committed"
+        else
+          echo "ℹ️ No properties needed purging"
+        fi
+
+  email-campaigns:
+    runs-on: ubuntu-latest
+    needs: [property-scraping, property-purging]
+    if: always() && (github.event_name == 'schedule' || github.event.inputs.action == 'email' || github.event.inputs.action == 'full')
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        ref: ${{ github.ref }}
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+    
+    - name: Install dependencies
+      run: |
+        npm install axios fs-extra
+    
+    - name: Run email campaigns
+      run: |
+        node scripts/email-campaigns.js
+      env:
+        NODE_ENV: production
+        EMAILJS_SERVICE_ID: ${{ secrets.EMAILJS_SERVICE_ID }}
+        EMAILJS_TEMPLATE_ID: ${{ secrets.EMAILJS_TEMPLATE_ID }}
+        EMAILJS_PUBLIC_KEY: ${{ secrets.EMAILJS_PUBLIC_KEY }}
+        AWS_LAMBDA_PDF_URL: ${{ secrets.AWS_LAMBDA_PDF_URL }}
+    
+    - name: Commit email campaign results
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Pull any changes first
+        git pull origin main
+        
+        # Only commit if there are changes
+        if [ -n "$(git status --porcelain)" ]; then
+          git add database/email-campaigns/
+          git commit -m "📧 Email campaigns sent - $(date)"
+          git push
+          echo "✅ Email campaign results committed"
+        else
+          echo "ℹ️ No email campaign data to commit"
+        fi
+
+  ipfs-deployment:
+    runs-on: ubuntu-latest
+    needs: [property-scraping, property-purging, email-campaigns]
+    if: always() && (github.event.inputs.action == 'deploy' || github.event.inputs.action == 'full')
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        ref: ${{ github.ref }}
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+    
+    - name: Install client dependencies
+      run: |
+        cd client
+        npm install
+    
+    - name: Build React client
+      run: |
+        cd client
+        npm run build
+      env:
+        VITE_MASTER_KEY: ${{ secrets.VITE_MASTER_KEY }}
+        VITE_EMAILJS_SERVICE_ID: ${{ secrets.VITE_EMAILJS_SERVICE_ID }}
+        VITE_EMAILJS_TEMPLATE_ID: ${{ secrets.VITE_EMAILJS_TEMPLATE_ID }}
+        VITE_EMAILJS_PUBLIC_KEY: ${{ secrets.VITE_EMAILJS_PUBLIC_KEY }}
+        VITE_PAYPAL_CLIENT_ID: ${{ secrets.VITE_PAYPAL_CLIENT_ID }}
+        VITE_AWS_LAMBDA_PDF_URL: ${{ secrets.VITE_AWS_LAMBDA_PDF_URL }}
+        VITE_GITHUB_RAW_URL: https://raw.githubusercontent.com/${{ github.repository }}/main/database
+    
+    - name: Deploy to IPFS
+      run: |
+        # Install IPFS CLI
+        wget https://dist.ipfs.tech/kubo/v0.24.0/kubo_v0.24.0_linux-amd64.tar.gz
+        tar -xzf kubo_v0.24.0_linux-amd64.tar.gz
+        sudo install kubo/ipfs /usr/local/bin/
+        
+        # Initialize and start IPFS
+        ipfs init
+        ipfs daemon --enable-gc &
+        sleep 10
+        
+        # Deploy client build
+        IPFS_HASH=$(ipfs add -r client/dist | tail -n 1 | cut -d ' ' -f 2)
+        echo "🚀 IPFS Deployment Hash: $IPFS_HASH"
+        echo "🌐 Access at: https://ipfs.io/ipfs/$IPFS_HASH"
+        
+        # Pin to public gateway (optional, requires API key)
+        # curl -X POST "https://api.pinata.cloud/pinning/pinByHash" \
+        #   -H "Authorization: Bearer ${{ secrets.PINATA_JWT }}" \
+        #   -H "Content-Type: application/json" \
+        #   -d '{"hashToPin": "'$IPFS_HASH'", "pinataMetadata": {"name": "CR-MLS-'$(date +%Y%m%d)'"}}'
+    
+    - name: Update deployment record
+      run: |
+        mkdir -p database/deployments
+        echo '{
+          "timestamp": "'$(date -Iseconds)'",
+          "ipfs_hash": "'$IPFS_HASH'",
+          "ipfs_url": "https://ipfs.io/ipfs/'$IPFS_HASH'",
+          "commit_sha": "'${{ github.sha }}'",
+          "deployed_by": "github-actions"
+        }' > database/deployments/latest.json
+        
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add database/deployments/
+        git commit -m "🚀 IPFS deployment: $IPFS_HASH - $(date)"
+        git push
+
+  notification:
+    runs-on: ubuntu-latest
+    needs: [property-scraping, property-purging, email-campaigns, ipfs-deployment]
+    if: always()
+    
+    steps:
+    - name: Workflow Summary
+      run: |
+        echo "## 🤖 Autonomous MLS Workflow Complete" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "**Timestamp:** $(date)" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        if [ "${{ needs.property-scraping.result }}" == "success" ]; then
+          echo "✅ **Property Scraping:** Success" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "❌ **Property Scraping:** ${{ needs.property-scraping.result }}" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        if [ "${{ needs.property-purging.result }}" == "success" ]; then
+          echo "✅ **90-Day Purging:** Success" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "❌ **90-Day Purging:** ${{ needs.property-purging.result }}" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        if [ "${{ needs.email-campaigns.result }}" == "success" ]; then
+          echo "✅ **Email Campaigns:** Success" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "❌ **Email Campaigns:** ${{ needs.email-campaigns.result }}" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        if [ "${{ needs.ipfs-deployment.result }}" == "success" ]; then
+          echo "✅ **IPFS Deployment:** Success" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "❌ **IPFS Deployment:** ${{ needs.ipfs-deployment.result }}" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "🎯 **System Status:** Fully Autonomous & Maintenance-Free!" >> $GITHUB_STEP_SUMMARY

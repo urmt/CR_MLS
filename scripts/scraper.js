@@ -67,7 +67,7 @@ class CostaRicaPropertyScraper {
           
           try {
             await page.goto(url, { waitUntil: 'networkidle2', timeout: 30000 });
-            await page.waitForTimeout(sources.scraping_rules.delay_between_requests);
+            await page.waitForDelay(sources.scraping_rules.delay_between_requests);
             
             const html = await page.content();
             const $ = cheerio.load(html);
@@ -100,7 +100,7 @@ class CostaRicaPropertyScraper {
             console.log(`    ✅ Page ${pageNum}: Found ${listings.length} listings`);
             
             // Respect rate limiting
-            await page.waitForTimeout(sources.scraping_rules.delay_between_requests);
+            await page.waitForDelay(sources.scraping_rules.delay_between_requests);
             
           } catch (error) {
             console.error(`    ❌ Error on page ${pageNum}:`, error.message);

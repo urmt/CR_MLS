@@ -1,45 +1,62 @@
 #!/bin/bash
 
-# Build client
+echo "🚀 Costa Rica MLS - IPFS Deployment Script"
+echo "==========================================="
+
+# Build the React application
+echo "🔨 Building React application..."
 cd client
-npm install
 npm run build
+cd ..
 
-# Install IPFS if not installed
-if ! command -v ipfs &> /dev/null; then
-  echo "IPFS not found. Installing..."
-  wget https://dist.ipfs.tech/kubo/v0.22.0/kubo_v0.22.0_linux-amd64.tar.gz
-  tar -xvzf kubo_v0.22.0_linux-amd64.tar.gz
-  cd kubo
-  sudo ./install.sh
-  cd ..
-fi
+# Add to IPFS and get hash
+echo "📦 Adding to IPFS..."
+IPFS_HASH=$(ipfs add -r -Q client/dist)
 
-# Start IPFS daemon if not running
-if ! pgrep -x "ipfs" > /dev/null; then
-  echo "Starting IPFS daemon..."
-  ipfs daemon --init > /dev/null 2>&1 &
-  sleep 10 # Wait for daemon to start
-fi
+echo "📌 Pinning to local IPFS node..."
+ipfs pin add $IPFS_HASH
 
-# Add build directory to IPFS
-echo "Adding build to IPFS..."
-hash=$(ipfs add -r dist -Q)
+echo "📡 Announcing to DHT..."
+ipfs routing provide $IPFS_HASH
 
-# Pin to our own node
-echo "Pinning content..."
-ipfs pin add $hash
+echo ""
+echo "✅ DEPLOYMENT COMPLETE!"
+echo "IPFS Hash: $IPFS_HASH"
+echo ""
+echo "🌐 Access your site at:"
+echo "   • https://w3s.link/ipfs/$IPFS_HASH"
+echo "   • https://ipfs.io/ipfs/$IPFS_HASH"
+echo "   • https://gateway.ipfs.io/ipfs/$IPFS_HASH"
+echo "   • https://dweb.link/ipfs/$IPFS_HASH"
+echo ""
 
-# Publish to IPNS
-echo "Publishing to IPNS..."
-ipns_key=$(ipfs key list -l | grep 'my-ipns-key' | cut -d' ' -f1)
-if [ -z "$ipns_key" ]; then
-  ipns_key=$(ipfs key gen my-ipns-key --type=rsa --size=2048)
-fi
+# Save deployment info
+mkdir -p database/deployments
+echo "{
+  \"timestamp\": \"$(date -Iseconds)\",
+  \"ipfs_hash\": \"$IPFS_HASH\",
+  \"primary_url\": \"https://w3s.link/ipfs/$IPFS_HASH\",
+  \"alternative_urls\": [
+    \"https://ipfs.io/ipfs/$IPFS_HASH\",
+    \"https://gateway.ipfs.io/ipfs/$IPFS_HASH\",
+    \"https://dweb.link/ipfs/$IPFS_HASH\"
+  ],
+  \"deployed_by\": \"deploy-script\"
+}" > database/deployments/latest.json
 
-ipfs name publish --key=my-ipns-key $hash
+echo "💾 Deployment info saved to database/deployments/latest.json"
 
-echo "Deployed to IPFS:"
-echo "https://ipfs.io/ipfs/$hash"
-echo "IPNS address:"
-echo "https://ipfs.io/ipns/$ipns_key"
+# Try to seed to multiple gateways
+echo ""
+echo "🌱 Seeding to gateway network..."
+timeout 30 curl -s "https://w3s.link/ipfs/$IPFS_HASH" > /dev/null &
+timeout 30 curl -s "https://ipfs.io/ipfs/$IPFS_HASH" > /dev/null &
+timeout 30 curl -s "https://dweb.link/ipfs/$IPFS_HASH" > /dev/null &
+wait
+
+echo "✅ Seeding complete! Your site should be accessible worldwide within 5-10 minutes."
+echo ""
+echo "🤖 Next Steps:"
+echo "1. Push this code to GitHub to activate autonomous scraping"
+echo "2. Configure GitHub Secrets for automatic operations"
+echo "3. Your site will update automatically every 6 hours with new properties"

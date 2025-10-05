@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import HomePage from './pages/HomePage';
 import PropertyDetailPage from './pages/PropertyDetailPage';
+import AgentLoginPage from './pages/AgentLoginPage';
 import EncryptionManager from './utils/encryption';
 
 // Initialize QueryClient for data fetching
@@ -28,6 +29,7 @@ function App() {
           <Routes>
             <Route path="/" element={<HomePage />} />
             <Route path="/property/:id" element={<PropertyDetailPage />} />
+            <Route path="/agent/login" element={<AgentLoginPage />} />
           </Routes>
         </div>
       </Router>

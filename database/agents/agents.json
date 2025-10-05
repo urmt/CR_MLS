@@ -1,0 +1,137 @@
+{
+  "agents": {
+    "agent_001": {
+      "id": "agent_001",
+      "email": "john.doe@example.com",
+      "name": "John Doe",
+      "company": "Costa Rica Premier Realty",
+      "license_number": "CR-123456",
+      "phone": "+506-1234-5678",
+      "subscription": {
+        "type": "individual",
+        "status": "active",
+        "price": 30.00,
+        "start_date": "2024-01-15",
+        "next_billing": "2024-11-15",
+        "payment_method": "paypal",
+        "paypal_subscription_id": "I-ABC123XYZ"
+      },
+      "profile": {
+        "bio": "Specializing in luxury beach properties and investment opportunities",
+        "specialties": ["luxury", "beachfront", "investment"],
+        "languages": ["English", "Spanish"],
+        "experience_years": 8,
+        "website": "https://example.com",
+        "social_media": {
+          "linkedin": "https://linkedin.com/in/johndoe",
+          "facebook": "https://facebook.com/johndoeproperties"
+        }
+      },
+      "stats": {
+        "properties_listed": 45,
+        "total_downloads": 892,
+        "last_active": "2024-10-04T14:30:00Z",
+        "joined_date": "2024-01-15"
+      }
+    },
+    "office_001": {
+      "id": "office_001",
+      "email": "admin@tamarindorealty.com",
+      "name": "Tamarindo Coastal Realty",
+      "company": "Tamarindo Coastal Realty",
+      "office_license": "CR-OFFICE-789",
+      "phone": "+506-9876-5432",
+      "subscription": {
+        "type": "office",
+        "status": "active",
+        "price": 100.00,
+        "agents_included": 5,
+        "agents_used": 3,
+        "start_date": "2024-02-01",
+        "next_billing": "2024-11-01",
+        "payment_method": "credit_card",
+        "stripe_subscription_id": "sub_xyz789"
+      },
+      "agents": [
+        {
+          "agent_id": "agent_002",
+          "name": "Maria Rodriguez",
+          "email": "maria@tamarindorealty.com",
+          "role": "Senior Agent",
+          "specialties": ["residential", "condos"]
+        },
+        {
+          "agent_id": "agent_003",
+          "name": "Carlos Mendez",
+          "email": "carlos@tamarindorealty.com",
+          "role": "Commercial Specialist",
+          "specialties": ["commercial", "land"]
+        },
+        {
+          "agent_id": "agent_004",
+          "name": "Sarah Williams",
+          "email": "sarah@tamarindorealty.com",
+          "role": "International Sales",
+          "specialties": ["luxury", "international"]
+        }
+      ],
+      "profile": {
+        "bio": "Premier real estate office serving the Guanacaste region with over 20 years of combined experience",
+        "address": "Main Street, Tamarindo, Guanacaste, Costa Rica",
+        "specialties": ["residential", "commercial", "luxury", "land", "condos"],
+        "languages": ["English", "Spanish", "French"],
+        "website": "https://tamarindorealty.com",
+        "social_media": {
+          "facebook": "https://facebook.com/tamarindorealty",
+          "instagram": "https://instagram.com/tamarindorealty"
+        }
+      },
+      "stats": {
+        "properties_listed": 178,
+        "total_downloads": 2340,
+        "last_active": "2024-10-04T16:45:00Z",
+        "joined_date": "2024-02-01"
+      }
+    }
+  },
+  "subscription_plans": {
+    "individual": {
+      "name": "Individual Agent",
+      "price": 30.00,
+      "currency": "USD",
+      "billing_frequency": "monthly",
+      "features": [
+        "Unlimited property downloads",
+        "Agent directory listing",
+        "Contact info access",
+        "Lead generation tools",
+        "Basic analytics"
+      ],
+      "limits": {
+        "agents": 1,
+        "listings_per_month": -1,
+        "downloads_per_month": -1
+      }
+    },
+    "office": {
+      "name": "Office Plan",
+      "price": 100.00,
+      "currency": "USD", 
+      "billing_frequency": "monthly",
+      "features": [
+        "Up to 5 agents included",
+        "Unlimited property downloads",
+        "Office directory listing",
+        "Team management tools",
+        "Advanced analytics",
+        "Priority support",
+        "Custom branding options"
+      ],
+      "limits": {
+        "agents": 5,
+        "listings_per_month": -1,
+        "downloads_per_month": -1
+      }
+    }
+  }
+}

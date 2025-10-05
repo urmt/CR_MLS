@@ -1,8 +1,9 @@
 {
-  "timestamp": "2024-12-15T10:00:00Z",
+  "timestamp": "2025-10-05T13:10:52.619Z",
   "results": {
-    "new_properties": 0,
+    "new_properties": 25,
     "duplicates": 0,
-    "errors": 0
+    "errors": 0,
+    "method": "property_generator"
   }
 }

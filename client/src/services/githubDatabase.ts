@@ -263,6 +263,114 @@ class GitHubDatabaseService {
   }
 
   /**
+   * Check for potential duplicate properties
+   */
+  async detectDuplicates(property: Property): Promise<Property[]> {
+    const allProperties = await this.getAllProperties();
+    const potentialDuplicates: Property[] = [];
+    
+    const normalizeText = (text: string) => 
+      text.toLowerCase().replace(/[^a-z0-9]/g, '');
+    
+    const normalizedTitle = normalizeText(property.title);
+    const normalizedLocation = normalizeText(property.location);
+    
+    allProperties.forEach(existingProperty => {
+      if (existingProperty.id === property.id) return;
+      
+      const existingTitle = normalizeText(existingProperty.title);
+      const existingLocation = normalizeText(existingProperty.location);
+      
+      // Check title similarity (>80% match)
+      const titleSimilarity = this.calculateSimilarity(normalizedTitle, existingTitle);
+      
+      // Check location match
+      const locationMatch = existingLocation.includes(normalizedLocation) || 
+                           normalizedLocation.includes(existingLocation);
+      
+      // Check price similarity (within 5%)
+      const priceSimilarity = property.price_usd && existingProperty.price_usd ? 
+        Math.abs(property.price_usd - existingProperty.price_usd) / Math.max(property.price_usd, existingProperty.price_usd) : 1;
+      
+      // Consider as duplicate if:
+      // - Title similarity > 80% AND same location
+      // - OR exact price match AND similar location
+      // - OR same title AND price within 5%
+      if ((titleSimilarity > 0.8 && locationMatch) ||
+          (priceSimilarity < 0.05 && locationMatch) ||
+          (titleSimilarity > 0.9 && priceSimilarity < 0.05)) {
+        potentialDuplicates.push(existingProperty);
+      }
+    });
+    
+    return potentialDuplicates;
+  }
+  
+  /**
+   * Calculate text similarity using simple algorithm
+   */
+  private calculateSimilarity(str1: string, str2: string): number {
+    if (str1.length === 0 || str2.length === 0) return 0;
+    
+    const longer = str1.length > str2.length ? str1 : str2;
+    const shorter = str1.length > str2.length ? str2 : str1;
+    
+    if (longer.length === 0) return 1.0;
+    
+    const distance = this.levenshteinDistance(longer, shorter);
+    return (longer.length - distance) / longer.length;
+  }
+  
+  /**
+   * Calculate Levenshtein distance between two strings
+   */
+  private levenshteinDistance(str1: string, str2: string): number {
+    const matrix = [];
+    
+    for (let i = 0; i <= str2.length; i++) {
+      matrix[i] = [i];
+    }
+    
+    for (let j = 0; j <= str1.length; j++) {
+      matrix[0][j] = j;
+    }
+    
+    for (let i = 1; i <= str2.length; i++) {
+      for (let j = 1; j <= str1.length; j++) {
+        if (str2.charAt(i - 1) === str1.charAt(j - 1)) {
+          matrix[i][j] = matrix[i - 1][j - 1];
+        } else {
+          matrix[i][j] = Math.min(
+            matrix[i - 1][j - 1] + 1,
+            matrix[i][j - 1] + 1,
+            matrix[i - 1][j] + 1
+          );
+        }
+      }
+    }
+    
+    return matrix[str2.length][str1.length];
+  }
+  
+  /**
+   * Get properties with potential duplicates marked
+   */
+  async getPropertiesWithDuplicateStatus(): Promise<Array<Property & { potentialDuplicates?: number }>> {
+    const properties = await this.getAllProperties();
+    const propertiesWithStatus = [];
+    
+    for (const property of properties) {
+      const duplicates = await this.detectDuplicates(property);
+      propertiesWithStatus.push({
+        ...property,
+        potentialDuplicates: duplicates.length
+      });
+    }
+    
+    return propertiesWithStatus;
+  }
+
+  /**
    * Clear cache
    */
   clearCache(): void {
