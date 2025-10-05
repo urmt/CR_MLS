@@ -1,8 +1,5 @@
 name: Autonomous Costa Rica MLS
 
-   permissions:
-     contents: write
-     actions: read
 on:
   schedule:
     # Run property scraping every 6 hours
