@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import GitHubDatabase from '../services/githubDatabase';
 import CryptoPayment from '../components/CryptoPayment';
 import PayPalPayment from '../components/PayPalPayment';
+import PayPalPropertyPayment from '../components/PayPalPropertyPayment';
 
 const HomePage: React.FC = () => {
   const [activeTab, setActiveTab] = useState('buy');
@@ -636,12 +637,21 @@ const HomePage: React.FC = () => {
                   >
                     Clear Selection
                   </button>
-                  <button 
-                    onClick={() => alert(`PayPal payment for $${calculateTotal().toFixed(2)} - This will be integrated with PayPal API`)}
-                    className="btn btn-primary btn-sm"
-                  >
-                    💳 Pay ${calculateTotal().toFixed(2)}
-                  </button>
+                  <div className="inline-block">
+                    <PayPalPropertyPayment
+                      amount={calculateTotal()}
+                      propertyCount={selectedProperties.length}
+                      onSuccess={(data) => {
+                        console.log('Property payment success:', data);
+                        alert(`Payment successful! You will receive contact information for ${selectedProperties.length} properties via email within 24 hours.`);
+                        setSelectedProperties([]);
+                      }}
+                      onError={(error) => {
+                        console.error('Property payment error:', error);
+                        alert('Payment failed. Please try again or contact support.');
+                      }}
+                    />
+                  </div>
                   <div className="inline-block">
                     <CryptoPayment
                       amount={calculateTotal()}

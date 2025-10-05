@@ -41,7 +41,8 @@ const PayPalPayment: React.FC<PayPalPaymentProps> = ({ type, onSuccess, onError 
     // Load PayPal SDK if not already loaded
     if (!window.paypal && config.isSubscription) {
       const script = document.createElement('script');
-      script.src = 'https://www.paypal.com/sdk/js?client-id=ASmvU1Q4s4Usoe7eDuwmVyWC6I1H-O7Sm10dy2bv5Al2rUq824OVmCezuLQ6MsAEdf-oLqTegFCRrduA&vault=true&intent=subscription';
+      const clientId = import.meta.env.VITE_PAYPAL_CLIENT_ID || 'ASmvU1Q4s4Usoe7eDuwmVyWC6I1H-O7Sm10dy2bv5Al2rUq824OVmCezuLQ6MsAEdf-oLqTegFCRrduA';
+      script.src = `https://www.paypal.com/sdk/js?client-id=${clientId}&vault=true&intent=subscription`;
       script.onload = () => {
         renderPayPalButton();
       };
@@ -97,15 +98,29 @@ const PayPalPayment: React.FC<PayPalPaymentProps> = ({ type, onSuccess, onError 
     }[type as 'individual_onetime' | 'office_onetime'];
 
     if (config) {
-      window.open(config.paymentUrl, '_blank');
-      // Simulate success after user returns (in a real app, you'd verify payment)
-      setTimeout(() => {
-        onSuccess?.({
-          paymentUrl: config.paymentUrl,
-          type: 'onetime',
-          plan: type
-        });
-      }, 2000);
+      console.log('Opening PayPal payment:', config.paymentUrl);
+      const popup = window.open(config.paymentUrl, 'paypal-payment', 'width=600,height=700,scrollbars=yes,resizable=yes');
+      
+      if (!popup) {
+        alert('Please disable popup blocker and try again.');
+        return;
+      }
+      
+      // Check if popup was closed (user completed or cancelled payment)
+      const checkClosed = setInterval(() => {
+        if (popup.closed) {
+          clearInterval(checkClosed);
+          // Show success message
+          onSuccess?.({
+            paymentUrl: config.paymentUrl,
+            type: 'onetime',
+            plan: type,
+            status: 'completed'
+          });
+        }
+      }, 1000);
+    } else {
+      onError?.('Invalid payment configuration');
     }
   };
 
