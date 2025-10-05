@@ -853,7 +853,125 @@
       "source": "Century21 CR",
       "category": "luxury",
       "scraped_at": "2025-10-05T14:53:11.326Z"
+    },
+    {
+      "id": "jf8y94nba42g2vsjmwfbz",
+      "title": "Eco-Friendly Land Retreat",
+      "price_usd": 198521,
+      "price_text": "$198,521",
+      "location": "Santa Ana, San José, Costa Rica",
+      "description": "Prime development land with ocean views and easy access. Located in beautiful Santa Ana, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-if9voh4m2eidn5fqiou6-1.jpg",
+        "https://images.costa-rica-mls.com/property-athcz72hrzhod07f6occ-2.jpg",
+        "https://images.costa-rica-mls.com/property-baj86itliwdcqkfp7l19e-3.jpg",
+        "https://images.costa-rica-mls.com/property-0a7hbwzenklgkpra22n4wj-4.jpg",
+        "https://images.costa-rica-mls.com/property-em79ygq8jwvpwr7p1i8wwa-5.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/7bcabfovpewuqw3ucfh9r",
+      "source": "Encuentra24",
+      "category": "land",
+      "scraped_at": "2025-10-05T14:55:18.174Z"
+    },
+    {
+      "id": "jz6041a8dbofusge0uvvjk",
+      "title": "Stunning House with Ocean View",
+      "price_usd": 300002,
+      "price_text": "$300,002",
+      "location": "Santa Ana, San José, Costa Rica",
+      "description": "Traditional Costa Rican architecture meets modern comfort. Located in beautiful Santa Ana, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-7vsz55twif39zm391hdf7-1.jpg",
+        "https://images.costa-rica-mls.com/property-2k2cnr2kd0hp1mbpcxj3t8-2.jpg",
+        "https://images.costa-rica-mls.com/property-swewaddy2ud177g1sdj7fc-3.jpg",
+        "https://images.costa-rica-mls.com/property-6xdxq6bxabm4zvlr42lovx-4.jpg",
+        "https://images.costa-rica-mls.com/property-yynhshkwlpims61r9p56w-5.jpg",
+        "https://images.costa-rica-mls.com/property-9bdduav3rvtj20u9e2tiy-6.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/xyora0hevbj01396avnu",
+      "source": "RE/MAX Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-10-05T14:55:18.174Z"
+    },
+    {
+      "id": "8h4mgjdok2jua00wykx4",
+      "title": "Beautiful Commercial Property in Atenas",
+      "price_usd": 50000,
+      "price_text": "$27,097",
+      "location": "Atenas, Alajuela, Costa Rica",
+      "description": "Established business location with strong rental history. Located in beautiful Atenas, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-s2mdovtg2jnrn73jugnuaa-1.jpg",
+        "https://images.costa-rica-mls.com/property-nc1689v9a6a9rwyu126unt-2.jpg",
+        "https://images.costa-rica-mls.com/property-tjudafenfio220s4an0mlg-3.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/fkkucpu7rmb6hc3j9et7kd",
+      "source": "RE/MAX Costa Rica",
+      "category": "commercial",
+      "scraped_at": "2025-10-05T14:55:18.175Z"
+    },
+    {
+      "id": "yn3va7qpblv8ulum0581r",
+      "title": "Beautiful Land in Arenal",
+      "price_usd": 51105,
+      "price_text": "$51,105",
+      "location": "Arenal, Alajuela, Costa Rica",
+      "description": "Prime development land with ocean views and easy access. Located in beautiful Arenal, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-bkpvgnnqc2eeywz3lv7fth-1.jpg",
+        "https://images.costa-rica-mls.com/property-d4f0tp95tmgc819wcv3iq-2.jpg",
+        "https://images.costa-rica-mls.com/property-5kyzs0gmm537zrekx2uxv-3.jpg",
+        "https://images.costa-rica-mls.com/property-zwkb4zql3goke97a3686g-4.jpg",
+        "https://images.costa-rica-mls.com/property-4x4tm0q4xwusdqkcvm5frk-5.jpg",
+        "https://images.costa-rica-mls.com/property-q0m1qjfgv4mrk3rxehn3c-6.jpg",
+        "https://images.costa-rica-mls.com/property-e84n7v1ugjrrb8vpv42pwa-7.jpg",
+        "https://images.costa-rica-mls.com/property-dnxd7uyjpyd168h9qtxytv-8.jpg",
+        "https://images.costa-rica-mls.com/property-33dsieud5ablw86a0xakjf-9.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/0lk5meq7z0e38uem995krl",
+      "source": "Costa Rica MLS",
+      "category": "land",
+      "scraped_at": "2025-10-05T14:55:18.175Z"
+    },
+    {
+      "id": "c8nvenxetn5a39i9lk8qes",
+      "title": "Investment Commercial Property Opportunity",
+      "price_usd": 242118,
+      "price_text": "$242,118",
+      "location": "Manuel Antonio, Puntarenas, Costa Rica",
+      "description": "Investment opportunity in rapidly developing commercial zone. Located in beautiful Manuel Antonio, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-74mpurqszfhhmei2dna8oh-1.jpg",
+        "https://images.costa-rica-mls.com/property-swx6nad5vksjnwnsze15-2.jpg",
+        "https://images.costa-rica-mls.com/property-afwsxupq1s9l0fo15nnv-3.jpg",
+        "https://images.costa-rica-mls.com/property-3f2vxdjqbyz7csn52ax916-4.jpg",
+        "https://images.costa-rica-mls.com/property-a4tuk4tzc0w8c4655ufrbm-5.jpg",
+        "https://images.costa-rica-mls.com/property-xxnh83y6hzsr4h9xea86-6.jpg",
+        "https://images.costa-rica-mls.com/property-4845z97k4lywcnx2az7jl-7.jpg",
+        "https://images.costa-rica-mls.com/property-eedgn8t0ytlhr3pldlc7aa-8.jpg",
+        "https://images.costa-rica-mls.com/property-e6rnaurmzf70v01q9aa65-9.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/u8tc94ejexyuqrwot0hy8",
+      "source": "Costa Rica MLS",
+      "category": "commercial",
+      "scraped_at": "2025-10-05T14:55:18.175Z"
+    },
+    {
+      "id": "wtpd7veparpuxrjo1us4",
+      "title": "Beautiful House in Tamarindo",
+      "price_usd": 256618,
+      "price_text": "$256,618",
+      "location": "Tamarindo, Guanacaste, Costa Rica",
+      "description": "Spacious house perfect for families, featuring open-plan living. Located in beautiful Tamarindo, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-qdapyrhmm5dnkylyaa36-1.jpg",
+        "https://images.costa-rica-mls.com/property-w9mldmx8yktxpg15ezzp9-2.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/1htzqhfl7yghjp8jdjvzdy",
+      "source": "Coldwell Banker CR",
+      "category": "residential",
+      "scraped_at": "2025-10-05T14:55:18.175Z"
     }
   ],
-  "last_updated": "2025-10-05T14:53:11.387Z"
+  "last_updated": "2025-10-05T14:55:18.235Z"
 }
