@@ -971,7 +971,94 @@
       "source": "Coldwell Banker CR",
       "category": "residential",
       "scraped_at": "2025-10-05T14:55:18.175Z"
+    },
+    {
+      "id": "trmyaii6prsqw9etn4mrrj",
+      "title": "Renovated Commercial Property with Pool",
+      "price_usd": 88150,
+      "price_text": "$88,150",
+      "location": "Atenas, Alajuela, Costa Rica",
+      "description": "Established business location with strong rental history. Located in beautiful Atenas, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-i5rkz6udreqrma7h35jhn-1.jpg",
+        "https://images.costa-rica-mls.com/property-co5olq1fz8rnwpdcven77i-2.jpg",
+        "https://images.costa-rica-mls.com/property-evdyif4tbkjjpi359pl4i-3.jpg",
+        "https://images.costa-rica-mls.com/property-v4lmgop84jspeg6ure2ea-4.jpg",
+        "https://images.costa-rica-mls.com/property-2sumif5ueqyu9j4vxnrnur-5.jpg",
+        "https://images.costa-rica-mls.com/property-u8r82xgkwnrqukztx6vu4s-6.jpg",
+        "https://images.costa-rica-mls.com/property-bwkcozilixchol1mrpw3l-7.jpg",
+        "https://images.costa-rica-mls.com/property-lqsyzkxrmofcu1l4om7rnn-8.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/c3tw6mxsi7gt7x4z2fwr1d",
+      "source": "Coldwell Banker CR",
+      "category": "commercial",
+      "scraped_at": "2025-10-05T18:22:21.918Z"
+    },
+    {
+      "id": "pcq2sksl1fqyf52vm9iqr9",
+      "title": "Modern Villa in Prime Location",
+      "price_usd": 1051299,
+      "price_text": "$1,051,299",
+      "location": "Escazú, San José, Costa Rica",
+      "description": "Sophisticated estate featuring infinity pool and private gardens. Located in beautiful Escazú, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-fqf3o2rdq2okscmc5a4j-1.jpg",
+        "https://images.costa-rica-mls.com/property-pomyfdxb619h23z4ulgqp-2.jpg",
+        "https://images.costa-rica-mls.com/property-2xsv0vrdgvixzgnw4fzkdp-3.jpg",
+        "https://images.costa-rica-mls.com/property-0gaazi1end6e1ljqijgk7nx-4.jpg",
+        "https://images.costa-rica-mls.com/property-l4ajnyfdwxax1gfcsm1sh-5.jpg",
+        "https://images.costa-rica-mls.com/property-2nx4amcgpfw0rip0urbt4n-6.jpg",
+        "https://images.costa-rica-mls.com/property-g4z0pbugsanlh371689yz-7.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/v4iu56a3erqmlo3qr0vqj",
+      "source": "Lamudi Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-10-05T18:22:21.918Z"
+    },
+    {
+      "id": "xo9uefe8c677uk690zj90x",
+      "title": "Traditional Costa Rican Villa",
+      "price_usd": 1169745,
+      "price_text": "$1,169,745",
+      "location": "Manuel Antonio, Puntarenas, Costa Rica",
+      "description": "Ultra-modern villa designed for luxury living. Located in beautiful Manuel Antonio, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-6j24926r79c9pv066fo0vk-1.jpg",
+        "https://images.costa-rica-mls.com/property-pyvrb4xd48unc87lrzuxp-2.jpg",
+        "https://images.costa-rica-mls.com/property-qd6z8faxkkegbzfho63quj-3.jpg",
+        "https://images.costa-rica-mls.com/property-ueimi6zx174dwbxzk64f5-4.jpg",
+        "https://images.costa-rica-mls.com/property-x6qt86uj4y8fkahme5nwp-5.jpg",
+        "https://images.costa-rica-mls.com/property-i1kokb8b7vboutsej6f9ch-6.jpg",
+        "https://images.costa-rica-mls.com/property-wzjctt0i1we2g2xpds7v5-7.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/o3eocdrj29l4ttslecqf",
+      "source": "RE/MAX Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-10-05T18:22:21.918Z"
+    },
+    {
+      "id": "6fvpu2e1nk2on1mh0oitp",
+      "title": "Eco-Friendly Commercial Property Retreat",
+      "price_usd": 619408,
+      "price_text": "$619,408",
+      "location": "Escazú, San José, Costa Rica",
+      "description": "Established business location with strong rental history. Located in beautiful Escazú, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-px780keoxg835o40mf9zyy-1.jpg",
+        "https://images.costa-rica-mls.com/property-e0gxk4pis2nxwb18t24-2.jpg",
+        "https://images.costa-rica-mls.com/property-y6kztohquv5tjyedap9im-3.jpg",
+        "https://images.costa-rica-mls.com/property-x2zg4udb1hbvzwvlzeui7m-4.jpg",
+        "https://images.costa-rica-mls.com/property-zf6orjqphyncysdrrkoo9-5.jpg",
+        "https://images.costa-rica-mls.com/property-v89qo8obh193ufauy6vf5z-6.jpg",
+        "https://images.costa-rica-mls.com/property-flualdmb07jbqkqis4ismt-7.jpg",
+        "https://images.costa-rica-mls.com/property-sjsvcygu9n62tztbwknpf-8.jpg",
+        "https://images.costa-rica-mls.com/property-r8ph5k5y8wp6hqs825n6w8-9.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/gg21qx4aqe65e54oiezdwn",
+      "source": "RE/MAX Costa Rica",
+      "category": "commercial",
+      "scraped_at": "2025-10-05T18:22:21.918Z"
     }
   ],
-  "last_updated": "2025-10-05T14:55:18.235Z"
+  "last_updated": "2025-10-05T18:22:21.975Z"
 }
