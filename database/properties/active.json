@@ -542,7 +542,318 @@
       "source": "Coldwell Banker CR",
       "category": "residential",
       "scraped_at": "2025-10-05T13:10:52.614Z"
+    },
+    {
+      "id": "ke7199uakhc00sgg7k9vvz9",
+      "title": "Stunning Land with Ocean View",
+      "price_usd": 292539,
+      "price_text": "$292,539",
+      "location": "Manuel Antonio, Puntarenas, Costa Rica",
+      "description": "Large parcel with development potential and natural beauty. Located in beautiful Manuel Antonio, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-gbuhhgq4u2cotisl1ro9g-1.jpg",
+        "https://images.costa-rica-mls.com/property-izmvxxfz60j6ovwxheulmy-2.jpg",
+        "https://images.costa-rica-mls.com/property-frv1tvs2btukmm9v7qawp-3.jpg",
+        "https://images.costa-rica-mls.com/property-yyujpqt30pnncvlozyatw-4.jpg",
+        "https://images.costa-rica-mls.com/property-few3xvvrn6d1vahilw7yfu-5.jpg",
+        "https://images.costa-rica-mls.com/property-cajvj8qvrqf1on8iefgoj4-6.jpg",
+        "https://images.costa-rica-mls.com/property-dllmb5s2hsi2dv17bx2llj-7.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/0fl7h6dpc56cuglbog68mp",
+      "source": "Lamudi Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-10-05T14:53:11.325Z"
+    },
+    {
+      "id": "1o5pk4ljg14js2yzoltst",
+      "title": "Beautiful House in Heredia",
+      "price_usd": 173597,
+      "price_text": "$173,597",
+      "location": "Heredia, Heredia, Costa Rica",
+      "description": "Traditional Costa Rican architecture meets modern comfort. Located in beautiful Heredia, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-aeroyhzwntsmdnelymowk-1.jpg",
+        "https://images.costa-rica-mls.com/property-bgrt2c0a1qeq3hnz1j9j8o-2.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/wxq7m3wg1744ugu1fft1x",
+      "source": "Encuentra24",
+      "category": "residential",
+      "scraped_at": "2025-10-05T14:53:11.325Z"
+    },
+    {
+      "id": "qkgyogxe7acc6n3ptb4vqd",
+      "title": "Beautiful Commercial Property in Dominical",
+      "price_usd": 299932,
+      "price_text": "$299,932",
+      "location": "Dominical, Puntarenas, Costa Rica",
+      "description": "Prime commercial space in high-traffic area with excellent visibility. Located in beautiful Dominical, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-gloajx7aeycugx9w6b38uk-1.jpg",
+        "https://images.costa-rica-mls.com/property-jvatlpuq80iljwtj5gz2sg-2.jpg",
+        "https://images.costa-rica-mls.com/property-3lnlbxmwjex2b6ophkl6x2-3.jpg",
+        "https://images.costa-rica-mls.com/property-wzti1ozpctip22bq2310o-4.jpg",
+        "https://images.costa-rica-mls.com/property-1vt0lak7zxvkyeydf31ubc-5.jpg",
+        "https://images.costa-rica-mls.com/property-x3a5tk5uuad0jq47oibj-6.jpg",
+        "https://images.costa-rica-mls.com/property-cvl17vpq85piyqm7ajcb-7.jpg",
+        "https://images.costa-rica-mls.com/property-mg3cp8zx84c5ree03sv7t-8.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/vv5bx3hvqr9utdv3upw8b",
+      "source": "Costa Rica MLS",
+      "category": "commercial",
+      "scraped_at": "2025-10-05T14:53:11.325Z"
+    },
+    {
+      "id": "2ys9gwg4dqucxxluw3gji",
+      "title": "Modern House in Prime Location",
+      "price_usd": 296800,
+      "price_text": "$296,800",
+      "location": "Dominical, Puntarenas, Costa Rica",
+      "description": "Charming family home with modern amenities and beautiful gardens. Located in beautiful Dominical, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-7g3vfvoo6nq4oj9gr0hidn-1.jpg",
+        "https://images.costa-rica-mls.com/property-h5tmryuevbiibvuqpmvcn-2.jpg",
+        "https://images.costa-rica-mls.com/property-ukorj6f532e9hv94yghtrp-3.jpg",
+        "https://images.costa-rica-mls.com/property-w1le4wfwn0pk6zop8n74qe-4.jpg",
+        "https://images.costa-rica-mls.com/property-r1svkh1ixrffas0ik20pku-5.jpg",
+        "https://images.costa-rica-mls.com/property-79dylondznb5xgsbkh03uj-6.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/fkqdxkilkvamem9mn1pv7",
+      "source": "RE/MAX Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-10-05T14:53:11.325Z"
+    },
+    {
+      "id": "h7ts7zxa3e60gwe4d6vglt",
+      "title": "Beautiful Land in Puerto Viejo",
+      "price_usd": 126344,
+      "price_text": "$126,344",
+      "location": "Puerto Viejo, Limón, Costa Rica",
+      "description": "Prime development land with ocean views and easy access. Located in beautiful Puerto Viejo, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-3xdjtcqn6swhjc6d0e8kb6-1.jpg",
+        "https://images.costa-rica-mls.com/property-pmeiv7j3hu5q6cjtj1my-2.jpg",
+        "https://images.costa-rica-mls.com/property-hqfrebyinibsk5bso0vjja-3.jpg",
+        "https://images.costa-rica-mls.com/property-wxvb3di5p1l25skeg4q8-4.jpg",
+        "https://images.costa-rica-mls.com/property-1jrieiyn4hjzk2cl1dd3xs-5.jpg",
+        "https://images.costa-rica-mls.com/property-r028c16foncqnbwcu7pc-6.jpg",
+        "https://images.costa-rica-mls.com/property-c5ohbuykt7m9rxoyfifo-7.jpg",
+        "https://images.costa-rica-mls.com/property-jrlsfdldz1ncrnwzpjz7-8.jpg",
+        "https://images.costa-rica-mls.com/property-x3hdz4vn6q07kaik6nbmug-9.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/j8r5p24618iuzril3vrfm",
+      "source": "RE/MAX Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-10-05T14:53:11.325Z"
+    },
+    {
+      "id": "ku16vsl5lrfl0vlq6t5sd",
+      "title": "Traditional Costa Rican Commercial Property",
+      "price_usd": 709277,
+      "price_text": "$709,277",
+      "location": "Monteverde, Puntarenas, Costa Rica",
+      "description": "Established business location with strong rental history. Located in beautiful Monteverde, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-cidgt5y0ijhnnaj20eva-1.jpg",
+        "https://images.costa-rica-mls.com/property-j9cw8j3uhyqyd39howqs2-2.jpg",
+        "https://images.costa-rica-mls.com/property-u518rc58gcr6ye7mh6hofh-3.jpg",
+        "https://images.costa-rica-mls.com/property-1vy7ia5dlz3cphce6mzr3-4.jpg",
+        "https://images.costa-rica-mls.com/property-ldquirf8awnueu8zmrsm-5.jpg",
+        "https://images.costa-rica-mls.com/property-8sve6xo3919yah6jrvtgmg-6.jpg",
+        "https://images.costa-rica-mls.com/property-n1olnp1qt9bh5ghse9zlmb-7.jpg",
+        "https://images.costa-rica-mls.com/property-8rel7qxdfv9c31541urc3c-8.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/6wy0cyz2y8f7ohz14dzbgr",
+      "source": "Costa Rica MLS",
+      "category": "commercial",
+      "scraped_at": "2025-10-05T14:53:11.325Z"
+    },
+    {
+      "id": "p6esobteu8vz4z9qzrzs",
+      "title": "Modern Commercial Property in Prime Location",
+      "price_usd": 227471,
+      "price_text": "$227,471",
+      "location": "Heredia, Heredia, Costa Rica",
+      "description": "Prime commercial space in high-traffic area with excellent visibility. Located in beautiful Heredia, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-kyey02q8m6qjkohqqze4z-1.jpg",
+        "https://images.costa-rica-mls.com/property-4vv3pnm14q9v4kpo1v13w-2.jpg",
+        "https://images.costa-rica-mls.com/property-fojcb9mmxai287ssw893nn-3.jpg",
+        "https://images.costa-rica-mls.com/property-4j8euqag7xdnfmxobhnkrs-4.jpg",
+        "https://images.costa-rica-mls.com/property-k3bdhxk3zuk1psx6203s4g-5.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/p176chhaudjt1za8608b6i",
+      "source": "Coldwell Banker CR",
+      "category": "commercial",
+      "scraped_at": "2025-10-05T14:53:11.325Z"
+    },
+    {
+      "id": "ikuobv54smhu3nb9xiuwq",
+      "title": "Renovated Villa with Pool",
+      "price_usd": 513450,
+      "price_text": "$513,450",
+      "location": "Tamarindo, Guanacaste, Costa Rica",
+      "description": "Sophisticated estate featuring infinity pool and private gardens. Located in beautiful Tamarindo, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-lgq6xwfil6mhuh868xezuk-1.jpg",
+        "https://images.costa-rica-mls.com/property-pgyttm092cumxlsx3zn8m-2.jpg",
+        "https://images.costa-rica-mls.com/property-ogqy5z5k2qguvj9hzkn0sc-3.jpg",
+        "https://images.costa-rica-mls.com/property-qnrnvojihb83zl2s0xj7nm-4.jpg",
+        "https://images.costa-rica-mls.com/property-u4r5pjsdft88hss5serni-5.jpg",
+        "https://images.costa-rica-mls.com/property-b35gkt0pi1f8r71zlfm4vp-6.jpg",
+        "https://images.costa-rica-mls.com/property-8i6lf02xqkpehty1zuqfij-7.jpg",
+        "https://images.costa-rica-mls.com/property-026qv9kixu3jdc5t3z8aijl-8.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/ugrd9qch2i3ob6bo0ibkc",
+      "source": "Lamudi Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-10-05T14:53:11.325Z"
+    },
+    {
+      "id": "pzcv25e89am4lb7r1gr45",
+      "title": "Traditional Costa Rican House",
+      "price_usd": 167095,
+      "price_text": "$167,095",
+      "location": "Puerto Viejo, Limón, Costa Rica",
+      "description": "Spacious house perfect for families, featuring open-plan living. Located in beautiful Puerto Viejo, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-p6ewp5auq1dh32kntu0mco-1.jpg",
+        "https://images.costa-rica-mls.com/property-n58j1was7vqhy8scyrnr8j-2.jpg",
+        "https://images.costa-rica-mls.com/property-uwsmls9yym6dm452nq3q-3.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/hybb8r1bx7rlvcm8zz36ws",
+      "source": "Costa Rica MLS",
+      "category": "residential",
+      "scraped_at": "2025-10-05T14:53:11.325Z"
+    },
+    {
+      "id": "1tlx3i69c8vigj6t0l3yog",
+      "title": "Modern House in Prime Location",
+      "price_usd": 298052,
+      "price_text": "$298,052",
+      "location": "Heredia, Heredia, Costa Rica",
+      "description": "Well-maintained property with stunning natural surroundings. Located in beautiful Heredia, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-2wrq75bnudimkp00nnd4s-1.jpg",
+        "https://images.costa-rica-mls.com/property-hf6bitf6p5zky7mqevuv-2.jpg",
+        "https://images.costa-rica-mls.com/property-5e5x533umnfn52w1bwdvyi-3.jpg",
+        "https://images.costa-rica-mls.com/property-hfizgw3b5at5iaf9ebo-4.jpg",
+        "https://images.costa-rica-mls.com/property-xldv4p86wbg9guc7yhjjp-5.jpg",
+        "https://images.costa-rica-mls.com/property-bjkc7dtgvu6qc08j7yshv-6.jpg",
+        "https://images.costa-rica-mls.com/property-7vwo90hssoq1q63annackc-7.jpg",
+        "https://images.costa-rica-mls.com/property-nqhoctjhdhf2pidvlkyzax-8.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/t1t4s3m8bh9f3gvy332vu4",
+      "source": "Coldwell Banker CR",
+      "category": "residential",
+      "scraped_at": "2025-10-05T14:53:11.325Z"
+    },
+    {
+      "id": "vr9s62l0qbjktt6kj5il0c",
+      "title": "Modern Commercial Property in Prime Location",
+      "price_usd": 565234,
+      "price_text": "$565,234",
+      "location": "Manuel Antonio, Puntarenas, Costa Rica",
+      "description": "Investment opportunity in rapidly developing commercial zone. Located in beautiful Manuel Antonio, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-fgpvjhy93sqc70o4aasl7o-1.jpg",
+        "https://images.costa-rica-mls.com/property-q2rawtd0bj5ll90ydyecr-2.jpg",
+        "https://images.costa-rica-mls.com/property-xrpfiomwf59sk921p33ufg-3.jpg",
+        "https://images.costa-rica-mls.com/property-44lvnjtbom91fq4kx9ubd5-4.jpg",
+        "https://images.costa-rica-mls.com/property-cgb7ddpf7pvat38rn1qzkv-5.jpg",
+        "https://images.costa-rica-mls.com/property-t23jol4xspjpq148w298fn-6.jpg",
+        "https://images.costa-rica-mls.com/property-zupkrucbns5ou2hlitsuh-7.jpg",
+        "https://images.costa-rica-mls.com/property-iz0bmwtmzuaqzlg6w73l8-8.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/k70wd7lotemx0x7ppj0dyi",
+      "source": "Century21 CR",
+      "category": "commercial",
+      "scraped_at": "2025-10-05T14:53:11.325Z"
+    },
+    {
+      "id": "wnkfmpnadvp1fcrd4ec3ke",
+      "title": "Stunning Villa with Ocean View",
+      "price_usd": 936486,
+      "price_text": "$936,486",
+      "location": "Escazú, San José, Costa Rica",
+      "description": "Architectural masterpiece with world-class amenities. Located in beautiful Escazú, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-ce71477o0t6b6073hl2w3b-1.jpg",
+        "https://images.costa-rica-mls.com/property-0nk3g8v3szzqnqpvhu658g-2.jpg",
+        "https://images.costa-rica-mls.com/property-phd6qzqb6w7qw3kub19bb9-3.jpg",
+        "https://images.costa-rica-mls.com/property-2xiguso1iakqkgwpt2wp1g-4.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/xttomj1pge1i275t7roibj",
+      "source": "Century21 CR",
+      "category": "luxury",
+      "scraped_at": "2025-10-05T14:53:11.326Z"
+    },
+    {
+      "id": "wz0ogseaq63rvitfppdid",
+      "title": "Traditional Costa Rican Land",
+      "price_usd": 310014,
+      "price_text": "$310,014",
+      "location": "Escazú, San José, Costa Rica",
+      "description": "Prime development land with ocean views and easy access. Located in beautiful Escazú, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-lbp6n7xpv9h6ocsl4ab9ya-1.jpg",
+        "https://images.costa-rica-mls.com/property-xvt1oksaod9v3idjiz4ss-2.jpg",
+        "https://images.costa-rica-mls.com/property-biz3k7gjg0m1yvbev8ia0hi-3.jpg",
+        "https://images.costa-rica-mls.com/property-0hbuls6zrlnnes8xolloyfd-4.jpg",
+        "https://images.costa-rica-mls.com/property-pmriehongzlqvavt3zirdg-5.jpg",
+        "https://images.costa-rica-mls.com/property-34j1pm5aee3cgbl436fw2-6.jpg",
+        "https://images.costa-rica-mls.com/property-0pgio8ar0t13xh494yl5h-7.jpg",
+        "https://images.costa-rica-mls.com/property-4w6wlaqxlvu0e7omffsovzk-8.jpg",
+        "https://images.costa-rica-mls.com/property-kggmugnagedhzl76m3067k-9.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/zot295q4iiijrxz2vamtx",
+      "source": "Encuentra24",
+      "category": "land",
+      "scraped_at": "2025-10-05T14:53:11.326Z"
+    },
+    {
+      "id": "0nw18qaa0gzqwtwwxwbug6",
+      "title": "Renovated Villa with Pool",
+      "price_usd": 614093,
+      "price_text": "$614,093",
+      "location": "Arenal, Alajuela, Costa Rica",
+      "description": "Sophisticated estate featuring infinity pool and private gardens. Located in beautiful Arenal, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-eh73vfymp7upprgvhv4qs-1.jpg",
+        "https://images.costa-rica-mls.com/property-nq3jh4dgdfa81rc7io8guo-2.jpg",
+        "https://images.costa-rica-mls.com/property-mmqvrz4abejelgrqs2lif-3.jpg",
+        "https://images.costa-rica-mls.com/property-ezxl369mz7633xnlyl0swh-4.jpg",
+        "https://images.costa-rica-mls.com/property-xgnw7db3gowhz80h75xb-5.jpg",
+        "https://images.costa-rica-mls.com/property-mj3gqhpqb4k08v5tnmz3-6.jpg",
+        "https://images.costa-rica-mls.com/property-58et7qtug8pd97fjcxd7ac-7.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/a0kbhsp2vxiegkk8ei2qut",
+      "source": "Costa Rica MLS",
+      "category": "luxury",
+      "scraped_at": "2025-10-05T14:53:11.326Z"
+    },
+    {
+      "id": "t7jpju1ec4i3a5j4ye7ily",
+      "title": "Investment Villa Opportunity",
+      "price_usd": 1487507,
+      "price_text": "$1,487,507",
+      "location": "Uvita, Puntarenas, Costa Rica",
+      "description": "Exclusive luxury villa with panoramic views and premium finishes. Located in beautiful Uvita, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-65i550yj1ft9y2jip4s3a-1.jpg",
+        "https://images.costa-rica-mls.com/property-y1ovya8coqc05ed8f8q22wl-2.jpg",
+        "https://images.costa-rica-mls.com/property-7qsnh6bc5qhn9g8ncrejo-3.jpg",
+        "https://images.costa-rica-mls.com/property-5i6h653h1jul3g07kvevf-4.jpg",
+        "https://images.costa-rica-mls.com/property-9q015hyg98pdu87swllp-5.jpg",
+        "https://images.costa-rica-mls.com/property-s1bhe5jxkvhh87km8e3ii-6.jpg",
+        "https://images.costa-rica-mls.com/property-eo3wwzw2amlb8yutpnqat-7.jpg",
+        "https://images.costa-rica-mls.com/property-247w8rtpwx5fa91jvvjrn-8.jpg",
+        "https://images.costa-rica-mls.com/property-seo4ljwzeka6tcvrijqo7h-9.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/15oa3tfvacsj5j8xvd64j8a",
+      "source": "Century21 CR",
+      "category": "luxury",
+      "scraped_at": "2025-10-05T14:53:11.326Z"
     }
   ],
-  "last_updated": "2025-10-05T13:11:18.164Z"
+  "last_updated": "2025-10-05T14:53:11.387Z"
 }
