@@ -39,7 +39,7 @@ jobs:
     
     - name: Install dependencies
       run: |
-        npm install fs-extra axios
+        https://github.com/urmt/CR_MLS/blob/main/.github/workflows/autonomous-mls.yml
     
     - name: Generate property listings
       run: |
@@ -85,7 +85,7 @@ jobs:
     
     - name: Install dependencies
       run: |
-        npm install fs-extra
+        npm ci --only=production || npm install --production  
     
     - name: Run 90-day property purger
       run: |
@@ -132,7 +132,7 @@ jobs:
     
     - name: Install dependencies
       run: |
-        npm install axios fs-extra
+        npm ci --only=production || npm install --production
     
     - name: Run email campaigns
       run: |
