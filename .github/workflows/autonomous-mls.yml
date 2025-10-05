@@ -39,7 +39,7 @@ jobs:
     
     - name: Install dependencies
       run: |
-        https://github.com/urmt/CR_MLS/blob/main/.github/workflows/autonomous-mls.yml
+        npm ci --only=production || npm install --production
     
     - name: Generate property listings
       run: |
