@@ -68,8 +68,22 @@ const HomePage: React.FC = () => {
 
   if (isLoading) {
     return (
-      <div className="loading">
-        <div className="spinner"></div>
+      <div className="loading-container">
+        <div className="loading-content">
+          <div className="spinner-large"></div>
+          <h2 className="loading-title">Loading from Decentralized Database</h2>
+          <p className="loading-message">
+            Fetching property data from IPFS network...
+            <br />
+            <span className="loading-estimate">This may take 30-90 seconds based on network speed</span>
+          </p>
+          <div className="loading-progress">
+            <div className="progress-bar">
+              <div className="progress-fill"></div>
+            </div>
+            <p className="progress-text">Connecting to distributed nodes...</p>
+          </div>
+        </div>
       </div>
     );
   }
@@ -124,9 +138,9 @@ const HomePage: React.FC = () => {
               <Link to="/agent/login" className="btn btn-ghost btn-sm">
                 Agent Login
               </Link>
-              <div className="relative group">
-                <button className="btn btn-primary btn-sm">Become an Agent</button>
-                <div className="absolute right-0 mt-2 w-72 bg-white rounded-lg shadow-lg border opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
+              <div className="agent-dropdown-container">
+                <button className="btn btn-primary btn-sm agent-trigger">Become an Agent</button>
+                <div className="agent-dropdown">
                   <div className="p-4">
                     <h3 className="font-semibold text-gray-900 mb-3">Agent Subscription Plans</h3>
                     <div className="space-y-3">
