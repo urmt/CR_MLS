@@ -1501,8 +1501,46 @@
       "source": "Coldwell Banker CR",
       "category": "luxury",
       "scraped_at": "2025-10-06T13:17:04.732Z"
+    },
+    {
+      "id": "m72e8emjo7ffv17ecdn",
+      "title": "Beautiful House in Manuel Antonio",
+      "price_usd": 273668,
+      "price_text": "$273,668",
+      "location": "Manuel Antonio, Puntarenas, Costa Rica",
+      "description": "Charming family home with modern amenities and beautiful gardens. Located in beautiful Manuel Antonio, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-n2jnvcgysvo957k34u7h8w-1.jpg",
+        "https://images.costa-rica-mls.com/property-ufihlaay1dkyq4fmli1aqd-2.jpg",
+        "https://images.costa-rica-mls.com/property-evwuewkby88gr4ybdiym4f-3.jpg",
+        "https://images.costa-rica-mls.com/property-bauht7cd04h9pvzpvx1fp5-4.jpg",
+        "https://images.costa-rica-mls.com/property-hmxqzjup797vzgjhpsxlc-5.jpg",
+        "https://images.costa-rica-mls.com/property-v99vhuewx631e3byrybu3-6.jpg",
+        "https://images.costa-rica-mls.com/property-qr3zaqfau8ba6zjifko4-7.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/hiafts3hne7ux7ztkr9w48",
+      "source": "Encuentra24",
+      "category": "residential",
+      "scraped_at": "2025-10-06T14:09:47.338Z"
+    },
+    {
+      "id": "jfxivnkmjadpg139i7j9e",
+      "title": "Beautiful House in Atenas",
+      "price_usd": 224458,
+      "price_text": "$224,458",
+      "location": "Atenas, Alajuela, Costa Rica",
+      "description": "Charming family home with modern amenities and beautiful gardens. Located in beautiful Atenas, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-icxcef3b2aqqzvpg52585-1.jpg",
+        "https://images.costa-rica-mls.com/property-lsc9tobopkanktau5gj5ns-2.jpg",
+        "https://images.costa-rica-mls.com/property-of5v0dkvtlgeb8hf6ta15-3.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/146hp0htgvmenwa1sd5t95",
+      "source": "Costa Rica MLS",
+      "category": "residential",
+      "scraped_at": "2025-10-06T14:09:47.338Z"
     }
   ],
-  "last_updated": "2025-10-06T13:17:04.785Z",
+  "last_updated": "2025-10-06T14:09:47.401Z",
   "total_count": 10
 }
