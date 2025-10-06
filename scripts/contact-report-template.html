@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Information Report - {{PROPERTY_TITLE}}</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; line-height: 1.6; }
+        .header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 20px; border-radius: 10px; margin-bottom: 20px; }
+        .property-info { background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px; }
+        .contact-info { background: #e3f2fd; padding: 15px; border-radius: 8px; margin-bottom: 20px; }
+        .images-section { margin: 20px 0; }
+        .image-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 15px 0; }
+        .image-item { text-align: center; }
+        .image-item img { width: 100%; max-width: 250px; height: 180px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+        .image-item a { display: block; margin-top: 5px; font-size: 12px; color: #666; }
+        .contact-details { background: #fff3e0; padding: 15px; border-radius: 8px; border-left: 4px solid #ff9800; }
+        .price { font-size: 24px; font-weight: bold; color: #2e7d32; }
+        .location { color: #1976d2; font-weight: 500; }
+        .note { background: #f1f8e9; padding: 10px; border-radius: 5px; font-size: 14px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🏠 Property Contact Information</h1>
+        <p>Exclusive access to seller and listing agent details</p>
+    </div>
+
+    <div class="property-info">
+        <h2>{{PROPERTY_TITLE}}</h2>
+        <p class="price">💰 {{PROPERTY_PRICE}}</p>
+        <p class="location">📍 {{PROPERTY_LOCATION}}</p>
+        <p><strong>Category:</strong> {{PROPERTY_CATEGORY}}</p>
+        <p><strong>Listed:</strong> {{LISTING_DATE}}</p>
+    </div>
+
+    <div class="images-section">
+        <h3>📸 Property Images</h3>
+        <div class="image-grid">
+            {{PROPERTY_IMAGES}}
+        </div>
+    </div>
+
+    <div class="contact-details">
+        <h3>📞 CONTACT INFORMATION</h3>
+        <p><strong>Agent:</strong> {{AGENT_NAME}}</p>
+        <p><strong>Phone:</strong> <a href="tel:{{AGENT_PHONE}}">{{AGENT_PHONE}}</a></p>
+        <p><strong>Email:</strong> <a href="mailto:{{AGENT_EMAIL}}">{{AGENT_EMAIL}}</a></p>
+        <p><strong>Office:</strong> {{AGENT_OFFICE}}</p>
+        <p><strong>Address:</strong> {{AGENT_ADDRESS}}</p>
+        <p><strong>Website:</strong> <a href="{{AGENT_WEBSITE}}" target="_blank">{{AGENT_WEBSITE}}</a></p>
+        <p><strong>WhatsApp:</strong> <a href="https://wa.me/{{AGENT_WHATSAPP}}">{{AGENT_WHATSAPP}}</a></p>
+        <p><strong>Languages:</strong> {{AGENT_LANGUAGES}}</p>
+        <p><strong>License:</strong> {{AGENT_LICENSE}}</p>
+    </div>
+
+    <div class="contact-info">
+        <h4>📋 ADDITIONAL LISTING DETAILS</h4>
+        <p><strong>Listing Agent:</strong> {{AGENT_NAME}}</p>
+        <p><strong>Listing Office:</strong> {{LISTING_OFFICE}}</p>
+        <p><strong>MLS#:</strong> {{MLS_NUMBER}}</p>
+        <p><strong>Days on Market:</strong> {{DAYS_ON_MARKET}}</p>
+        <p><strong>Source:</strong> {{PROPERTY_SOURCE}}</p>
+    </div>
+
+    <div class="note">
+        <p><strong>✅ Contact Information Verified</strong></p>
+        <p>This information was obtained from official real estate sources and is current as of {{REPORT_DATE}}. Contact the agent directly for property viewing appointments and additional details.</p>
+    </div>
+</body>
+</html>
