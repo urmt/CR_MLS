@@ -179,6 +179,10 @@ class PropertyPurger {
     let logHistory = { purge_history: [] };
     try {
       logHistory = await fs.readJson(logFilePath);
+      // Ensure purge_history exists and is an array
+      if (!logHistory.purge_history || !Array.isArray(logHistory.purge_history)) {
+        logHistory.purge_history = [];
+      }
     } catch (error) {
       // File doesn't exist, will create new one
     }
