@@ -148,11 +148,6 @@ const PropertyDetailPage: React.FC = () => {
               </div>
               
               <div className="flex justify-between">
-                <span className="text-gray-600">Source:</span>
-                <span className="font-medium">{property.source}</span>
-              </div>
-              
-              <div className="flex justify-between">
                 <span className="text-gray-600">Listed:</span>
                 <span className="font-medium">
                   {new Date(property.scraped_at).toLocaleDateString()}
