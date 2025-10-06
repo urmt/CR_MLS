@@ -67,7 +67,7 @@ jobs:
   property-purging:
     runs-on: ubuntu-latest
     needs: property-scraping
-    if: always() && (github.event.schedule == '0 2 * * SUN' || github.event.inputs.action == 'purge' || github.event.inputs.action == 'full')
+    if: always() && (github.event_name == 'schedule' || github.event.inputs.action == 'purge' || github.event.inputs.action == 'full')
     
     steps:
     - name: Checkout repository
