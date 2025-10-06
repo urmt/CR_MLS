@@ -19,28 +19,54 @@ const PropertyDetailPage: React.FC = () => {
     enabled: !!id,
   });
   
-  // Render PayPal hosted button when modal opens
-  useEffect(() => {
-    if (showPayPal && property && (window as any).paypal) {
-      const containerId = `paypal-container-${showPayPal}-${property.id}`;
-      const container = document.getElementById(containerId);
-      
-      if (container) {
-        // Clear any existing content
-        container.innerHTML = '';
-        
-        // Render PayPal hosted button
-        try {
-          (window as any).paypal.HostedButtons({
-            hostedButtonId: "YWQX3PE2SH4ZA",
-          }).render(`#${containerId}`);
-        } catch (error) {
-          console.error('PayPal button render error:', error);
-          container.innerHTML = '<p class="text-red-500 text-sm">PayPal button failed to load. Please try again.</p>';
-        }
-      }
+  // Function to handle PayPal direct payment
+  const handlePayPalPayment = (reportType: string) => {
+    if (!(window as any).paypal) {
+      alert('PayPal is not available. Please refresh the page and try again.');
+      return;
     }
-  }, [showPayPal, property]);
+
+    const amount = reportType === 'contact' ? 
+      (property!.category === 'luxury' ? '15.00' : 
+       property!.category === 'commercial' ? '10.00' : 
+       property!.category === 'land' ? '7.50' : '5.00') :
+      reportType === 'concession' ? '12.00' : '8.00';
+
+    // Create PayPal payment directly
+    (window as any).paypal.Buttons({
+      createOrder: function(data: any, actions: any) {
+        return actions.order.create({
+          purchase_units: [{
+            amount: {
+              value: amount,
+              currency_code: 'USD'
+            },
+            description: `${reportType === 'contact' ? 'Contact Information' :
+                         reportType === 'concession' ? 'CR Legal Concessions' :
+                         'Property History'} - ${property!.title}`
+          }]
+        });
+      },
+      onApprove: function(data: any, actions: any) {
+        return actions.order.capture().then(function(details: any) {
+          alert(`Payment successful! You'll receive the ${reportType} information via email within 24 hours.`);
+          console.log('PayPal payment completed:', details);
+        });
+      },
+      onError: function(err: any) {
+        console.error('PayPal payment error:', err);
+        alert('Payment failed. Please try again.');
+      },
+      onCancel: function(data: any) {
+        console.log('PayPal payment cancelled:', data);
+      }
+    }).render('body').then(() => {
+      // The PayPal button is rendered as a popup, we don't need a container
+    }).catch((error: any) => {
+      console.error('PayPal render error:', error);
+      alert('PayPal service is temporarily unavailable. Please try again later.');
+    });
+  };
 
   if (isLoading) {
     return (
@@ -160,7 +186,7 @@ const PropertyDetailPage: React.FC = () => {
                 className="btn btn-primary w-full mb-2 text-sm"
                 onClick={() => {
                   console.log('Contact PayPal payment for property:', property.id);
-                  setShowPayPal('contact');
+                  handlePayPalPayment('contact');
                 }}
                 style={{
                   pointerEvents: 'auto' as any,
@@ -172,10 +198,14 @@ const PropertyDetailPage: React.FC = () => {
                   property.category === 'commercial' ? '10.00' : 
                   property.category === 'land' ? '7.50' : '5.00'})
               </button>
-              <button 
+                <button 
                 onClick={() => {
                   console.log('Contact Crypto payment for property:', property.id);
                   setShowCrypto('contact');
+                  // Auto-scroll to crypto modal after a brief delay
+                  setTimeout(() => {
+                    document.getElementById('crypto-modal')?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                  }, 100);
                 }}
                 className="btn bg-gray-800 text-white w-full hover:bg-gray-700 text-sm"
                 style={{
@@ -201,8 +231,8 @@ const PropertyDetailPage: React.FC = () => {
                 <button 
                   className="btn btn-outline text-sm"
                   onClick={() => {
-                    console.log('Concessions PayPal payment for property:', property.id);
-                    setShowPayPal('concession');
+                    console.log('Concession PayPal payment for property:', property.id);
+                    handlePayPalPayment('concession');
                   }}
                   style={{
                     pointerEvents: 'auto' as any,
@@ -214,8 +244,11 @@ const PropertyDetailPage: React.FC = () => {
                 </button>
                 <button 
                   onClick={() => {
-                    console.log('Concessions Crypto payment for property:', property.id);
+                    console.log('Concession Crypto payment for property:', property.id);
                     setShowCrypto('concession');
+                    setTimeout(() => {
+                      document.getElementById('crypto-modal')?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    }, 100);
                   }}
                   className="btn bg-gray-700 text-white hover:bg-gray-600 text-sm"
                   style={{
@@ -243,7 +276,7 @@ const PropertyDetailPage: React.FC = () => {
                   className="btn btn-outline text-sm"
                   onClick={() => {
                     console.log('History PayPal payment for property:', property.id);
-                    setShowPayPal('history');
+                    handlePayPalPayment('history');
                   }}
                   style={{
                     pointerEvents: 'auto' as any,
@@ -257,6 +290,9 @@ const PropertyDetailPage: React.FC = () => {
                   onClick={() => {
                     console.log('History Crypto payment for property:', property.id);
                     setShowCrypto('history');
+                    setTimeout(() => {
+                      document.getElementById('crypto-modal')?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    }, 100);
                   }}
                   className="btn bg-gray-700 text-white hover:bg-gray-600 text-sm"
                   style={{
@@ -298,76 +334,9 @@ const PropertyDetailPage: React.FC = () => {
         </div>
       </div>
 
-      {/* PayPal Payment Modal */}
-      {showPayPal && property && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
-          <div className="bg-white rounded-lg p-6 max-w-md w-full">
-            <div className="flex justify-between items-center mb-4">
-              <h3 className="text-xl font-semibold">
-                💳 {showPayPal === 'contact' ? 'Contact Information' :
-                 showPayPal === 'concession' ? 'CR Legal Concessions' :
-                 'Property History'} Payment
-              </h3>
-              <button
-                onClick={() => setShowPayPal(null)}
-                className="text-gray-400 hover:text-gray-600 text-xl font-bold"
-              >
-                ✕
-              </button>
-            </div>
-            
-            <div className="mb-4">
-              <p className="text-gray-600 text-sm mb-2">
-                Amount: <span className="font-bold text-lg">
-                  ${showPayPal === 'contact' ? 
-                    (property.category === 'luxury' ? '15.00' : 
-                     property.category === 'commercial' ? '10.00' : 
-                     property.category === 'land' ? '7.50' : '5.00') :
-                    showPayPal === 'concession' ? '12.00' : '8.00'}
-                </span>
-              </p>
-              <p className="text-gray-600 text-sm">
-                Property: {property.title}
-              </p>
-            </div>
-            
-            <div className="space-y-4">
-              <div className="bg-blue-50 border-2 border-blue-200 rounded-lg p-4 text-center">
-                <div className="text-4xl mb-2">💳</div>
-                <div className="text-lg font-bold text-blue-900">
-                  PayPal Payment
-                </div>
-                <div className="text-sm text-blue-700">
-                  ${showPayPal === 'contact' ? 
-                    (property.category === 'luxury' ? '15.00' : 
-                     property.category === 'commercial' ? '10.00' : 
-                     property.category === 'land' ? '7.50' : '5.00') :
-                    showPayPal === 'concession' ? '12.00' : '8.00'} one-time payment
-                </div>
-              </div>
-              
-              {/* PayPal Hosted Button Container */}
-              <div className="bg-white p-4 rounded-lg border">
-                <div id={`paypal-container-${showPayPal}-${property.id}`} className="w-full"></div>
-              </div>
-              
-              <div className="text-xs text-gray-500 text-center">
-                ✅ Secure PayPal payment processing<br />
-                ✅ Instant report delivery via email<br />
-                ✅ One-time payment, no recurring charges
-              </div>
-              
-              <div className="text-xs text-center text-gray-400">
-                Note: PayPal will calculate the total amount for your selected service
-              </div>
-            </div>
-          </div>
-        </div>
-      )}
-
       {/* Crypto Payment Modal */}
       {showCrypto && property && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
+        <div id="crypto-modal" className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
           <div className="bg-white rounded-lg p-6 max-w-md w-full">
             <div className="flex justify-between items-center mb-4">
               <h3 className="text-xl font-semibold">

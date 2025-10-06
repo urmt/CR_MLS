@@ -57,20 +57,28 @@ class GitHubDatabaseService {
       return cached.data as T;
     }
 
+    // Check if we're in development mode or IPFS deployment and use local files
+    const isLocalDeployment = import.meta.env.DEV || 
+      window.location.hostname === 'localhost' ||
+      window.location.hostname.includes('ipfs') ||
+      window.location.hostname.includes('gateway') ||
+      window.location.protocol === 'file:' ||
+      !this.credentials?.github?.rawContentUrl;
+
     try {
       let url: string;
       
-      // Check if we're in development mode and use local files
-      if (import.meta.env.DEV || window.location.hostname === 'localhost') {
-        // Use local database files for development
+      if (isLocalDeployment) {
+        // Use local database files for development and IPFS deployment
         url = `/database/${path}`;
       } else {
-        // Use GitHub raw content for production
+        // Use GitHub raw content for production with GitHub credentials
         url = `${this.credentials?.github.rawContentUrl}/${path}`;
       }
       
       console.log(`🔍 Fetching from: ${url}`);
       console.log(`🌐 Environment - DEV: ${import.meta.env.DEV}, hostname: ${window.location.hostname}`);
+      console.log(`📦 Local deployment detected: ${isLocalDeployment}`);
       
       const response = await axios.get(url, {
         timeout: 10000,
@@ -95,8 +103,8 @@ class GitHubDatabaseService {
         return cached.data as T;
       }
       
-      // If in development and fetching active properties, return mock data
-      if ((import.meta.env.DEV || window.location.hostname === 'localhost') && path === 'properties/active.json') {
+      // If in local deployment (dev/IPFS) and fetching active properties, return mock data as fallback
+      if (isLocalDeployment && path === 'properties/active.json') {
         console.warn('🔧 Using fallback mock data for active properties');
         const mockData = {
           properties: [
