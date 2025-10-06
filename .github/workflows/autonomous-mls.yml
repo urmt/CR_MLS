@@ -180,7 +180,7 @@ jobs:
         node-version: '18'
         cache: 'npm'
 
-     - name: Sync latest database to client
+    - name: Sync latest database to client
       run: |
         echo "🔄 Syncing latest GitHub database to client deployment..."
         
