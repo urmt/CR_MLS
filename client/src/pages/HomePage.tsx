@@ -1,15 +1,19 @@
 import React, { useState } from 'react';
 import { useQuery } from '@tanstack/react-query';
 import { Link } from 'react-router-dom';
+import QRCode from 'react-qr-code';
 import GitHubDatabase from '../services/githubDatabase';
 import CryptoPayment from '../components/CryptoPayment';
 import PayPalPayment from '../components/PayPalPayment';
-import PayPalPropertyPayment from '../components/PayPalPropertyPayment';
+import PropertyReportSelector from '../components/PropertyReportSelector';
+import LoadingScreen from '../components/LoadingScreen';
+import { ReportType } from '../types/reports';
 
 const HomePage: React.FC = () => {
   const [activeTab, setActiveTab] = useState('buy');
   const [showAgentPayment, setShowAgentPayment] = useState<'individual_crypto' | 'office_crypto' | 'individual_paypal' | 'office_paypal' | 'individual_paypal_onetime' | 'office_paypal_onetime' | null>(null);
   const [selectedProperties, setSelectedProperties] = useState<string[]>([]);
+  const [showReportSelector, setShowReportSelector] = useState(false);
   const [searchFilters, setSearchFilters] = useState({
     category: '',
     minPrice: '',
@@ -45,17 +49,10 @@ const HomePage: React.FC = () => {
     }
   }) : [];
 
-  // Calculate total cost for selected properties
-  const calculateTotal = () => {
-    return selectedProperties.reduce((total, propertyId) => {
-      const property = allProperties.find(p => p.id === propertyId);
-      if (!property) return total;
-      
-      const price = property.category === 'luxury' ? 15.00 : 
-                    property.category === 'commercial' ? 10.00 : 
-                    property.category === 'land' ? 7.50 : 5.00;
-      return total + price;
-    }, 0);
+  // Handle property report purchase success
+  const handleReportPurchaseSuccess = (reportType: ReportType, properties: string[]) => {
+    alert(`Success! You have purchased ${reportType.name} for ${properties.length} properties. You will receive your reports via email within ${reportType.deliveryTime}.`);
+    setSelectedProperties([]);
   };
 
   // Toggle property selection
@@ -67,26 +64,17 @@ const HomePage: React.FC = () => {
     );
   };
 
+  // Debug state changes - console only
+  React.useEffect(() => {
+    console.log('🎯 showAgentPayment state changed to:', showAgentPayment);
+  }, [showAgentPayment]);
+  
+  React.useEffect(() => {
+    console.log('📄 showReportSelector state changed to:', showReportSelector);
+  }, [showReportSelector]);
+
   if (isLoading) {
-    return (
-      <div className="loading-container">
-        <div className="loading-content">
-          <div className="spinner-large"></div>
-          <h2 className="loading-title">Loading from Decentralized Database</h2>
-          <p className="loading-message">
-            Fetching property data from IPFS network...
-            <br />
-            <span className="loading-estimate">This may take 30-90 seconds based on network speed</span>
-          </p>
-          <div className="loading-progress">
-            <div className="progress-bar">
-              <div className="progress-fill"></div>
-            </div>
-            <p className="progress-text">Connecting to distributed nodes...</p>
-          </div>
-        </div>
-      </div>
-    );
+    return <LoadingScreen message="Loading Costa Rica MLS Database" estimatedDuration={60000} />;
   }
 
   if (error) {
@@ -120,7 +108,7 @@ const HomePage: React.FC = () => {
                 onClick={() => setActiveTab('new')}
                 className={`nav-link ${activeTab === 'new' ? 'font-semibold text-blue-600' : ''}`}
               >
-                New Homes
+                Homes
               </button>
               <button 
                 onClick={() => setActiveTab('agent')}
@@ -161,13 +149,29 @@ const HomePage: React.FC = () => {
                       <div className="grid grid-cols-2 gap-2 mt-2">
                         <button 
                           className="btn btn-outline btn-sm text-xs"
-                          onClick={() => setShowAgentPayment('office_paypal')}
+                          onClick={() => {
+                            console.log('Setting showAgentPayment to office_paypal');
+                            setShowAgentPayment('office_paypal');
+                          }}
+                          style={{
+                            pointerEvents: 'auto !important',
+                            zIndex: 999,
+                            position: 'relative'
+                          }}
                         >
                           💳 PayPal Sub
                         </button>
                         <button 
                           className="btn bg-gray-800 text-white hover:bg-gray-700 btn-sm text-xs"
-                          onClick={() => setShowAgentPayment('office_crypto')}
+                          onClick={() => {
+                            console.log('Setting showAgentPayment to office_crypto');
+                            setShowAgentPayment('office_crypto');
+                          }}
+                          style={{
+                            pointerEvents: 'auto !important',
+                            zIndex: 999,
+                            position: 'relative'
+                          }}
                         >
                           🪙 Crypto
                         </button>
@@ -175,7 +179,15 @@ const HomePage: React.FC = () => {
                       <div className="grid grid-cols-2 gap-2 mt-1">
                         <button 
                           className="btn btn-ghost btn-sm text-xs"
-                          onClick={() => setShowAgentPayment('office_paypal_onetime')}
+                          onClick={() => {
+                            console.log('Setting showAgentPayment to office_paypal_onetime');
+                            setShowAgentPayment('office_paypal_onetime');
+                          }}
+                          style={{
+                            pointerEvents: 'auto !important',
+                            zIndex: 999,
+                            position: 'relative'
+                          }}
                         >
                           💳 PayPal 1-Time
                         </button>
@@ -184,19 +196,43 @@ const HomePage: React.FC = () => {
                     <div className="grid grid-cols-3 gap-2 mt-3">
                       <button 
                         className="btn btn-primary btn-sm text-xs"
-                        onClick={() => setShowAgentPayment('individual_paypal')}
+                        onClick={() => {
+                          console.log('Setting showAgentPayment to individual_paypal');
+                          setShowAgentPayment('individual_paypal');
+                        }}
+                        style={{
+                          pointerEvents: 'auto !important',
+                          zIndex: 999,
+                          position: 'relative'
+                        }}
                       >
                         💳 PayPal Sub
                       </button>
                       <button 
                         className="btn bg-gray-800 text-white hover:bg-gray-700 btn-sm text-xs"
-                        onClick={() => setShowAgentPayment('individual_crypto')}
+                        onClick={() => {
+                          console.log('Setting showAgentPayment to individual_crypto');
+                          setShowAgentPayment('individual_crypto');
+                        }}
+                        style={{
+                          pointerEvents: 'auto !important',
+                          zIndex: 999,
+                          position: 'relative'
+                        }}
                       >
                         🪙 Crypto
                       </button>
                       <button 
                         className="btn btn-ghost btn-sm text-xs"
-                        onClick={() => setShowAgentPayment('individual_paypal_onetime')}
+                        onClick={() => {
+                          console.log('Setting showAgentPayment to individual_paypal_onetime');
+                          setShowAgentPayment('individual_paypal_onetime');
+                        }}
+                        style={{
+                          pointerEvents: 'auto !important',
+                          zIndex: 999,
+                          position: 'relative'
+                        }}
                       >
                         💳 1-Time
                       </button>
@@ -251,7 +287,7 @@ const HomePage: React.FC = () => {
                   }`}
                   onClick={() => setActiveTab('new')}
                 >
-                  🆕 Find New Homes
+                  🏠 Find Homes
                 </button>
                 <button
                   className={`search-tab ${
@@ -341,7 +377,7 @@ const HomePage: React.FC = () => {
               {activeTab === 'new' && (
                 <>
                   <h3 className="text-xl font-semibold text-gray-800 mb-6">
-                    🆕 Discover new construction projects
+                    🏠 Find homes and residential properties
                   </h3>
                   <div className="search-grid">
                     <div className="form-group">
@@ -352,31 +388,59 @@ const HomePage: React.FC = () => {
                         type="text"
                         placeholder="Enter city or province in Costa Rica"
                         className="form-input"
+                        value={searchFilters.location}
+                        onChange={(e) => setSearchFilters({...searchFilters, location: e.target.value, category: 'residential'})}
                       />
+                    </div>
+                    <div className="form-group">
+                      <label className="form-label">🏠 Home Type</label>
+                      <select
+                        className="form-select"
+                        value={searchFilters.category || 'residential'}
+                        onChange={(e) => setSearchFilters({...searchFilters, category: e.target.value})}
+                      >
+                        <option value="residential">🏡 Residential Homes</option>
+                        <option value="luxury">🏨 Luxury Villas</option>
+                      </select>
                     </div>
                     <div className="form-group">
                       <label className="form-label">💰 Price Range</label>
                       <div className="grid grid-cols-2 gap-2">
-                        <select className="form-select">
-                          <option>Min Price</option>
-                          <option>$100K</option>
-                          <option>$200K</option>
-                          <option>$300K</option>
-                          <option>$500K</option>
+                        <select
+                          className="form-select"
+                          value={searchFilters.minPrice}
+                          onChange={(e) => setSearchFilters({...searchFilters, minPrice: e.target.value})}
+                        >
+                          <option value="">Min Price</option>
+                          <option value="100000">$100K</option>
+                          <option value="200000">$200K</option>
+                          <option value="300000">$300K</option>
+                          <option value="500000">$500K</option>
                         </select>
-                        <select className="form-select">
-                          <option>Max Price</option>
-                          <option>$300K</option>
-                          <option>$500K</option>
-                          <option>$750K</option>
-                          <option>$1M+</option>
+                        <select
+                          className="form-select"
+                          value={searchFilters.maxPrice}
+                          onChange={(e) => setSearchFilters({...searchFilters, maxPrice: e.target.value})}
+                        >
+                          <option value="">Max Price</option>
+                          <option value="300000">$300K</option>
+                          <option value="500000">$500K</option>
+                          <option value="750000">$750K</option>
+                          <option value="1000000">$1M+</option>
                         </select>
                       </div>
                     </div>
                   </div>
                   <div className="text-center mt-8">
-                    <button className="btn btn-secondary btn-xl">
-                      🆕 Search New Homes
+                    <button 
+                      className="btn btn-secondary btn-xl"
+                      onClick={() => {
+                        // Apply home filter and scroll to results
+                        setSearchFilters({...searchFilters, category: searchFilters.category || 'residential'});
+                        document.getElementById('properties-section')?.scrollIntoView({ behavior: 'smooth' });
+                      }}
+                    >
+                      🏠 Search Homes
                     </button>
                   </div>
                 </>
@@ -605,7 +669,7 @@ const HomePage: React.FC = () => {
       </div>
 
       {/* Featured Properties Section */}
-      <div className="section bg-white">
+      <div id="properties-section" className="section bg-white">
         <div className="container">
           <div className="flex justify-between items-center mb-8">
             <h2 className="section-title text-left mb-0">
@@ -618,51 +682,46 @@ const HomePage: React.FC = () => {
             )}
           </div>
 
-          {/* Bulk Purchase Bar */}
+
+          {/* Property Report Selection Bar */}
           {selectedProperties.length > 0 && (
             <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-8">
               <div className="flex justify-between items-center">
                 <div>
                   <span className="font-semibold text-blue-900">
-                    {selectedProperties.length} properties selected
+                    {selectedProperties.length} propert{selectedProperties.length === 1 ? 'y' : 'ies'} selected
                   </span>
                   <span className="text-blue-700 ml-2">
-                    Total: ${calculateTotal().toFixed(2)}
+                    Choose your report type to get pricing
                   </span>
                 </div>
-                <div className="flex gap-2">
+                <div className="flex gap-2 flex-wrap">
                   <button 
                     onClick={() => setSelectedProperties([])}
                     className="btn btn-ghost btn-sm text-blue-600"
                   >
                     Clear Selection
                   </button>
-                  <div className="inline-block">
-                    <PayPalPropertyPayment
-                      amount={calculateTotal()}
-                      propertyCount={selectedProperties.length}
-                      onSuccess={(data) => {
-                        console.log('Property payment success:', data);
-                        alert(`Payment successful! You will receive contact information for ${selectedProperties.length} properties via email within 24 hours.`);
-                        setSelectedProperties([]);
-                      }}
-                      onError={(error) => {
-                        console.error('Property payment error:', error);
-                        alert('Payment failed. Please try again or contact support.');
-                      }}
-                    />
-                  </div>
-                  <div className="inline-block">
-                    <CryptoPayment
-                      amount={calculateTotal()}
-                      description={`Contact info for ${selectedProperties.length} properties`}
-                      onPaymentComplete={() => {
-                        alert(`Payment initiated for ${selectedProperties.length} properties! You'll receive contact information via email once payment is confirmed.`);
-                        setSelectedProperties([]);
-                      }}
-                    />
-                  </div>
+                  <button
+                    onClick={() => {
+                      console.log('Buy Reports button clicked', { selectedProperties });
+                      console.log('Setting showReportSelector to true');
+                      alert('Buy Reports button clicked! Opening report selector...');
+                      setShowReportSelector(true);
+                    }}
+                    className="btn btn-primary btn-sm"
+                    style={{
+                      pointerEvents: 'auto !important',
+                      zIndex: 999,
+                      position: 'relative'
+                    }}
+                  >
+                    🇨🇷 Buy Reports
+                  </button>
                 </div>
+              </div>
+              <div className="mt-3 text-sm text-blue-700">
+                💡 Get contact info, legal compliance, or complete due diligence reports for Costa Rica properties
               </div>
             </div>
           )}
@@ -671,9 +730,6 @@ const HomePage: React.FC = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
             {properties.slice(0, 8).map((property) => {
               const isSelected = selectedProperties.includes(property.id);
-              const contactPrice = property.category === 'luxury' ? 15.00 : 
-                                  property.category === 'commercial' ? 10.00 : 
-                                  property.category === 'land' ? 7.50 : 5.00;
               
               return (
               <div key={property.id} className={`property-card relative ${isSelected ? 'ring-2 ring-blue-500' : ''}`}>
@@ -687,7 +743,7 @@ const HomePage: React.FC = () => {
                       className="w-5 h-5 text-blue-600 bg-white border-gray-300 rounded focus:ring-blue-500"
                     />
                     <span className="ml-2 text-white text-sm font-medium bg-black bg-opacity-50 px-2 py-1 rounded">
-                      ${contactPrice}
+                      📋 Reports
                     </span>
                   </label>
                 </div>
@@ -836,48 +892,225 @@ const HomePage: React.FC = () => {
 
       {/* Agent Payment Modal */}
       {showAgentPayment && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
-          <div className="bg-white rounded-lg p-6 max-w-md w-full">
+        <div 
+          className="fixed inset-0 flex items-center justify-center p-4"
+          style={{
+            zIndex: 99999,
+            backgroundColor: 'rgba(0, 0, 0, 0.7)',
+            backdropFilter: 'blur(2px)',
+            position: 'fixed',
+            top: 0,
+            left: 0,
+            width: '100vw',
+            height: '100vh'
+          }}
+          onClick={(e) => {
+            console.log('Agent modal backdrop clicked');
+            e.stopPropagation();
+          }}
+        >
+          <div 
+            className="bg-white rounded-lg p-6 max-w-md w-full shadow-2xl"
+            style={{
+              maxHeight: '90vh',
+              overflow: 'auto',
+              border: '2px solid #3b82f6',
+              backgroundColor: '#ffffff',
+              position: 'relative',
+              zIndex: 100000
+            }}
+            onClick={(e) => {
+              console.log('Agent modal content clicked');
+              e.stopPropagation();
+            }}
+          >
             <div className="flex justify-between items-center mb-4">
-              <h3 className="text-xl font-semibold">
-                {showAgentPayment.includes('individual') ? 'Individual Agent' : 'Office Plan'} Payment
+              <h3 className="text-xl font-semibold text-blue-600">
+                🎉 {showAgentPayment.includes('individual') ? 'Individual Agent' : 'Office Plan'} Payment
               </h3>
               <button
-                onClick={() => setShowAgentPayment(null)}
-                className="text-gray-400 hover:text-gray-600"
+                onClick={() => {
+                  alert('Closing payment modal');
+                  setShowAgentPayment(null);
+                }}
+                className="text-gray-400 hover:text-gray-600 text-2xl font-bold"
+                style={{
+                  padding: '5px 10px',
+                  borderRadius: '50%',
+                  border: '1px solid #ccc'
+                }}
               >
                 ✕
               </button>
             </div>
             
             {showAgentPayment.includes('crypto') ? (
-              <CryptoPayment
-                amount={showAgentPayment.includes('individual') ? 30 : 100}
-                description={`${showAgentPayment.includes('individual') ? 'Individual Agent ($30)' : 'Office Plan ($100)'} - One-time payment for 1 month access`}
-                onPaymentComplete={() => {
-                  setShowAgentPayment(null);
-                  alert('Crypto payment initiated! You will be added to the agent directory once payment is confirmed.');
-                }}
-              />
+              <div>
+                <div className="bg-gray-800 text-white rounded-lg p-4">
+                  <h4 className="font-semibold mb-3">🪙 Pay with Cryptocurrency</h4>
+                  <p className="text-sm text-gray-300 mb-4">
+                    {showAgentPayment.includes('individual') ? 'Individual Agent ($30)' : 'Office Plan ($100)'} - One-time payment for 1 month access
+                  </p>
+                  
+                  {/* Currency Selection */}
+                  <div className="grid grid-cols-3 gap-2 mb-4">
+                    {[
+                      { crypto: 'USDC', amount: showAgentPayment.includes('individual') ? '30.00' : '100.00' },
+                      { crypto: 'ETH', amount: showAgentPayment.includes('individual') ? '0.012' : '0.040' },
+                      { crypto: 'LINK', amount: showAgentPayment.includes('individual') ? '2.50' : '8.33' }
+                    ].map((option) => (
+                      <div key={option.crypto} className="bg-gray-700 p-3 rounded text-center">
+                        <div className="font-semibold">{option.crypto}</div>
+                        <div className="text-sm">{option.amount}</div>
+                      </div>
+                    ))}
+                  </div>
+                  
+                  <div className="bg-white p-4 rounded-lg mb-4 flex justify-center">
+                    <QRCode 
+                      value="0x9686beb7a2Dfd4D3362452DD1EB99a6fDFE30E79" 
+                      size={200}
+                      style={{ margin: '0 auto' }}
+                    />
+                  </div>
+                  
+                  <div className="space-y-3">
+                    <div>
+                      <div className="text-sm text-gray-400">Recommended: USDC</div>
+                      <div className="font-mono">${showAgentPayment.includes('individual') ? '30.00' : '100.00'} USDC</div>
+                    </div>
+                    
+                    <div>
+                      <div className="text-sm text-gray-400">Wallet Address (Polygon Network)</div>
+                      <div className="font-mono text-xs bg-gray-700 p-2 rounded break-all">
+                        0x9686beb7a2Dfd4D3362452DD1EB99a6fDFE30E79
+                      </div>
+                    </div>
+                    
+                    <div className="text-xs text-gray-400 bg-gray-700 p-3 rounded">
+                      📱 <strong>Mobile:</strong> Scan QR code with your crypto wallet<br />
+                      💻 <strong>Desktop:</strong> Send to the wallet address above<br />
+                      ⚠️ <strong>Network:</strong> Use Polygon (MATIC) network for lower fees
+                    </div>
+                    
+                    <button
+                      onClick={() => {
+                        setShowAgentPayment(null);
+                        alert('Crypto payment initiated! You will be added to the agent directory once payment is confirmed.');
+                      }}
+                      className="w-full bg-green-600 hover:bg-green-700 text-white py-2 px-4 rounded transition-colors"
+                    >
+                      ✅ I've Sent the Payment
+                    </button>
+                  </div>
+                </div>
+              </div>
             ) : (
-              <PayPalPayment
-                type={
-                  showAgentPayment === 'individual_paypal' ? 'individual_subscription' :
-                  showAgentPayment === 'office_paypal' ? 'office_subscription' :
-                  showAgentPayment === 'individual_paypal_onetime' ? 'individual_onetime' :
-                  'office_onetime'
-                }
-                onSuccess={(data) => {
-                  setShowAgentPayment(null);
-                  console.log('PayPal payment success:', data);
-                  alert(`PayPal payment successful! ${data.type === 'subscription' ? 'Subscription activated.' : 'One-time payment confirmed.'} You will be added to the agent directory.`);
-                }}
-                onError={(error) => {
-                  console.error('PayPal payment error:', error);
-                  alert('PayPal payment failed. Please try again.');
-                }}
-              />
+              <div>
+                <div className="bg-white border border-gray-200 rounded-lg p-4">
+                  <h4 className="font-semibold text-gray-900 mb-2">
+                    💳 {showAgentPayment.includes('individual') ? 'Individual Agent' : 'Office Plan'} Payment
+                  </h4>
+                  <p className="text-sm text-gray-600 mb-4">
+                    ${showAgentPayment.includes('individual') ? '30' : '100'}/{showAgentPayment.includes('onetime') ? 'one-time' : 'month'} - 
+                    {showAgentPayment.includes('individual') ? 'Single agent access' : 'Up to 5 agents'}
+                  </p>
+                  
+                  <div className="bg-blue-50 border-2 border-blue-200 rounded-lg p-4 mb-4">
+                    <div className="text-center">
+                      <div className="text-4xl mb-2">💳</div>
+                      <div className="text-lg font-bold text-blue-900">
+                        PayPal Payment
+                      </div>
+                      <div className="text-sm text-blue-700">
+                        ${showAgentPayment.includes('individual') ? '30' : '100'} {showAgentPayment.includes('onetime') ? 'one-time' : 'per month'}
+                      </div>
+                    </div>
+                  </div>
+                  
+                  <div className="space-y-2">
+                    <button
+                      onClick={() => {
+                        // Determine correct PayPal URL based on payment type
+                        let paypalUrl;
+                        if (showAgentPayment.includes('individual')) {
+                          if (showAgentPayment.includes('onetime')) {
+                            paypalUrl = 'https://www.paypal.com/ncp/payment/6C24XL9TFH9W6'; // Single Agent 1 Month
+                          } else {
+                            paypalUrl = 'https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-12W6852680972851UNDQ3SWQ'; // Single Agent Subscription
+                          }
+                        } else {
+                          if (showAgentPayment.includes('onetime')) {
+                            paypalUrl = 'https://www.paypal.com/ncp/payment/K9FD8T9LSK6UJ'; // Office 1 Month
+                          } else {
+                            paypalUrl = 'https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-6EM0311615388473YNDRQ2SI'; // Office Subscription
+                          }
+                        }
+                        
+                        const amount = showAgentPayment.includes('individual') ? 30 : 100;
+                        const type = showAgentPayment.includes('onetime') ? 'one-time' : 'subscription';
+                        const plan = showAgentPayment.includes('individual') ? 'Individual Agent' : 'Office Plan';
+                        
+                        window.open(paypalUrl, 'paypal', 'width=600,height=700');
+                        setShowAgentPayment(null);
+                        alert(`PayPal payment for ${plan} (${type}) initiated! You will be added to the agent directory once payment is confirmed.`);
+                      }}
+                      className="w-full bg-yellow-500 hover:bg-yellow-600 text-black font-semibold py-3 px-6 rounded-lg transition-colors flex items-center justify-center gap-2"
+                    >
+                      <span>💳</span>
+                      Pay with PayPal
+                    </button>
+                    
+                    <div className="text-xs text-center text-gray-500">
+                      ✅ Real PayPal integration with live payment processing
+                    </div>
+                  </div>
+                  
+                  <div className="text-xs text-gray-500 mt-2 text-center">
+                    {showAgentPayment.includes('onetime') ? (
+                      <>✅ One-time payment only<br />✅ 30-day access<br />✅ No recurring charges</>
+                    ) : (
+                      <>✅ Automatic monthly billing<br />✅ Cancel anytime<br />✅ Immediate access</>
+                    )}
+                  </div>
+                </div>
+              </div>
             )}
+          </div>
+        </div>
+      )}
+
+      {/* Property Report Selector Modal */}
+      {showReportSelector && (
+        <div 
+          className="fixed inset-0 flex items-center justify-center p-4"
+          style={{
+            zIndex: 9999,
+            backgroundColor: 'rgba(0, 0, 0, 0.7)',
+            backdropFilter: 'blur(2px)'
+          }}
+        >
+          <div 
+            className="bg-white rounded-lg p-6 max-w-2xl w-full shadow-2xl"
+            style={{
+              maxHeight: '90vh',
+              overflow: 'auto',
+              border: '2px solid #10b981'
+            }}
+          >
+            <h2 className="text-2xl font-bold text-green-600 mb-4">
+              📄 Property Report Selector
+            </h2>
+            <p className="mb-4">Selected Properties: {selectedProperties.length}</p>
+            <PropertyReportSelector
+              selectedProperties={selectedProperties}
+              onClose={() => {
+                console.log('Closing report selector');
+                alert('Closing Property Report Selector');
+                setShowReportSelector(false);
+              }}
+              onSuccess={handleReportPurchaseSuccess}
+            />
           </div>
         </div>
       )}

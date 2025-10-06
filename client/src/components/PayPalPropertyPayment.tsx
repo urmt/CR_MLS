@@ -38,13 +38,19 @@ const PayPalPropertyPayment: React.FC<PayPalPropertyPaymentProps> = ({
     };
 
     const renderPayPalButton = () => {
-      if (!paypalRef.current) return;
+      console.log('Attempting to render PayPal button', { amount, propertyCount });
+      
+      if (!paypalRef.current) {
+        console.error('PayPal ref not available');
+        return;
+      }
       
       // Clear any existing content
       paypalRef.current.innerHTML = '';
 
       try {
         if (window.paypal && window.paypal.HostedButtons) {
+          console.log('PayPal HostedButtons available, rendering...');
           window.paypal.HostedButtons({
             hostedButtonId: "YWQX3PE2SH4ZA",
           }).render(paypalRef.current).then(() => {

@@ -47,7 +47,7 @@ class GitHubDatabaseService {
   private credentials = EncryptionManager.getCredentials();
 
   /**
-   * Fetch data from GitHub raw content
+   * Fetch data from GitHub raw content or local files in development
    */
   private async fetchFromGitHub<T>(path: string): Promise<T> {
     const cacheKey = path;
@@ -58,7 +58,20 @@ class GitHubDatabaseService {
     }
 
     try {
-      const url = `${this.credentials?.github.rawContentUrl}/${path}`;
+      let url: string;
+      
+      // Check if we're in development mode and use local files
+      if (import.meta.env.DEV || window.location.hostname === 'localhost') {
+        // Use local database files for development
+        url = `/database/${path}`;
+      } else {
+        // Use GitHub raw content for production
+        url = `${this.credentials?.github.rawContentUrl}/${path}`;
+      }
+      
+      console.log(`🔍 Fetching from: ${url}`);
+      console.log(`🌐 Environment - DEV: ${import.meta.env.DEV}, hostname: ${window.location.hostname}`);
+      
       const response = await axios.get(url, {
         timeout: 10000,
         headers: {
@@ -66,17 +79,54 @@ class GitHubDatabaseService {
           'Cache-Control': 'no-cache'
         }
       });
+      
+      console.log(`✅ Successfully fetched ${path}, status: ${response.status}`);
+      console.log(`📊 Data preview:`, response.data);
 
       const data = response.data;
       this.cache.set(cacheKey, { data, timestamp: Date.now() });
       return data;
     } catch (error) {
-      console.error(`Failed to fetch ${path} from GitHub:`, error);
+      console.error(`Failed to fetch ${path}:`, error);
       
       // Return cached data if available, even if expired
       if (cached) {
         console.warn(`Using expired cache for ${path}`);
         return cached.data as T;
+      }
+      
+      // If in development and fetching active properties, return mock data
+      if ((import.meta.env.DEV || window.location.hostname === 'localhost') && path === 'properties/active.json') {
+        console.warn('🔧 Using fallback mock data for active properties');
+        const mockData = {
+          properties: [
+            {
+              id: 'mock_001',
+              title: 'Beautiful Mock House in San José',
+              price_usd: 350000,
+              price_text: '$350,000',
+              location: 'San José, Costa Rica',
+              description: 'This is mock data for development testing',
+              images: ['mock1.jpg'],
+              source: 'mock_data',
+              category: 'residential',
+              scraped_at: new Date().toISOString()
+            },
+            {
+              id: 'mock_002', 
+              title: 'Luxury Mock Villa in Escazú',
+              price_usd: 850000,
+              price_text: '$850,000',
+              location: 'Escazú, San José, Costa Rica',
+              description: 'Premium mock property for testing payments',
+              images: ['mock2.jpg', 'mock3.jpg'],
+              source: 'mock_data',
+              category: 'luxury',
+              scraped_at: new Date().toISOString()
+            }
+          ]
+        };
+        return mockData as T;
       }
       
       throw error;

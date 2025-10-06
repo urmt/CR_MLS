@@ -85,7 +85,10 @@ const CryptoPayment: React.FC<CryptoPaymentProps> = ({
         </div>
 
         <button
-          onClick={() => setShowQR(true)}
+          onClick={() => {
+            console.log('Crypto payment button clicked', { selectedCrypto, amount: cryptoAmounts[selectedCrypto] });
+            setShowQR(true);
+          }}
           className="w-full bg-blue-600 hover:bg-blue-700 text-white py-2 px-4 rounded transition-colors"
         >
           Generate QR Code ({cryptoAmounts[selectedCrypto]} {selectedCrypto})

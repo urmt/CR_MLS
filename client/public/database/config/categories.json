@@ -1,0 +1,50 @@
+{
+  "categories": {
+    "residential": {
+      "name": "Residential Properties",
+      "subcategories": ["house", "condo", "apartment", "townhouse"],
+      "email_price": 5.00,
+      "pdf_template": "residential",
+      "auto_email": true,
+      "frequency": "daily"
+    },
+    "commercial": {
+      "name": "Commercial Properties", 
+      "subcategories": ["office", "retail", "warehouse", "industrial"],
+      "email_price": 10.00,
+      "pdf_template": "commercial",
+      "auto_email": true,
+      "frequency": "weekly"
+    },
+    "land": {
+      "name": "Land & Lots",
+      "subcategories": ["residential_land", "commercial_land", "farm_land", "beach_front"],
+      "email_price": 7.50,
+      "pdf_template": "land",
+      "auto_email": true,
+      "frequency": "daily"
+    },
+    "luxury": {
+      "name": "Luxury Properties",
+      "subcategories": ["luxury_home", "penthouse", "estate", "villa"],
+      "email_price": 15.00,
+      "pdf_template": "luxury", 
+      "auto_email": true,
+      "frequency": "weekly"
+    }
+  },
+  "pricing_tiers": {
+    "basic": {
+      "max_properties": 50,
+      "price": 5.00
+    },
+    "premium": {
+      "max_properties": 100,
+      "price": 10.00
+    },
+    "unlimited": {
+      "max_properties": -1,
+      "price": 25.00
+    }
+  }
+}

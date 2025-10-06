@@ -1050,3 +1050,97 @@ input:focus, select:focus, textarea:focus {
 .to-gray-50 {
   --tw-gradient-to: #f9fafb;
 }
+
+/* Enhanced Loading Screen Styles */
+.progress-stats {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.progress-text, .time-elapsed {
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+.network-status {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.status-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+  opacity: 0.9;
+}
+
+.status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.3);
+  transition: all 0.3s ease;
+}
+
+.status-dot.connecting {
+  animation: blink 1.5s ease-in-out infinite;
+}
+
+.status-dot.connected {
+  background-color: #4ade80;
+  box-shadow: 0 0 8px rgba(74, 222, 128, 0.5);
+}
+
+.loading-tips {
+  margin-top: 2rem;
+}
+
+.tip {
+  font-size: 0.9rem;
+  opacity: 0.8;
+  margin-bottom: 0.5rem;
+  padding: 0.5rem 1rem;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+  line-height: 1.5;
+}
+
+.tip.warning {
+  background-color: rgba(252, 165, 165, 0.2);
+  border: 1px solid rgba(252, 165, 165, 0.3);
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 0.3; }
+  50% { opacity: 1; }
+}
+
+.progress-fill {
+  transition: width 0.3s ease;
+}
+
+/* CRITICAL FIX: Ensure all buttons are clickable */
+.btn, button {
+  pointer-events: auto !important;
+  z-index: 10 !important;
+  position: relative !important;
+}
+
+/* Fix for payment buttons specifically */
+.btn-primary, .btn-secondary, .btn-ghost {
+  pointer-events: auto !important;
+  z-index: 20 !important;
+}
+
+/* Ensure test buttons are always clickable */
+[style*="background-color: #ef4444"],
+[style*="background-color: #1f2937"],
+[style*="background-color: #0070ba"] {
+  pointer-events: auto !important;
+  z-index: 50 !important;
+  position: relative !important;
+}

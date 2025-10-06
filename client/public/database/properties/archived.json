@@ -1,0 +1,139 @@
+{
+  "properties": [
+    {
+      "id": "sample_001",
+      "title": "Beautiful House in Escazu",
+      "price_usd": 350000,
+      "price_text": "$350,000",
+      "location": "Escazu, San Jose, Costa Rica",
+      "description": "Stunning 3-bedroom house with mountain views in the prestigious Escazu area. Modern kitchen, large living spaces, and private garden.",
+      "images": [
+        "https://example.com/house1_1.jpg",
+        "https://example.com/house1_2.jpg"
+      ],
+      "url": "https://example.com/property/sample_001",
+      "source": "sample_data",
+      "category": "residential",
+      "scraped_at": "2024-12-15T10:00:00Z",
+      "archived_at": "2025-10-04T23:41:54.945Z",
+      "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "id": "sample_002",
+      "title": "Beachfront Condo in Guanacaste",
+      "price_usd": 220000,
+      "price_text": "$220,000",
+      "location": "Tamarindo, Guanacaste, Costa Rica",
+      "description": "Luxury 2-bedroom oceanfront condo with direct beach access. Perfect for vacation rental or permanent residence.",
+      "images": [
+        "https://example.com/condo1_1.jpg"
+      ],
+      "url": "https://example.com/property/sample_002",
+      "source": "sample_data",
+      "category": "luxury",
+      "scraped_at": "2024-12-15T10:15:00Z",
+      "archived_at": "2025-10-04T23:41:54.945Z",
+      "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "id": "cr_003",
+      "title": "Commercial Plaza - Downtown San José",
+      "price_usd": 1200000,
+      "price_text": "$1,200,000",
+      "location": "San José Centro, San José, Costa Rica",
+      "description": "Prime commercial property in heart of San José. 3-story building with retail spaces and offices. Excellent investment opportunity.",
+      "images": [
+        "https://example.com/commercial1.jpg",
+        "https://example.com/commercial2.jpg"
+      ],
+      "url": "https://example.com/property/cr_003",
+      "source": "Craigslist CR",
+      "category": "commercial",
+      "scraped_at": "2024-10-04T12:45:00Z",
+      "archived_at": "2025-10-04T23:41:54.945Z",
+      "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "id": "cr_004",
+      "title": "Oceanview Land - Guanacaste Province",
+      "price_usd": 180000,
+      "price_text": "$180,000",
+      "location": "Nosara, Guanacaste, Costa Rica",
+      "description": "2.5 hectares of pristine land with ocean views. Perfect for development or private estate. Water and electricity access available.",
+      "images": [
+        "https://example.com/land1.jpg",
+        "https://example.com/ocean_view.jpg"
+      ],
+      "url": "https://example.com/property/cr_004",
+      "source": "Encuentra24",
+      "category": "land",
+      "scraped_at": "2024-10-04T11:20:00Z",
+      "archived_at": "2025-10-04T23:41:54.945Z",
+      "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "id": "cr_005",
+      "title": "Mountain Retreat - Monteverde Cloud Forest",
+      "price_usd": 425000,
+      "price_text": "$425,000",
+      "location": "Monteverde, Puntarenas, Costa Rica",
+      "description": "Eco-friendly 3-bedroom house surrounded by cloud forest. Solar power, rainwater collection, and breathtaking mountain views.",
+      "images": [
+        "https://example.com/mountain1.jpg",
+        "https://example.com/mountain2.jpg",
+        "https://example.com/forest.jpg"
+      ],
+      "url": "https://example.com/property/cr_005",
+      "source": "Lamudi",
+      "category": "residential",
+      "scraped_at": "2024-10-04T10:30:00Z",
+      "archived_at": "2025-10-04T23:41:54.945Z",
+      "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "id": "cr_006",
+      "title": "Coffee Farm & Processing Facility",
+      "price_usd": 750000,
+      "price_text": "$750,000",
+      "location": "Atenas, Alajuela, Costa Rica",
+      "description": "Working coffee plantation on 15 hectares. Includes processing facility, farmhouse, and established coffee trees. Turn-key operation.",
+      "images": [
+        "https://example.com/farm1.jpg",
+        "https://example.com/coffee_trees.jpg",
+        "https://example.com/facility.jpg"
+      ],
+      "url": "https://example.com/property/cr_006",
+      "source": "Lamudi",
+      "category": "commercial",
+      "scraped_at": "2024-10-04T08:15:00Z",
+      "archived_at": "2025-10-04T23:41:54.945Z",
+      "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "id": "pending_001",
+      "title": "Luxury Villa - Escazu Hills",
+      "price_usd": 950000,
+      "price_text": "$950,000",
+      "location": "Escazu Hills, San José, Costa Rica",
+      "description": "Exclusive 5-bedroom villa with panoramic city and mountain views. Listed by qualified agent pending verification.",
+      "images": [
+        "https://example.com/villa_pending1.jpg"
+      ],
+      "url": "https://example.com/property/pending_001",
+      "source": "agent_submission",
+      "category": "luxury",
+      "listing_agent": {
+        "agent_id": "agent_001",
+        "name": "John Doe",
+        "company": "Costa Rica Premier Realty",
+        "phone": "+506-1234-5678",
+        "email": "john.doe@example.com"
+      },
+      "status": "pending_verification",
+      "scraped_at": "2024-10-04T16:30:00Z",
+      "archived_at": "2025-10-04T23:41:54.949Z",
+      "archive_reason": "90_day_auto_purge_pending"
+    }
+  ],
+  "last_updated": "2025-10-04T23:41:54.950Z"
+}

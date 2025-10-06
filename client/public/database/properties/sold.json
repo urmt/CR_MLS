@@ -1,0 +1,209 @@
+{
+  "properties": [
+    {
+      "id": "sold_001",
+      "title": "Beachfront Condo - Manuel Antonio",
+      "original_price_usd": 480000,
+      "sold_price_usd": 465000,
+      "price_reduction": 15000,
+      "location": "Manuel Antonio, Puntarenas, Costa Rica",
+      "description": "Luxury 3-bedroom oceanfront condo with direct beach access. Sold by qualified agent.",
+      "images": [
+        "https://example.com/sold_condo1.jpg",
+        "https://example.com/sold_condo2.jpg"
+      ],
+      "category": "luxury",
+      "listing_agent": {
+        "agent_id": "agent_001",
+        "name": "John Doe",
+        "company": "Costa Rica Premier Realty",
+        "phone": "+506-1234-5678",
+        "email": "john.doe@example.com",
+        "license": "CR-123456"
+      },
+      "sale_details": {
+        "listed_date": "2024-08-15T10:00:00Z",
+        "sold_date": "2024-09-28T15:30:00Z",
+        "days_on_market": 44,
+        "buyer_agent": {
+          "name": "Maria Rodriguez",
+          "company": "Pacific Coast Realty",
+          "agent_id": "agent_002"
+        },
+        "closing_type": "cash",
+        "commission_rate": 6.0,
+        "total_commission": 27900
+      },
+      "market_metrics": {
+        "price_per_sqft": 485,
+        "property_type": "oceanfront_condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "square_feet": 2100,
+        "lot_size": null,
+        "year_built": 2018
+      },
+      "reports_purchased": {
+        "contact_info": 23,
+        "concessions": 8,
+        "history": 12,
+        "total_revenue": 587.50
+      }
+    },
+    {
+      "id": "sold_002", 
+      "title": "Mountain Coffee Farm - Atenas",
+      "original_price_usd": 780000,
+      "sold_price_usd": 750000,
+      "price_reduction": 30000,
+      "location": "Atenas, Alajuela, Costa Rica",
+      "description": "Working coffee plantation with processing facility. Commercial property sold by office team.",
+      "images": [
+        "https://example.com/sold_farm1.jpg"
+      ],
+      "category": "commercial",
+      "listing_agent": {
+        "agent_id": "office_001",
+        "name": "Tamarindo Coastal Realty",
+        "company": "Tamarindo Coastal Realty",
+        "phone": "+506-9876-5432",
+        "email": "admin@tamarindorealty.com",
+        "license": "CR-OFFICE-789",
+        "office_agents": [
+          {
+            "name": "Carlos Mendez",
+            "role": "Commercial Specialist"
+          }
+        ]
+      },
+      "sale_details": {
+        "listed_date": "2024-07-10T09:00:00Z",
+        "sold_date": "2024-09-15T14:00:00Z", 
+        "days_on_market": 67,
+        "buyer_agent": {
+          "name": "International Buyer Direct",
+          "company": null,
+          "agent_id": null
+        },
+        "closing_type": "financed",
+        "commission_rate": 5.5,
+        "total_commission": 41250
+      },
+      "market_metrics": {
+        "price_per_acre": 50000,
+        "property_type": "coffee_farm",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "square_feet": 3200,
+        "lot_size": 15,
+        "year_built": 1995,
+        "annual_production": "2000_bags"
+      },
+      "reports_purchased": {
+        "contact_info": 31,
+        "concessions": 15,
+        "history": 18,
+        "total_revenue": 794.00
+      }
+    },
+    {
+      "id": "sold_003",
+      "title": "Residential Home - Escazu",
+      "original_price_usd": 385000,
+      "sold_price_usd": 375000,
+      "price_reduction": 10000,
+      "location": "Escazu, San José, Costa Rica",
+      "description": "Modern 3-bedroom home in prestigious Escazu neighborhood. Quick sale by qualified agent.",
+      "images": [
+        "https://example.com/sold_home1.jpg"
+      ],
+      "category": "residential",
+      "listing_agent": {
+        "agent_id": "agent_001",
+        "name": "John Doe", 
+        "company": "Costa Rica Premier Realty",
+        "phone": "+506-1234-5678",
+        "email": "john.doe@example.com",
+        "license": "CR-123456"
+      },
+      "sale_details": {
+        "listed_date": "2024-09-01T08:00:00Z",
+        "sold_date": "2024-09-18T12:00:00Z",
+        "days_on_market": 17,
+        "buyer_agent": {
+          "name": "Sarah Williams",
+          "company": "Tamarindo Coastal Realty",
+          "agent_id": "agent_004"
+        },
+        "closing_type": "financed",
+        "commission_rate": 6.0,
+        "total_commission": 22500
+      },
+      "market_metrics": {
+        "price_per_sqft": 215,
+        "property_type": "residential_home",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "square_feet": 1750,
+        "lot_size": 0.25,
+        "year_built": 2015
+      },
+      "reports_purchased": {
+        "contact_info": 18,
+        "concessions": 5,
+        "history": 9,
+        "total_revenue": 407.50
+      }
+    }
+  ],
+  "sales_analytics": {
+    "q3_2024_summary": {
+      "total_sales": 3,
+      "total_volume": 1590000,
+      "average_days_on_market": 42.67,
+      "average_commission_rate": 5.83,
+      "total_commissions": 91650,
+      "price_reduction_rate": 3.46
+    },
+    "agent_performance": {
+      "agent_001": {
+        "properties_sold": 2,
+        "total_volume": 840000,
+        "avg_days_on_market": 30.5,
+        "total_commissions": 50400,
+        "success_rate": 95.2
+      },
+      "office_001": {
+        "properties_sold": 1,
+        "total_volume": 750000,
+        "avg_days_on_market": 67,
+        "total_commissions": 41250,
+        "success_rate": 87.5
+      }
+    },
+    "category_performance": {
+      "luxury": {
+        "avg_days_on_market": 44,
+        "avg_price_reduction": 3.13
+      },
+      "commercial": {
+        "avg_days_on_market": 67,
+        "avg_price_reduction": 3.85
+      },
+      "residential": {
+        "avg_days_on_market": 17,
+        "avg_price_reduction": 2.60
+      }
+    },
+    "report_revenue": {
+      "total_monthly_revenue": 1789.00,
+      "most_popular_report": "contact_info",
+      "revenue_by_report": {
+        "contact_info": 1147.50,
+        "concessions": 336.00,
+        "history": 305.50
+      }
+    }
+  },
+  "last_updated": "2024-10-04T17:00:00Z"
+}

@@ -1,0 +1,31 @@
+{
+  "subscribers": {
+    "residential": [
+      {
+        "email": "test@example.com",
+        "name": "Test User",
+        "active": true,
+        "subscribed_at": "2024-12-15T10:00:00Z",
+        "preferences": {
+          "max_price": 500000,
+          "min_price": 100000,
+          "regions": ["San Jose", "Cartago"]
+        }
+      }
+    ],
+    "commercial": [],
+    "land": [],
+    "luxury": [
+      {
+        "email": "luxury@example.com", 
+        "name": "Luxury Buyer",
+        "active": true,
+        "subscribed_at": "2024-12-15T09:30:00Z",
+        "preferences": {
+          "min_price": 400000,
+          "regions": ["Guanacaste", "Manuel Antonio"]
+        }
+      }
+    ]
+  }
+}
