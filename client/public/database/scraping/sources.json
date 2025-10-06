@@ -59,6 +59,250 @@
       "scrape_frequency": "12h",
       "max_pages": 20
     },
+    "coldwell_banker_cr": {
+      "name": "Coldwell Banker Costa Rica",
+      "base_url": "https://www.coldwellbankercostarica.com",
+      "endpoints": {
+        "luxury": "/luxury",
+        "commercial": "/commercial",
+        "condos": "/condos-villas",
+        "homes": "/homes-estates"
+      },
+      "selectors": {
+        "listing": ".listing-card",
+        "title": ".listing-title",
+        "price": ".listing-price",
+        "location": ".listing-location",
+        "details": ".listing-details",
+        "images": ".listing-image img",
+        "link": ".listing-card a"
+      },
+      "active": true,
+      "priority": 1,
+      "scrape_frequency": "4h",
+      "max_pages": 100
+    },
+    "krain_real_estate": {
+      "name": "KRAIN Luxury Real Estate",
+      "base_url": "https://krainrealestate.com",
+      "endpoints": {
+        "all_listings": "/all-listings",
+        "luxury": "/luxury",
+        "beachfront": "/beachfront"
+      },
+      "selectors": {
+        "listing": ".property-card",
+        "title": ".property-title",
+        "price": ".property-price",
+        "location": ".property-location",
+        "details": ".property-description",
+        "images": ".property-image img",
+        "link": ".property-card a"
+      },
+      "active": true,
+      "priority": 1,
+      "scrape_frequency": "4h",
+      "max_pages": 80
+    },
+    "remax_oceansurf": {
+      "name": "RE/MAX Ocean Surf & Sun",
+      "base_url": "https://www.remax-oceansurf-cr.com",
+      "endpoints": {
+        "all_properties": "/view-all-properties",
+        "luxury": "/luxury-properties",
+        "condos": "/condos-townhomes",
+        "lots": "/residential-lots"
+      },
+      "selectors": {
+        "listing": ".property-listing",
+        "title": ".property-title",
+        "price": ".property-price",
+        "location": ".property-location",
+        "details": ".property-details",
+        "images": ".property-photo img",
+        "link": ".property-listing a"
+      },
+      "active": true,
+      "priority": 1,
+      "scrape_frequency": "4h",
+      "max_pages": 60
+    },
+    "costa_rica_real_estate_service": {
+      "name": "Costa Rica Real Estate Service",
+      "base_url": "https://costaricarealestateservice.com",
+      "endpoints": {
+        "homes": "/single-family-homes",
+        "luxury": "/luxury-estates",
+        "lots": "/building-lots",
+        "commercial": "/commercial-real-estate"
+      },
+      "selectors": {
+        "listing": ".listing-item",
+        "title": ".listing-title",
+        "price": ".listing-price",
+        "location": ".listing-location",
+        "details": ".listing-description",
+        "images": ".listing-image img",
+        "link": ".listing-item a"
+      },
+      "active": true,
+      "priority": 1,
+      "scrape_frequency": "4h",
+      "max_pages": 50
+    },
+    "neocasa_cr": {
+      "name": "Neocasa Costa Rica",
+      "base_url": "https://www.neocasacr.com/en",
+      "endpoints": {
+        "buy": "/comprar",
+        "luxury": "/luxury-properties",
+        "apartments": "/apartments"
+      },
+      "selectors": {
+        "listing": ".property-item",
+        "title": ".property-name",
+        "price": ".property-price",
+        "location": ".property-location",
+        "details": ".property-info",
+        "images": ".property-gallery img",
+        "link": ".property-item a"
+      },
+      "active": true,
+      "priority": 2,
+      "scrape_frequency": "6h",
+      "max_pages": 40
+    },
+    "remax_costa_rica": {
+      "name": "RE/MAX Costa Rica",
+      "base_url": "https://www.remax-costa-rica.com",
+      "endpoints": {
+        "properties": "/search-properties",
+        "commercial": "/commercial-building-office-space-warehouse",
+        "luxury": "/house-villa"
+      },
+      "selectors": {
+        "listing": ".property-card",
+        "title": ".property-title",
+        "price": ".property-price",
+        "location": ".property-address",
+        "details": ".property-summary",
+        "images": ".property-image img",
+        "link": ".property-card a"
+      },
+      "active": true,
+      "priority": 1,
+      "scrape_frequency": "4h",
+      "max_pages": 70
+    },
+    "conexion_inmobiliaria": {
+      "name": "Conexión Inmobiliaria Víquez",
+      "base_url": "https://civ.co.cr",
+      "endpoints": {
+        "properties": "/propiedades",
+        "sale": "/venta",
+        "rent": "/alquiler"
+      },
+      "selectors": {
+        "listing": ".property-item",
+        "title": ".property-title",
+        "price": ".property-price",
+        "location": ".property-location",
+        "details": ".property-details",
+        "images": ".property-image img",
+        "link": ".property-item a"
+      },
+      "active": true,
+      "priority": 2,
+      "scrape_frequency": "6h",
+      "max_pages": 30
+    },
+    "inhaus_cr": {
+      "name": "Inhaus Bienes Raíces",
+      "base_url": "https://inhauscr.com",
+      "endpoints": {
+        "sale_san_jose": "/venta-san-jose",
+        "rent_san_jose": "/alquiler-san-jose",
+        "commercial": "/comercial"
+      },
+      "selectors": {
+        "listing": ".property-listing",
+        "title": ".property-name",
+        "price": ".property-price",
+        "location": ".property-address",
+        "details": ".property-description",
+        "images": ".property-photo img",
+        "link": ".property-listing a"
+      },
+      "active": true,
+      "priority": 2,
+      "scrape_frequency": "6h",
+      "max_pages": 35
+    },
+    "terraquea": {
+      "name": "Terraquea Propiedades",
+      "base_url": "https://terraquea.com",
+      "endpoints": {
+        "premium": "/propiedades-premium",
+        "beach": "/playas",
+        "investment": "/inversion"
+      },
+      "selectors": {
+        "listing": ".listing-card",
+        "title": ".listing-title",
+        "price": ".listing-price",
+        "location": ".listing-location",
+        "details": ".listing-details",
+        "images": ".listing-gallery img",
+        "link": ".listing-card a"
+      },
+      "active": true,
+      "priority": 2,
+      "scrape_frequency": "6h",
+      "max_pages": 40
+    },
+    "casa_de_manana": {
+      "name": "Casa de Mañana Guanacaste",
+      "base_url": "https://casademananacr.com/es",
+      "endpoints": {
+        "listings": "/nuestros-listados",
+        "beach_properties": "/propiedades-playa"
+      },
+      "selectors": {
+        "listing": ".property-card",
+        "title": ".property-title",
+        "price": ".property-price", 
+        "location": ".property-location",
+        "details": ".property-info",
+        "images": ".property-image img",
+        "link": ".property-card a"
+      },
+      "active": true,
+      "priority": 2,
+      "scrape_frequency": "8h",
+      "max_pages": 25
+    },
+    "immo_costa_rica": {
+      "name": "Immo Costa Rica",
+      "base_url": "https://immocostarica.com",
+      "endpoints": {
+        "luxury": "/for-sale/luxury-home",
+        "houses": "/for-sale/houses-villas",
+        "condos": "/for-sale/apartments-condos"
+      },
+      "selectors": {
+        "listing": ".property-item",
+        "title": ".property-title",
+        "price": ".property-price",
+        "location": ".property-location",
+        "details": ".property-description",
+        "images": ".property-gallery img",
+        "link": ".property-item a"
+      },
+      "active": true,
+      "priority": 2,
+      "scrape_frequency": "6h",
+      "max_pages": 30
+    },
     "government_registry": {
       "name": "Registro Nacional CR",
       "base_url": "https://www.registronacional.go.cr",
@@ -70,7 +314,7 @@
     }
   },
   "scraping_rules": {
-    "min_price_usd": 10000,
+    "min_price_usd": 5000,
     "max_price_usd": 50000000,
     "required_fields": ["title", "price", "location"],
     "duplicate_detection": "title_similarity",
@@ -78,7 +322,20 @@
     "max_images_per_property": 10,
     "respect_robots_txt": true,
     "user_agent": "CostaRica-MLS-Bot/1.0",
-    "delay_between_requests": 2000,
-    "max_retries": 3
+    "delay_between_requests": 1500,
+    "max_retries": 3,
+    "priority_order": [
+      "priority_1_agents",
+      "priority_2_agencies",
+      "general_classifieds"
+    ],
+    "scrape_order": "priority_first",
+    "max_properties_per_source": 500,
+    "categories": {
+      "luxury": ["luxury", "premium", "high-end", "exclusive"],
+      "residential": ["house", "home", "villa", "residential"],
+      "commercial": ["commercial", "office", "retail", "business"],
+      "land": ["land", "lot", "terrain", "terreno"]
+    }
   }
 }
