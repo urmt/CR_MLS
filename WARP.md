@@ -8,10 +8,48 @@ Costa Rica MLS is a **fully autonomous, maintenance-free** property registry sys
 
 **Key Innovation**: A completely serverless architecture using GitHub as a free database and IPFS for hosting, requiring zero ongoing maintenance.
 
+## 🌐 Current Live Deployment
+
+**🚀 Permanent Automated IPFS URL**: https://w3s.link/ipfs/QmQtRXSzSeybtj8csDr8d9HnciQHU77BWdGkmfYrYfwrFH
+
+**Alternative Gateways**:
+- https://ipfs.io/ipfs/QmQtRXSzSeybtj8csDr8d9HnciQHU77BWdGkmfYrYfwrFH
+- https://gateway.ipfs.io/ipfs/QmQtRXSzSeybtj8csDr8d9HnciQHU77BWdGkmfYrYfwrFH
+- https://dweb.link/ipfs/QmQtRXSzSeybtj8csDr8d9HnciQHU77BWdGkmfYrYfwrFH
+
+**✅ Status**: Fully operational with 73+ properties, working PayPal payments, source information hidden for business model protection.
+
+**🤖 Auto-Updates**: Every 6 hours via GitHub Actions automation.
+
+## 🔄 Automation Status
+
+### ✅ Fully Automated Processes
+- **Property Scraping**: Every 6 hours from real estate agent websites
+- **Database Updates**: GitHub JSON files updated automatically
+- **IPFS Deployment**: Fresh deployment with latest properties every 6 hours
+- **Email Campaigns**: Sent after each scraping cycle
+- **Property Purging**: 90-day cleanup runs weekly on Sundays
+- **Data Validation**: Duplicate detection and removal
+
+### 🛠️ Manual Triggers Available
+```bash
+# Trigger full automation workflow
+gh workflow run "Autonomous Costa Rica MLS" --field action=full
+
+# Individual components
+gh workflow run "Autonomous Costa Rica MLS" --field action=scrape
+gh workflow run "Autonomous Costa Rica MLS" --field action=purge
+gh workflow run "Autonomous Costa Rica MLS" --field action=email
+gh workflow run "Autonomous Costa Rica MLS" --field action=deploy
+```
+
 ## 🚀 Autonomous IPFS Deployment Commands
 
 ### IPFS Static Deployment (Production)
 ```bash
+# Sync latest GitHub database to local deployment files
+./scripts/sync-database.sh
+
 # Build and deploy to IPFS (fully autonomous)
 ./scripts/deploy-ipfs.sh
 
@@ -20,6 +58,9 @@ Costa Rica MLS is a **fully autonomous, maintenance-free** property registry sys
 
 # Manual property scraping (runs automatically via GitHub Actions)
 node scripts/scraper.js
+
+# Property purging (90-day cleanup)
+node scripts/property-purger.js
 
 # Send email campaigns (runs automatically)
 node scripts/email-campaigns.js
@@ -184,10 +225,38 @@ CR_MLS_New/
 - **Rate Limiting**: Built-in via GitHub's CDN
 
 #### External Services
-- **PayPal**: `@paypal/react-paypal-js` for client-side payments
+- **PayPal**: Direct PayPal SDK integration for immediate payment popups
 - **EmailJS**: Client-side email sending without backend
 - **AWS Lambda**: PDF generation via serverless functions
 - **IPFS**: Content-addressed storage for static hosting
+
+### 💰 Paid Report System
+
+The system offers three premium report types with secure payment integration:
+
+#### 1. Contact Information ($5-$15)
+- **Content**: Agent details, phone, email, office, WhatsApp, licenses
+- **Images**: Up to 10 property images with clickable links
+- **Format**: Professional HTML email template
+- **Price**: Variable by property category (luxury = $15, standard = $5)
+
+#### 2. CR Legal Concessions ($12)
+- **Content**: Maritime zone status, beach access rights, permits
+- **Details**: Environmental compliance, building restrictions
+- **Legal**: Tax status, concession numbers, expiration dates
+- **Price**: Fixed $12 per report
+
+#### 3. Property History ($8)
+- **Content**: Price history, ownership records, market analysis
+- **Timeline**: Previous listings, price changes, days on market
+- **Investment**: Rental history and ROI analysis
+- **Price**: Fixed $8 per report
+
+#### Payment Integration
+- **PayPal**: Direct popup payments (no modal required)
+- **Crypto**: QR code with auto-scroll for mobile/desktop
+- **Security**: Source information hidden until payment
+- **Delivery**: Instant email delivery with HTML formatting
 
 ### Development Environment
 
