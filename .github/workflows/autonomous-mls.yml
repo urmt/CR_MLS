@@ -67,7 +67,7 @@ jobs:
   property-purging:
     runs-on: ubuntu-latest
     needs: property-scraping
-    if: always() && (github.event.schedule == '0 2 * * SUN' || github.event.inputs.action == 'purge' || github.event.inputs.action == 'full')
+    if: always() && (github.event_name == 'schedule' || github.event.inputs.action == 'purge' || github.event.inputs.action == 'full')
     
     steps:
     - name: Checkout repository
@@ -165,7 +165,7 @@ jobs:
   ipfs-deployment:
     runs-on: ubuntu-latest
     needs: [property-scraping, property-purging, email-campaigns]
-    if: always() && (github.event.inputs.action == 'deploy' || github.event.inputs.action == 'full')
+    if: always() && (github.event_name == 'schedule' || github.event.inputs.action == 'deploy' || github.event.inputs.action == 'full')
     
     steps:
     - name: Checkout repository
@@ -179,6 +179,34 @@ jobs:
       with:
         node-version: '18'
         cache: 'npm'
+
+    - name: Sync latest database to client
+      run: |
+        echo "🔄 Syncing latest GitHub database to client deployment..."
+        
+        # GitHub raw URL base
+        GITHUB_RAW="https://raw.githubusercontent.com/${{ github.repository }}/main/database"
+        LOCAL_DB="client/public/database"
+        
+        # Create directories
+        mkdir -p "$LOCAL_DB/properties"
+        mkdir -p "$LOCAL_DB/scraping"
+        mkdir -p "$LOCAL_DB/config"
+        mkdir -p "$LOCAL_DB/agents"
+        
+        # Sync all database files
+        curl -s "$GITHUB_RAW/properties/active.json" > "$LOCAL_DB/properties/active.json"
+        curl -s "$GITHUB_RAW/properties/pending.json" > "$LOCAL_DB/properties/pending.json"
+        curl -s "$GITHUB_RAW/properties/sold.json" > "$LOCAL_DB/properties/sold.json"
+        curl -s "$GITHUB_RAW/properties/archived.json" > "$LOCAL_DB/properties/archived.json"
+        curl -s "$GITHUB_RAW/scraping/last-run.json" > "$LOCAL_DB/scraping/last-run.json"
+        curl -s "$GITHUB_RAW/scraping/sources.json" > "$LOCAL_DB/scraping/sources.json"
+        curl -s "$GITHUB_RAW/config/categories.json" > "$LOCAL_DB/config/categories.json"
+        curl -s "$GITHUB_RAW/agents/agents.json" > "$LOCAL_DB/agents/agents.json"
+        
+        # Log sync results
+        ACTIVE_COUNT=$(cat "$LOCAL_DB/properties/active.json" | grep -o '"id"' | wc -l)
+        echo "✅ Synced $ACTIVE_COUNT active properties to IPFS deployment"
     
     - name: Install client dependencies
       run: |
