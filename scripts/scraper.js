@@ -35,8 +35,11 @@ class CostaRicaPropertyScraper {
 
   async loadExistingProperties() {
     try {
-      const activeProperties = await fs.readJson('../database/properties/active.json').catch(() => ({ properties: [] }));
-      const pendingProperties = await fs.readJson('../database/properties/pending.json').catch(() => ({ properties: [] }));
+      const activeFile = path.join(__dirname, '../database/properties/active.json');
+      const pendingFile = path.join(__dirname, '../database/properties/pending.json');
+      
+      const activeProperties = await fs.readJson(activeFile).catch(() => ({ properties: [] }));
+      const pendingProperties = await fs.readJson(pendingFile).catch(() => ({ properties: [] }));
       
       return [...activeProperties.properties, ...pendingProperties.properties];
     } catch (error) {
@@ -67,7 +70,7 @@ class CostaRicaPropertyScraper {
           
           try {
             await page.goto(url, { waitUntil: 'networkidle2', timeout: 30000 });
-            await page.waitForDelay(sources.scraping_rules.delay_between_requests);
+            await page.waitForTimeout(sources.scraping_rules.delay_between_requests);
             
             const html = await page.content();
             const $ = cheerio.load(html);
@@ -100,7 +103,7 @@ class CostaRicaPropertyScraper {
             console.log(`    ✅ Page ${pageNum}: Found ${listings.length} listings`);
             
             // Respect rate limiting
-            await page.waitForDelay(sources.scraping_rules.delay_between_requests);
+            await page.waitForTimeout(sources.scraping_rules.delay_between_requests);
             
           } catch (error) {
             console.error(`    ❌ Error on page ${pageNum}:`, error.message);
