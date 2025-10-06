@@ -3,19 +3,10 @@ import { useParams, Link } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 import QRCode from 'react-qr-code';
 import GitHubDatabase from '../services/githubDatabase';
-import CryptoPayment from '../components/CryptoPayment';
-import PropertyPayPalPayment from '../components/PropertyPayPalPayment';
+// import CryptoPayment from '../components/CryptoPayment';
+// import PropertyPayPalPayment from '../components/PropertyPayPalPayment';
 
-// PayPal TypeScript declaration
-declare global {
-  interface Window {
-    paypal: {
-      HostedButtons: (options: { hostedButtonId: string }) => {
-        render: (selector: string) => void;
-      };
-    };
-  }
-}
+// PayPal types handled via any
 
 const PropertyDetailPage: React.FC = () => {
   const { id } = useParams<{ id: string }>();
@@ -30,7 +21,7 @@ const PropertyDetailPage: React.FC = () => {
   
   // Render PayPal hosted button when modal opens
   useEffect(() => {
-    if (showPayPal && property && window.paypal) {
+    if (showPayPal && property && (window as any).paypal) {
       const containerId = `paypal-container-${showPayPal}-${property.id}`;
       const container = document.getElementById(containerId);
       
@@ -40,7 +31,7 @@ const PropertyDetailPage: React.FC = () => {
         
         // Render PayPal hosted button
         try {
-          window.paypal.HostedButtons({
+          (window as any).paypal.HostedButtons({
             hostedButtonId: "YWQX3PE2SH4ZA",
           }).render(`#${containerId}`);
         } catch (error) {
@@ -172,7 +163,7 @@ const PropertyDetailPage: React.FC = () => {
                   setShowPayPal('contact');
                 }}
                 style={{
-                  pointerEvents: 'auto !important',
+                  pointerEvents: 'auto' as any,
                   zIndex: 999,
                   position: 'relative'
                 }}
@@ -188,7 +179,7 @@ const PropertyDetailPage: React.FC = () => {
                 }}
                 className="btn bg-gray-800 text-white w-full hover:bg-gray-700 text-sm"
                 style={{
-                  pointerEvents: 'auto !important',
+                  pointerEvents: 'auto' as any,
                   zIndex: 999,
                   position: 'relative'
                 }}
@@ -214,7 +205,7 @@ const PropertyDetailPage: React.FC = () => {
                     setShowPayPal('concession');
                   }}
                   style={{
-                    pointerEvents: 'auto !important',
+                    pointerEvents: 'auto' as any,
                     zIndex: 999,
                     position: 'relative'
                   }}
@@ -228,7 +219,7 @@ const PropertyDetailPage: React.FC = () => {
                   }}
                   className="btn bg-gray-700 text-white hover:bg-gray-600 text-sm"
                   style={{
-                    pointerEvents: 'auto !important',
+                    pointerEvents: 'auto' as any,
                     zIndex: 999,
                     position: 'relative'
                   }}
@@ -255,7 +246,7 @@ const PropertyDetailPage: React.FC = () => {
                     setShowPayPal('history');
                   }}
                   style={{
-                    pointerEvents: 'auto !important',
+                    pointerEvents: 'auto' as any,
                     zIndex: 999,
                     position: 'relative'
                   }}
@@ -269,7 +260,7 @@ const PropertyDetailPage: React.FC = () => {
                   }}
                   className="btn bg-gray-700 text-white hover:bg-gray-600 text-sm"
                   style={{
-                    pointerEvents: 'auto !important',
+                    pointerEvents: 'auto' as any,
                     zIndex: 999,
                     position: 'relative'
                   }}
@@ -294,7 +285,7 @@ const PropertyDetailPage: React.FC = () => {
                     // TODO: Navigate to agent login page
                   }}
                   style={{
-                    pointerEvents: 'auto !important',
+                    pointerEvents: 'auto' as any,
                     zIndex: 999,
                     position: 'relative'
                   }}

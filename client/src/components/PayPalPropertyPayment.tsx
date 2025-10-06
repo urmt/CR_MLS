@@ -49,9 +49,9 @@ const PayPalPropertyPayment: React.FC<PayPalPropertyPaymentProps> = ({
       paypalRef.current.innerHTML = '';
 
       try {
-        if (window.paypal && window.paypal.HostedButtons) {
+        if ((window as any).paypal && (window as any).paypal.HostedButtons) {
           console.log('PayPal HostedButtons available, rendering...');
-          window.paypal.HostedButtons({
+          (window as any).paypal.HostedButtons({
             hostedButtonId: "YWQX3PE2SH4ZA",
           }).render(paypalRef.current).then(() => {
             console.log('PayPal button rendered successfully');
@@ -137,10 +137,6 @@ const PayPalPropertyPayment: React.FC<PayPalPropertyPaymentProps> = ({
 };
 
 // Extend Window interface for PayPal
-declare global {
-  interface Window {
-    paypal: any;
-  }
-}
+// PayPal declaration handled in PropertyDetailPage
 
 export default PayPalPropertyPayment;

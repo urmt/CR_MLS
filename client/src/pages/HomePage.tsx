@@ -3,8 +3,8 @@ import { useQuery } from '@tanstack/react-query';
 import { Link } from 'react-router-dom';
 import QRCode from 'react-qr-code';
 import GitHubDatabase from '../services/githubDatabase';
-import CryptoPayment from '../components/CryptoPayment';
-import PayPalPayment from '../components/PayPalPayment';
+// import CryptoPayment from '../components/CryptoPayment';
+// import PayPalPayment from '../components/PayPalPayment';
 import PropertyReportSelector from '../components/PropertyReportSelector';
 import LoadingScreen from '../components/LoadingScreen';
 import { ReportType } from '../types/reports';
@@ -154,7 +154,7 @@ const HomePage: React.FC = () => {
                             setShowAgentPayment('office_paypal');
                           }}
                           style={{
-                            pointerEvents: 'auto !important',
+                            pointerEvents: 'auto' as any,
                             zIndex: 999,
                             position: 'relative'
                           }}
@@ -168,7 +168,7 @@ const HomePage: React.FC = () => {
                             setShowAgentPayment('office_crypto');
                           }}
                           style={{
-                            pointerEvents: 'auto !important',
+                            pointerEvents: 'auto' as any,
                             zIndex: 999,
                             position: 'relative'
                           }}
@@ -184,7 +184,7 @@ const HomePage: React.FC = () => {
                             setShowAgentPayment('office_paypal_onetime');
                           }}
                           style={{
-                            pointerEvents: 'auto !important',
+                            pointerEvents: 'auto' as any,
                             zIndex: 999,
                             position: 'relative'
                           }}
@@ -201,7 +201,7 @@ const HomePage: React.FC = () => {
                           setShowAgentPayment('individual_paypal');
                         }}
                         style={{
-                          pointerEvents: 'auto !important',
+                          pointerEvents: 'auto' as any,
                           zIndex: 999,
                           position: 'relative'
                         }}
@@ -215,7 +215,7 @@ const HomePage: React.FC = () => {
                           setShowAgentPayment('individual_crypto');
                         }}
                         style={{
-                          pointerEvents: 'auto !important',
+                          pointerEvents: 'auto' as any,
                           zIndex: 999,
                           position: 'relative'
                         }}
@@ -229,7 +229,7 @@ const HomePage: React.FC = () => {
                           setShowAgentPayment('individual_paypal_onetime');
                         }}
                         style={{
-                          pointerEvents: 'auto !important',
+                          pointerEvents: 'auto' as any,
                           zIndex: 999,
                           position: 'relative'
                         }}
@@ -711,7 +711,7 @@ const HomePage: React.FC = () => {
                     }}
                     className="btn btn-primary btn-sm"
                     style={{
-                      pointerEvents: 'auto !important',
+                      pointerEvents: 'auto' as any,
                       zIndex: 999,
                       position: 'relative'
                     }}
@@ -1047,7 +1047,6 @@ const HomePage: React.FC = () => {
                           }
                         }
                         
-                        const amount = showAgentPayment.includes('individual') ? 30 : 100;
                         const type = showAgentPayment.includes('onetime') ? 'one-time' : 'subscription';
                         const plan = showAgentPayment.includes('individual') ? 'Individual Agent' : 'Office Plan';
                         

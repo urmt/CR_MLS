@@ -57,7 +57,7 @@ const PayPalPayment: React.FC<PayPalPaymentProps> = ({ type, onSuccess, onError 
       // Clear any existing buttons
       paypalRef.current.innerHTML = '';
 
-      window.paypal.Buttons({
+      (window as any).paypal.Buttons({
         style: {
           shape: 'rect',
           color: 'gold',
@@ -195,10 +195,6 @@ const PayPalPayment: React.FC<PayPalPaymentProps> = ({ type, onSuccess, onError 
 };
 
 // Extend Window interface for PayPal
-declare global {
-  interface Window {
-    paypal: any;
-  }
-}
+// PayPal types handled via any
 
 export default PayPalPayment;

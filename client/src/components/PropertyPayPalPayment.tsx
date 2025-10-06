@@ -61,12 +61,9 @@ const PropertyPayPalPayment: React.FC<PropertyPayPalPaymentProps> = ({
               // Here you would typically send the payment details to your backend
               // For now, we'll just call the success callback
               onSuccess();
-              
-              return details;
             } catch (error) {
               console.error('PayPal capture error:', error);
               onError(error);
-              throw error;
             }
           }}
           onError={(err) => {
