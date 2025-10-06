@@ -1,4 +1,11 @@
 {
   "properties": [],
+<<<<<<< HEAD
   "last_updated": "2025-10-06T01:19:30.644Z"
+=======
+  "last_updated": "2025-10-06T01:22:45.447Z",
+  "total_count": 0,
+  "last_purged": "2025-10-06T01:22:45.447Z",
+  "purged_count": 0
+>>>>>>> 3599398 (🔧 Enhanced Real Estate Scraper & Property Management System)
 }

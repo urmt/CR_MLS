@@ -59,48 +59,104 @@ class CostaRicaPropertyScraper {
     const page = await this.browser.newPage();
     
     try {
-      // Set user agent
-      await page.setUserAgent(sources.scraping_rules.user_agent);
+      // Set user agent and viewport
+      await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
+      await page.setViewport({ width: 1920, height: 1080 });
       
-      for (const [endpointName, endpoint] of Object.entries(sourceConfig.endpoints)) {
+      // Sort endpoints by priority if defined
+      const endpoints = Object.entries(sourceConfig.endpoints);
+      
+      for (const [endpointName, endpoint] of endpoints) {
         console.log(`  📄 Scraping ${endpointName} from ${sourceName}...`);
         
-        for (let pageNum = 1; pageNum <= sourceConfig.max_pages; pageNum++) {
-          const url = `${sourceConfig.base_url}${endpoint}?page=${pageNum}`;
+        // Try different URL patterns for pagination
+        const urlPatterns = [
+          `${sourceConfig.base_url}${endpoint}`,
+          `${sourceConfig.base_url}${endpoint}?page=`,
+          `${sourceConfig.base_url}${endpoint}/page-`,
+          `${sourceConfig.base_url}${endpoint}?p=`
+        ];
+        
+        let foundListings = false;
+        
+        for (let pageNum = 1; pageNum <= Math.min(sourceConfig.max_pages, 5); pageNum++) {
+          let url = urlPatterns[0];
+          if (pageNum > 1) {
+            url = `${urlPatterns[1]}${pageNum}`;
+          }
           
           try {
-            await page.goto(url, { waitUntil: 'networkidle2', timeout: 30000 });
-            await page.waitForTimeout(sources.scraping_rules.delay_between_requests);
+            console.log(`    🌐 Trying: ${url}`);
+            await page.goto(url, { 
+              waitUntil: 'domcontentloaded', 
+              timeout: 15000 
+            });
+            
+            // Wait for content to load
+            await page.waitForTimeout(3000);
+            
+            // Try to detect and handle cookie banners, captchas, etc.
+            await this.handlePageObstructions(page);
             
             const html = await page.content();
             const $ = cheerio.load(html);
-            const listings = $(sourceConfig.selectors.listing);
             
-            if (listings.length === 0) {
-              console.log(`    ⚠️  No listings found on page ${pageNum}, stopping`);
-              break;
+            // Try multiple selectors to find listings
+            let listings = $();
+            const possibleSelectors = [
+              sourceConfig.selectors.listing,
+              '.property-card',
+              '.listing-item',
+              '.property-item',
+              '.property',
+              '[data-testid*="property"]',
+              '.search-result',
+              '.result-item'
+            ];
+            
+            for (const selector of possibleSelectors) {
+              listings = $(selector);
+              if (listings.length > 0) {
+                console.log(`    ✅ Found ${listings.length} listings with selector: ${selector}`);
+                break;
+              }
             }
             
-            for (let i = 0; i < listings.length; i++) {
+            if (listings.length === 0) {
+              console.log(`    ⚠️  No listings found on page ${pageNum}`);
+              if (pageNum === 1) {
+                // Try alternative URL patterns on first page
+                continue;
+              } else {
+                break;
+              }
+            } else {
+              foundListings = true;
+            }
+            
+            for (let i = 0; i < listings.length && i < 20; i++) {
               const listing = listings.eq(i);
               const property = await this.extractPropertyData(listing, sourceConfig, $, url);
               
               if (property && this.isValidProperty(property)) {
                 if (!this.isDuplicate(property)) {
                   property.source = sourceName;
+                  property.source_name = sourceConfig.name;
                   property.category = this.categorizeProperty(property);
                   property.scraped_at = new Date().toISOString();
                   property.id = this.generatePropertyId(property);
                   
                   this.results.scraped.push(property);
                   this.results.new_properties++;
+                  
+                  console.log(`      📋 Added: ${property.title.substring(0, 50)}...`);
                 } else {
                   this.results.duplicates++;
                 }
               }
             }
             
-            console.log(`    ✅ Page ${pageNum}: Found ${listings.length} listings`);
+            console.log(`    ✅ Page ${pageNum}: Processed ${listings.length} listings`);
             
             // Respect rate limiting
             await page.waitForTimeout(sources.scraping_rules.delay_between_requests);
@@ -111,10 +167,15 @@ class CostaRicaPropertyScraper {
               source: sourceName,
               endpoint: endpointName,
               page: pageNum,
+              url: url,
               error: error.message,
               timestamp: new Date().toISOString()
             });
           }
+        }
+        
+        if (!foundListings) {
+          console.log(`    ⚠️  No listings found for ${endpointName}`);
         }
       }
     } catch (error) {
@@ -129,40 +190,188 @@ class CostaRicaPropertyScraper {
     }
   }
 
+  async handlePageObstructions(page) {
+    try {
+      // Handle cookie banners
+      const cookieSelectors = [
+        'button[id*="accept"]',
+        'button[class*="accept"]',
+        'button[id*="cookie"]',
+        'button[class*="cookie"]',
+        '.cookie-accept',
+        '#cookie-accept',
+        '.accept-cookies',
+        '[data-testid*="accept"]'
+      ];
+      
+      for (const selector of cookieSelectors) {
+        try {
+          const element = await page.$(selector);
+          if (element) {
+            await element.click();
+            await page.waitForTimeout(1000);
+            break;
+          }
+        } catch (e) {
+          // Continue to next selector
+        }
+      }
+      
+      // Handle modals/popups
+      const modalSelectors = [
+        '.modal-close',
+        '.close-modal',
+        '[aria-label="Close"]',
+        '.popup-close'
+      ];
+      
+      for (const selector of modalSelectors) {
+        try {
+          const element = await page.$(selector);
+          if (element) {
+            await element.click();
+            await page.waitForTimeout(500);
+          }
+        } catch (e) {
+          // Continue
+        }
+      }
+    } catch (error) {
+      // Ignore obstruction handling errors
+    }
+  }
+
   async extractPropertyData(listing, sourceConfig, $, baseUrl) {
     try {
       const property = {};
       
-      // Extract basic fields
-      const titleElement = listing.find(sourceConfig.selectors.title);
-      property.title = titleElement.text().trim();
+      // Extract title with fallbacks
+      const titleSelectors = [
+        sourceConfig.selectors.title,
+        '.title',
+        '.property-title',
+        '.listing-title',
+        'h1', 'h2', 'h3',
+        '[data-testid*="title"]',
+        '.name'
+      ];
       
-      const priceElement = listing.find(sourceConfig.selectors.price);
-      property.price_text = priceElement.text().trim();
-      property.price_usd = this.parsePrice(property.price_text);
-      
-      const locationElement = listing.find(sourceConfig.selectors.location);
-      property.location = locationElement.text().trim();
-      
-      // Extract link
-      const linkElement = listing.find(sourceConfig.selectors.link);
-      const relativeUrl = linkElement.attr('href');
-      property.url = relativeUrl ? new URL(relativeUrl, baseUrl).href : null;
-      
-      // Extract images
-      const imageElements = listing.find(sourceConfig.selectors.images);
-      property.images = [];
-      imageElements.each((i, img) => {
-        const src = $(img).attr('src') || $(img).attr('data-src');
-        if (src && property.images.length < sources.scraping_rules.max_images_per_property) {
-          property.images.push(new URL(src, baseUrl).href);
+      for (const selector of titleSelectors) {
+        const element = listing.find(selector);
+        if (element.length && element.text().trim()) {
+          property.title = element.text().trim();
+          break;
         }
-      });
+      }
       
-      // Extract description if available
-      if (sourceConfig.selectors.details) {
-        const detailsElement = listing.find(sourceConfig.selectors.details);
-        property.description = detailsElement.text().trim();
+      // Extract price with fallbacks
+      const priceSelectors = [
+        sourceConfig.selectors.price,
+        '.price',
+        '.property-price',
+        '.listing-price',
+        '[data-testid*="price"]',
+        '.cost',
+        '.amount'
+      ];
+      
+      for (const selector of priceSelectors) {
+        const element = listing.find(selector);
+        if (element.length && element.text().trim()) {
+          property.price_text = element.text().trim();
+          property.price_usd = this.parsePrice(property.price_text);
+          break;
+        }
+      }
+      
+      // Extract location with fallbacks
+      const locationSelectors = [
+        sourceConfig.selectors.location,
+        '.location',
+        '.property-location',
+        '.listing-location',
+        '.address',
+        '[data-testid*="location"]',
+        '.region'
+      ];
+      
+      for (const selector of locationSelectors) {
+        const element = listing.find(selector);
+        if (element.length && element.text().trim()) {
+          property.location = element.text().trim();
+          break;
+        }
+      }
+      
+      // Extract link with fallbacks
+      const linkSelectors = [
+        sourceConfig.selectors.link,
+        'a[href]',
+        '.property-link',
+        '.listing-link'
+      ];
+      
+      for (const selector of linkSelectors) {
+        const element = listing.find(selector);
+        const href = element.attr('href');
+        if (href) {
+          try {
+            property.url = new URL(href, baseUrl).href;
+            break;
+          } catch (e) {
+            // Invalid URL, continue
+          }
+        }
+      }
+      
+      // Extract images with fallbacks
+      const imageSelectors = [
+        sourceConfig.selectors.images,
+        'img',
+        '.property-image img',
+        '.listing-image img',
+        '[data-testid*="image"] img'
+      ];
+      
+      property.images = [];
+      for (const selector of imageSelectors) {
+        const imageElements = listing.find(selector);
+        imageElements.each((i, img) => {
+          const src = $(img).attr('src') || 
+                     $(img).attr('data-src') || 
+                     $(img).attr('data-lazy') ||
+                     $(img).attr('data-original');
+          if (src && property.images.length < sources.scraping_rules.max_images_per_property) {
+            try {
+              const fullImageUrl = new URL(src, baseUrl).href;
+              if (!property.images.includes(fullImageUrl)) {
+                property.images.push(fullImageUrl);
+              }
+            } catch (e) {
+              // Invalid image URL
+            }
+          }
+        });
+        if (property.images.length > 0) break;
+      }
+      
+      // Extract description with fallbacks
+      const descriptionSelectors = [
+        sourceConfig.selectors.details,
+        '.description',
+        '.property-description',
+        '.listing-description',
+        '.summary',
+        '.details',
+        '[data-testid*="description"]'
+      ];
+      
+      for (const selector of descriptionSelectors) {
+        const element = listing.find(selector);
+        if (element.length && element.text().trim()) {
+          property.description = element.text().trim().substring(0, 500);
+          break;
+        }
       }
       
       return property;

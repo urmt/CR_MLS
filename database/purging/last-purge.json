@@ -1,16 +1,6 @@
 {
-  "purge_history": [
-    {
-      "timestamp": "2025-10-04T23:41:54.952Z",
-      "purge_days": 90,
-      "results": {
-        "total_active": 6,
-        "total_pending": 1,
-        "purged_active": 6,
-        "purged_pending": 1,
-        "moved_to_archived": 7
-      }
-    }
-  ],
-  "last_updated": "2025-10-04T23:41:54.953Z"
+  "timestamp": "2025-10-06T01:22:45.447Z",
+  "purged_count": 0,
+  "errors": 0,
+  "next_purge": "2025-10-13T01:22:45.447Z"
 }

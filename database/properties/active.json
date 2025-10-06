@@ -14,7 +14,7 @@
       "url": "https://example.com/manuel-antonio-villa",
       "source": "coldwell_banker_cr",
       "category": "luxury",
-      "scraped_at": "2025-10-06T01:08:57.176Z"
+      "scraped_at": "2025-10-06T01:22:31.354Z"
     },
     {
       "id": "prop002",
@@ -30,7 +30,7 @@
       "url": "https://example.com/escazu-condo",
       "source": "remax_oceansurf",
       "category": "residential",
-      "scraped_at": "2025-10-06T01:08:57.176Z"
+      "scraped_at": "2025-10-06T01:22:31.354Z"
     },
     {
       "id": "prop003",
@@ -46,7 +46,7 @@
       "url": "https://example.com/monteverde-farm",
       "source": "krain_real_estate",
       "category": "commercial",
-      "scraped_at": "2025-10-06T01:08:57.176Z"
+      "scraped_at": "2025-10-06T01:22:31.354Z"
     },
     {
       "id": "prop004",
@@ -62,7 +62,7 @@
       "url": "https://example.com/tamarindo-land",
       "source": "costa_rica_real_estate_service",
       "category": "land",
-      "scraped_at": "2025-10-06T01:08:57.176Z"
+      "scraped_at": "2025-10-06T01:22:31.354Z"
     },
     {
       "id": "prop005",
@@ -78,7 +78,7 @@
       "url": "https://example.com/dota-retreat",
       "source": "neocasa_cr",
       "category": "residential",
-      "scraped_at": "2025-10-06T01:08:57.176Z"
+      "scraped_at": "2025-10-06T01:22:31.354Z"
     },
     {
       "id": "prop006",
@@ -94,7 +94,7 @@
       "url": "https://example.com/sj-commercial",
       "source": "conexion_inmobiliaria",
       "category": "commercial",
-      "scraped_at": "2025-10-06T01:08:57.176Z"
+      "scraped_at": "2025-10-06T01:22:31.354Z"
     },
     {
       "id": "prop007",
@@ -110,7 +110,7 @@
       "url": "https://example.com/dominical-home",
       "source": "immo_costa_rica",
       "category": "residential",
-      "scraped_at": "2025-10-06T01:08:57.176Z"
+      "scraped_at": "2025-10-06T01:22:31.354Z"
     },
     {
       "id": "prop008",
@@ -126,7 +126,7 @@
       "url": "https://example.com/santa-ana-penthouse",
       "source": "terraquea",
       "category": "luxury",
-      "scraped_at": "2025-10-06T01:08:57.176Z"
+      "scraped_at": "2025-10-06T01:22:31.354Z"
     },
     {
       "id": "prop009",
@@ -142,7 +142,7 @@
       "url": "https://example.com/puerto-viejo-lodge",
       "source": "casa_de_manana",
       "category": "commercial",
-      "scraped_at": "2025-10-06T01:08:57.176Z"
+      "scraped_at": "2025-10-06T01:22:31.354Z"
     },
     {
       "id": "prop010",
@@ -158,6 +158,7 @@
       "url": "https://example.com/cartago-development",
       "source": "inhaus_cr",
       "category": "land",
+<<<<<<< HEAD
       "scraped_at": "2025-10-06T01:08:57.176Z"
     },
     {
@@ -732,4 +733,13 @@
   ],
   "last_updated": "2025-10-06T01:19:30.644Z",
   "total_count": 10
+=======
+      "scraped_at": "2025-10-06T01:22:31.354Z"
+    }
+  ],
+  "last_updated": "2025-10-06T01:22:45.443Z",
+  "total_count": 10,
+  "last_purged": "2025-10-06T01:22:45.444Z",
+  "purged_count": 0
+>>>>>>> 3599398 (🔧 Enhanced Real Estate Scraper & Property Management System)
 }

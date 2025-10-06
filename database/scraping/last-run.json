@@ -1,9 +1,14 @@
 {
+<<<<<<< HEAD
   "timestamp": "2025-10-06T01:19:30.585Z",
   "results": {
     "new_properties": 29,
+=======
+  "timestamp": "2025-10-06T01:19:47.351Z",
+  "results": {
+    "new_properties": 0,
+>>>>>>> 3599398 (🔧 Enhanced Real Estate Scraper & Property Management System)
     "duplicates": 0,
-    "errors": 0,
-    "method": "property_generator"
+    "errors": 210
   }
 }
