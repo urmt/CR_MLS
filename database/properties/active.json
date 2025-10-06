@@ -1377,8 +1377,50 @@
       "source": "Tropical Realty",
       "category": "luxury",
       "scraped_at": "2025-10-06T06:27:37.817Z"
+    },
+    {
+      "id": "23ci7bpdeg5x7ln6wf62xh",
+      "title": "Beautiful Commercial Property in Dominical",
+      "price_usd": 295254,
+      "price_text": "$295,254",
+      "location": "Dominical, Puntarenas, Costa Rica",
+      "description": "Established business location with strong rental history. Located in beautiful Dominical, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-kl8r7a100eaai57shvr8o-1.jpg",
+        "https://images.costa-rica-mls.com/property-im9jtiw13eg0tt04he8kin-2.jpg",
+        "https://images.costa-rica-mls.com/property-dhiaus88jh8m3jrdpnd24-3.jpg",
+        "https://images.costa-rica-mls.com/property-wnrwrtc9vvwrlxijmazys-4.jpg",
+        "https://images.costa-rica-mls.com/property-zywge5lfw26ylxyc2xs2s-5.jpg",
+        "https://images.costa-rica-mls.com/property-he8341s1948fp7yffxhhf9-6.jpg",
+        "https://images.costa-rica-mls.com/property-t6kqfezlxotay8a8rb78kf-7.jpg",
+        "https://images.costa-rica-mls.com/property-0vy5lqa6ql3dzjhhlqklm2-8.jpg",
+        "https://images.costa-rica-mls.com/property-xu435qgvjknx5rw5lu43ro-9.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/35661ajyias8zodvoxpzif",
+      "source": "Century21 CR",
+      "category": "commercial",
+      "scraped_at": "2025-10-06T12:44:53.178Z"
+    },
+    {
+      "id": "xkofg6tzjtfhx62qaxrwra",
+      "title": "Luxury Commercial Property with Mountain Views",
+      "price_usd": 628728,
+      "price_text": "$628,728",
+      "location": "Nosara, Guanacaste, Costa Rica",
+      "description": "Prime commercial space in high-traffic area with excellent visibility. Located in beautiful Nosara, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-o2fdn8div2jkof1lwd00z9-1.jpg",
+        "https://images.costa-rica-mls.com/property-ge7hs81i0ifls0nbhpbu1n-2.jpg",
+        "https://images.costa-rica-mls.com/property-cpdh3ilx6k73b5vyarn19n-3.jpg",
+        "https://images.costa-rica-mls.com/property-kh5rhzyp2batpe3fcqx4c-4.jpg",
+        "https://images.costa-rica-mls.com/property-kyri10rgfhlxeolqaz4m0r-5.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/n1ca8qwz1hn8rlalh8q0ls",
+      "source": "Costa Rica MLS",
+      "category": "commercial",
+      "scraped_at": "2025-10-06T12:44:53.179Z"
     }
   ],
-  "last_updated": "2025-10-06T06:27:37.880Z",
+  "last_updated": "2025-10-06T12:44:53.244Z",
   "total_count": 10
 }
