@@ -1438,8 +1438,71 @@
       "source": "Encuentra24",
       "category": "residential",
       "scraped_at": "2025-10-06T12:51:07.879Z"
+    },
+    {
+      "id": "krcy2v486oe1i3nwy28c5r",
+      "title": "Beautiful Villa in San José",
+      "price_usd": 1050309,
+      "price_text": "$1,050,309",
+      "location": "San José, San José, Costa Rica",
+      "description": "Sophisticated estate featuring infinity pool and private gardens. Located in beautiful San José, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-r5v6wauwmmewcxf2md6f-1.jpg",
+        "https://images.costa-rica-mls.com/property-g5815sa7ijkomr2qbx99rt-2.jpg",
+        "https://images.costa-rica-mls.com/property-int6h2qvlpcmr3umbh0pp-3.jpg",
+        "https://images.costa-rica-mls.com/property-drq9obrbeyvexg4vryxcc-4.jpg",
+        "https://images.costa-rica-mls.com/property-pp675ndsqyl9e9i30u527o-5.jpg",
+        "https://images.costa-rica-mls.com/property-hn9ti4o5yrtpabdjlovro-6.jpg",
+        "https://images.costa-rica-mls.com/property-d60cdyzy0dw338bdwawu9m-7.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/21afs93xpjmu31829etesd",
+      "source": "Costa Rica MLS",
+      "category": "luxury",
+      "scraped_at": "2025-10-06T13:17:04.731Z"
+    },
+    {
+      "id": "ycml3d8fu8f9r2juy108tj",
+      "title": "Luxury Villa with Mountain Views",
+      "price_usd": 1144373,
+      "price_text": "$1,144,373",
+      "location": "Dominical, Puntarenas, Costa Rica",
+      "description": "Exclusive luxury villa with panoramic views and premium finishes. Located in beautiful Dominical, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-wh0pt02o72sevoqwrnmbbn-1.jpg",
+        "https://images.costa-rica-mls.com/property-qlfo5dt0hjiydwgi1isze-2.jpg",
+        "https://images.costa-rica-mls.com/property-8w1cwfna8kra4i6id97qdh-3.jpg",
+        "https://images.costa-rica-mls.com/property-1zyg9xv51h3ljrvjn576p8-4.jpg",
+        "https://images.costa-rica-mls.com/property-jjeu7yfp408od5gb0offoi-5.jpg",
+        "https://images.costa-rica-mls.com/property-g3kcu19pap5e5r04oo7lf-6.jpg",
+        "https://images.costa-rica-mls.com/property-uj58rgipi1grhxcnfsf5s-7.jpg",
+        "https://images.costa-rica-mls.com/property-mo60k7boqtpudn8cwe1mnk-8.jpg",
+        "https://images.costa-rica-mls.com/property-0mjc1h1tnr4bc543pdvwh7-9.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/vi8ivy5byebmjjz19qito",
+      "source": "Encuentra24",
+      "category": "luxury",
+      "scraped_at": "2025-10-06T13:17:04.732Z"
+    },
+    {
+      "id": "th3n4jpt4hix9u2gzmq97",
+      "title": "Luxury Villa with Mountain Views",
+      "price_usd": 1421154,
+      "price_text": "$1,421,154",
+      "location": "San José, San José, Costa Rica",
+      "description": "Sophisticated estate featuring infinity pool and private gardens. Located in beautiful San José, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-1n5yp3f75u2vnbdh5ejv6f-1.jpg",
+        "https://images.costa-rica-mls.com/property-jujx5wberxsjphqnse9xlb-2.jpg",
+        "https://images.costa-rica-mls.com/property-yyse7a5jhks5uv5wftmzqo-3.jpg",
+        "https://images.costa-rica-mls.com/property-kdfg4isqrdej6rljur6uoa-4.jpg",
+        "https://images.costa-rica-mls.com/property-u2z2kol0daoihly73d27g-5.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/rldm75n5wgarfn1e6cz2nr",
+      "source": "Coldwell Banker CR",
+      "category": "luxury",
+      "scraped_at": "2025-10-06T13:17:04.732Z"
     }
   ],
-  "last_updated": "2025-10-06T12:51:07.942Z",
+  "last_updated": "2025-10-06T13:17:04.785Z",
   "total_count": 10
 }
