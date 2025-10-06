@@ -1320,8 +1320,65 @@
       "source": "Encuentra24",
       "category": "land",
       "scraped_at": "2025-10-06T04:03:39.012Z"
+    },
+    {
+      "id": "lxa71ugwkjkovt9ppu2lm",
+      "title": "Investment Land Opportunity",
+      "price_usd": 81961,
+      "price_text": "$81,961",
+      "location": "Arenal, Alajuela, Costa Rica",
+      "description": "Large parcel with development potential and natural beauty. Located in beautiful Arenal, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-tc88isriq9mi26gnqlyals-1.jpg",
+        "https://images.costa-rica-mls.com/property-2qa2wtd6spcb71ei7l9mub-2.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/g2e4hlriza8i3k85k52hgr",
+      "source": "Encuentra24",
+      "category": "land",
+      "scraped_at": "2025-10-06T06:27:37.817Z"
+    },
+    {
+      "id": "dhtpmvuq68r6oaqif36p2",
+      "title": "Beautiful Land in Heredia",
+      "price_usd": 58997,
+      "price_text": "$58,997",
+      "location": "Heredia, Heredia, Costa Rica",
+      "description": "Pristine lot perfect for building your dream home. Located in beautiful Heredia, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-ep6f6pda881j7fivxr1mq-1.jpg",
+        "https://images.costa-rica-mls.com/property-mtoo13uazlsbv3b38lcrj-2.jpg",
+        "https://images.costa-rica-mls.com/property-ttcvzfxn3qq49ycyo9utac-3.jpg",
+        "https://images.costa-rica-mls.com/property-gwrq71w25n8ybn8oxhfhb-4.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/zb7gnialpw9qw0qbjaoyjl",
+      "source": "Coldwell Banker CR",
+      "category": "land",
+      "scraped_at": "2025-10-06T06:27:37.817Z"
+    },
+    {
+      "id": "darmd1eomdhhwqk04xdnod",
+      "title": "Beautiful Villa in Atenas",
+      "price_usd": 1485144,
+      "price_text": "$1,485,144",
+      "location": "Atenas, Alajuela, Costa Rica",
+      "description": "Exclusive luxury villa with panoramic views and premium finishes. Located in beautiful Atenas, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-tiklmb4r28rmw320mglqa-1.jpg",
+        "https://images.costa-rica-mls.com/property-u0qzwv6fkop4u729n3pp3t-2.jpg",
+        "https://images.costa-rica-mls.com/property-zwb7m4thszild4zbvezitj-3.jpg",
+        "https://images.costa-rica-mls.com/property-xr7vn0cnt3ytn5ljrkkx-4.jpg",
+        "https://images.costa-rica-mls.com/property-3rt4c7180fvvaoq5feoo0q-5.jpg",
+        "https://images.costa-rica-mls.com/property-ew6o3cfaxj505bubya1orr-6.jpg",
+        "https://images.costa-rica-mls.com/property-3gu1yn8idgd52bfcharnr3-7.jpg",
+        "https://images.costa-rica-mls.com/property-zfte1pn7ph34cvzxet9s6-8.jpg",
+        "https://images.costa-rica-mls.com/property-if06tcu754nihsyfyitt4-9.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/v2pif5zei4ifeqbb09mgfs",
+      "source": "Tropical Realty",
+      "category": "luxury",
+      "scraped_at": "2025-10-06T06:27:37.817Z"
     }
   ],
-  "last_updated": "2025-10-06T04:03:39.072Z",
+  "last_updated": "2025-10-06T06:27:37.880Z",
   "total_count": 10
 }
