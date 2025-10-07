@@ -1575,8 +1575,49 @@
       "source": "Costa Rica MLS",
       "category": "luxury",
       "scraped_at": "2025-10-06T14:19:54.489Z"
+    },
+    {
+      "id": "qvqqhetlq5asvvlsc5lue",
+      "title": "Beautiful Commercial Property in Uvita",
+      "price_usd": 196676,
+      "price_text": "$196,676",
+      "location": "Uvita, Puntarenas, Costa Rica",
+      "description": "Investment opportunity in rapidly developing commercial zone. Located in beautiful Uvita, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-4gvto5h3mtt7vvxbyl13ip-1.jpg",
+        "https://images.costa-rica-mls.com/property-cncwb40qs0mlndxn98sxrc-2.jpg",
+        "https://images.costa-rica-mls.com/property-ib6ie81yi11zcbwey9mm4-3.jpg",
+        "https://images.costa-rica-mls.com/property-nrdwkk6z209dv87aekmgd5-4.jpg",
+        "https://images.costa-rica-mls.com/property-do86fpg1e5fzfdlnebz18-5.jpg",
+        "https://images.costa-rica-mls.com/property-g3gp00ft258pef22ud9ml-6.jpg",
+        "https://images.costa-rica-mls.com/property-4oo1xekn76qb2y5q54347p-7.jpg",
+        "https://images.costa-rica-mls.com/property-wg4yenmkc88nljlr0vgl-8.jpg",
+        "https://images.costa-rica-mls.com/property-yqs9jibmkioxrdo03ycsu-9.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/6q5ge3mhg96wyfp37hrkdc",
+      "source": "Lamudi Costa Rica",
+      "category": "commercial",
+      "scraped_at": "2025-10-07T00:56:33.425Z"
+    },
+    {
+      "id": "91ao8g32d38h5vgj7gyecr",
+      "title": "Beautiful Commercial Property in Escazú",
+      "price_usd": 709388,
+      "price_text": "$709,388",
+      "location": "Escazú, San José, Costa Rica",
+      "description": "Investment opportunity in rapidly developing commercial zone. Located in beautiful Escazú, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-t74z1c2gqqbfg38g0je41r-1.jpg",
+        "https://images.costa-rica-mls.com/property-bgjqtnhi96v4pybnckddc3-2.jpg",
+        "https://images.costa-rica-mls.com/property-qy9uu6y2bcle4skppk9o0e-3.jpg",
+        "https://images.costa-rica-mls.com/property-9owgbnxkbzq7zpzl9fnc6r-4.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/xe0qqomhlyrgqkfiman67",
+      "source": "Coldwell Banker CR",
+      "category": "commercial",
+      "scraped_at": "2025-10-07T00:56:33.426Z"
     }
   ],
-  "last_updated": "2025-10-06T18:18:50.331Z",
+  "last_updated": "2025-10-07T00:56:33.487Z",
   "total_count": 10
 }
