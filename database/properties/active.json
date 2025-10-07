@@ -1731,8 +1731,26 @@
       "source": "Coldwell Banker CR",
       "category": "commercial",
       "scraped_at": "2025-10-07T12:25:11.082Z"
+    },
+    {
+      "id": "fbglgytvbi88mtm3nbbvo2",
+      "title": "Beautiful Villa in Dominical",
+      "price_usd": 757573,
+      "price_text": "$757,573",
+      "location": "Dominical, Puntarenas, Costa Rica",
+      "description": "Sophisticated estate featuring infinity pool and private gardens. Located in beautiful Dominical, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-kfrgtrpw46psi5qzljnrx-1.jpg",
+        "https://images.costa-rica-mls.com/property-4fubp6olem4fj99tugcjbp-2.jpg",
+        "https://images.costa-rica-mls.com/property-z0juaghwmfa9jjpc831zh-3.jpg",
+        "https://images.costa-rica-mls.com/property-8jmtl04symd3284eitedkn-4.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/kdofl15vgkfb1m7rmfdm9c",
+      "source": "RE/MAX Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-10-07T18:18:50.633Z"
     }
   ],
-  "last_updated": "2025-10-07T12:25:30.615Z",
+  "last_updated": "2025-10-07T18:18:50.694Z",
   "total_count": 10
 }
