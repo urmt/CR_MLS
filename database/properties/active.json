@@ -1858,8 +1858,25 @@
       "source": "Century21 CR",
       "category": "land",
       "scraped_at": "2025-10-08T06:19:11.943Z"
+    },
+    {
+      "id": "0euj4yita0w656b75r9ko7a",
+      "title": "Beautiful Land in San José",
+      "price_usd": 51924,
+      "price_text": "$51,924",
+      "location": "San José, San José, Costa Rica",
+      "description": "Prime development land with ocean views and easy access. Located in beautiful San José, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-ppw0qiuhd7lq6ycsj1qn-1.jpg",
+        "https://images.costa-rica-mls.com/property-zlcf5447a4rv253ys4alm-2.jpg",
+        "https://images.costa-rica-mls.com/property-j7ln9k4w8zdn67yzr1wbd-3.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/2pztah8plyw3f5vkgu110c",
+      "source": "Encuentra24",
+      "category": "land",
+      "scraped_at": "2025-10-08T18:18:49.997Z"
     }
   ],
-  "last_updated": "2025-10-08T12:26:07.562Z",
+  "last_updated": "2025-10-08T18:18:50.060Z",
   "total_count": 10
 }
