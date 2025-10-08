@@ -1749,8 +1749,52 @@
       "source": "RE/MAX Costa Rica",
       "category": "luxury",
       "scraped_at": "2025-10-07T18:18:50.633Z"
+    },
+    {
+      "id": "40eac1j3vwvq6bv0agq3a",
+      "title": "Beautiful Villa in Jaco",
+      "price_usd": 390279,
+      "price_text": "$390,279",
+      "location": "Jaco, Puntarenas, Costa Rica",
+      "description": "Sophisticated estate featuring infinity pool and private gardens. Located in beautiful Jaco, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-m4a0rsra5pn4h3pqpiy96r-1.jpg",
+        "https://images.costa-rica-mls.com/property-ezauajxe0pf423vnhe1wrm-2.jpg",
+        "https://images.costa-rica-mls.com/property-6ikv5rxziwcxdeownrs7r-3.jpg",
+        "https://images.costa-rica-mls.com/property-l4ok6dyn3pyunzw3pon6b-4.jpg",
+        "https://images.costa-rica-mls.com/property-1vvrwsui9lcy3ep576k1xq-5.jpg",
+        "https://images.costa-rica-mls.com/property-k5liwxlmxwocqmk57aaa-6.jpg",
+        "https://images.costa-rica-mls.com/property-8ux1fw3vu5akhuedtapnhm-7.jpg",
+        "https://images.costa-rica-mls.com/property-xen0dtpq3opv3oa6oxtbtr-8.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/yhgm8fcjtgav9dpsku6el",
+      "source": "Century21 CR",
+      "category": "luxury",
+      "scraped_at": "2025-10-08T00:56:00.438Z"
+    },
+    {
+      "id": "1q1g957o7u6qhelwft6hor",
+      "title": "Beautiful Villa in Jaco",
+      "price_usd": 1262470,
+      "price_text": "$1,262,470",
+      "location": "Jaco, Puntarenas, Costa Rica",
+      "description": "Ultra-modern villa designed for luxury living. Located in beautiful Jaco, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-wqxta7zuucil20xbsq41-1.jpg",
+        "https://images.costa-rica-mls.com/property-1v5tg4xbaeoq38ly8731ra-2.jpg",
+        "https://images.costa-rica-mls.com/property-g86n2p7p0mn95d6jwxvup-3.jpg",
+        "https://images.costa-rica-mls.com/property-j2r36r4ncfsa386kx4a8-4.jpg",
+        "https://images.costa-rica-mls.com/property-804uzuxly6wbyoj8jh3r16-5.jpg",
+        "https://images.costa-rica-mls.com/property-5eq83kiujwe3jca0raxx0m-6.jpg",
+        "https://images.costa-rica-mls.com/property-9fixzpw96u66tmqbver8d3-7.jpg",
+        "https://images.costa-rica-mls.com/property-i4hkcm162wcsouz23umx2-8.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/lc8kxdgldjjnatfzim9bn",
+      "source": "Encuentra24",
+      "category": "luxury",
+      "scraped_at": "2025-10-08T00:56:00.438Z"
     }
   ],
-  "last_updated": "2025-10-07T18:19:17.823Z",
+  "last_updated": "2025-10-08T00:56:00.503Z",
   "total_count": 10
 }
