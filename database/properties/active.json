@@ -1793,8 +1793,73 @@
       "source": "Encuentra24",
       "category": "luxury",
       "scraped_at": "2025-10-08T00:56:00.438Z"
+    },
+    {
+      "id": "752p6g6phuajzxggqzu0af",
+      "title": "Beautiful House in Puerto Viejo",
+      "price_usd": 176751,
+      "price_text": "$176,751",
+      "location": "Puerto Viejo, Limón, Costa Rica",
+      "description": "Well-maintained property with stunning natural surroundings. Located in beautiful Puerto Viejo, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-29zpo7a9fwwed7x7rbjscw-1.jpg",
+        "https://images.costa-rica-mls.com/property-gzu1jph6hrcj8jwfw5skk-2.jpg",
+        "https://images.costa-rica-mls.com/property-vejgdofkh5cvm44yhqbua-3.jpg",
+        "https://images.costa-rica-mls.com/property-a8lwp5nulz839nsc597t03-4.jpg",
+        "https://images.costa-rica-mls.com/property-8n7rsfydg0g1wkpgwdte2o-5.jpg",
+        "https://images.costa-rica-mls.com/property-62eanq249pq9ffhfmj0qa-6.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/os20b8i9dqipje8133dlj",
+      "source": "Lamudi Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-10-08T06:19:11.942Z"
+    },
+    {
+      "id": "zs87oocdjkbdvoaugsux56",
+      "title": "Beautiful Commercial Property in Cartago",
+      "price_usd": 668320,
+      "price_text": "$668,320",
+      "location": "Cartago, Cartago, Costa Rica",
+      "description": "Established business location with strong rental history. Located in beautiful Cartago, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-uxgijwpt09a9wee0r95krq-1.jpg",
+        "https://images.costa-rica-mls.com/property-f7i9p233lhrlxige3vtneq-2.jpg",
+        "https://images.costa-rica-mls.com/property-i8pyu9l6s8147b6t7jfsu-3.jpg",
+        "https://images.costa-rica-mls.com/property-eb1ctmz5exvshb5uub57u-4.jpg",
+        "https://images.costa-rica-mls.com/property-p3jqd4s49wa1bk5eoywhsph-5.jpg",
+        "https://images.costa-rica-mls.com/property-1porbaqoe6on2kk71c8de-6.jpg",
+        "https://images.costa-rica-mls.com/property-2o2rs8ka9outekmtsnwxzs-7.jpg",
+        "https://images.costa-rica-mls.com/property-cupxag8ra3dvsphqf5yybp-8.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/ts7ng3o4res0tabibg27i",
+      "source": "Costa Rica MLS",
+      "category": "commercial",
+      "scraped_at": "2025-10-08T06:19:11.942Z"
+    },
+    {
+      "id": "ai9vzthif26uyph47v3vza",
+      "title": "Beautiful Land in Nosara",
+      "price_usd": 50000,
+      "price_text": "$-23,990",
+      "location": "Nosara, Guanacaste, Costa Rica",
+      "description": "Prime development land with ocean views and easy access. Located in beautiful Nosara, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-56p0akri70g2bsvgvuzw6b-1.jpg",
+        "https://images.costa-rica-mls.com/property-8l4792l82v2d8x21sjm2b-2.jpg",
+        "https://images.costa-rica-mls.com/property-0rzcxmcwc79fruazglcd26e-3.jpg",
+        "https://images.costa-rica-mls.com/property-4gt8mzl9mkyu69ftvz6urg-4.jpg",
+        "https://images.costa-rica-mls.com/property-klx2yenx6ekh9ujtmf4j2f-5.jpg",
+        "https://images.costa-rica-mls.com/property-fr1uldzz1ona594jxmuob6-6.jpg",
+        "https://images.costa-rica-mls.com/property-tuujjoy4euntzjm5sc7j-7.jpg",
+        "https://images.costa-rica-mls.com/property-8osanpwcw0rrjygu9bombc-8.jpg",
+        "https://images.costa-rica-mls.com/property-god8oj65adm28iuul4re71-9.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/ecei9k1qmd7hxb7acedm5",
+      "source": "Century21 CR",
+      "category": "land",
+      "scraped_at": "2025-10-08T06:19:11.943Z"
     }
   ],
-  "last_updated": "2025-10-08T00:56:27.409Z",
+  "last_updated": "2025-10-08T06:19:12.003Z",
   "total_count": 10
 }
