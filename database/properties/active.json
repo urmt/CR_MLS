@@ -1914,8 +1914,29 @@
       "source": "Century21 CR",
       "category": "commercial",
       "scraped_at": "2025-10-09T06:19:32.436Z"
+    },
+    {
+      "id": "1toqvvtmm95jvvbdmr47am",
+      "title": "Beautiful Villa in Arenal",
+      "price_usd": 532377,
+      "price_text": "$532,377",
+      "location": "Arenal, Alajuela, Costa Rica",
+      "description": "Architectural masterpiece with world-class amenities. Located in beautiful Arenal, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-ya28fek05f03cmr16wqr2o-1.jpg",
+        "https://images.costa-rica-mls.com/property-qae8fhyoain28g7487onr-2.jpg",
+        "https://images.costa-rica-mls.com/property-v7mbkx9nytfny46jmzm6k-3.jpg",
+        "https://images.costa-rica-mls.com/property-atm9k9bc2embj88q6q8x-4.jpg",
+        "https://images.costa-rica-mls.com/property-ocvwgvtdtyn13sftizajf-5.jpg",
+        "https://images.costa-rica-mls.com/property-kj3qhr8kya3t4youw483n-6.jpg",
+        "https://images.costa-rica-mls.com/property-bxjrggxcxm8j5zyjoops7-7.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/trvqj2b5359y03r0irxx",
+      "source": "Encuentra24",
+      "category": "luxury",
+      "scraped_at": "2025-10-09T12:24:51.950Z"
     }
   ],
-  "last_updated": "2025-10-09T06:20:01.326Z",
+  "last_updated": "2025-10-09T12:24:52.013Z",
   "total_count": 10
 }
