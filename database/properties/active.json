@@ -1894,8 +1894,28 @@
       "source": "Lamudi Costa Rica",
       "category": "land",
       "scraped_at": "2025-10-09T00:56:49.885Z"
+    },
+    {
+      "id": "8p5cgxksxphm0uprxqnul",
+      "title": "Beautiful Commercial Property in Jaco",
+      "price_usd": 457615,
+      "price_text": "$457,615",
+      "location": "Jaco, Puntarenas, Costa Rica",
+      "description": "Investment opportunity in rapidly developing commercial zone. Located in beautiful Jaco, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-vz03vw4flgjga2a9mislph-1.jpg",
+        "https://images.costa-rica-mls.com/property-5ensa82a2xq19llbrpmwml-2.jpg",
+        "https://images.costa-rica-mls.com/property-ztf4y2jfzbxzl3yeizc1i-3.jpg",
+        "https://images.costa-rica-mls.com/property-tllmzq4nn6cxh1hmhvqv5-4.jpg",
+        "https://images.costa-rica-mls.com/property-jwjveo7dyisf2396s7zep-5.jpg",
+        "https://images.costa-rica-mls.com/property-cqqz6tse4pd9pyfiajyudl-6.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/3f8vrc712s6ljb5uglwrv",
+      "source": "Century21 CR",
+      "category": "commercial",
+      "scraped_at": "2025-10-09T06:19:32.436Z"
     }
   ],
-  "last_updated": "2025-10-09T00:57:19.090Z",
+  "last_updated": "2025-10-09T06:19:32.496Z",
   "total_count": 10
 }
