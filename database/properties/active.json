@@ -1935,8 +1935,49 @@
       "source": "Encuentra24",
       "category": "luxury",
       "scraped_at": "2025-10-09T12:24:51.950Z"
+    },
+    {
+      "id": "r8mog55pnhbd194lvxrep",
+      "title": "Beautiful Commercial Property in Arenal",
+      "price_usd": 756334,
+      "price_text": "$756,334",
+      "location": "Arenal, Alajuela, Costa Rica",
+      "description": "Modern office building with flexible floor plans. Located in beautiful Arenal, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-3kanhq08bk3hm5mz7q4yev-1.jpg",
+        "https://images.costa-rica-mls.com/property-q40277pnjkqxu4gt2kata9-2.jpg",
+        "https://images.costa-rica-mls.com/property-h5bj6xv031670bh5yz081n-3.jpg",
+        "https://images.costa-rica-mls.com/property-y9bmxhmqtqb392ia04ega-4.jpg",
+        "https://images.costa-rica-mls.com/property-82oae2c2ee22nidhmeg1da-5.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/tpq5fzfdt1ph13xvqu8oj",
+      "source": "Encuentra24",
+      "category": "commercial",
+      "scraped_at": "2025-10-09T18:18:31.710Z"
+    },
+    {
+      "id": "5n28alttxf3g9ekjmj730f",
+      "title": "Beautiful House in Heredia",
+      "price_usd": 235892,
+      "price_text": "$235,892",
+      "location": "Heredia, Heredia, Costa Rica",
+      "description": "Well-maintained property with stunning natural surroundings. Located in beautiful Heredia, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-mwlwppshukno79ga0ukab-1.jpg",
+        "https://images.costa-rica-mls.com/property-vsxxrz13t6vt45s255a9-2.jpg",
+        "https://images.costa-rica-mls.com/property-vkapqf2txjyzyyqc3iqmr-3.jpg",
+        "https://images.costa-rica-mls.com/property-7ffi58oj4g8ns7umxv5ld-4.jpg",
+        "https://images.costa-rica-mls.com/property-chfdp07z9bvpfqntg2p2mb-5.jpg",
+        "https://images.costa-rica-mls.com/property-qkv9cf46glzovtcb042es-6.jpg",
+        "https://images.costa-rica-mls.com/property-5omgsbdj9x3sez6jfg5arj-7.jpg",
+        "https://images.costa-rica-mls.com/property-5macudtrmwcbj8h07hnv5-8.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/hxkkgna1oquwxj6vnb58r8",
+      "source": "Lamudi Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-10-09T18:18:31.711Z"
     }
   ],
-  "last_updated": "2025-10-09T12:25:20.448Z",
+  "last_updated": "2025-10-09T18:18:31.776Z",
   "total_count": 10
 }
