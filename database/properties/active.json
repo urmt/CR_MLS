@@ -2028,8 +2028,24 @@
       "source": "Tropical Realty",
       "category": "luxury",
       "scraped_at": "2025-10-10T00:56:26.239Z"
+    },
+    {
+      "id": "ziaz3ahwnjgqha4c2wnsi",
+      "title": "Beautiful House in San José",
+      "price_usd": 196892,
+      "price_text": "$196,892",
+      "location": "San José, San José, Costa Rica",
+      "description": "Spacious house perfect for families, featuring open-plan living. Located in beautiful San José, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-e1wrbbwlye3w4cwsiogk-1.jpg",
+        "https://images.costa-rica-mls.com/property-qtpskj3pkx1vd7sxq6enn-2.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/3eck6ar3f2bjz9yb3j3sy",
+      "source": "Coldwell Banker CR",
+      "category": "residential",
+      "scraped_at": "2025-10-10T06:19:15.151Z"
     }
   ],
-  "last_updated": "2025-10-10T00:57:01.903Z",
+  "last_updated": "2025-10-10T06:19:15.214Z",
   "total_count": 10
 }
