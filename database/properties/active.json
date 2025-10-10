@@ -1976,8 +1976,60 @@
       "source": "Lamudi Costa Rica",
       "category": "residential",
       "scraped_at": "2025-10-09T18:18:31.711Z"
+    },
+    {
+      "id": "ihpgqdqjzdipsa8clvxu",
+      "title": "Beautiful Villa in Santa Ana",
+      "price_usd": 1066342,
+      "price_text": "$1,066,342",
+      "location": "Santa Ana, San José, Costa Rica",
+      "description": "Exclusive luxury villa with panoramic views and premium finishes. Located in beautiful Santa Ana, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-k7k79kaffjc7zufax57r7j-1.jpg",
+        "https://images.costa-rica-mls.com/property-r2yu8cfbp52fnsbgj5l9p-2.jpg",
+        "https://images.costa-rica-mls.com/property-m7xhqr8ei8oz7516hw74-3.jpg",
+        "https://images.costa-rica-mls.com/property-hyt2pwzztiig95p39jy6gv-4.jpg",
+        "https://images.costa-rica-mls.com/property-cc8xn3ohzbbd3ia3g1bu9-5.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/blo66t0byasvk55ic4owt",
+      "source": "Coldwell Banker CR",
+      "category": "luxury",
+      "scraped_at": "2025-10-10T00:56:26.238Z"
+    },
+    {
+      "id": "0qdowyd0p3vlvtejp0r2sl8",
+      "title": "Beautiful House in Monteverde",
+      "price_usd": 305491,
+      "price_text": "$305,491",
+      "location": "Monteverde, Puntarenas, Costa Rica",
+      "description": "Traditional Costa Rican architecture meets modern comfort. Located in beautiful Monteverde, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-scg4tzz6jdl97b04zhsoq-1.jpg",
+        "https://images.costa-rica-mls.com/property-sqvofew72nezr9gyhhsozh-2.jpg",
+        "https://images.costa-rica-mls.com/property-lgdn53l1cxbnklqp3dvt-3.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/7ct1h2fbxhtsrm8hnohlf",
+      "source": "Costa Rica MLS",
+      "category": "residential",
+      "scraped_at": "2025-10-10T00:56:26.238Z"
+    },
+    {
+      "id": "eozm70d34godl7z249t9b",
+      "title": "Beautiful Villa in Heredia",
+      "price_usd": 1072269,
+      "price_text": "$1,072,269",
+      "location": "Heredia, Heredia, Costa Rica",
+      "description": "Ultra-modern villa designed for luxury living. Located in beautiful Heredia, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-7nkcduw3ent6k3tcfy08ou-1.jpg",
+        "https://images.costa-rica-mls.com/property-o4ch866n6yarbtiy6egck-2.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/m3a8zhcx7rqp7b5x1sz8l",
+      "source": "Tropical Realty",
+      "category": "luxury",
+      "scraped_at": "2025-10-10T00:56:26.239Z"
     }
   ],
-  "last_updated": "2025-10-09T18:18:52.277Z",
+  "last_updated": "2025-10-10T00:56:26.314Z",
   "total_count": 10
 }
