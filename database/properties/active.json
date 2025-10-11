@@ -2126,8 +2126,26 @@
       "source": "Encuentra24",
       "category": "commercial",
       "scraped_at": "2025-10-11T12:21:25.086Z"
+    },
+    {
+      "id": "bq4w538qpffn0gbq3rlg6",
+      "title": "Beautiful Land in Puerto Viejo",
+      "price_usd": 50000,
+      "price_text": "$42,952",
+      "location": "Puerto Viejo, Limón, Costa Rica",
+      "description": "Prime development land with ocean views and easy access. Located in beautiful Puerto Viejo, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-bf7g3c8iv15p678qzfbjws-1.jpg",
+        "https://images.costa-rica-mls.com/property-1xvwcb4bkgck6dllt7dlol-2.jpg",
+        "https://images.costa-rica-mls.com/property-0crxz497prubvbmcjgb7qpb-3.jpg",
+        "https://images.costa-rica-mls.com/property-ca5ptp8444bsmggdphie-4.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/n8379ego35029cp1y6ku44",
+      "source": "Coldwell Banker CR",
+      "category": "land",
+      "scraped_at": "2025-10-11T18:14:53.401Z"
     }
   ],
-  "last_updated": "2025-10-11T12:21:49.176Z",
+  "last_updated": "2025-10-11T18:14:53.461Z",
   "total_count": 10
 }
