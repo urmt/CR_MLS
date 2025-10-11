@@ -2044,8 +2044,27 @@
       "source": "Coldwell Banker CR",
       "category": "residential",
       "scraped_at": "2025-10-10T06:19:15.151Z"
+    },
+    {
+      "id": "etmdp2t3yxmoll77cd6thl",
+      "title": "Beautiful Villa in Tamarindo",
+      "price_usd": 50000,
+      "price_text": "$4,066",
+      "location": "Tamarindo, Guanacaste, Costa Rica",
+      "description": "Architectural masterpiece with world-class amenities. Located in beautiful Tamarindo, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-t5241eun3ayyzly85lm8-1.jpg",
+        "https://images.costa-rica-mls.com/property-ewu9l6k5ei5t3luserdt3g-2.jpg",
+        "https://images.costa-rica-mls.com/property-fybi9l09xykuvgsxv6g7mn-3.jpg",
+        "https://images.costa-rica-mls.com/property-oxt9zb123r3tdbab6akip-4.jpg",
+        "https://images.costa-rica-mls.com/property-3gfotx72wzrzog13wr7wn8-5.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/q8ch93y25uzxj4qhsjic",
+      "source": "Century21 CR",
+      "category": "luxury",
+      "scraped_at": "2025-10-11T00:53:56.117Z"
     }
   ],
-  "last_updated": "2025-10-10T18:18:32.681Z",
+  "last_updated": "2025-10-11T00:53:56.177Z",
   "total_count": 10
 }
