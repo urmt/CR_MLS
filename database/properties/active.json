@@ -2222,8 +2222,27 @@
       "source": "Century21 CR",
       "category": "land",
       "scraped_at": "2025-10-12T06:16:33.864Z"
+    },
+    {
+      "id": "ccrnl9wxvxjar3z9dwv4hj",
+      "title": "Beautiful Villa in Nosara",
+      "price_usd": 132166,
+      "price_text": "$132,166",
+      "location": "Nosara, Guanacaste, Costa Rica",
+      "description": "Ultra-modern villa designed for luxury living. Located in beautiful Nosara, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-nrij5mb9g6swrl8vrnqt2-1.jpg",
+        "https://images.costa-rica-mls.com/property-e1mzbz2tgq9y7zs6jprr-2.jpg",
+        "https://images.costa-rica-mls.com/property-nppnlu4zlig3p2kwlf0trw-3.jpg",
+        "https://images.costa-rica-mls.com/property-4fsj3x05ohapq8d1fuqiq-4.jpg",
+        "https://images.costa-rica-mls.com/property-j1lcdwzg6e87ja02kgh23-5.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/xk2cbtl6tpm0hae1fidvdqm",
+      "source": "Tropical Realty",
+      "category": "luxury",
+      "scraped_at": "2025-10-12T18:15:51.473Z"
     }
   ],
-  "last_updated": "2025-10-12T12:22:00.776Z",
+  "last_updated": "2025-10-12T18:15:51.534Z",
   "total_count": 10
 }
