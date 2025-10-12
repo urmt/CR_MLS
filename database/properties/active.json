@@ -2144,8 +2144,25 @@
       "source": "Coldwell Banker CR",
       "category": "land",
       "scraped_at": "2025-10-11T18:14:53.401Z"
+    },
+    {
+      "id": "s6nlcdvrqi5gksi8vpb3g",
+      "title": "Beautiful Villa in Manuel Antonio",
+      "price_usd": 369295,
+      "price_text": "$369,295",
+      "location": "Manuel Antonio, Puntarenas, Costa Rica",
+      "description": "Architectural masterpiece with world-class amenities. Located in beautiful Manuel Antonio, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-dii035dzijwczgfi1rr3gh-1.jpg",
+        "https://images.costa-rica-mls.com/property-7f57hziyzn699it5gkuowd-2.jpg",
+        "https://images.costa-rica-mls.com/property-fluhhm1pdz4guxk8mltdc4-3.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/lbef1j1a62c0isbfsr27t8",
+      "source": "Costa Rica MLS",
+      "category": "luxury",
+      "scraped_at": "2025-10-12T00:59:22.073Z"
     }
   ],
-  "last_updated": "2025-10-11T18:15:19.600Z",
+  "last_updated": "2025-10-12T00:59:22.162Z",
   "total_count": 10
 }
