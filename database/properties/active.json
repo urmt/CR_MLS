@@ -2161,8 +2161,47 @@
       "source": "Costa Rica MLS",
       "category": "luxury",
       "scraped_at": "2025-10-12T00:59:22.073Z"
+    },
+    {
+      "id": "t1j9biwcjsniz2sls5zm39",
+      "title": "Beautiful Villa in Puerto Viejo",
+      "price_usd": 1404165,
+      "price_text": "$1,404,165",
+      "location": "Puerto Viejo, Limón, Costa Rica",
+      "description": "Exclusive luxury villa with panoramic views and premium finishes. Located in beautiful Puerto Viejo, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-tb2m8v8iswncvecumnldar-1.jpg",
+        "https://images.costa-rica-mls.com/property-jraibkh2obpqw3te0q6tk-2.jpg",
+        "https://images.costa-rica-mls.com/property-01yhpaq4shfodl3fp6kwvvc-3.jpg",
+        "https://images.costa-rica-mls.com/property-smndnvub4nowepxd14b7j-4.jpg",
+        "https://images.costa-rica-mls.com/property-fdhvhab424hqv3qiqrubdr-5.jpg",
+        "https://images.costa-rica-mls.com/property-rkwxzmrg8ulxz5b7kd2mk-6.jpg",
+        "https://images.costa-rica-mls.com/property-347val2pkqq5ghfcahu1q-7.jpg",
+        "https://images.costa-rica-mls.com/property-jbz89ym9wea7dso1k465hs-8.jpg",
+        "https://images.costa-rica-mls.com/property-e9txng29ay4pilkbjrve4-9.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/7b1uori4g5s9kndjaas4xf",
+      "source": "RE/MAX Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-10-12T02:57:39.653Z"
+    },
+    {
+      "id": "6qyg0g73p6s36tsxz2p0fr",
+      "title": "Beautiful Land in Arenal",
+      "price_usd": 66263,
+      "price_text": "$66,263",
+      "location": "Arenal, Alajuela, Costa Rica",
+      "description": "Pristine lot perfect for building your dream home. Located in beautiful Arenal, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-o8j5zh3kvzoqki6siwqsb-1.jpg",
+        "https://images.costa-rica-mls.com/property-8miujt55n5am4s8alm7oyg-2.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/is3ppifrj8n5macc6jyanr",
+      "source": "Costa Rica MLS",
+      "category": "land",
+      "scraped_at": "2025-10-12T02:57:39.653Z"
     }
   ],
-  "last_updated": "2025-10-12T00:59:46.272Z",
+  "last_updated": "2025-10-12T02:57:39.713Z",
   "total_count": 10
 }
