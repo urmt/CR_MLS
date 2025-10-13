@@ -5,6 +5,17 @@
   "next_purge": "2025-10-13T01:22:45.447Z",
   "purge_history": [
     {
+      "timestamp": "2025-10-13T01:01:21.599Z",
+      "purge_days": 90,
+      "results": {
+        "total_active": 117,
+        "total_pending": 0,
+        "purged_active": 0,
+        "purged_pending": 0,
+        "moved_to_archived": 0
+      }
+    },
+    {
       "timestamp": "2025-10-12T18:16:17.361Z",
       "purge_days": 90,
       "results": {
@@ -302,5 +313,5 @@
       }
     }
   ],
-  "last_updated": "2025-10-12T18:16:17.362Z"
+  "last_updated": "2025-10-13T01:01:21.599Z"
 }
