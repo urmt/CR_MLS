@@ -2241,8 +2241,29 @@
       "source": "Tropical Realty",
       "category": "luxury",
       "scraped_at": "2025-10-12T18:15:51.473Z"
+    },
+    {
+      "id": "6xyj9eyarfhyb1it2i3l7i",
+      "title": "Beautiful Villa in Uvita",
+      "price_usd": 448895,
+      "price_text": "$448,895",
+      "location": "Uvita, Puntarenas, Costa Rica",
+      "description": "Architectural masterpiece with world-class amenities. Located in beautiful Uvita, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-e62pow39myuu7f5c6zfq0j-1.jpg",
+        "https://images.costa-rica-mls.com/property-pchvts6cbmjt3lammv9eqg-2.jpg",
+        "https://images.costa-rica-mls.com/property-fms61vq2rnwjyqv8vfyg5a-3.jpg",
+        "https://images.costa-rica-mls.com/property-9sfrhyxabrpk1yd8omedf-4.jpg",
+        "https://images.costa-rica-mls.com/property-qbun5qyieogwabn4y5y6-5.jpg",
+        "https://images.costa-rica-mls.com/property-q2t9s9wiibj3mls3bu6il-6.jpg",
+        "https://images.costa-rica-mls.com/property-g2dohsnxqlz88a0pngodp-7.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/0e8gprzrgk9g0ylmkq8za1pc",
+      "source": "Tropical Realty",
+      "category": "luxury",
+      "scraped_at": "2025-10-13T18:17:56.770Z"
     }
   ],
-  "last_updated": "2025-10-13T12:25:44.015Z",
+  "last_updated": "2025-10-13T18:17:56.837Z",
   "total_count": 10
 }
