@@ -2300,8 +2300,24 @@
       "source": "Encuentra24",
       "category": "commercial",
       "scraped_at": "2025-10-15T00:58:22.210Z"
+    },
+    {
+      "id": "7l3cwat82p4fhxuqo5vmei",
+      "title": "Beautiful House in Tamarindo",
+      "price_usd": 288431,
+      "price_text": "$288,431",
+      "location": "Tamarindo, Guanacaste, Costa Rica",
+      "description": "Spacious house perfect for families, featuring open-plan living. Located in beautiful Tamarindo, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-15mpb2f8ein2mtaeyzrazq-1.jpg",
+        "https://images.costa-rica-mls.com/property-idthbgopkz3uox8m9bfad-2.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/dvcbp6efzcj2ercddlw3",
+      "source": "Encuentra24",
+      "category": "residential",
+      "scraped_at": "2025-10-15T12:26:57.720Z"
     }
   ],
-  "last_updated": "2025-10-15T06:19:46.403Z",
+  "last_updated": "2025-10-15T12:26:57.785Z",
   "total_count": 10
 }
