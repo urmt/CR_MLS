@@ -2284,8 +2284,24 @@
       "source": "Costa Rica MLS",
       "category": "residential",
       "scraped_at": "2025-10-14T18:19:06.257Z"
+    },
+    {
+      "id": "ml4e765ig3pjghfutvv78b",
+      "title": "Beautiful Commercial Property in Santa Ana",
+      "price_usd": 487090,
+      "price_text": "$487,090",
+      "location": "Santa Ana, San José, Costa Rica",
+      "description": "Modern office building with flexible floor plans. Located in beautiful Santa Ana, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-dwma4pqu9znmyc0timti9-1.jpg",
+        "https://images.costa-rica-mls.com/property-m80ra2op14s3029l3s785-2.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/013z4r60lrimkfhl6rcxz8q",
+      "source": "Encuentra24",
+      "category": "commercial",
+      "scraped_at": "2025-10-15T00:58:22.210Z"
     }
   ],
-  "last_updated": "2025-10-14T18:19:45.320Z",
+  "last_updated": "2025-10-15T00:58:22.272Z",
   "total_count": 10
 }
