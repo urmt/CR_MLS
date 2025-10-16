@@ -2316,8 +2316,31 @@
       "source": "Encuentra24",
       "category": "residential",
       "scraped_at": "2025-10-15T12:26:57.720Z"
+    },
+    {
+      "id": "y0rldlo9wp3pocirh8sy",
+      "title": "Beautiful Land in Manuel Antonio",
+      "price_usd": 137174,
+      "price_text": "$137,174",
+      "location": "Manuel Antonio, Puntarenas, Costa Rica",
+      "description": "Prime development land with ocean views and easy access. Located in beautiful Manuel Antonio, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-qvhgahlvzupsmjrosxvmu-1.jpg",
+        "https://images.costa-rica-mls.com/property-hnwmbujz9trq80tjjux5r-2.jpg",
+        "https://images.costa-rica-mls.com/property-b1eah947yn6ftqp7ctp5lq-3.jpg",
+        "https://images.costa-rica-mls.com/property-7pe02nkk3gveelv60xr8-4.jpg",
+        "https://images.costa-rica-mls.com/property-0v2m7gca2j5lhfokttzugfq-5.jpg",
+        "https://images.costa-rica-mls.com/property-8e4oabpr0two6yyia3mg2-6.jpg",
+        "https://images.costa-rica-mls.com/property-sbwaopxyu8beg0llio6si-7.jpg",
+        "https://images.costa-rica-mls.com/property-80l4ymxfiuyqpmolxez9m-8.jpg",
+        "https://images.costa-rica-mls.com/property-h9goeq7c02gjzq83rn57nr-9.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/t28eydtgyc0lbo827tgpif",
+      "source": "Costa Rica MLS",
+      "category": "land",
+      "scraped_at": "2025-10-16T00:57:43.063Z"
     }
   ],
-  "last_updated": "2025-10-15T18:19:44.989Z",
+  "last_updated": "2025-10-16T00:57:43.139Z",
   "total_count": 10
 }
