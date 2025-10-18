@@ -2339,8 +2339,30 @@
       "source": "Costa Rica MLS",
       "category": "land",
       "scraped_at": "2025-10-16T00:57:43.063Z"
+    },
+    {
+      "id": "gqcjbb4kuq8cgksws9jio",
+      "title": "Beautiful Land in Monteverde",
+      "price_usd": 66610,
+      "price_text": "$66,610",
+      "location": "Monteverde, Puntarenas, Costa Rica",
+      "description": "Investment land in rapidly appreciating area. Located in beautiful Monteverde, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-zxrl9uqebw5aie3by269b-1.jpg",
+        "https://images.costa-rica-mls.com/property-n5xuoycy9niowqa0h8vb5-2.jpg",
+        "https://images.costa-rica-mls.com/property-wco884s4m6ojerwfwczy-3.jpg",
+        "https://images.costa-rica-mls.com/property-07lf5pzw4xgffa2tjgnuqo-4.jpg",
+        "https://images.costa-rica-mls.com/property-6awyxudyxjq95l0d17e2zj-5.jpg",
+        "https://images.costa-rica-mls.com/property-937dbilz88my0nc9x3g-6.jpg",
+        "https://images.costa-rica-mls.com/property-t57eoss5lfh1fbbvyzricv-7.jpg",
+        "https://images.costa-rica-mls.com/property-qz0hgc4cordiqjon4h5d2h-8.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/w1lyu1hivwfxc42wk36lg",
+      "source": "RE/MAX Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-10-18T18:15:59.127Z"
     }
   ],
-  "last_updated": "2025-10-18T12:22:38.658Z",
+  "last_updated": "2025-10-18T18:15:59.190Z",
   "total_count": 10
 }
