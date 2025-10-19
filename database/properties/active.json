@@ -2382,8 +2382,27 @@
       "source": "Coldwell Banker CR",
       "category": "land",
       "scraped_at": "2025-10-19T03:10:18.369Z"
+    },
+    {
+      "id": "3sprfk7j2l1dd39rrk41eg",
+      "title": "Beautiful Land in Escazú",
+      "price_usd": 314444,
+      "price_text": "$314,444",
+      "location": "Escazú, San José, Costa Rica",
+      "description": "Large parcel with development potential and natural beauty. Located in beautiful Escazú, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-mx56dj2qpfgoyokoj63vw-1.jpg",
+        "https://images.costa-rica-mls.com/property-8d2cnuqg4v6x07brf46tmk-2.jpg",
+        "https://images.costa-rica-mls.com/property-tqx97937jcho724kgku3ib-3.jpg",
+        "https://images.costa-rica-mls.com/property-ojo6ngawf3np0otdehk-4.jpg",
+        "https://images.costa-rica-mls.com/property-l6hu2nza16k8tgu92iq4o9-5.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/hzghdjg99xr9rccyzhxjp5",
+      "source": "Century21 CR",
+      "category": "land",
+      "scraped_at": "2025-10-19T06:18:15.269Z"
     }
   ],
-  "last_updated": "2025-10-19T03:10:43.224Z",
+  "last_updated": "2025-10-19T06:18:15.339Z",
   "total_count": 10
 }
