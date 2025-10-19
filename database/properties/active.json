@@ -2361,8 +2361,29 @@
       "source": "RE/MAX Costa Rica",
       "category": "land",
       "scraped_at": "2025-10-18T18:15:59.127Z"
+    },
+    {
+      "id": "e60jsf0zuo4hjic3jub4d4",
+      "title": "Beautiful Land in Uvita",
+      "price_usd": 50000,
+      "price_text": "$13,967",
+      "location": "Uvita, Puntarenas, Costa Rica",
+      "description": "Pristine lot perfect for building your dream home. Located in beautiful Uvita, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-hilf2f0rs5wkv2fkc52rrh-1.jpg",
+        "https://images.costa-rica-mls.com/property-caldtvfev0w8g7t2xzewiu-2.jpg",
+        "https://images.costa-rica-mls.com/property-qta9cnlqe5kcmpo8l56cm-3.jpg",
+        "https://images.costa-rica-mls.com/property-dksvsvy2swum76uxepah5-4.jpg",
+        "https://images.costa-rica-mls.com/property-f1yrxa81i3mpqmdq43whs-5.jpg",
+        "https://images.costa-rica-mls.com/property-nby8o1092db0l36tqj01k-6.jpg",
+        "https://images.costa-rica-mls.com/property-y7bgpuhrwjb1o90o13hxo2-7.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/n9rngni8gc322jftjje91",
+      "source": "Coldwell Banker CR",
+      "category": "land",
+      "scraped_at": "2025-10-19T03:10:18.369Z"
     }
   ],
-  "last_updated": "2025-10-19T01:04:48.006Z",
+  "last_updated": "2025-10-19T03:10:18.441Z",
   "total_count": 10
 }
