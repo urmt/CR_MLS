@@ -2422,8 +2422,31 @@
       "source": "Century21 CR",
       "category": "commercial",
       "scraped_at": "2025-10-19T12:22:16.632Z"
+    },
+    {
+      "id": "tlu7p2oa1pr6f06rxs1cds",
+      "title": "Beautiful House in Jaco",
+      "price_usd": 241072,
+      "price_text": "$241,072",
+      "location": "Jaco, Puntarenas, Costa Rica",
+      "description": "Charming family home with modern amenities and beautiful gardens. Located in beautiful Jaco, this property offers excellent access to local amenities and natural attractions.",
+      "images": [
+        "https://images.costa-rica-mls.com/property-wx9mku3xv98a0wwmbe5fd-1.jpg",
+        "https://images.costa-rica-mls.com/property-euogwrvneomnounjiztco-2.jpg",
+        "https://images.costa-rica-mls.com/property-9yyztpf8ai7mdngbyxpzk-3.jpg",
+        "https://images.costa-rica-mls.com/property-0fj4vgjp366vdl7kw1u939-4.jpg",
+        "https://images.costa-rica-mls.com/property-jn2s4wkgq16n328aza5wj-5.jpg",
+        "https://images.costa-rica-mls.com/property-lzcqsehg6z4567salm6lr-6.jpg",
+        "https://images.costa-rica-mls.com/property-cnxcetdjnepujjwdd0bnw-7.jpg",
+        "https://images.costa-rica-mls.com/property-dgv3wucqo2fw9p1czxrb9b-8.jpg",
+        "https://images.costa-rica-mls.com/property-g9bkxsagnvid0ycn3mpq8i-9.jpg"
+      ],
+      "url": "https://example-realty-cr.com/property/h1ejwbd15khsvd21pyvp1c",
+      "source": "Lamudi Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-10-24T18:18:51.187Z"
     }
   ],
-  "last_updated": "2025-10-24T12:26:58.130Z",
+  "last_updated": "2025-10-24T18:18:51.252Z",
   "total_count": 10
 }
