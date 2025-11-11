@@ -1,0 +1,57 @@
+[
+  {
+    "listing_id": "encuentra24_enc24_001",
+    "source": "encuentra24",
+    "external_id": "enc24_001",
+    "title": "Beautiful House in Escazú, San José",
+    "changes": [],
+    "first_seen_price": 450000,
+    "current_price": 450000,
+    "price_trend": "stable",
+    "last_updated": "2025-11-11T23:23:52.609Z"
+  },
+  {
+    "listing_id": "encuentra24_enc24_002",
+    "source": "encuentra24",
+    "external_id": "enc24_002",
+    "title": "Beachfront Condo in Manuel Antonio",
+    "changes": [],
+    "first_seen_price": 320000,
+    "current_price": 320000,
+    "price_trend": "stable",
+    "last_updated": "2025-11-11T23:23:52.609Z"
+  },
+  {
+    "listing_id": "craigslist_cl_001",
+    "source": "craigslist",
+    "external_id": "cl_001",
+    "title": "Mountain Retreat in Cartago Province",
+    "changes": [],
+    "first_seen_price": 280000,
+    "current_price": 280000,
+    "price_trend": "stable",
+    "last_updated": "2025-11-11T23:23:52.609Z"
+  },
+  {
+    "listing_id": "lamudi_lamudi_001",
+    "source": "lamudi",
+    "external_id": "lamudi_001",
+    "title": "Oceanfront Villa in Tamarindo, Guanacaste",
+    "changes": [],
+    "first_seen_price": 1250000,
+    "current_price": 1250000,
+    "price_trend": "stable",
+    "last_updated": "2025-11-11T23:23:52.609Z"
+  },
+  {
+    "listing_id": "lamudi_lamudi_002",
+    "source": "lamudi",
+    "external_id": "lamudi_002",
+    "title": "Modern Apartment in San José City Center",
+    "changes": [],
+    "first_seen_price": 180000,
+    "current_price": 180000,
+    "price_trend": "stable",
+    "last_updated": "2025-11-11T23:23:52.609Z"
+  }
+]

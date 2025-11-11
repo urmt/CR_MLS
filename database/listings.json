@@ -1,0 +1,252 @@
+[
+  {
+    "listing_id": "encuentra24_enc24_001",
+    "source": "encuentra24",
+    "external_id": "enc24_001",
+    "title": "Beautiful House in Escazú, San José",
+    "description": "Modern 3-bedroom house with pool and mountain views",
+    "price_usd": 450000,
+    "price_currency": "USD",
+    "price_original": 450000,
+    "address": "Escazú, San José, Costa Rica",
+    "province": "San José",
+    "property_type": "house",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_m2": 200,
+    "coordinates": {
+      "lat": 9.9281,
+      "lng": -84.1402
+    },
+    "images": [
+      "https://example.com/house1.jpg"
+    ],
+    "listed_date": "2025-11-11T23:23:46.792Z",
+    "scraped_at": "2025-11-11T23:23:46.792Z",
+    "last_updated": "2025-11-11T23:23:50.599Z",
+    "enrichment": {
+      "municipal_tax": {
+        "valor_catastral": 225000000,
+        "impuesto_territorial": 5625000,
+        "luxury_tax_applicable": true,
+        "payment_status": "current",
+        "last_updated": "2025-11-11T23:23:50.599Z"
+      },
+      "market_data": {
+        "market_price_index": 127.5,
+        "average_mortgage_rate_percent": 8.5,
+        "exchange_rate_usd_crc": 510.25,
+        "last_updated": "2025-11-11T23:23:50.599Z"
+      },
+      "flood_risk": {
+        "risk_level": "low",
+        "zone_classification": "Zone A",
+        "last_updated": "2025-11-11T23:23:50.599Z"
+      },
+      "energy_efficiency": {
+        "certified": true,
+        "last_updated": "2025-11-11T23:23:50.599Z"
+      }
+    }
+  },
+  {
+    "listing_id": "encuentra24_enc24_002",
+    "source": "encuentra24",
+    "external_id": "enc24_002",
+    "title": "Beachfront Condo in Manuel Antonio",
+    "description": "Luxury 2-bedroom condo steps from the beach",
+    "price_usd": 320000,
+    "price_currency": "USD",
+    "price_original": 320000,
+    "address": "Manuel Antonio, Puntarenas, Costa Rica",
+    "province": "Puntarenas",
+    "property_type": "apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_m2": 120,
+    "coordinates": {
+      "lat": 9.3847,
+      "lng": -84.1505
+    },
+    "images": [
+      "https://example.com/condo1.jpg"
+    ],
+    "listed_date": "2025-11-11T23:23:46.792Z",
+    "scraped_at": "2025-11-11T23:23:46.792Z",
+    "last_updated": "2025-11-11T23:23:51.101Z",
+    "enrichment": {
+      "municipal_tax": {
+        "valor_catastral": 160000000,
+        "impuesto_territorial": 4000000,
+        "luxury_tax_applicable": true,
+        "payment_status": "current",
+        "last_updated": "2025-11-11T23:23:51.101Z"
+      },
+      "market_data": {
+        "market_price_index": 127.5,
+        "average_mortgage_rate_percent": 8.5,
+        "exchange_rate_usd_crc": 510.25,
+        "last_updated": "2025-11-11T23:23:51.101Z"
+      },
+      "flood_risk": {
+        "risk_level": "medium",
+        "zone_classification": "Zone A",
+        "last_updated": "2025-11-11T23:23:51.101Z"
+      },
+      "energy_efficiency": {
+        "certified": true,
+        "last_updated": "2025-11-11T23:23:51.101Z"
+      }
+    }
+  },
+  {
+    "listing_id": "craigslist_cl_001",
+    "source": "craigslist",
+    "external_id": "cl_001",
+    "title": "Mountain Retreat in Cartago Province",
+    "description": "Peaceful 4-bedroom home with amazing valley views",
+    "price_usd": 280000,
+    "price_currency": "USD",
+    "price_original": 280000,
+    "address": "Cartago, Costa Rica",
+    "province": "Cartago",
+    "property_type": "other",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area_m2": 180,
+    "coordinates": {
+      "lat": 9.8644,
+      "lng": -83.92
+    },
+    "images": [
+      "https://example.com/mountain1.jpg"
+    ],
+    "listed_date": "2025-11-11T23:23:48.294Z",
+    "scraped_at": "2025-11-11T23:23:48.294Z",
+    "last_updated": "2025-11-11T23:23:51.602Z",
+    "enrichment": {
+      "municipal_tax": {
+        "valor_catastral": 140000000,
+        "impuesto_territorial": 3500000,
+        "luxury_tax_applicable": true,
+        "payment_status": "current",
+        "last_updated": "2025-11-11T23:23:51.602Z"
+      },
+      "market_data": {
+        "market_price_index": 127.5,
+        "average_mortgage_rate_percent": 8.5,
+        "exchange_rate_usd_crc": 510.25,
+        "last_updated": "2025-11-11T23:23:51.602Z"
+      },
+      "flood_risk": {
+        "risk_level": "low",
+        "zone_classification": "Zone A",
+        "last_updated": "2025-11-11T23:23:51.602Z"
+      },
+      "energy_efficiency": {
+        "certified": true,
+        "last_updated": "2025-11-11T23:23:51.602Z"
+      }
+    }
+  },
+  {
+    "listing_id": "lamudi_lamudi_001",
+    "source": "lamudi",
+    "external_id": "lamudi_001",
+    "title": "Oceanfront Villa in Tamarindo, Guanacaste",
+    "description": "Stunning 5-bedroom villa with infinity pool and direct beach access",
+    "price_usd": 1250000,
+    "price_currency": "USD",
+    "price_original": 1250000,
+    "address": "Tamarindo, Guanacaste, Costa Rica",
+    "province": "Guanacaste",
+    "property_type": "other",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area_m2": 400,
+    "coordinates": {
+      "lat": 10.2994,
+      "lng": -85.8394
+    },
+    "images": [
+      "https://example.com/villa1.jpg"
+    ],
+    "listed_date": "2025-11-11T23:23:50.096Z",
+    "scraped_at": "2025-11-11T23:23:50.096Z",
+    "last_updated": "2025-11-11T23:23:52.103Z",
+    "enrichment": {
+      "municipal_tax": {
+        "valor_catastral": 625000000,
+        "impuesto_territorial": 15625000,
+        "luxury_tax_applicable": true,
+        "payment_status": "current",
+        "last_updated": "2025-11-11T23:23:52.103Z"
+      },
+      "market_data": {
+        "market_price_index": 127.5,
+        "average_mortgage_rate_percent": 8.5,
+        "exchange_rate_usd_crc": 510.25,
+        "last_updated": "2025-11-11T23:23:52.103Z"
+      },
+      "flood_risk": {
+        "risk_level": "low",
+        "zone_classification": "Zone A",
+        "last_updated": "2025-11-11T23:23:52.103Z"
+      },
+      "energy_efficiency": {
+        "certified": true,
+        "last_updated": "2025-11-11T23:23:52.103Z"
+      }
+    }
+  },
+  {
+    "listing_id": "lamudi_lamudi_002",
+    "source": "lamudi",
+    "external_id": "lamudi_002",
+    "title": "Modern Apartment in San José City Center",
+    "description": "Contemporary 2-bedroom apartment with city views",
+    "price_usd": 180000,
+    "price_currency": "USD",
+    "price_original": 180000,
+    "address": "San José, Costa Rica",
+    "province": "San José",
+    "property_type": "apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_m2": 95,
+    "coordinates": {
+      "lat": 9.9281,
+      "lng": -84.0907
+    },
+    "images": [
+      "https://example.com/apt1.jpg"
+    ],
+    "listed_date": "2025-11-11T23:23:50.096Z",
+    "scraped_at": "2025-11-11T23:23:50.096Z",
+    "last_updated": "2025-11-11T23:23:52.604Z",
+    "enrichment": {
+      "municipal_tax": {
+        "valor_catastral": 90000000,
+        "impuesto_territorial": 2250000,
+        "luxury_tax_applicable": false,
+        "payment_status": "current",
+        "last_updated": "2025-11-11T23:23:52.605Z"
+      },
+      "market_data": {
+        "market_price_index": 127.5,
+        "average_mortgage_rate_percent": 8.5,
+        "exchange_rate_usd_crc": 510.25,
+        "last_updated": "2025-11-11T23:23:52.605Z"
+      },
+      "flood_risk": {
+        "risk_level": "low",
+        "zone_classification": "Zone A",
+        "last_updated": "2025-11-11T23:23:52.605Z"
+      },
+      "energy_efficiency": {
+        "certified": false,
+        "last_updated": "2025-11-11T23:23:52.605Z"
+      }
+    }
+  }
+]

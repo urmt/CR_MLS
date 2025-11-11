@@ -10,18 +10,60 @@ Costa Rica MLS is a **fully autonomous, maintenance-free** property registry sys
 
 ## 🌐 Current Live Deployment
 
-**🚀 Permanent Automated IPFS URL**: https://w3s.link/ipfs/QmQtRXSzSeybtj8csDr8d9HnciQHU77BWdGkmfYrYfwrFH
+🚀 Permanent Automated IPFS URL**: https://w3s.link/ipfs/QmQtRXSzSeybtj8csDr8d9HnciQHU77BWdGkmfYrYfwrFH
+
+**🔥 NEW: Real-Data Pipeline**: Fully automated system for gathering **real property listings** from Costa Rica sources with government data enrichment.
 
 **Alternative Gateways**:
 - https://ipfs.io/ipfs/QmQtRXSzSeybtj8csDr8d9HnciQHU77BWdGkmfYrYfwrFH
 - https://gateway.ipfs.io/ipfs/QmQtRXSzSeybtj8csDr8d9HnciQHU77BWdGkmfYrYfwrFH
 - https://dweb.link/ipfs/QmQtRXSzSeybtj8csDr8d9HnciQHU77BWdGkmfYrYfwrFH
 
-**✅ Status**: Fully operational with 73+ properties, working PayPal payments, source information hidden for business model protection.
+✅ Status**: Fully operational with **122+ real properties**, working PayPal payments, automated scraping pipeline, and comprehensive data enrichment system.
 
-**🤖 Auto-Updates**: Every 6 hours via GitHub Actions automation.
+🤖 Auto-Updates**: Every 6 hours via **Real-Data Pipeline** - scrapes Encuentra24 & Craigslist, enriches with BCCR/government data, generates PDFs, and deploys to IPFS.
 
 ## 🔄 Automation Status
+
+## 🇨🇷 Real-Data Pipeline (NEW)
+
+### **Automated Property Data Collection & Enrichment**
+
+The system now includes a **fully autonomous real-data pipeline** that:
+
+#### **Data Sources**
+- **Encuentra24** (~80% of Costa Rica listings) - API integration
+- **Craigslist** (~15% expat market) - RSS + web scraping
+- **Future**: Lamudi and additional MLS systems
+
+#### **Data Enrichment** 
+Each property is automatically enriched with:
+- **BCCR Data**: Exchange rates, housing price index, mortgage rates
+- **Registro Nacional**: Property ownership, cadastral numbers, title status
+- **Municipal Tax**: Property taxes, cadastral values, luxury tax status
+- **MOPT Flood Risk**: Government flood zone assessments
+- **School Proximity**: Distance to public/private schools
+- **Energy Certification**: MINAE green building certifications
+- **Market Analysis**: Price trends, comparable sales, ROI projections
+
+#### **Pipeline Commands**
+```bash
+# Run real-data pipeline (requires API credentials)
+node scripts/real-data-pipeline.js
+
+# Check pipeline logs
+ls logs/pipeline-*.json
+
+# Sync database from GitHub to local client
+cp -r database/* client/public/database/
+```
+
+#### **API Credentials Required** 
+- **BCCR_API_USER** / **BCCR_API_PASS** - Central Bank API
+- **REGISTRO_NACIONAL_CERT** / **REGISTRO_NACIONAL_TOKEN** - Property Registry
+- **Municipal tokens** for San José, Escazú, Santa Ana (optional)
+
+*See `README-REAL-DATA.md` for complete setup instructions.*
 
 ### ✅ Fully Automated Processes
 - **Property Scraping**: Every 6 hours from real estate agent websites
@@ -79,6 +121,20 @@ npm run preview      # Preview production build
 npm run start        # Docker Compose full stack (if server exists)
 npm run stop         # Stop Docker containers
 npm run clean        # Clean Docker resources
+```
+
+### Development Workflow (Important!)
+```bash
+# 1. Pull latest scraped data from GitHub
+git pull origin main
+
+# 2. Sync database to client (REQUIRED for dev server)
+./scripts/sync-database-to-client.sh
+
+# 3. Start development server
+cd client && npm run dev
+
+# The client will now show all 122+ real properties from the scraped database
 ```
 
 ### GitHub Database Management

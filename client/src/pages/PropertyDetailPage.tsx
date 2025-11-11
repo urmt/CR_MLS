@@ -3,6 +3,8 @@ import { useParams, Link } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 import QRCode from 'react-qr-code';
 import GitHubDatabase from '../services/githubDatabase';
+import ReportPreview from '../components/ReportPreview';
+import { COSTA_RICA_REPORT_TYPES } from '../types/reports';
 // import CryptoPayment from '../components/CryptoPayment';
 // import PropertyPayPalPayment from '../components/PropertyPayPalPayment';
 
@@ -12,6 +14,7 @@ const PropertyDetailPage: React.FC = () => {
   const { id } = useParams<{ id: string }>();
   const [showCrypto, setShowCrypto] = useState<string | null>(null);
   const [showPayPal, setShowPayPal] = useState<string | null>(null);
+  const [showPreview, setShowPreview] = useState<string | null>(null);
   
   const { data: property, isLoading, error } = useQuery({
     queryKey: ['property', id],
@@ -175,9 +178,15 @@ const PropertyDetailPage: React.FC = () => {
                 </span>
               </div>
               <p className="text-sm text-gray-600 mb-3">
-                Access seller or listing agent contact details
+                Listing source, agent contact info, property details & images
               </p>
               <button 
+                className="btn btn-ghost w-full mb-2 text-sm"
+                onClick={() => setShowPreview('basic_contact')}
+              >
+                👁️ Preview Sample Report
+              </button>
+              <button
                 className="btn btn-primary w-full mb-2 text-sm"
                 onClick={() => {
                   console.log('Contact PayPal payment for property:', property.id);
@@ -220,8 +229,14 @@ const PropertyDetailPage: React.FC = () => {
                 <span className="text-lg font-bold text-green-600">$12.00</span>
               </div>
               <p className="text-sm text-gray-600 mb-3">
-                Beach/water concessions, permits, legal status
+                Location analysis & future legal data integration
               </p>
+              <button 
+                className="btn btn-ghost w-full mb-2 text-sm"
+                onClick={() => setShowPreview('legal_compliance')}
+              >
+                👁️ Preview Sample Report
+              </button>
               <div className="grid grid-cols-2 gap-2">
                 <button 
                   className="btn btn-outline text-sm"
@@ -264,8 +279,14 @@ const PropertyDetailPage: React.FC = () => {
                 <span className="text-lg font-bold text-green-600">$8.00</span>
               </div>
               <p className="text-sm text-gray-600 mb-3">
-                Previous sales, price history, ownership records
+                Complete listing data, market context & future enhancements
               </p>
+              <button 
+                className="btn btn-ghost w-full mb-2 text-sm"
+                onClick={() => setShowPreview('complete_due_diligence')}
+              >
+                👁️ Preview Sample Report
+              </button>
               <div className="grid grid-cols-2 gap-2">
                 <button 
                   className="btn btn-outline text-sm"
@@ -400,6 +421,14 @@ const PropertyDetailPage: React.FC = () => {
             </div>
           </div>
         </div>
+      )}
+      
+      {/* Report Preview Modal */}
+      {showPreview && (
+        <ReportPreview
+          reportType={COSTA_RICA_REPORT_TYPES.find(r => r.id === showPreview)!}
+          onClose={() => setShowPreview(null)}
+        />
       )}
     </div>
   );

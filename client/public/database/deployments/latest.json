@@ -1,11 +1,7 @@
 {
-  "timestamp": "2025-10-05T10:04:46-06:00",
-  "ipfs_hash": "QmYyDMTRzuPUAQNaT7RARzvt26hSzhtws3Cn4CD9VMSyqo",
-  "primary_url": "https://w3s.link/ipfs/QmYyDMTRzuPUAQNaT7RARzvt26hSzhtws3Cn4CD9VMSyqo",
-  "alternative_urls": [
-    "https://ipfs.io/ipfs/QmYyDMTRzuPUAQNaT7RARzvt26hSzhtws3Cn4CD9VMSyqo",
-    "https://gateway.ipfs.io/ipfs/QmYyDMTRzuPUAQNaT7RARzvt26hSzhtws3Cn4CD9VMSyqo",
-    "https://dweb.link/ipfs/QmYyDMTRzuPUAQNaT7RARzvt26hSzhtws3Cn4CD9VMSyqo"
-  ],
-  "deployed_by": "deploy-script"
+  "timestamp": "2025-10-16T12:28:00+00:00",
+  "ipfs_hash": "",
+  "ipfs_url": "https://ipfs.io/ipfs/",
+  "commit_sha": "6f028ad907262a76e229443d7d8a9116cf1b411b",
+  "deployed_by": "github-actions"
 }

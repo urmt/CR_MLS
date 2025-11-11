@@ -1,0 +1,1684 @@
+{
+  "errors": [
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "houses",
+      "page": 1,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-casas",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:46.543Z"
+    },
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "houses",
+      "page": 2,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-casas?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:47.257Z"
+    },
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "houses",
+      "page": 3,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-casas?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:47.950Z"
+    },
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "houses",
+      "page": 4,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-casas?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:48.704Z"
+    },
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "houses",
+      "page": 5,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-casas?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:49.339Z"
+    },
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "condos",
+      "page": 1,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-condominios",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:49.996Z"
+    },
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "condos",
+      "page": 2,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-condominios?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:50.684Z"
+    },
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "condos",
+      "page": 3,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-condominios?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:51.338Z"
+    },
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "condos",
+      "page": 4,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-condominios?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:51.965Z"
+    },
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "condos",
+      "page": 5,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-condominios?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:52.814Z"
+    },
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "land",
+      "page": 1,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-terrenos",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:53.457Z"
+    },
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "land",
+      "page": 2,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-terrenos?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:54.116Z"
+    },
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "land",
+      "page": 3,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-terrenos?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:54.754Z"
+    },
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "land",
+      "page": 4,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-terrenos?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:55.406Z"
+    },
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "land",
+      "page": 5,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-terrenos?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:56.032Z"
+    },
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "commercial",
+      "page": 1,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-locales-comerciales",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:56.705Z"
+    },
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "commercial",
+      "page": 2,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-locales-comerciales?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:57.318Z"
+    },
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "commercial",
+      "page": 3,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-locales-comerciales?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:57.928Z"
+    },
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "commercial",
+      "page": 4,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-locales-comerciales?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:58.587Z"
+    },
+    {
+      "source": "encuentra24_cr",
+      "endpoint": "commercial",
+      "page": 5,
+      "url": "https://www.encuentra24.com/costa-rica-es/bienes-raices-venta-locales-comerciales?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:15:59.178Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "buy",
+      "page": 1,
+      "url": "https://www.lamudi.com.cr/buy",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/buy",
+      "timestamp": "2025-10-06T01:15:59.354Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "buy",
+      "page": 2,
+      "url": "https://www.lamudi.com.cr/buy?page=2",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/buy?page=2",
+      "timestamp": "2025-10-06T01:15:59.401Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "buy",
+      "page": 3,
+      "url": "https://www.lamudi.com.cr/buy?page=3",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/buy?page=3",
+      "timestamp": "2025-10-06T01:15:59.433Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "buy",
+      "page": 4,
+      "url": "https://www.lamudi.com.cr/buy?page=4",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/buy?page=4",
+      "timestamp": "2025-10-06T01:15:59.471Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "buy",
+      "page": 5,
+      "url": "https://www.lamudi.com.cr/buy?page=5",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/buy?page=5",
+      "timestamp": "2025-10-06T01:15:59.494Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "rent",
+      "page": 1,
+      "url": "https://www.lamudi.com.cr/rent",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/rent",
+      "timestamp": "2025-10-06T01:15:59.537Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "rent",
+      "page": 2,
+      "url": "https://www.lamudi.com.cr/rent?page=2",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/rent?page=2",
+      "timestamp": "2025-10-06T01:15:59.571Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "rent",
+      "page": 3,
+      "url": "https://www.lamudi.com.cr/rent?page=3",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/rent?page=3",
+      "timestamp": "2025-10-06T01:15:59.604Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "rent",
+      "page": 4,
+      "url": "https://www.lamudi.com.cr/rent?page=4",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/rent?page=4",
+      "timestamp": "2025-10-06T01:15:59.643Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "rent",
+      "page": 5,
+      "url": "https://www.lamudi.com.cr/rent?page=5",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/rent?page=5",
+      "timestamp": "2025-10-06T01:15:59.666Z"
+    },
+    {
+      "source": "craigslist_cr",
+      "endpoint": "real_estate",
+      "page": 1,
+      "url": "https://sanjose.craigslist.org/search/rea",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://sanjose.craigslist.org/search/rea",
+      "timestamp": "2025-10-06T01:15:59.850Z"
+    },
+    {
+      "source": "craigslist_cr",
+      "endpoint": "real_estate",
+      "page": 2,
+      "url": "https://sanjose.craigslist.org/search/rea?page=2",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://sanjose.craigslist.org/search/rea?page=2",
+      "timestamp": "2025-10-06T01:15:59.891Z"
+    },
+    {
+      "source": "craigslist_cr",
+      "endpoint": "real_estate",
+      "page": 3,
+      "url": "https://sanjose.craigslist.org/search/rea?page=3",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://sanjose.craigslist.org/search/rea?page=3",
+      "timestamp": "2025-10-06T01:15:59.919Z"
+    },
+    {
+      "source": "craigslist_cr",
+      "endpoint": "real_estate",
+      "page": 4,
+      "url": "https://sanjose.craigslist.org/search/rea?page=4",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://sanjose.craigslist.org/search/rea?page=4",
+      "timestamp": "2025-10-06T01:15:59.960Z"
+    },
+    {
+      "source": "craigslist_cr",
+      "endpoint": "real_estate",
+      "page": 5,
+      "url": "https://sanjose.craigslist.org/search/rea?page=5",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://sanjose.craigslist.org/search/rea?page=5",
+      "timestamp": "2025-10-06T01:15:59.995Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "luxury",
+      "page": 1,
+      "url": "https://www.coldwellbankercostarica.com/luxury",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:02.396Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "luxury",
+      "page": 2,
+      "url": "https://www.coldwellbankercostarica.com/luxury?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:03.238Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "luxury",
+      "page": 3,
+      "url": "https://www.coldwellbankercostarica.com/luxury?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:03.783Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "luxury",
+      "page": 4,
+      "url": "https://www.coldwellbankercostarica.com/luxury?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:04.372Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "luxury",
+      "page": 5,
+      "url": "https://www.coldwellbankercostarica.com/luxury?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:04.863Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "commercial",
+      "page": 1,
+      "url": "https://www.coldwellbankercostarica.com/commercial",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:05.404Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "commercial",
+      "page": 2,
+      "url": "https://www.coldwellbankercostarica.com/commercial?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:06.010Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "commercial",
+      "page": 3,
+      "url": "https://www.coldwellbankercostarica.com/commercial?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:06.680Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "commercial",
+      "page": 4,
+      "url": "https://www.coldwellbankercostarica.com/commercial?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:07.433Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "commercial",
+      "page": 5,
+      "url": "https://www.coldwellbankercostarica.com/commercial?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:08.040Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "condos",
+      "page": 1,
+      "url": "https://www.coldwellbankercostarica.com/condos-villas",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:08.675Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "condos",
+      "page": 2,
+      "url": "https://www.coldwellbankercostarica.com/condos-villas?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:09.213Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "condos",
+      "page": 3,
+      "url": "https://www.coldwellbankercostarica.com/condos-villas?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:09.707Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "condos",
+      "page": 4,
+      "url": "https://www.coldwellbankercostarica.com/condos-villas?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:10.175Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "condos",
+      "page": 5,
+      "url": "https://www.coldwellbankercostarica.com/condos-villas?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:10.707Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "homes",
+      "page": 1,
+      "url": "https://www.coldwellbankercostarica.com/homes-estates",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:11.172Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "homes",
+      "page": 2,
+      "url": "https://www.coldwellbankercostarica.com/homes-estates?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:11.723Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "homes",
+      "page": 3,
+      "url": "https://www.coldwellbankercostarica.com/homes-estates?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:12.193Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "homes",
+      "page": 4,
+      "url": "https://www.coldwellbankercostarica.com/homes-estates?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:13.642Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "homes",
+      "page": 5,
+      "url": "https://www.coldwellbankercostarica.com/homes-estates?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:15.122Z"
+    },
+    {
+      "source": "krain_real_estate",
+      "endpoint": "all_listings",
+      "page": 1,
+      "url": "https://krainrealestate.com/all-listings",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:17.642Z"
+    },
+    {
+      "source": "krain_real_estate",
+      "endpoint": "all_listings",
+      "page": 2,
+      "url": "https://krainrealestate.com/all-listings?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:18.456Z"
+    },
+    {
+      "source": "krain_real_estate",
+      "endpoint": "all_listings",
+      "page": 3,
+      "url": "https://krainrealestate.com/all-listings?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:19.222Z"
+    },
+    {
+      "source": "krain_real_estate",
+      "endpoint": "all_listings",
+      "page": 4,
+      "url": "https://krainrealestate.com/all-listings?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:19.935Z"
+    },
+    {
+      "source": "krain_real_estate",
+      "endpoint": "all_listings",
+      "page": 5,
+      "url": "https://krainrealestate.com/all-listings?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:20.583Z"
+    },
+    {
+      "source": "krain_real_estate",
+      "endpoint": "luxury",
+      "page": 1,
+      "url": "https://krainrealestate.com/luxury",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:21.861Z"
+    },
+    {
+      "source": "krain_real_estate",
+      "endpoint": "luxury",
+      "page": 2,
+      "url": "https://krainrealestate.com/luxury?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:22.631Z"
+    },
+    {
+      "source": "krain_real_estate",
+      "endpoint": "luxury",
+      "page": 3,
+      "url": "https://krainrealestate.com/luxury?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:23.339Z"
+    },
+    {
+      "source": "krain_real_estate",
+      "endpoint": "luxury",
+      "page": 4,
+      "url": "https://krainrealestate.com/luxury?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:24.103Z"
+    },
+    {
+      "source": "krain_real_estate",
+      "endpoint": "luxury",
+      "page": 5,
+      "url": "https://krainrealestate.com/luxury?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:24.776Z"
+    },
+    {
+      "source": "krain_real_estate",
+      "endpoint": "beachfront",
+      "page": 1,
+      "url": "https://krainrealestate.com/beachfront",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:26.403Z"
+    },
+    {
+      "source": "krain_real_estate",
+      "endpoint": "beachfront",
+      "page": 2,
+      "url": "https://krainrealestate.com/beachfront?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:27.101Z"
+    },
+    {
+      "source": "krain_real_estate",
+      "endpoint": "beachfront",
+      "page": 3,
+      "url": "https://krainrealestate.com/beachfront?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:27.793Z"
+    },
+    {
+      "source": "krain_real_estate",
+      "endpoint": "beachfront",
+      "page": 4,
+      "url": "https://krainrealestate.com/beachfront?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:28.473Z"
+    },
+    {
+      "source": "krain_real_estate",
+      "endpoint": "beachfront",
+      "page": 5,
+      "url": "https://krainrealestate.com/beachfront?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:29.186Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "all_properties",
+      "page": 1,
+      "url": "https://www.remax-oceansurf-cr.com/view-all-properties",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:31.801Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "all_properties",
+      "page": 2,
+      "url": "https://www.remax-oceansurf-cr.com/view-all-properties?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:33.616Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "all_properties",
+      "page": 3,
+      "url": "https://www.remax-oceansurf-cr.com/view-all-properties?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:34.303Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "all_properties",
+      "page": 4,
+      "url": "https://www.remax-oceansurf-cr.com/view-all-properties?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:35.023Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "all_properties",
+      "page": 5,
+      "url": "https://www.remax-oceansurf-cr.com/view-all-properties?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:35.703Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "luxury",
+      "page": 1,
+      "url": "https://www.remax-oceansurf-cr.com/luxury-properties",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:36.472Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "luxury",
+      "page": 2,
+      "url": "https://www.remax-oceansurf-cr.com/luxury-properties?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:37.173Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "luxury",
+      "page": 3,
+      "url": "https://www.remax-oceansurf-cr.com/luxury-properties?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:37.879Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "luxury",
+      "page": 4,
+      "url": "https://www.remax-oceansurf-cr.com/luxury-properties?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:38.549Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "luxury",
+      "page": 5,
+      "url": "https://www.remax-oceansurf-cr.com/luxury-properties?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:39.279Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "condos",
+      "page": 1,
+      "url": "https://www.remax-oceansurf-cr.com/condos-townhomes",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:40.014Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "condos",
+      "page": 2,
+      "url": "https://www.remax-oceansurf-cr.com/condos-townhomes?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:40.712Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "condos",
+      "page": 3,
+      "url": "https://www.remax-oceansurf-cr.com/condos-townhomes?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:41.449Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "condos",
+      "page": 4,
+      "url": "https://www.remax-oceansurf-cr.com/condos-townhomes?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:42.111Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "condos",
+      "page": 5,
+      "url": "https://www.remax-oceansurf-cr.com/condos-townhomes?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:42.935Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "lots",
+      "page": 1,
+      "url": "https://www.remax-oceansurf-cr.com/residential-lots",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:43.630Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "lots",
+      "page": 2,
+      "url": "https://www.remax-oceansurf-cr.com/residential-lots?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:44.319Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "lots",
+      "page": 3,
+      "url": "https://www.remax-oceansurf-cr.com/residential-lots?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:44.992Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "lots",
+      "page": 4,
+      "url": "https://www.remax-oceansurf-cr.com/residential-lots?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:45.662Z"
+    },
+    {
+      "source": "remax_oceansurf",
+      "endpoint": "lots",
+      "page": 5,
+      "url": "https://www.remax-oceansurf-cr.com/residential-lots?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:46.321Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "homes",
+      "page": 1,
+      "url": "https://costaricarealestateservice.com/single-family-homes",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:49.679Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "homes",
+      "page": 2,
+      "url": "https://costaricarealestateservice.com/single-family-homes?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:50.938Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "homes",
+      "page": 3,
+      "url": "https://costaricarealestateservice.com/single-family-homes?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:52.106Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "homes",
+      "page": 4,
+      "url": "https://costaricarealestateservice.com/single-family-homes?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:53.252Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "homes",
+      "page": 5,
+      "url": "https://costaricarealestateservice.com/single-family-homes?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:54.389Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "luxury",
+      "page": 1,
+      "url": "https://costaricarealestateservice.com/luxury-estates",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:55.943Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "luxury",
+      "page": 2,
+      "url": "https://costaricarealestateservice.com/luxury-estates?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:57.108Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "luxury",
+      "page": 3,
+      "url": "https://costaricarealestateservice.com/luxury-estates?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:58.275Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "luxury",
+      "page": 4,
+      "url": "https://costaricarealestateservice.com/luxury-estates?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:16:59.422Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "luxury",
+      "page": 5,
+      "url": "https://costaricarealestateservice.com/luxury-estates?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:01.278Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "lots",
+      "page": 1,
+      "url": "https://costaricarealestateservice.com/building-lots",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:03.370Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "lots",
+      "page": 2,
+      "url": "https://costaricarealestateservice.com/building-lots?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:04.579Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "lots",
+      "page": 3,
+      "url": "https://costaricarealestateservice.com/building-lots?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:05.811Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "lots",
+      "page": 4,
+      "url": "https://costaricarealestateservice.com/building-lots?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:07.014Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "lots",
+      "page": 5,
+      "url": "https://costaricarealestateservice.com/building-lots?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:08.214Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "commercial",
+      "page": 1,
+      "url": "https://costaricarealestateservice.com/commercial-real-estate",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:09.785Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "commercial",
+      "page": 2,
+      "url": "https://costaricarealestateservice.com/commercial-real-estate?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:11.163Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "commercial",
+      "page": 3,
+      "url": "https://costaricarealestateservice.com/commercial-real-estate?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:12.534Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "commercial",
+      "page": 4,
+      "url": "https://costaricarealestateservice.com/commercial-real-estate?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:13.719Z"
+    },
+    {
+      "source": "costa_rica_real_estate_service",
+      "endpoint": "commercial",
+      "page": 5,
+      "url": "https://costaricarealestateservice.com/commercial-real-estate?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:14.936Z"
+    },
+    {
+      "source": "neocasa_cr",
+      "endpoint": "buy",
+      "page": 1,
+      "url": "https://www.neocasacr.com/en/comprar",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:15.450Z"
+    },
+    {
+      "source": "neocasa_cr",
+      "endpoint": "buy",
+      "page": 2,
+      "url": "https://www.neocasacr.com/en/comprar?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:15.641Z"
+    },
+    {
+      "source": "neocasa_cr",
+      "endpoint": "buy",
+      "page": 3,
+      "url": "https://www.neocasacr.com/en/comprar?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:15.874Z"
+    },
+    {
+      "source": "neocasa_cr",
+      "endpoint": "buy",
+      "page": 4,
+      "url": "https://www.neocasacr.com/en/comprar?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:16.066Z"
+    },
+    {
+      "source": "neocasa_cr",
+      "endpoint": "buy",
+      "page": 5,
+      "url": "https://www.neocasacr.com/en/comprar?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:16.282Z"
+    },
+    {
+      "source": "neocasa_cr",
+      "endpoint": "luxury",
+      "page": 1,
+      "url": "https://www.neocasacr.com/en/luxury-properties",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:16.552Z"
+    },
+    {
+      "source": "neocasa_cr",
+      "endpoint": "luxury",
+      "page": 2,
+      "url": "https://www.neocasacr.com/en/luxury-properties?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:16.783Z"
+    },
+    {
+      "source": "neocasa_cr",
+      "endpoint": "luxury",
+      "page": 3,
+      "url": "https://www.neocasacr.com/en/luxury-properties?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:16.965Z"
+    },
+    {
+      "source": "neocasa_cr",
+      "endpoint": "luxury",
+      "page": 4,
+      "url": "https://www.neocasacr.com/en/luxury-properties?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:17.152Z"
+    },
+    {
+      "source": "neocasa_cr",
+      "endpoint": "luxury",
+      "page": 5,
+      "url": "https://www.neocasacr.com/en/luxury-properties?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:17.339Z"
+    },
+    {
+      "source": "neocasa_cr",
+      "endpoint": "apartments",
+      "page": 1,
+      "url": "https://www.neocasacr.com/en/apartments",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:17.532Z"
+    },
+    {
+      "source": "neocasa_cr",
+      "endpoint": "apartments",
+      "page": 2,
+      "url": "https://www.neocasacr.com/en/apartments?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:17.752Z"
+    },
+    {
+      "source": "neocasa_cr",
+      "endpoint": "apartments",
+      "page": 3,
+      "url": "https://www.neocasacr.com/en/apartments?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:17.986Z"
+    },
+    {
+      "source": "neocasa_cr",
+      "endpoint": "apartments",
+      "page": 4,
+      "url": "https://www.neocasacr.com/en/apartments?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:18.221Z"
+    },
+    {
+      "source": "neocasa_cr",
+      "endpoint": "apartments",
+      "page": 5,
+      "url": "https://www.neocasacr.com/en/apartments?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:18.402Z"
+    },
+    {
+      "source": "remax_costa_rica",
+      "endpoint": "properties",
+      "page": 1,
+      "url": "https://www.remax-costa-rica.com/search-properties",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2025-10-06T01:17:33.478Z"
+    },
+    {
+      "source": "remax_costa_rica",
+      "endpoint": "properties",
+      "page": 2,
+      "url": "https://www.remax-costa-rica.com/search-properties?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:39.124Z"
+    },
+    {
+      "source": "remax_costa_rica",
+      "endpoint": "properties",
+      "page": 3,
+      "url": "https://www.remax-costa-rica.com/search-properties?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:41.589Z"
+    },
+    {
+      "source": "remax_costa_rica",
+      "endpoint": "properties",
+      "page": 4,
+      "url": "https://www.remax-costa-rica.com/search-properties?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:43.959Z"
+    },
+    {
+      "source": "remax_costa_rica",
+      "endpoint": "properties",
+      "page": 5,
+      "url": "https://www.remax-costa-rica.com/search-properties?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:46.823Z"
+    },
+    {
+      "source": "remax_costa_rica",
+      "endpoint": "commercial",
+      "page": 1,
+      "url": "https://www.remax-costa-rica.com/commercial-building-office-space-warehouse",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:49.253Z"
+    },
+    {
+      "source": "remax_costa_rica",
+      "endpoint": "commercial",
+      "page": 2,
+      "url": "https://www.remax-costa-rica.com/commercial-building-office-space-warehouse?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:51.527Z"
+    },
+    {
+      "source": "remax_costa_rica",
+      "endpoint": "commercial",
+      "page": 3,
+      "url": "https://www.remax-costa-rica.com/commercial-building-office-space-warehouse?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:53.456Z"
+    },
+    {
+      "source": "remax_costa_rica",
+      "endpoint": "commercial",
+      "page": 4,
+      "url": "https://www.remax-costa-rica.com/commercial-building-office-space-warehouse?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:55.456Z"
+    },
+    {
+      "source": "remax_costa_rica",
+      "endpoint": "commercial",
+      "page": 5,
+      "url": "https://www.remax-costa-rica.com/commercial-building-office-space-warehouse?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:17:57.793Z"
+    },
+    {
+      "source": "remax_costa_rica",
+      "endpoint": "luxury",
+      "page": 1,
+      "url": "https://www.remax-costa-rica.com/house-villa",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2025-10-06T01:18:12.794Z"
+    },
+    {
+      "source": "remax_costa_rica",
+      "endpoint": "luxury",
+      "page": 2,
+      "url": "https://www.remax-costa-rica.com/house-villa?page=2",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2025-10-06T01:18:27.796Z"
+    },
+    {
+      "source": "remax_costa_rica",
+      "endpoint": "luxury",
+      "page": 3,
+      "url": "https://www.remax-costa-rica.com/house-villa?page=3",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2025-10-06T01:18:42.797Z"
+    },
+    {
+      "source": "remax_costa_rica",
+      "endpoint": "luxury",
+      "page": 4,
+      "url": "https://www.remax-costa-rica.com/house-villa?page=4",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2025-10-06T01:18:57.801Z"
+    },
+    {
+      "source": "remax_costa_rica",
+      "endpoint": "luxury",
+      "page": 5,
+      "url": "https://www.remax-costa-rica.com/house-villa?page=5",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2025-10-06T01:19:12.803Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "properties",
+      "page": 1,
+      "url": "https://civ.co.cr/propiedades",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/propiedades",
+      "timestamp": "2025-10-06T01:19:13.463Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "properties",
+      "page": 2,
+      "url": "https://civ.co.cr/propiedades?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/propiedades?page=2",
+      "timestamp": "2025-10-06T01:19:13.557Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "properties",
+      "page": 3,
+      "url": "https://civ.co.cr/propiedades?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/propiedades?page=3",
+      "timestamp": "2025-10-06T01:19:13.647Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "properties",
+      "page": 4,
+      "url": "https://civ.co.cr/propiedades?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/propiedades?page=4",
+      "timestamp": "2025-10-06T01:19:13.742Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "properties",
+      "page": 5,
+      "url": "https://civ.co.cr/propiedades?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/propiedades?page=5",
+      "timestamp": "2025-10-06T01:19:13.838Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "sale",
+      "page": 1,
+      "url": "https://civ.co.cr/venta",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/venta",
+      "timestamp": "2025-10-06T01:19:13.931Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "sale",
+      "page": 2,
+      "url": "https://civ.co.cr/venta?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/venta?page=2",
+      "timestamp": "2025-10-06T01:19:14.033Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "sale",
+      "page": 3,
+      "url": "https://civ.co.cr/venta?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/venta?page=3",
+      "timestamp": "2025-10-06T01:19:14.131Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "sale",
+      "page": 4,
+      "url": "https://civ.co.cr/venta?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/venta?page=4",
+      "timestamp": "2025-10-06T01:19:14.232Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "sale",
+      "page": 5,
+      "url": "https://civ.co.cr/venta?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/venta?page=5",
+      "timestamp": "2025-10-06T01:19:14.330Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "rent",
+      "page": 1,
+      "url": "https://civ.co.cr/alquiler",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/alquiler",
+      "timestamp": "2025-10-06T01:19:14.427Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "rent",
+      "page": 2,
+      "url": "https://civ.co.cr/alquiler?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/alquiler?page=2",
+      "timestamp": "2025-10-06T01:19:14.533Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "rent",
+      "page": 3,
+      "url": "https://civ.co.cr/alquiler?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/alquiler?page=3",
+      "timestamp": "2025-10-06T01:19:14.660Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "rent",
+      "page": 4,
+      "url": "https://civ.co.cr/alquiler?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/alquiler?page=4",
+      "timestamp": "2025-10-06T01:19:14.781Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "rent",
+      "page": 5,
+      "url": "https://civ.co.cr/alquiler?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/alquiler?page=5",
+      "timestamp": "2025-10-06T01:19:14.875Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "sale_san_jose",
+      "page": 1,
+      "url": "https://inhauscr.com/venta-san-jose",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/venta-san-jose",
+      "timestamp": "2025-10-06T01:19:15.451Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "sale_san_jose",
+      "page": 2,
+      "url": "https://inhauscr.com/venta-san-jose?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/venta-san-jose?page=2",
+      "timestamp": "2025-10-06T01:19:15.592Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "sale_san_jose",
+      "page": 3,
+      "url": "https://inhauscr.com/venta-san-jose?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/venta-san-jose?page=3",
+      "timestamp": "2025-10-06T01:19:15.758Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "sale_san_jose",
+      "page": 4,
+      "url": "https://inhauscr.com/venta-san-jose?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/venta-san-jose?page=4",
+      "timestamp": "2025-10-06T01:19:15.925Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "sale_san_jose",
+      "page": 5,
+      "url": "https://inhauscr.com/venta-san-jose?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/venta-san-jose?page=5",
+      "timestamp": "2025-10-06T01:19:16.075Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "rent_san_jose",
+      "page": 1,
+      "url": "https://inhauscr.com/alquiler-san-jose",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/alquiler-san-jose",
+      "timestamp": "2025-10-06T01:19:16.177Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "rent_san_jose",
+      "page": 2,
+      "url": "https://inhauscr.com/alquiler-san-jose?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/alquiler-san-jose?page=2",
+      "timestamp": "2025-10-06T01:19:16.287Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "rent_san_jose",
+      "page": 3,
+      "url": "https://inhauscr.com/alquiler-san-jose?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/alquiler-san-jose?page=3",
+      "timestamp": "2025-10-06T01:19:16.685Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "rent_san_jose",
+      "page": 4,
+      "url": "https://inhauscr.com/alquiler-san-jose?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/alquiler-san-jose?page=4",
+      "timestamp": "2025-10-06T01:19:17.085Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "rent_san_jose",
+      "page": 5,
+      "url": "https://inhauscr.com/alquiler-san-jose?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/alquiler-san-jose?page=5",
+      "timestamp": "2025-10-06T01:19:17.197Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "commercial",
+      "page": 1,
+      "url": "https://inhauscr.com/comercial",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/comercial",
+      "timestamp": "2025-10-06T01:19:17.294Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "commercial",
+      "page": 2,
+      "url": "https://inhauscr.com/comercial?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/comercial?page=2",
+      "timestamp": "2025-10-06T01:19:17.389Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "commercial",
+      "page": 3,
+      "url": "https://inhauscr.com/comercial?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/comercial?page=3",
+      "timestamp": "2025-10-06T01:19:17.485Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "commercial",
+      "page": 4,
+      "url": "https://inhauscr.com/comercial?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/comercial?page=4",
+      "timestamp": "2025-10-06T01:19:17.583Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "commercial",
+      "page": 5,
+      "url": "https://inhauscr.com/comercial?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/comercial?page=5",
+      "timestamp": "2025-10-06T01:19:17.682Z"
+    },
+    {
+      "source": "terraquea",
+      "endpoint": "premium",
+      "page": 1,
+      "url": "https://terraquea.com/propiedades-premium",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:19:21.599Z"
+    },
+    {
+      "source": "terraquea",
+      "endpoint": "premium",
+      "page": 2,
+      "url": "https://terraquea.com/propiedades-premium?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:19:23.253Z"
+    },
+    {
+      "source": "terraquea",
+      "endpoint": "premium",
+      "page": 3,
+      "url": "https://terraquea.com/propiedades-premium?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:19:24.653Z"
+    },
+    {
+      "source": "terraquea",
+      "endpoint": "premium",
+      "page": 4,
+      "url": "https://terraquea.com/propiedades-premium?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:19:26.098Z"
+    },
+    {
+      "source": "terraquea",
+      "endpoint": "premium",
+      "page": 5,
+      "url": "https://terraquea.com/propiedades-premium?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:19:27.491Z"
+    },
+    {
+      "source": "terraquea",
+      "endpoint": "beach",
+      "page": 1,
+      "url": "https://terraquea.com/playas",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:19:29.232Z"
+    },
+    {
+      "source": "terraquea",
+      "endpoint": "beach",
+      "page": 2,
+      "url": "https://terraquea.com/playas?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:19:30.968Z"
+    },
+    {
+      "source": "terraquea",
+      "endpoint": "beach",
+      "page": 3,
+      "url": "https://terraquea.com/playas?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:19:32.438Z"
+    },
+    {
+      "source": "terraquea",
+      "endpoint": "beach",
+      "page": 4,
+      "url": "https://terraquea.com/playas?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:19:33.885Z"
+    },
+    {
+      "source": "terraquea",
+      "endpoint": "beach",
+      "page": 5,
+      "url": "https://terraquea.com/playas?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:19:35.736Z"
+    },
+    {
+      "source": "terraquea",
+      "endpoint": "investment",
+      "page": 1,
+      "url": "https://terraquea.com/inversion",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:19:37.453Z"
+    },
+    {
+      "source": "terraquea",
+      "endpoint": "investment",
+      "page": 2,
+      "url": "https://terraquea.com/inversion?page=2",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:19:39.204Z"
+    },
+    {
+      "source": "terraquea",
+      "endpoint": "investment",
+      "page": 3,
+      "url": "https://terraquea.com/inversion?page=3",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:19:40.664Z"
+    },
+    {
+      "source": "terraquea",
+      "endpoint": "investment",
+      "page": 4,
+      "url": "https://terraquea.com/inversion?page=4",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:19:42.075Z"
+    },
+    {
+      "source": "terraquea",
+      "endpoint": "investment",
+      "page": 5,
+      "url": "https://terraquea.com/inversion?page=5",
+      "error": "page.waitForTimeout is not a function",
+      "timestamp": "2025-10-06T01:19:43.601Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "listings",
+      "page": 1,
+      "url": "https://casademananacr.com/es/nuestros-listados",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/nuestros-listados",
+      "timestamp": "2025-10-06T01:19:44.192Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "listings",
+      "page": 2,
+      "url": "https://casademananacr.com/es/nuestros-listados?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/nuestros-listados?page=2",
+      "timestamp": "2025-10-06T01:19:44.290Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "listings",
+      "page": 3,
+      "url": "https://casademananacr.com/es/nuestros-listados?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/nuestros-listados?page=3",
+      "timestamp": "2025-10-06T01:19:44.384Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "listings",
+      "page": 4,
+      "url": "https://casademananacr.com/es/nuestros-listados?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/nuestros-listados?page=4",
+      "timestamp": "2025-10-06T01:19:44.491Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "listings",
+      "page": 5,
+      "url": "https://casademananacr.com/es/nuestros-listados?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/nuestros-listados?page=5",
+      "timestamp": "2025-10-06T01:19:44.586Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "beach_properties",
+      "page": 1,
+      "url": "https://casademananacr.com/es/propiedades-playa",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/propiedades-playa",
+      "timestamp": "2025-10-06T01:19:44.681Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "beach_properties",
+      "page": 2,
+      "url": "https://casademananacr.com/es/propiedades-playa?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/propiedades-playa?page=2",
+      "timestamp": "2025-10-06T01:19:44.778Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "beach_properties",
+      "page": 3,
+      "url": "https://casademananacr.com/es/propiedades-playa?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/propiedades-playa?page=3",
+      "timestamp": "2025-10-06T01:19:44.881Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "beach_properties",
+      "page": 4,
+      "url": "https://casademananacr.com/es/propiedades-playa?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/propiedades-playa?page=4",
+      "timestamp": "2025-10-06T01:19:45.009Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "beach_properties",
+      "page": 5,
+      "url": "https://casademananacr.com/es/propiedades-playa?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/propiedades-playa?page=5",
+      "timestamp": "2025-10-06T01:19:45.107Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 1,
+      "url": "https://immocostarica.com/for-sale/luxury-home",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home",
+      "timestamp": "2025-10-06T01:19:45.825Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home?page=2",
+      "timestamp": "2025-10-06T01:19:45.930Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home?page=3",
+      "timestamp": "2025-10-06T01:19:46.034Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home?page=4",
+      "timestamp": "2025-10-06T01:19:46.134Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home?page=5",
+      "timestamp": "2025-10-06T01:19:46.237Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 1,
+      "url": "https://immocostarica.com/for-sale/houses-villas",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas",
+      "timestamp": "2025-10-06T01:19:46.343Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=2",
+      "timestamp": "2025-10-06T01:19:46.444Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=3",
+      "timestamp": "2025-10-06T01:19:46.555Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=4",
+      "timestamp": "2025-10-06T01:19:46.660Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=5",
+      "timestamp": "2025-10-06T01:19:46.773Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 1,
+      "url": "https://immocostarica.com/for-sale/apartments-condos",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos",
+      "timestamp": "2025-10-06T01:19:46.878Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=2",
+      "timestamp": "2025-10-06T01:19:46.997Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=3",
+      "timestamp": "2025-10-06T01:19:47.104Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=4",
+      "timestamp": "2025-10-06T01:19:47.207Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=5",
+      "timestamp": "2025-10-06T01:19:47.311Z"
+    }
+  ]
+}
