@@ -92,8 +92,9 @@ class CostaRicaPropertyScraper {
               timeout: 15000 
             });
             
-            // Wait for content to load
-            await page.waitForTimeout(3000);
+            // Wait for content to load (longer for JavaScript-heavy sites like OmniMLS)
+            const waitTime = sourceConfig.name.includes('OmniMLS') ? 5000 : 3000;
+            await new Promise(resolve => setTimeout(resolve, waitTime));
             
             // Try to detect and handle cookie banners, captchas, etc.
             await this.handlePageObstructions(page);
@@ -139,6 +140,21 @@ class CostaRicaPropertyScraper {
               const property = await this.extractPropertyData(listing, sourceConfig, $, url);
               
               if (property && this.isValidProperty(property)) {
+                // Filter by country if specified (for multi-country sources like OmniMLS)
+                if (sourceConfig.filter_country) {
+                  const filterCountry = sourceConfig.filter_country.toLowerCase();
+                  const locationText = (property.location || '').toLowerCase();
+                  const descriptionText = (property.description || '').toLowerCase();
+                  const titleText = (property.title || '').toLowerCase();
+                  const combinedText = `${locationText} ${descriptionText} ${titleText}`;
+                  
+                  // Check if property is in the target country
+                  if (!combinedText.includes(filterCountry)) {
+                    console.log(`      ⏭️  Skipped (not in ${filterCountry}): ${property.title.substring(0, 40)}...`);
+                    continue;
+                  }
+                }
+                
                 if (!this.isDuplicate(property)) {
                   property.source = sourceName;
                   property.source_name = sourceConfig.name;
@@ -159,7 +175,7 @@ class CostaRicaPropertyScraper {
             console.log(`    ✅ Page ${pageNum}: Processed ${listings.length} listings`);
             
             // Respect rate limiting
-            await page.waitForTimeout(sources.scraping_rules.delay_between_requests);
+            await new Promise(resolve => setTimeout(resolve, sources.scraping_rules.delay_between_requests));
             
           } catch (error) {
             console.error(`    ❌ Error on page ${pageNum}:`, error.message);
@@ -209,7 +225,7 @@ class CostaRicaPropertyScraper {
           const element = await page.$(selector);
           if (element) {
             await element.click();
-            await page.waitForTimeout(1000);
+            await new Promise(resolve => setTimeout(resolve, 1000));
             break;
           }
         } catch (e) {
@@ -230,7 +246,7 @@ class CostaRicaPropertyScraper {
           const element = await page.$(selector);
           if (element) {
             await element.click();
-            await page.waitForTimeout(500);
+            await new Promise(resolve => setTimeout(resolve, 500));
           }
         } catch (e) {
           // Continue

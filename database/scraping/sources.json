@@ -303,6 +303,29 @@
       "scrape_frequency": "6h",
       "max_pages": 30
     },
+    "omnimls_cr": {
+      "name": "OmniMLS Costa Rica",
+      "base_url": "https://omnimls.com",
+      "endpoints": {
+        "sale": "/v/results/listing-type_sale",
+        "rent": "/v/results/listing-type_rent"
+      },
+      "selectors": {
+        "listing": ".property-card, .listing-card, .resultado, article[class*='property'], [data-listing-id], .card, [class*='item']",
+        "title": ".property-title, .listing-title, .titulo, h3, h4, h2, .title, [class*='title']",
+        "price": ".property-price, .listing-price, .precio, .price, [class*='price']",
+        "location": ".property-location, .listing-location, .ubicacion, .location, .address, [class*='location']",
+        "details": ".property-description, .listing-description, .descripcion, .description, [class*='description']",
+        "images": ".property-image img, .listing-image img, .gallery img, img[class*='property']",
+        "link": "a[href*='/listing/']"
+      },
+      "active": true,
+      "priority": 1,
+      "scrape_frequency": "6h",
+      "max_pages": 200,
+      "filter_country": "costa rica",
+      "notes": "Latin America MLS - Scrapes ALL listings then filters for Costa Rica only. Site is JavaScript-heavy, requires full page load. May need manual selector tuning after first run."
+    },
     "government_registry": {
       "name": "Registro Nacional CR",
       "base_url": "https://www.registronacional.go.cr",
