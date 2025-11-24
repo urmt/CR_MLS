@@ -66,22 +66,21 @@
       "name": "Coldwell Banker Costa Rica",
       "base_url": "https://www.coldwellbankercostarica.com",
       "endpoints": {
-        "luxury": "/luxury",
-        "commercial": "/commercial",
-        "condos": "/condos-villas",
-        "homes": "/homes-estates"
+        "luxury": "/costa-rica/property-for-sale/is-luxury/yes",
+        "commercial": "/costa-rica/property-for-sale/property-types/commercial",
+        "hotel": "/costa-rica/property-for-sale/property-types/hotel-leisure",
+        "all": "/costa-rica/property-for-sale"
       },
       "selectors": {
-        "listing": ".listing-card",
-        "title": ".listing-title",
-        "price": ".listing-price",
-        "location": ".listing-location",
-        "details": ".listing-details",
-        "images": ".listing-image img",
-        "link": ".listing-card a"
+        "listing": ".property-item",
+        "title": "[class*='title']",
+        "price": "[class*='price']",
+        "location": ".property-type-address",
+        "link": "a[href*='/property/']"
       },
       "active": true,
       "priority": 1,
+      "note": "Working - 16 properties per page found",
       "scrape_frequency": "4h",
       "max_pages": 100
     },
