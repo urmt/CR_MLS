@@ -178,17 +178,17 @@
         "all": "/advanced-search-results-properties/"
       },
       "selectors": {
-        "listing": ".property-card",
-        "title": ".property-title",
-        "price": ".property-price",
-        "location": ".property-address",
+        "listing": ".property_listing",
+        "title": "h4, h3, h2",
+        "price": ".price",
+        "location": ".property_categs",
         "details": ".property-summary",
-        "images": ".property-image img",
-        "link": ".property-card a"
+        "images": "img",
+        "link": "a"
       },
-      "active": false,
+      "active": true,
       "priority": 1,
-      "note": "Found 260 listings but selectors need updating - 0 properties extracted",
+      "note": "Working - 32 properties per page found",
       "scrape_frequency": "4h",
       "max_pages": 70
     },
