@@ -338,7 +338,7 @@
   "scraping_rules": {
     "min_price_usd": 5000,
     "max_price_usd": 50000000,
-    "required_fields": ["title", "price", "location"],
+    "required_fields": ["title", "price_text", "location"],
     "duplicate_detection": "title_similarity",
     "image_download": true,
     "max_images_per_property": 10,
