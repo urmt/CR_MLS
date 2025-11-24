@@ -18,7 +18,8 @@
         "images": ".ann_image img",
         "link": ".ann_title a"
       },
-      "active": true,
+      "active": false,
+      "note": "Blocking automated requests with 403 Forbidden",
       "scrape_frequency": "6h",
       "max_pages": 50
     },
@@ -38,26 +39,28 @@
         "images": ".LazyImage img",
         "link": ".ListingCell-AllInfo a"
       },
-      "active": true,
+      "active": false,
+      "note": "Domain no longer resolves - site appears to be defunct",
       "scrape_frequency": "6h", 
       "max_pages": 30
     },
     "craigslist_cr": {
       "name": "Craigslist Costa Rica",
-      "base_url": "https://sanjose.craigslist.org",
+      "base_url": "https://costarica.craigslist.org",
       "endpoints": {
         "real_estate": "/search/rea"
       },
       "selectors": {
-        "listing": ".result-row",
-        "title": ".result-title",
-        "price": ".result-price",
-        "location": ".result-location",
-        "link": ".result-title a"
+        "listing": ".cl-search-result, .gallery-card",
+        "title": ".title, .titlestring",
+        "price": ".price",
+        "location": ".location, .meta",
+        "link": "a"
       },
       "active": true,
-      "scrape_frequency": "12h",
-      "max_pages": 20
+      "note": "Working - 200+ listings found",
+      "scrape_frequency": "6h",
+      "max_pages": 10
     },
     "coldwell_banker_cr": {
       "name": "Coldwell Banker Costa Rica",
