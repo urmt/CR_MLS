@@ -314,21 +314,22 @@
         "rent": "/v/results/listing-type_rent"
       },
       "selectors": {
-        "listing": ".property-card, .listing-card, .resultado, article[class*='property'], [data-listing-id], .card, [class*='item']",
-        "title": ".property-title, .listing-title, .titulo, h3, h4, h2, .title, [class*='title']",
-        "price": ".property-price, .listing-price, .precio, .price, [class*='price']",
-        "location": ".property-location, .listing-location, .ubicacion, .location, .address, [class*='location']",
-        "details": ".property-description, .listing-description, .descripcion, .description, [class*='description']",
-        "images": ".property-image img, .listing-image img, .gallery img, img[class*='property']",
+        "listing": ".flex-grow-1.d-flex.flex-column.bd-highlight.mb-3",
+        "title": "h5, a[href*='listing']",
+        "price": "text",
+        "location": "text",
+        "details": "text",
+        "images": "img",
         "link": "a[href*='/listing/']"
       },
-      "active": false,
+      "active": true,
       "priority": 1,
       "scrape_frequency": "6h",
-      "max_pages": 200,
+      "max_pages": 50,
       "filter_country": "costa rica",
-      "note": "Complex JavaScript-rendered site. Found 18 LI elements but data extraction requires custom approach - selectors match menu items instead of listings",
-      "notes": "Latin America MLS - Scrapes ALL listings then filters for Costa Rica only. Site is JavaScript-heavy, requires full page load. May need manual selector tuning after first run."
+      "wait_time": 6000,
+      "note": "Working - 100 listings/page, ~4% Costa Rica properties. Requires 6s page load wait and country filtering (checks for 'costa rica', 'guanacaste', 'tamarindo', 'san jose')",
+      "notes": "Latin America MLS - Scrapes ALL listings then filters for Costa Rica only. Site is JavaScript-heavy, requires full page load."
     },
     "government_registry": {
       "name": "Registro Nacional CR",

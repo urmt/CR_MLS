@@ -92,8 +92,8 @@ class CostaRicaPropertyScraper {
               timeout: 15000 
             });
             
-            // Wait for content to load (longer for JavaScript-heavy sites like OmniMLS)
-            const waitTime = sourceConfig.name.includes('OmniMLS') ? 5000 : 3000;
+            // Wait for content to load (use source-specific wait_time if provided)
+            const waitTime = sourceConfig.wait_time || 3000;
             await new Promise(resolve => setTimeout(resolve, waitTime));
             
             // Try to detect and handle cookie banners, captchas, etc.
@@ -148,8 +148,20 @@ class CostaRicaPropertyScraper {
                   const titleText = (property.title || '').toLowerCase();
                   const combinedText = `${locationText} ${descriptionText} ${titleText}`;
                   
-                  // Check if property is in the target country
-                  if (!combinedText.includes(filterCountry)) {
+                  // Expanded list of Costa Rica location keywords
+                  const costaRicaKeywords = [
+                    'costa rica', 'guanacaste', 'tamarindo', 'san jose', 'san josé',
+                    'escazu', 'escazú', 'santa ana', 'heredia', 'alajuela', 'cartago',
+                    'puntarenas', 'limon', 'limón', 'jaco', 'jacó', 'uvita', 'nosara',
+                    'manuel antonio', 'playa', 'arenal', 'monteverde', 'dominical',
+                    'flamingo', 'conchal', 'hermosa', 'samara', 'carrillo'
+                  ];
+                  
+                  // Check if property is in the target country (main keyword or specific locations)
+                  const matchesCountry = combinedText.includes(filterCountry) || 
+                                        costaRicaKeywords.some(keyword => combinedText.includes(keyword));
+                  
+                  if (!matchesCountry) {
                     console.log(`      ⏭️  Skipped (not in ${filterCountry}): ${property.title.substring(0, 40)}...`);
                     continue;
                   }
@@ -281,41 +293,92 @@ class CostaRicaPropertyScraper {
       }
       
       // Extract price with fallbacks
-      const priceSelectors = [
-        sourceConfig.selectors.price,
-        '.price',
-        '.property-price',
-        '.listing-price',
-        '[data-testid*="price"]',
-        '.cost',
-        '.amount'
-      ];
-      
-      for (const selector of priceSelectors) {
-        const element = listing.find(selector);
-        if (element.length && element.text().trim()) {
-          property.price_text = element.text().trim();
-          property.price_usd = this.parsePrice(property.price_text);
-          break;
+      // Special handling for OmniMLS-style text extraction
+      if (sourceConfig.selectors.price === 'text') {
+        const fullText = listing.text();
+        // Extract price from text using regex patterns
+        const pricePatterns = [
+          /\$([\d,]+(?:\.\d{2})?)/,     // $123,456.00
+          /USD\s*([\d,]+)/i,             // USD 123456
+          /([\d,]+)\s*USD/i              // 123456 USD
+        ];
+        
+        for (const pattern of pricePatterns) {
+          const match = fullText.match(pattern);
+          if (match) {
+            property.price_text = match[0];
+            property.price_usd = this.parsePrice(match[1]);
+            break;
+          }
+        }
+      } else {
+        // Normal selector-based extraction
+        const priceSelectors = [
+          sourceConfig.selectors.price,
+          '.price',
+          '.property-price',
+          '.listing-price',
+          '[data-testid*="price"]',
+          '.cost',
+          '.amount'
+        ];
+        
+        for (const selector of priceSelectors) {
+          const element = listing.find(selector);
+          if (element.length && element.text().trim()) {
+            property.price_text = element.text().trim();
+            property.price_usd = this.parsePrice(property.price_text);
+            break;
+          }
         }
       }
       
       // Extract location with fallbacks
-      const locationSelectors = [
-        sourceConfig.selectors.location,
-        '.location',
-        '.property-location',
-        '.listing-location',
-        '.address',
-        '[data-testid*="location"]',
-        '.region'
-      ];
-      
-      for (const selector of locationSelectors) {
-        const element = listing.find(selector);
-        if (element.length && element.text().trim()) {
-          property.location = element.text().trim();
-          break;
+      // Special handling for OmniMLS-style text extraction
+      if (sourceConfig.selectors.location === 'text') {
+        const fullText = listing.text();
+        // Extract location from text - look for known Costa Rica locations
+        const locationPatterns = [
+          /(?:in|at|location:?)\s*([^\n]{3,50}?)(?:\s*\$|\s*USD|\s*-|\n|$)/i,
+          /(San José|Guanacaste|Tamarindo|Santa Ana|Escazú|Alajuela|Heredia|Cartago|Puntarenas|Limón|Jacó|Uvita|Manuel Antonio|Nosara|Playa)[^\n]{0,40}/i
+        ];
+        
+        for (const pattern of locationPatterns) {
+          const match = fullText.match(pattern);
+          if (match) {
+            property.location = match[1] || match[0].trim();
+            break;
+          }
+        }
+        
+        // Fallback: use first line that's not the title or price
+        if (!property.location) {
+          const lines = fullText.split('\n').map(l => l.trim()).filter(l => l.length > 3);
+          for (const line of lines) {
+            if (!line.includes('$') && !line.includes('USD') && line !== property.title) {
+              property.location = line.substring(0, 100);
+              break;
+            }
+          }
+        }
+      } else {
+        // Normal selector-based extraction
+        const locationSelectors = [
+          sourceConfig.selectors.location,
+          '.location',
+          '.property-location',
+          '.listing-location',
+          '.address',
+          '[data-testid*="location"]',
+          '.region'
+        ];
+        
+        for (const selector of locationSelectors) {
+          const element = listing.find(selector);
+          if (element.length && element.text().trim()) {
+            property.location = element.text().trim();
+            break;
+          }
         }
       }
       
