@@ -135,15 +135,6 @@
         }, 500);
       });
       
-      // Service Worker for offline support (optional)
-      if ('serviceWorker' in navigator) {
-        window.addEventListener('load', function() {
-          navigator.serviceWorker.register('/sw.js').catch(function(error) {
-            console.log('ServiceWorker registration failed: ', error);
-          });
-        });
-      }
-      
       // Update last updated timestamp
       document.getElementById('last-updated').content = new Date().toISOString();
     </script>

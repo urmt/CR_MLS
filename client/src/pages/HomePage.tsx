@@ -749,7 +749,7 @@ const HomePage: React.FC = () => {
                 </div>
                 
                 <div className="property-card-image">
-                  {property.images.length > 0 ? (
+                  {property.images && property.images.length > 0 ? (
                     <>
                       <div className="text-center text-white">
                         <div className="text-3xl mb-2">📷</div>
