@@ -41,9 +41,9 @@ jobs:
       run: |
         npm ci --only=production || npm install --production
     
-    - name: Generate property listings
+    - name: Scrape real properties (including OmniMLS)
       run: |
-        node scripts/simple-scraper.js
+        node scripts/scraper.js
         node scripts/approve-properties.js
       env:
         NODE_ENV: production
@@ -226,7 +226,7 @@ jobs:
         VITE_AWS_LAMBDA_PDF_URL: ${{ secrets.VITE_AWS_LAMBDA_PDF_URL }}
         VITE_GITHUB_RAW_URL: https://raw.githubusercontent.com/${{ github.repository }}/main/database
     
-    - name: Deploy to IPFS
+    - name: Deploy to IPFS and update record
       run: |
         # Install IPFS CLI
         wget https://dist.ipfs.tech/kubo/v0.24.0/kubo_v0.24.0_linux-amd64.tar.gz
@@ -243,14 +243,7 @@ jobs:
         echo "🚀 IPFS Deployment Hash: $IPFS_HASH"
         echo "🌐 Access at: https://ipfs.io/ipfs/$IPFS_HASH"
         
-        # Pin to public gateway (optional, requires API key)
-        # curl -X POST "https://api.pinata.cloud/pinning/pinByHash" \
-        #   -H "Authorization: Bearer ${{ secrets.PINATA_JWT }}" \
-        #   -H "Content-Type: application/json" \
-        #   -d '{"hashToPin": "'$IPFS_HASH'", "pinataMetadata": {"name": "CR-MLS-'$(date +%Y%m%d)'"}}'
-    
-    - name: Update deployment record
-      run: |
+        # Update deployment record (IN SAME STEP so variable persists)
         mkdir -p database/deployments
         echo '{
           "timestamp": "'$(date -Iseconds)'",
@@ -260,12 +253,22 @@ jobs:
           "deployed_by": "github-actions"
         }' > database/deployments/latest.json
         
+        # Show what we're committing
+        echo "📋 Deployment record:"
+        cat database/deployments/latest.json
+        
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        git pull origin main
         git add database/deployments/
         git commit -m "🚀 IPFS deployment: $IPFS_HASH - $(date)"
         git push
-
+        
+        # Pin to public gateway (optional, requires API key)
+        # curl -X POST "https://api.pinata.cloud/pinning/pinByHash" \
+        #   -H "Authorization: Bearer ${{ secrets.PINATA_JWT }}" \
+        #   -H "Content-Type: application/json" \
+        #   -d '{"hashToPin": "'$IPFS_HASH'", "pinataMetadata": {"name": "CR-MLS-'$(date +%Y%m%d)'"}}'
   notification:
     runs-on: ubuntu-latest
     needs: [property-scraping, property-purging, email-campaigns, ipfs-deployment]
