@@ -165,8 +165,9 @@
         "images": ".property-gallery img",
         "link": ".property-item a"
       },
-      "active": true,
+      "active": false,
       "priority": 2,
+      "note": "Site structure changed or down - no listings found at specified URLs",
       "scrape_frequency": "6h",
       "max_pages": 40
     },
@@ -174,9 +175,7 @@
       "name": "RE/MAX Costa Rica",
       "base_url": "https://www.remax-costa-rica.com",
       "endpoints": {
-        "properties": "/search-properties",
-        "commercial": "/commercial-building-office-space-warehouse",
-        "luxury": "/house-villa"
+        "all": "/advanced-search-results-properties/"
       },
       "selectors": {
         "listing": ".property-card",
@@ -187,8 +186,9 @@
         "images": ".property-image img",
         "link": ".property-card a"
       },
-      "active": true,
+      "active": false,
       "priority": 1,
+      "note": "Found 260 listings but selectors need updating - 0 properties extracted",
       "scrape_frequency": "4h",
       "max_pages": 70
     },
@@ -209,8 +209,9 @@
         "images": ".property-image img",
         "link": ".property-item a"
       },
-      "active": true,
+      "active": false,
       "priority": 2,
+      "note": "No listings found - selectors need updating",
       "scrape_frequency": "6h",
       "max_pages": 30
     },
