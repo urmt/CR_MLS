@@ -18,7 +18,8 @@
         "images": ".ann_image img",
         "link": ".ann_title a"
       },
-      "active": true,
+      "active": false,
+      "note": "Blocking automated requests with 403 Forbidden",
       "scrape_frequency": "6h",
       "max_pages": 50
     },
@@ -38,47 +39,48 @@
         "images": ".LazyImage img",
         "link": ".ListingCell-AllInfo a"
       },
-      "active": true,
+      "active": false,
+      "note": "Domain no longer resolves - site appears to be defunct",
       "scrape_frequency": "6h", 
       "max_pages": 30
     },
     "craigslist_cr": {
       "name": "Craigslist Costa Rica",
-      "base_url": "https://sanjose.craigslist.org",
+      "base_url": "https://costarica.craigslist.org",
       "endpoints": {
         "real_estate": "/search/rea"
       },
       "selectors": {
-        "listing": ".result-row",
-        "title": ".result-title",
-        "price": ".result-price",
-        "location": ".result-location",
-        "link": ".result-title a"
+        "listing": ".cl-search-result",
+        "title": "span.label",
+        "price": "span.priceinfo",
+        "location": "div.meta",
+        "link": "a.cl-search-anchor"
       },
       "active": true,
-      "scrape_frequency": "12h",
-      "max_pages": 20
+      "note": "Working - 400+ listings found with correct selectors",
+      "scrape_frequency": "6h",
+      "max_pages": 10
     },
     "coldwell_banker_cr": {
       "name": "Coldwell Banker Costa Rica",
       "base_url": "https://www.coldwellbankercostarica.com",
       "endpoints": {
-        "luxury": "/luxury",
-        "commercial": "/commercial",
-        "condos": "/condos-villas",
-        "homes": "/homes-estates"
+        "luxury": "/costa-rica/property-for-sale/is-luxury/yes",
+        "commercial": "/costa-rica/property-for-sale/property-types/commercial",
+        "hotel": "/costa-rica/property-for-sale/property-types/hotel-leisure",
+        "all": "/costa-rica/property-for-sale"
       },
       "selectors": {
-        "listing": ".listing-card",
-        "title": ".listing-title",
-        "price": ".listing-price",
-        "location": ".listing-location",
-        "details": ".listing-details",
-        "images": ".listing-image img",
-        "link": ".listing-card a"
+        "listing": ".property-item",
+        "title": "[class*='title']",
+        "price": "[class*='price']",
+        "location": ".property-type-address",
+        "link": "a[href*='/property/']"
       },
       "active": true,
       "priority": 1,
+      "note": "Working - 16 properties per page found",
       "scrape_frequency": "4h",
       "max_pages": 100
     },
@@ -86,21 +88,18 @@
       "name": "KRAIN Luxury Real Estate",
       "base_url": "https://krainrealestate.com",
       "endpoints": {
-        "all_listings": "/all-listings",
-        "luxury": "/luxury",
-        "beachfront": "/beachfront"
+        "all_listings": "/home-search/listings"
       },
       "selectors": {
-        "listing": ".property-card",
-        "title": ".property-title",
-        "price": ".property-price",
-        "location": ".property-location",
-        "details": ".property-description",
-        "images": ".property-image img",
-        "link": ".property-card a"
+        "listing": "[class*='ListingInformationCard_card']",
+        "title": "[aria-label*='Save Property']",
+        "price": "text",
+        "location": "text",
+        "link": "a"
       },
-      "active": true,
+      "active": false,
       "priority": 1,
+      "note": "Complex React site with CSS modules - needs custom scraping logic. 48 properties found but data extraction requires special handling.",
       "scrape_frequency": "4h",
       "max_pages": 80
     },
@@ -108,22 +107,20 @@
       "name": "RE/MAX Ocean Surf & Sun",
       "base_url": "https://www.remax-oceansurf-cr.com",
       "endpoints": {
-        "all_properties": "/view-all-properties",
-        "luxury": "/luxury-properties",
-        "condos": "/condos-townhomes",
-        "lots": "/residential-lots"
+        "all": "/properties"
       },
       "selectors": {
-        "listing": ".property-listing",
-        "title": ".property-title",
-        "price": ".property-price",
-        "location": ".property-location",
-        "details": ".property-details",
-        "images": ".property-photo img",
-        "link": ".property-listing a"
+        "listing": ".views-row",
+        "title": ".views-field-title",
+        "price": ".views-field-property-price",
+        "location": ".views-field-field-location",
+        "details": ".views-field-body",
+        "images": ".views-field-property-photo img",
+        "link": "a"
       },
       "active": true,
       "priority": 1,
+      "note": "Working - 15 properties per page found",
       "scrape_frequency": "4h",
       "max_pages": 60
     },
@@ -145,8 +142,9 @@
         "images": ".listing-image img",
         "link": ".listing-item a"
       },
-      "active": true,
+      "active": false,
       "priority": 1,
+      "note": "Blocking automated requests with 403 Forbidden",
       "scrape_frequency": "4h",
       "max_pages": 50
     },
@@ -167,8 +165,9 @@
         "images": ".property-gallery img",
         "link": ".property-item a"
       },
-      "active": true,
+      "active": false,
       "priority": 2,
+      "note": "Site structure changed or down - no listings found at specified URLs",
       "scrape_frequency": "6h",
       "max_pages": 40
     },
@@ -176,21 +175,20 @@
       "name": "RE/MAX Costa Rica",
       "base_url": "https://www.remax-costa-rica.com",
       "endpoints": {
-        "properties": "/search-properties",
-        "commercial": "/commercial-building-office-space-warehouse",
-        "luxury": "/house-villa"
+        "all": "/advanced-search-results-properties/"
       },
       "selectors": {
-        "listing": ".property-card",
-        "title": ".property-title",
-        "price": ".property-price",
-        "location": ".property-address",
+        "listing": ".property_listing",
+        "title": "h4, h3, h2",
+        "price": ".price",
+        "location": ".property_categs",
         "details": ".property-summary",
-        "images": ".property-image img",
-        "link": ".property-card a"
+        "images": "img",
+        "link": "a"
       },
       "active": true,
       "priority": 1,
+      "note": "Working - 32 properties per page found",
       "scrape_frequency": "4h",
       "max_pages": 70
     },
@@ -211,8 +209,9 @@
         "images": ".property-image img",
         "link": ".property-item a"
       },
-      "active": true,
+      "active": false,
       "priority": 2,
+      "note": "No listings found - selectors need updating",
       "scrape_frequency": "6h",
       "max_pages": 30
     },
@@ -233,8 +232,9 @@
         "images": ".property-photo img",
         "link": ".property-listing a"
       },
-      "active": true,
+      "active": false,
       "priority": 2,
+      "note": "Found 827 item elements but no property matches - site structure unclear",
       "scrape_frequency": "6h",
       "max_pages": 35
     },
@@ -255,8 +255,9 @@
         "images": ".listing-gallery img",
         "link": ".listing-card a"
       },
-      "active": true,
+      "active": false,
       "priority": 2,
+      "note": "Found 161 property elements but selectors don't match - needs custom extraction",
       "scrape_frequency": "6h",
       "max_pages": 40
     },
@@ -268,16 +269,17 @@
         "beach_properties": "/propiedades-playa"
       },
       "selectors": {
-        "listing": ".property-card",
-        "title": ".property-title",
-        "price": ".property-price", 
-        "location": ".property-location",
+        "listing": ".item-listing-wrap",
+        "title": "h2, .item-title",
+        "price": ".item-price", 
+        "location": ".item-address",
         "details": ".property-info",
-        "images": ".property-image img",
-        "link": ".property-card a"
+        "images": "img",
+        "link": "a"
       },
-      "active": true,
+      "active": false,
       "priority": 2,
+      "note": "Found 21 listings but location field not extracting - needs investigation",
       "scrape_frequency": "8h",
       "max_pages": 25
     },
@@ -290,18 +292,44 @@
         "condos": "/for-sale/apartments-condos"
       },
       "selectors": {
-        "listing": ".property-item",
-        "title": ".property-title",
-        "price": ".property-price",
-        "location": ".property-location",
+        "listing": ".card",
+        "title": "h2, h3, h4",
+        "price": "[class*='price']",
+        "location": "[class*='location']",
         "details": ".property-description",
-        "images": ".property-gallery img",
-        "link": ".property-item a"
+        "images": "img",
+        "link": "a"
       },
       "active": true,
       "priority": 2,
+      "note": "Working - 18 properties per page found",
       "scrape_frequency": "6h",
       "max_pages": 30
+    },
+    "omnimls_cr": {
+      "name": "OmniMLS Costa Rica",
+      "base_url": "https://omnimls.com",
+      "endpoints": {
+        "sale": "/v/results/listing-type_sale",
+        "rent": "/v/results/listing-type_rent"
+      },
+      "selectors": {
+        "listing": ".flex-grow-1.d-flex.flex-column.bd-highlight.mb-3",
+        "title": "h5, a[href*='listing']",
+        "price": "text",
+        "location": "text",
+        "details": "text",
+        "images": "img",
+        "link": "a[href*='/listing/']"
+      },
+      "active": true,
+      "priority": 1,
+      "scrape_frequency": "6h",
+      "max_pages": 50,
+      "filter_country": "costa rica",
+      "wait_time": 6000,
+      "note": "Working - 100 listings/page, ~4% Costa Rica properties. Requires 6s page load wait and country filtering (checks for 'costa rica', 'guanacaste', 'tamarindo', 'san jose')",
+      "notes": "Latin America MLS - Scrapes ALL listings then filters for Costa Rica only. Site is JavaScript-heavy, requires full page load."
     },
     "government_registry": {
       "name": "Registro Nacional CR",
@@ -316,7 +344,7 @@
   "scraping_rules": {
     "min_price_usd": 5000,
     "max_price_usd": 50000000,
-    "required_fields": ["title", "price", "location"],
+    "required_fields": ["title", "price_text", "location"],
     "duplicate_detection": "title_similarity",
     "image_download": true,
     "max_images_per_property": 10,

@@ -1679,6 +1679,694 @@
       "url": "https://immocostarica.com/for-sale/apartments-condos?page=5",
       "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=5",
       "timestamp": "2025-10-06T01:19:47.311Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "buy",
+      "page": 1,
+      "url": "https://www.lamudi.com.cr/buy",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/buy",
+      "timestamp": "2025-11-24T19:11:48.744Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "buy",
+      "page": 2,
+      "url": "https://www.lamudi.com.cr/buy?page=2",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/buy?page=2",
+      "timestamp": "2025-11-24T19:11:48.902Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "buy",
+      "page": 3,
+      "url": "https://www.lamudi.com.cr/buy?page=3",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/buy?page=3",
+      "timestamp": "2025-11-24T19:11:48.991Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "buy",
+      "page": 4,
+      "url": "https://www.lamudi.com.cr/buy?page=4",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/buy?page=4",
+      "timestamp": "2025-11-24T19:11:49.171Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "buy",
+      "page": 5,
+      "url": "https://www.lamudi.com.cr/buy?page=5",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/buy?page=5",
+      "timestamp": "2025-11-24T19:11:49.253Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "rent",
+      "page": 1,
+      "url": "https://www.lamudi.com.cr/rent",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/rent",
+      "timestamp": "2025-11-24T19:11:49.421Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "rent",
+      "page": 2,
+      "url": "https://www.lamudi.com.cr/rent?page=2",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/rent?page=2",
+      "timestamp": "2025-11-24T19:11:49.435Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "rent",
+      "page": 3,
+      "url": "https://www.lamudi.com.cr/rent?page=3",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/rent?page=3",
+      "timestamp": "2025-11-24T19:11:49.457Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "rent",
+      "page": 4,
+      "url": "https://www.lamudi.com.cr/rent?page=4",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/rent?page=4",
+      "timestamp": "2025-11-24T19:11:49.538Z"
+    },
+    {
+      "source": "lamudi_cr",
+      "endpoint": "rent",
+      "page": 5,
+      "url": "https://www.lamudi.com.cr/rent?page=5",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://www.lamudi.com.cr/rent?page=5",
+      "timestamp": "2025-11-24T19:11:49.713Z"
+    },
+    {
+      "source": "craigslist_cr",
+      "endpoint": "real_estate",
+      "page": 1,
+      "url": "https://sanjose.craigslist.org/search/rea",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://sanjose.craigslist.org/search/rea",
+      "timestamp": "2025-11-24T19:11:49.915Z"
+    },
+    {
+      "source": "craigslist_cr",
+      "endpoint": "real_estate",
+      "page": 2,
+      "url": "https://sanjose.craigslist.org/search/rea?page=2",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://sanjose.craigslist.org/search/rea?page=2",
+      "timestamp": "2025-11-24T19:11:51.012Z"
+    },
+    {
+      "source": "craigslist_cr",
+      "endpoint": "real_estate",
+      "page": 3,
+      "url": "https://sanjose.craigslist.org/search/rea?page=3",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://sanjose.craigslist.org/search/rea?page=3",
+      "timestamp": "2025-11-24T19:11:51.254Z"
+    },
+    {
+      "source": "craigslist_cr",
+      "endpoint": "real_estate",
+      "page": 4,
+      "url": "https://sanjose.craigslist.org/search/rea?page=4",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://sanjose.craigslist.org/search/rea?page=4",
+      "timestamp": "2025-11-24T19:11:51.335Z"
+    },
+    {
+      "source": "craigslist_cr",
+      "endpoint": "real_estate",
+      "page": 5,
+      "url": "https://sanjose.craigslist.org/search/rea?page=5",
+      "error": "net::ERR_NAME_NOT_RESOLVED at https://sanjose.craigslist.org/search/rea?page=5",
+      "timestamp": "2025-11-24T19:11:51.410Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "properties",
+      "page": 1,
+      "url": "https://civ.co.cr/propiedades",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/propiedades",
+      "timestamp": "2025-11-24T19:15:47.049Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "properties",
+      "page": 2,
+      "url": "https://civ.co.cr/propiedades?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/propiedades?page=2",
+      "timestamp": "2025-11-24T19:15:47.090Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "properties",
+      "page": 3,
+      "url": "https://civ.co.cr/propiedades?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/propiedades?page=3",
+      "timestamp": "2025-11-24T19:15:47.130Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "properties",
+      "page": 4,
+      "url": "https://civ.co.cr/propiedades?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/propiedades?page=4",
+      "timestamp": "2025-11-24T19:15:47.171Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "properties",
+      "page": 5,
+      "url": "https://civ.co.cr/propiedades?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/propiedades?page=5",
+      "timestamp": "2025-11-24T19:15:47.211Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "sale",
+      "page": 1,
+      "url": "https://civ.co.cr/venta",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/venta",
+      "timestamp": "2025-11-24T19:15:47.250Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "sale",
+      "page": 2,
+      "url": "https://civ.co.cr/venta?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/venta?page=2",
+      "timestamp": "2025-11-24T19:15:47.291Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "sale",
+      "page": 3,
+      "url": "https://civ.co.cr/venta?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/venta?page=3",
+      "timestamp": "2025-11-24T19:15:47.331Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "sale",
+      "page": 4,
+      "url": "https://civ.co.cr/venta?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/venta?page=4",
+      "timestamp": "2025-11-24T19:15:47.372Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "sale",
+      "page": 5,
+      "url": "https://civ.co.cr/venta?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/venta?page=5",
+      "timestamp": "2025-11-24T19:15:47.412Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "rent",
+      "page": 1,
+      "url": "https://civ.co.cr/alquiler",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/alquiler",
+      "timestamp": "2025-11-24T19:15:47.452Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "rent",
+      "page": 2,
+      "url": "https://civ.co.cr/alquiler?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/alquiler?page=2",
+      "timestamp": "2025-11-24T19:15:47.493Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "rent",
+      "page": 3,
+      "url": "https://civ.co.cr/alquiler?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/alquiler?page=3",
+      "timestamp": "2025-11-24T19:15:47.535Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "rent",
+      "page": 4,
+      "url": "https://civ.co.cr/alquiler?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/alquiler?page=4",
+      "timestamp": "2025-11-24T19:15:47.576Z"
+    },
+    {
+      "source": "conexion_inmobiliaria",
+      "endpoint": "rent",
+      "page": 5,
+      "url": "https://civ.co.cr/alquiler?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://civ.co.cr/alquiler?page=5",
+      "timestamp": "2025-11-24T19:15:47.617Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "sale_san_jose",
+      "page": 1,
+      "url": "https://inhauscr.com/venta-san-jose",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/venta-san-jose",
+      "timestamp": "2025-11-24T19:15:47.893Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "sale_san_jose",
+      "page": 2,
+      "url": "https://inhauscr.com/venta-san-jose?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/venta-san-jose?page=2",
+      "timestamp": "2025-11-24T19:15:47.933Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "sale_san_jose",
+      "page": 3,
+      "url": "https://inhauscr.com/venta-san-jose?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/venta-san-jose?page=3",
+      "timestamp": "2025-11-24T19:15:47.973Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "sale_san_jose",
+      "page": 4,
+      "url": "https://inhauscr.com/venta-san-jose?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/venta-san-jose?page=4",
+      "timestamp": "2025-11-24T19:15:48.013Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "sale_san_jose",
+      "page": 5,
+      "url": "https://inhauscr.com/venta-san-jose?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/venta-san-jose?page=5",
+      "timestamp": "2025-11-24T19:15:48.054Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "rent_san_jose",
+      "page": 1,
+      "url": "https://inhauscr.com/alquiler-san-jose",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/alquiler-san-jose",
+      "timestamp": "2025-11-24T19:15:48.094Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "rent_san_jose",
+      "page": 2,
+      "url": "https://inhauscr.com/alquiler-san-jose?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/alquiler-san-jose?page=2",
+      "timestamp": "2025-11-24T19:15:48.135Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "rent_san_jose",
+      "page": 3,
+      "url": "https://inhauscr.com/alquiler-san-jose?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/alquiler-san-jose?page=3",
+      "timestamp": "2025-11-24T19:15:48.174Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "rent_san_jose",
+      "page": 4,
+      "url": "https://inhauscr.com/alquiler-san-jose?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/alquiler-san-jose?page=4",
+      "timestamp": "2025-11-24T19:15:48.216Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "rent_san_jose",
+      "page": 5,
+      "url": "https://inhauscr.com/alquiler-san-jose?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/alquiler-san-jose?page=5",
+      "timestamp": "2025-11-24T19:15:48.256Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "commercial",
+      "page": 1,
+      "url": "https://inhauscr.com/comercial",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/comercial",
+      "timestamp": "2025-11-24T19:15:48.297Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "commercial",
+      "page": 2,
+      "url": "https://inhauscr.com/comercial?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/comercial?page=2",
+      "timestamp": "2025-11-24T19:15:48.338Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "commercial",
+      "page": 3,
+      "url": "https://inhauscr.com/comercial?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/comercial?page=3",
+      "timestamp": "2025-11-24T19:15:48.378Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "commercial",
+      "page": 4,
+      "url": "https://inhauscr.com/comercial?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/comercial?page=4",
+      "timestamp": "2025-11-24T19:15:48.418Z"
+    },
+    {
+      "source": "inhaus_cr",
+      "endpoint": "commercial",
+      "page": 5,
+      "url": "https://inhauscr.com/comercial?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://inhauscr.com/comercial?page=5",
+      "timestamp": "2025-11-24T19:15:48.459Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "listings",
+      "page": 1,
+      "url": "https://casademananacr.com/es/nuestros-listados",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/nuestros-listados",
+      "timestamp": "2025-11-24T19:16:18.908Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "listings",
+      "page": 2,
+      "url": "https://casademananacr.com/es/nuestros-listados?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/nuestros-listados?page=2",
+      "timestamp": "2025-11-24T19:16:18.946Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "listings",
+      "page": 3,
+      "url": "https://casademananacr.com/es/nuestros-listados?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/nuestros-listados?page=3",
+      "timestamp": "2025-11-24T19:16:18.985Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "listings",
+      "page": 4,
+      "url": "https://casademananacr.com/es/nuestros-listados?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/nuestros-listados?page=4",
+      "timestamp": "2025-11-24T19:16:19.026Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "listings",
+      "page": 5,
+      "url": "https://casademananacr.com/es/nuestros-listados?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/nuestros-listados?page=5",
+      "timestamp": "2025-11-24T19:16:19.067Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "beach_properties",
+      "page": 1,
+      "url": "https://casademananacr.com/es/propiedades-playa",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/propiedades-playa",
+      "timestamp": "2025-11-24T19:16:19.109Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "beach_properties",
+      "page": 2,
+      "url": "https://casademananacr.com/es/propiedades-playa?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/propiedades-playa?page=2",
+      "timestamp": "2025-11-24T19:16:19.149Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "beach_properties",
+      "page": 3,
+      "url": "https://casademananacr.com/es/propiedades-playa?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/propiedades-playa?page=3",
+      "timestamp": "2025-11-24T19:16:19.191Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "beach_properties",
+      "page": 4,
+      "url": "https://casademananacr.com/es/propiedades-playa?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/propiedades-playa?page=4",
+      "timestamp": "2025-11-24T19:16:19.231Z"
+    },
+    {
+      "source": "casa_de_manana",
+      "endpoint": "beach_properties",
+      "page": 5,
+      "url": "https://casademananacr.com/es/propiedades-playa?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://casademananacr.com/es/propiedades-playa?page=5",
+      "timestamp": "2025-11-24T19:16:19.271Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 1,
+      "url": "https://immocostarica.com/for-sale/luxury-home",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home",
+      "timestamp": "2025-11-24T19:16:19.568Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home?page=2",
+      "timestamp": "2025-11-24T19:16:19.608Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home?page=3",
+      "timestamp": "2025-11-24T19:16:19.648Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home?page=4",
+      "timestamp": "2025-11-24T19:16:19.688Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home?page=5",
+      "timestamp": "2025-11-24T19:16:19.729Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 1,
+      "url": "https://immocostarica.com/for-sale/houses-villas",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas",
+      "timestamp": "2025-11-24T19:16:19.770Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=2",
+      "timestamp": "2025-11-24T19:16:19.811Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=3",
+      "timestamp": "2025-11-24T19:16:19.851Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=4",
+      "timestamp": "2025-11-24T19:16:19.891Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=5",
+      "timestamp": "2025-11-24T19:16:19.931Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 1,
+      "url": "https://immocostarica.com/for-sale/apartments-condos",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos",
+      "timestamp": "2025-11-24T19:16:19.973Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=2",
+      "timestamp": "2025-11-24T19:16:20.014Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=3",
+      "timestamp": "2025-11-24T19:16:20.055Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=4",
+      "timestamp": "2025-11-24T19:16:20.096Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=5",
+      "timestamp": "2025-11-24T19:16:20.136Z"
+    },
+    {
+      "source": "omnimls_cr",
+      "endpoint": "sale",
+      "page": 1,
+      "url": "https://omnimls.com/v/results/listing-type_sale",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2025-11-24T19:16:35.182Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 1,
+      "url": "https://immocostarica.com/for-sale/luxury-home",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home",
+      "timestamp": "2025-11-24T21:44:30.927Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home?page=2",
+      "timestamp": "2025-11-24T21:44:31.023Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home?page=3",
+      "timestamp": "2025-11-24T21:44:31.119Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home?page=4",
+      "timestamp": "2025-11-24T21:44:31.227Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home?page=5",
+      "timestamp": "2025-11-24T21:44:31.332Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 1,
+      "url": "https://immocostarica.com/for-sale/houses-villas",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas",
+      "timestamp": "2025-11-24T21:44:31.444Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=2",
+      "timestamp": "2025-11-24T21:44:31.547Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=3",
+      "timestamp": "2025-11-24T21:44:31.647Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=4",
+      "timestamp": "2025-11-24T21:44:31.749Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=5",
+      "timestamp": "2025-11-24T21:44:31.855Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 1,
+      "url": "https://immocostarica.com/for-sale/apartments-condos",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos",
+      "timestamp": "2025-11-24T21:44:31.947Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=2",
+      "timestamp": "2025-11-24T21:44:32.045Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=3",
+      "timestamp": "2025-11-24T21:44:32.143Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=4",
+      "timestamp": "2025-11-24T21:44:32.234Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=5",
+      "timestamp": "2025-11-24T21:44:32.331Z"
     }
   ]
 }
