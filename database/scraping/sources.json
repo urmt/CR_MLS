@@ -232,8 +232,9 @@
         "images": ".property-photo img",
         "link": ".property-listing a"
       },
-      "active": true,
+      "active": false,
       "priority": 2,
+      "note": "Found 827 item elements but no property matches - site structure unclear",
       "scrape_frequency": "6h",
       "max_pages": 35
     },
@@ -254,8 +255,9 @@
         "images": ".listing-gallery img",
         "link": ".listing-card a"
       },
-      "active": true,
+      "active": false,
       "priority": 2,
+      "note": "Found 161 property elements but selectors don't match - needs custom extraction",
       "scrape_frequency": "6h",
       "max_pages": 40
     },
@@ -267,16 +269,17 @@
         "beach_properties": "/propiedades-playa"
       },
       "selectors": {
-        "listing": ".property-card",
-        "title": ".property-title",
-        "price": ".property-price", 
-        "location": ".property-location",
+        "listing": ".item-listing-wrap",
+        "title": "h2, .item-title",
+        "price": ".item-price", 
+        "location": ".item-address",
         "details": ".property-info",
-        "images": ".property-image img",
-        "link": ".property-card a"
+        "images": "img",
+        "link": "a"
       },
-      "active": true,
+      "active": false,
       "priority": 2,
+      "note": "Found 21 listings but location field not extracting - needs investigation",
       "scrape_frequency": "8h",
       "max_pages": 25
     },
@@ -289,16 +292,17 @@
         "condos": "/for-sale/apartments-condos"
       },
       "selectors": {
-        "listing": ".property-item",
-        "title": ".property-title",
-        "price": ".property-price",
-        "location": ".property-location",
+        "listing": ".card",
+        "title": "h2, h3, h4",
+        "price": "[class*='price']",
+        "location": "[class*='location']",
         "details": ".property-description",
-        "images": ".property-gallery img",
-        "link": ".property-item a"
+        "images": "img",
+        "link": "a"
       },
       "active": true,
       "priority": 2,
+      "note": "Working - 18 properties per page found",
       "scrape_frequency": "6h",
       "max_pages": 30
     },
