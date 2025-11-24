@@ -142,8 +142,9 @@
         "images": ".listing-image img",
         "link": ".listing-item a"
       },
-      "active": true,
+      "active": false,
       "priority": 1,
+      "note": "Blocking automated requests with 403 Forbidden",
       "scrape_frequency": "4h",
       "max_pages": 50
     },
