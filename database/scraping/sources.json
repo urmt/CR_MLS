@@ -318,11 +318,12 @@
         "images": ".property-image img, .listing-image img, .gallery img, img[class*='property']",
         "link": "a[href*='/listing/']"
       },
-      "active": true,
+      "active": false,
       "priority": 1,
       "scrape_frequency": "6h",
       "max_pages": 200,
       "filter_country": "costa rica",
+      "note": "Complex JavaScript-rendered site. Found 18 LI elements but data extraction requires custom approach - selectors match menu items instead of listings",
       "notes": "Latin America MLS - Scrapes ALL listings then filters for Costa Rica only. Site is JavaScript-heavy, requires full page load. May need manual selector tuning after first run."
     },
     "government_registry": {
