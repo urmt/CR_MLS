@@ -7,6 +7,7 @@ import GitHubDatabase from '../services/githubDatabase';
 // import PayPalPayment from '../components/PayPalPayment';
 import PropertyReportSelector from '../components/PropertyReportSelector';
 import LoadingScreen from '../components/LoadingScreen';
+import PropertyMap from '../components/PropertyMap';
 import { ReportType } from '../types/reports';
 
 const HomePage: React.FC = () => {
@@ -14,6 +15,7 @@ const HomePage: React.FC = () => {
   const [showAgentPayment, setShowAgentPayment] = useState<'individual_crypto' | 'office_crypto' | 'individual_paypal' | 'office_paypal' | 'individual_paypal_onetime' | 'office_paypal_onetime' | null>(null);
   const [selectedProperties, setSelectedProperties] = useState<string[]>([]);
   const [showReportSelector, setShowReportSelector] = useState(false);
+  const [displayLimit, setDisplayLimit] = useState(12); // Start with 12, load more on demand
   const [searchFilters, setSearchFilters] = useState({
     category: '',
     minPrice: '',
@@ -668,8 +670,21 @@ const HomePage: React.FC = () => {
         </div>
       </div>
 
+      {/* Interactive Map Section */}
+      <div className="section bg-white">
+        <div className="container">
+          <h2 className="section-title">
+            🗺️ Property Locations Map
+          </h2>
+          <p className="section-subtitle max-w-4xl mb-8">
+            Explore properties across Costa Rica. Click any pin to view details. Locations shown are approximate to protect privacy until you purchase a report.
+          </p>
+          <PropertyMap properties={properties} />
+        </div>
+      </div>
+
       {/* Featured Properties Section */}
-      <div id="properties-section" className="section bg-white">
+      <div id="properties-section" className="section bg-gray-50">
         <div className="container">
           <div className="flex justify-between items-center mb-8">
             <h2 className="section-title text-left mb-0">
@@ -677,7 +692,7 @@ const HomePage: React.FC = () => {
             </h2>
             {stats && (
               <div className="text-gray-600 text-sm">
-                Showing {properties.length} of {stats.total} properties
+                Showing {Math.min(displayLimit, properties.length)} of {properties.length} filtered properties ({stats.total} total)
               </div>
             )}
           </div>
@@ -728,7 +743,7 @@ const HomePage: React.FC = () => {
 
           {/* Properties Grid */}
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
-            {properties.slice(0, 8).map((property) => {
+            {properties.slice(0, displayLimit).map((property) => {
               const isSelected = selectedProperties.includes(property.id);
               
               return (
@@ -802,6 +817,18 @@ const HomePage: React.FC = () => {
               );
             })}
           </div>
+
+          {/* Load More Button */}
+          {properties.length > displayLimit && (
+            <div className="text-center mt-12">
+              <button
+                onClick={() => setDisplayLimit(prev => prev + 12)}
+                className="btn btn-primary btn-lg"
+              >
+                🔽 Load More Properties ({properties.length - displayLimit} more available)
+              </button>
+            </div>
+          )}
 
           {properties.length === 0 && (
             <div className="text-center py-16">
