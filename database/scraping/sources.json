@@ -51,14 +51,14 @@
         "real_estate": "/search/rea"
       },
       "selectors": {
-        "listing": ".cl-search-result, .gallery-card",
-        "title": ".title, .titlestring",
-        "price": ".price",
-        "location": ".location, .meta",
-        "link": "a"
+        "listing": ".cl-search-result",
+        "title": "span.label",
+        "price": "span.priceinfo",
+        "location": "div.meta",
+        "link": "a.cl-search-anchor"
       },
       "active": true,
-      "note": "Working - 200+ listings found",
+      "note": "Working - 400+ listings found with correct selectors",
       "scrape_frequency": "6h",
       "max_pages": 10
     },
