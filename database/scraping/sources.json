@@ -88,21 +88,18 @@
       "name": "KRAIN Luxury Real Estate",
       "base_url": "https://krainrealestate.com",
       "endpoints": {
-        "all_listings": "/all-listings",
-        "luxury": "/luxury",
-        "beachfront": "/beachfront"
+        "all_listings": "/home-search/listings"
       },
       "selectors": {
-        "listing": ".property-card",
-        "title": ".property-title",
-        "price": ".property-price",
-        "location": ".property-location",
-        "details": ".property-description",
-        "images": ".property-image img",
-        "link": ".property-card a"
+        "listing": "[class*='ListingInformationCard_card']",
+        "title": "[aria-label*='Save Property']",
+        "price": "text",
+        "location": "text",
+        "link": "a"
       },
-      "active": true,
+      "active": false,
       "priority": 1,
+      "note": "Complex React site with CSS modules - needs custom scraping logic. 48 properties found but data extraction requires special handling.",
       "scrape_frequency": "4h",
       "max_pages": 80
     },
