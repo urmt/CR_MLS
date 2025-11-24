@@ -4,13 +4,13 @@
 
 ### 🎯 Live Site with Real Properties
 - **Total Properties**: 402 real Costa Rica listings (replaced 127 demo properties)
-- **New IPFS Hash**: `QmS9ub7RYabH7ZcLuzfqcBMLw3q89jLF7WY6TZXXgcmAEy`
-- **Primary URL**: https://w3s.link/ipfs/QmS9ub7RYabH7ZcLuzfqcBMLw3q89jLF7WY6TZXXgcmAEy
+- **Current IPFS Hash**: `QmNgfX4uGPDQWyp9TGQFq3W5EQ5PkTheaESpJpwSDJUFsH` (FIXED - working!)
+- **Primary URL**: https://w3s.link/ipfs/QmNgfX4uGPDQWyp9TGQFq3W5EQ5PkTheaESpJpwSDJUFsH
 
 ### 🌐 Alternative Access URLs
-- https://ipfs.io/ipfs/QmS9ub7RYabH7ZcLuzfqcBMLw3q89jLF7WY6TZXXgcmAEy
-- https://gateway.ipfs.io/ipfs/QmS9ub7RYabH7ZcLuzfqcBMLw3q89jLF7WY6TZXXgcmAEy
-- https://dweb.link/ipfs/QmS9ub7RYabH7ZcLuzfqcBMLw3q89jLF7WY6TZXXgcmAEy
+- https://ipfs.io/ipfs/QmNgfX4uGPDQWyp9TGQFq3W5EQ5PkTheaESpJpwSDJUFsH
+- https://gateway.ipfs.io/ipfs/QmNgfX4uGPDQWyp9TGQFq3W5EQ5PkTheaESpJpwSDJUFsH
+- https://dweb.link/ipfs/QmNgfX4uGPDQWyp9TGQFq3W5EQ5PkTheaESpJpwSDJUFsH
 
 ---
 
@@ -154,6 +154,7 @@ gh workflow run "Autonomous Costa Rica MLS" --field action=full
 
 1. **f41c09b**: Add OmniMLS source with text extraction support
 2. **3af597b**: Updated to 402 real properties and deployed to IPFS
+3. **7a94eca**: Fix blank page issues (property.images undefined, service worker 404)
 
 ---
 
