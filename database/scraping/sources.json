@@ -107,22 +107,20 @@
       "name": "RE/MAX Ocean Surf & Sun",
       "base_url": "https://www.remax-oceansurf-cr.com",
       "endpoints": {
-        "all_properties": "/view-all-properties",
-        "luxury": "/luxury-properties",
-        "condos": "/condos-townhomes",
-        "lots": "/residential-lots"
+        "all": "/properties"
       },
       "selectors": {
-        "listing": ".property-listing",
-        "title": ".property-title",
-        "price": ".property-price",
-        "location": ".property-location",
-        "details": ".property-details",
-        "images": ".property-photo img",
-        "link": ".property-listing a"
+        "listing": ".views-row",
+        "title": ".views-field-title",
+        "price": ".views-field-property-price",
+        "location": ".views-field-field-location",
+        "details": ".views-field-body",
+        "images": ".views-field-property-photo img",
+        "link": "a"
       },
       "active": true,
       "priority": 1,
+      "note": "Working - 15 properties per page found",
       "scrape_frequency": "4h",
       "max_pages": 60
     },
