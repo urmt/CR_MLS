@@ -47,7 +47,20 @@ const PROVINCE_COORDS: Record<string, [number, number]> = {
 const getApproximateCoordinates = (location: string): [number, number] | null => {
   if (!location) return null;
   
-  const locationLower = location.toLowerCase();
+  // Clean up the location string
+  let cleanLocation = location
+    .replace(/Location:\s*/gi, '') // Remove "Location:" prefix
+    .replace(/\s+/g, ' ') // Normalize whitespace
+    .trim();
+  
+  // Extract city from comma-separated format (e.g., "Single Family Homes, Dominical, Puntarenas")
+  const parts = cleanLocation.split(',').map(p => p.trim());
+  if (parts.length >= 2) {
+    // Usually format is: [Type], [City], [Province]
+    cleanLocation = parts[1]; // Use the city part
+  }
+  
+  const locationLower = cleanLocation.toLowerCase();
   
   // Check for known provinces
   for (const [province, coords] of Object.entries(PROVINCE_COORDS)) {
@@ -60,6 +73,7 @@ const getApproximateCoordinates = (location: string): [number, number] | null =>
   }
   
   // Check for major cities/towns (more comprehensive list)
+  // IMPORTANT: Check longer names first to avoid partial matches
   const cityCoords: Record<string, [number, number]> = {
     // Pacific Coast - Guanacaste
     'tamarindo': [10.3, -85.84],
@@ -76,18 +90,39 @@ const getApproximateCoordinates = (location: string): [number, number] | null =>
     'potrero': [10.42, -85.79],
     'brasilito': [10.39, -85.79],
     
+    // Playa variations (many properties just say "Playa [Name]")
+    'playa grande': [10.35, -85.84],
+    'playa avellanas': [10.02, -85.78],
+    'playa negra': [10.08, -85.76],
+    'playa junquillal': [10.27, -85.82],
+    'playa langosta': [10.29, -85.85],
+    'playa penca': [10.31, -85.8],
+    'playa real': [10.32, -85.81],
+    'playa danta': [10.33, -85.81],
+    'playa dantita': [10.33, -85.81],
+    'playa carbon': [9.98, -85.77],
+    'playa carbón': [9.98, -85.77],
+    'playa minas': [10.3, -85.7],
+    'playa potrero': [10.42, -85.79],
+    'playa panama': [10.6, -85.68],
+    'playa panamá': [10.6, -85.68],
+    'playa ocotal': [10.54, -85.71],
+    'playa hermosa guanacaste': [10.57, -85.68],
+    
     // Central Pacific
     'jaco': [9.61, -84.63],
     'jacó': [9.61, -84.63],
     'herradura': [9.64, -84.67],
     'esterillos': [9.53, -84.52],
     'playa hermosa de jaco': [9.59, -84.61],
+    'playa hermosa de jacó': [9.59, -84.61],
     'quepos': [9.43, -84.16],
     'manuel antonio': [9.39, -84.15],
     'dominical': [9.25, -83.86],
     'uvita': [9.15, -83.74],
     'ojochal': [9.07, -83.72],
     'bahia ballena': [9.13, -83.74],
+    'bahía ballena': [9.13, -83.74],
     
     // Central Valley
     'san jose': [9.93, -84.08],
@@ -128,7 +163,10 @@ const getApproximateCoordinates = (location: string): [number, number] | null =>
     'tilarán': [10.46, -84.97],
   };
   
-  for (const [city, coords] of Object.entries(cityCoords)) {
+  // Sort cities by length (longest first) to match more specific names first
+  const sortedCities = Object.entries(cityCoords).sort((a, b) => b[0].length - a[0].length);
+  
+  for (const [city, coords] of sortedCities) {
     if (locationLower.includes(city)) {
       // Add small random offset (±0.01 degrees ≈ 1.1km) for privacy
       const lat = coords[0] + (Math.random() - 0.5) * 0.02;
