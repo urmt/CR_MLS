@@ -10746,8 +10746,758 @@
       "category": "residential",
       "scraped_at": "2025-11-27T06:21:47.719Z",
       "id": "4264f7d0a77c"
+    },
+    {
+      "title": "Farm for sale, La Ceiba de Orotina, 114 acres(46 hectares)",
+      "price_text": "₡4,800,000",
+      "price_usd": 9600,
+      "location": "hace 2 h466930ft2La Ceiba, Orotina",
+      "url": "https://costarica.craigslist.org/reb/d/farm-for-sale-la-ceiba-de-orotina-114/7891976761.html",
+      "images": [
+        "https://images.craigslist.org/d/7891976761/00l0l_bn2OvDe4erF_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-11-27T12:26:57.893Z",
+      "id": "6c40c6417282"
+    },
+    {
+      "title": "Lot for sale, Concepcion de San Rafael, 2,000 sq. mtrs",
+      "price_text": "₡79,000,000",
+      "price_usd": 158000,
+      "location": "hace 2 h2000ft2Concepcion de San Rafael de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-concepcion-de-san-rafael/7893095376.html",
+      "images": [
+        "https://images.craigslist.org/d/7893095376/00l0l_asFWtQTguXJ_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:26:57.938Z",
+      "id": "f8485e894077"
+    },
+    {
+      "title": "Lot for sale, Concepcion de San Rafael, 640 sq. mts",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 2 h640ft2Concepcion de San Rafael de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-concepcion-de-san-rafael/7893095390.html",
+      "images": [
+        "https://images.craigslist.org/d/7893095390/00x0x_eHY44ijuuhY_0bw0fm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:26:57.975Z",
+      "id": "d3cbdd966f44"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 915 sq. mtrs2",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 2 h915ft2Los Angeles de Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-los-angeles-de-santo/7892144537.html",
+      "images": [
+        "https://images.craigslist.org/d/7892144537/00g0g_hxsODmk1Fc6_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:26:58.014Z",
+      "id": "aabd3dcfd6c6"
+    },
+    {
+      "title": "Beautiful home in condominium, Santo Domingo de Heredia 1,770 sq. mtrs",
+      "price_text": "₡260,000,000",
+      "price_usd": 520000,
+      "location": "hace 2 h4br1770ft2Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-home-in-condominium-santo/7892679557.html",
+      "images": [
+        "https://images.craigslist.org/d/7892679557/00Y0Y_dpbyM8FWIcO_0kE09H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:26:58.073Z",
+      "id": "1424eedfd726"
+    },
+    {
+      "title": "House for sale San Jose, near Plaza Viquez 226 sq. mtrs.",
+      "price_text": "₡83,000,000",
+      "price_usd": 166000,
+      "location": "hace 2 h4br226ft2San José Capital, near Plaza Viquez",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-san-jose-near-plaza/7893095462.html",
+      "images": [
+        "https://images.craigslist.org/d/7893095462/00R0R_K6bigO94Ay_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:26:58.115Z",
+      "id": "7a0173d305d4"
+    },
+    {
+      "title": "Lot for sale, Concepcion de San Rafael, 640 sq. mts",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 2 h640ft2Concepcion de San Rafael de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-concepcion-de-san-rafael/7891976903.html",
+      "images": [
+        "https://images.craigslist.org/d/7891976903/00x0x_eHY44ijuuhY_0bw0fm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:26:58.151Z",
+      "id": "d3cbdd966f44"
+    },
+    {
+      "title": "Farm for sale, La Ceiba de Orotina, 114 acres(46 hectares)",
+      "price_text": "₡4,800,000",
+      "price_usd": 9600,
+      "location": "hace 2 h466930ft2La Ceiba, Orotina",
+      "url": "https://costarica.craigslist.org/reb/d/farm-for-sale-la-ceiba-de-orotina-114/7893095336.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-11-27T12:26:58.194Z",
+      "id": "6c40c6417282"
+    },
+    {
+      "title": "House for sale San Jose, near Plaza Viquez 226 sq. mtrs.",
+      "price_text": "₡83,000,000",
+      "price_usd": 166000,
+      "location": "hace 2 h4br226ft2San José Capital, near Plaza Viquez",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-san-jose-near-plaza/7891976811.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:26:58.234Z",
+      "id": "7a0173d305d4"
+    },
+    {
+      "title": "Farm for sale, La Ceiba de Orotina, 114 acres(46 hectares)",
+      "price_text": "₡4,800,000",
+      "price_usd": 9600,
+      "location": "hace 2 h466930ft2La Ceiba, Orotina",
+      "url": "https://costarica.craigslist.org/reb/d/farm-for-sale-la-ceiba-de-orotina-114/7892679575.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-11-27T12:26:58.275Z",
+      "id": "6c40c6417282"
+    },
+    {
+      "title": "Farm for sale, La Ceiba de Orotina, 114 acres(46 hectares)",
+      "price_text": "₡4,800,000",
+      "price_usd": 9600,
+      "location": "hace 2 h466930ft2La Ceiba, Orotina",
+      "url": "https://costarica.craigslist.org/reb/d/farm-for-sale-la-ceiba-de-orotina-114/7891976761.html",
+      "images": [
+        "https://images.craigslist.org/d/7891976761/00l0l_bn2OvDe4erF_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-11-27T12:27:03.013Z",
+      "id": "6c40c6417282"
+    },
+    {
+      "title": "Lot for sale, Concepcion de San Rafael, 2,000 sq. mtrs",
+      "price_text": "₡79,000,000",
+      "price_usd": 158000,
+      "location": "hace 2 h2000ft2Concepcion de San Rafael de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-concepcion-de-san-rafael/7893095376.html",
+      "images": [
+        "https://images.craigslist.org/d/7893095376/00l0l_asFWtQTguXJ_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:03.053Z",
+      "id": "f8485e894077"
+    },
+    {
+      "title": "Lot for sale, Concepcion de San Rafael, 640 sq. mts",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 2 h640ft2Concepcion de San Rafael de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-concepcion-de-san-rafael/7893095390.html",
+      "images": [
+        "https://images.craigslist.org/d/7893095390/00x0x_eHY44ijuuhY_0bw0fm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:03.089Z",
+      "id": "d3cbdd966f44"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 915 sq. mtrs2",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 2 h915ft2Los Angeles de Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-los-angeles-de-santo/7892144537.html",
+      "images": [
+        "https://images.craigslist.org/d/7892144537/00g0g_hxsODmk1Fc6_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:03.128Z",
+      "id": "aabd3dcfd6c6"
+    },
+    {
+      "title": "Beautiful home in condominium, Santo Domingo de Heredia 1,770 sq. mtrs",
+      "price_text": "₡260,000,000",
+      "price_usd": 520000,
+      "location": "hace 2 h4br1770ft2Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-home-in-condominium-santo/7892679557.html",
+      "images": [
+        "https://images.craigslist.org/d/7892679557/00Y0Y_dpbyM8FWIcO_0kE09H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:03.178Z",
+      "id": "1424eedfd726"
+    },
+    {
+      "title": "House for sale San Jose, near Plaza Viquez 226 sq. mtrs.",
+      "price_text": "₡83,000,000",
+      "price_usd": 166000,
+      "location": "hace 2 h4br226ft2San José Capital, near Plaza Viquez",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-san-jose-near-plaza/7893095462.html",
+      "images": [
+        "https://images.craigslist.org/d/7893095462/00R0R_K6bigO94Ay_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:03.217Z",
+      "id": "7a0173d305d4"
+    },
+    {
+      "title": "Lot for sale, Concepcion de San Rafael, 640 sq. mts",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 2 h640ft2Concepcion de San Rafael de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-concepcion-de-san-rafael/7891976903.html",
+      "images": [
+        "https://images.craigslist.org/d/7891976903/00x0x_eHY44ijuuhY_0bw0fm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:03.253Z",
+      "id": "d3cbdd966f44"
+    },
+    {
+      "title": "Farm for sale, La Ceiba de Orotina, 114 acres(46 hectares)",
+      "price_text": "₡4,800,000",
+      "price_usd": 9600,
+      "location": "hace 2 h466930ft2La Ceiba, Orotina",
+      "url": "https://costarica.craigslist.org/reb/d/farm-for-sale-la-ceiba-de-orotina-114/7893095336.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-11-27T12:27:03.295Z",
+      "id": "6c40c6417282"
+    },
+    {
+      "title": "House for sale San Jose, near Plaza Viquez 226 sq. mtrs.",
+      "price_text": "₡83,000,000",
+      "price_usd": 166000,
+      "location": "hace 2 h4br226ft2San José Capital, near Plaza Viquez",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-san-jose-near-plaza/7891976811.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:03.334Z",
+      "id": "7a0173d305d4"
+    },
+    {
+      "title": "Farm for sale, La Ceiba de Orotina, 114 acres(46 hectares)",
+      "price_text": "₡4,800,000",
+      "price_usd": 9600,
+      "location": "hace 2 h466930ft2La Ceiba, Orotina",
+      "url": "https://costarica.craigslist.org/reb/d/farm-for-sale-la-ceiba-de-orotina-114/7892679575.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-11-27T12:27:03.375Z",
+      "id": "6c40c6417282"
+    },
+    {
+      "title": "Farm for sale, La Ceiba de Orotina, 114 acres(46 hectares)",
+      "price_text": "₡4,800,000",
+      "price_usd": 9600,
+      "location": "hace 2 h466930ft2La Ceiba, Orotina",
+      "url": "https://costarica.craigslist.org/reb/d/farm-for-sale-la-ceiba-de-orotina-114/7891976761.html",
+      "images": [
+        "https://images.craigslist.org/d/7891976761/00l0l_bn2OvDe4erF_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-11-27T12:27:08.231Z",
+      "id": "6c40c6417282"
+    },
+    {
+      "title": "Lot for sale, Concepcion de San Rafael, 2,000 sq. mtrs",
+      "price_text": "₡79,000,000",
+      "price_usd": 158000,
+      "location": "hace 2 h2000ft2Concepcion de San Rafael de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-concepcion-de-san-rafael/7893095376.html",
+      "images": [
+        "https://images.craigslist.org/d/7893095376/00l0l_asFWtQTguXJ_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:08.271Z",
+      "id": "f8485e894077"
+    },
+    {
+      "title": "Lot for sale, Concepcion de San Rafael, 640 sq. mts",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 2 h640ft2Concepcion de San Rafael de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-concepcion-de-san-rafael/7893095390.html",
+      "images": [
+        "https://images.craigslist.org/d/7893095390/00x0x_eHY44ijuuhY_0bw0fm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:08.308Z",
+      "id": "d3cbdd966f44"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 915 sq. mtrs2",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 2 h915ft2Los Angeles de Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-los-angeles-de-santo/7892144537.html",
+      "images": [
+        "https://images.craigslist.org/d/7892144537/00g0g_hxsODmk1Fc6_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:08.348Z",
+      "id": "aabd3dcfd6c6"
+    },
+    {
+      "title": "Beautiful home in condominium, Santo Domingo de Heredia 1,770 sq. mtrs",
+      "price_text": "₡260,000,000",
+      "price_usd": 520000,
+      "location": "hace 2 h4br1770ft2Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-home-in-condominium-santo/7892679557.html",
+      "images": [
+        "https://images.craigslist.org/d/7892679557/00Y0Y_dpbyM8FWIcO_0kE09H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:08.399Z",
+      "id": "1424eedfd726"
+    },
+    {
+      "title": "House for sale San Jose, near Plaza Viquez 226 sq. mtrs.",
+      "price_text": "₡83,000,000",
+      "price_usd": 166000,
+      "location": "hace 2 h4br226ft2San José Capital, near Plaza Viquez",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-san-jose-near-plaza/7893095462.html",
+      "images": [
+        "https://images.craigslist.org/d/7893095462/00R0R_K6bigO94Ay_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:08.438Z",
+      "id": "7a0173d305d4"
+    },
+    {
+      "title": "Lot for sale, Concepcion de San Rafael, 640 sq. mts",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 2 h640ft2Concepcion de San Rafael de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-concepcion-de-san-rafael/7891976903.html",
+      "images": [
+        "https://images.craigslist.org/d/7891976903/00x0x_eHY44ijuuhY_0bw0fm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:08.474Z",
+      "id": "d3cbdd966f44"
+    },
+    {
+      "title": "Farm for sale, La Ceiba de Orotina, 114 acres(46 hectares)",
+      "price_text": "₡4,800,000",
+      "price_usd": 9600,
+      "location": "hace 2 h466930ft2La Ceiba, Orotina",
+      "url": "https://costarica.craigslist.org/reb/d/farm-for-sale-la-ceiba-de-orotina-114/7893095336.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-11-27T12:27:08.516Z",
+      "id": "6c40c6417282"
+    },
+    {
+      "title": "House for sale San Jose, near Plaza Viquez 226 sq. mtrs.",
+      "price_text": "₡83,000,000",
+      "price_usd": 166000,
+      "location": "hace 2 h4br226ft2San José Capital, near Plaza Viquez",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-san-jose-near-plaza/7891976811.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:08.555Z",
+      "id": "7a0173d305d4"
+    },
+    {
+      "title": "Farm for sale, La Ceiba de Orotina, 114 acres(46 hectares)",
+      "price_text": "₡4,800,000",
+      "price_usd": 9600,
+      "location": "hace 2 h466930ft2La Ceiba, Orotina",
+      "url": "https://costarica.craigslist.org/reb/d/farm-for-sale-la-ceiba-de-orotina-114/7892679575.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-11-27T12:27:08.597Z",
+      "id": "6c40c6417282"
+    },
+    {
+      "title": "Farm for sale, La Ceiba de Orotina, 114 acres(46 hectares)",
+      "price_text": "₡4,800,000",
+      "price_usd": 9600,
+      "location": "hace 2 h466930ft2La Ceiba, Orotina",
+      "url": "https://costarica.craigslist.org/reb/d/farm-for-sale-la-ceiba-de-orotina-114/7891976761.html",
+      "images": [
+        "https://images.craigslist.org/d/7891976761/00l0l_bn2OvDe4erF_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-11-27T12:27:13.453Z",
+      "id": "6c40c6417282"
+    },
+    {
+      "title": "Lot for sale, Concepcion de San Rafael, 2,000 sq. mtrs",
+      "price_text": "₡79,000,000",
+      "price_usd": 158000,
+      "location": "hace 2 h2000ft2Concepcion de San Rafael de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-concepcion-de-san-rafael/7893095376.html",
+      "images": [
+        "https://images.craigslist.org/d/7893095376/00l0l_asFWtQTguXJ_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:13.492Z",
+      "id": "f8485e894077"
+    },
+    {
+      "title": "Lot for sale, Concepcion de San Rafael, 640 sq. mts",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 2 h640ft2Concepcion de San Rafael de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-concepcion-de-san-rafael/7893095390.html",
+      "images": [
+        "https://images.craigslist.org/d/7893095390/00x0x_eHY44ijuuhY_0bw0fm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:13.530Z",
+      "id": "d3cbdd966f44"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 915 sq. mtrs2",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 2 h915ft2Los Angeles de Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-los-angeles-de-santo/7892144537.html",
+      "images": [
+        "https://images.craigslist.org/d/7892144537/00g0g_hxsODmk1Fc6_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:13.569Z",
+      "id": "aabd3dcfd6c6"
+    },
+    {
+      "title": "Beautiful home in condominium, Santo Domingo de Heredia 1,770 sq. mtrs",
+      "price_text": "₡260,000,000",
+      "price_usd": 520000,
+      "location": "hace 2 h4br1770ft2Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-home-in-condominium-santo/7892679557.html",
+      "images": [
+        "https://images.craigslist.org/d/7892679557/00Y0Y_dpbyM8FWIcO_0kE09H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:13.620Z",
+      "id": "1424eedfd726"
+    },
+    {
+      "title": "House for sale San Jose, near Plaza Viquez 226 sq. mtrs.",
+      "price_text": "₡83,000,000",
+      "price_usd": 166000,
+      "location": "hace 2 h4br226ft2San José Capital, near Plaza Viquez",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-san-jose-near-plaza/7893095462.html",
+      "images": [
+        "https://images.craigslist.org/d/7893095462/00R0R_K6bigO94Ay_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:13.659Z",
+      "id": "7a0173d305d4"
+    },
+    {
+      "title": "Lot for sale, Concepcion de San Rafael, 640 sq. mts",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 2 h640ft2Concepcion de San Rafael de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-concepcion-de-san-rafael/7891976903.html",
+      "images": [
+        "https://images.craigslist.org/d/7891976903/00x0x_eHY44ijuuhY_0bw0fm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:13.695Z",
+      "id": "d3cbdd966f44"
+    },
+    {
+      "title": "Farm for sale, La Ceiba de Orotina, 114 acres(46 hectares)",
+      "price_text": "₡4,800,000",
+      "price_usd": 9600,
+      "location": "hace 2 h466930ft2La Ceiba, Orotina",
+      "url": "https://costarica.craigslist.org/reb/d/farm-for-sale-la-ceiba-de-orotina-114/7893095336.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-11-27T12:27:13.737Z",
+      "id": "6c40c6417282"
+    },
+    {
+      "title": "House for sale San Jose, near Plaza Viquez 226 sq. mtrs.",
+      "price_text": "₡83,000,000",
+      "price_usd": 166000,
+      "location": "hace 2 h4br226ft2San José Capital, near Plaza Viquez",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-san-jose-near-plaza/7891976811.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:13.780Z",
+      "id": "7a0173d305d4"
+    },
+    {
+      "title": "Farm for sale, La Ceiba de Orotina, 114 acres(46 hectares)",
+      "price_text": "₡4,800,000",
+      "price_usd": 9600,
+      "location": "hace 2 h466930ft2La Ceiba, Orotina",
+      "url": "https://costarica.craigslist.org/reb/d/farm-for-sale-la-ceiba-de-orotina-114/7892679575.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-11-27T12:27:13.820Z",
+      "id": "6c40c6417282"
+    },
+    {
+      "title": "Farm for sale, La Ceiba de Orotina, 114 acres(46 hectares)",
+      "price_text": "₡4,800,000",
+      "price_usd": 9600,
+      "location": "hace 2 h466930ft2La Ceiba, Orotina",
+      "url": "https://costarica.craigslist.org/reb/d/farm-for-sale-la-ceiba-de-orotina-114/7891976761.html",
+      "images": [
+        "https://images.craigslist.org/d/7891976761/00l0l_bn2OvDe4erF_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-11-27T12:27:18.525Z",
+      "id": "6c40c6417282"
+    },
+    {
+      "title": "Lot for sale, Concepcion de San Rafael, 2,000 sq. mtrs",
+      "price_text": "₡79,000,000",
+      "price_usd": 158000,
+      "location": "hace 2 h2000ft2Concepcion de San Rafael de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-concepcion-de-san-rafael/7893095376.html",
+      "images": [
+        "https://images.craigslist.org/d/7893095376/00l0l_asFWtQTguXJ_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:18.566Z",
+      "id": "f8485e894077"
+    },
+    {
+      "title": "Lot for sale, Concepcion de San Rafael, 640 sq. mts",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 2 h640ft2Concepcion de San Rafael de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-concepcion-de-san-rafael/7893095390.html",
+      "images": [
+        "https://images.craigslist.org/d/7893095390/00x0x_eHY44ijuuhY_0bw0fm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:18.603Z",
+      "id": "d3cbdd966f44"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 915 sq. mtrs2",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 2 h915ft2Los Angeles de Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-los-angeles-de-santo/7892144537.html",
+      "images": [
+        "https://images.craigslist.org/d/7892144537/00g0g_hxsODmk1Fc6_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:18.643Z",
+      "id": "aabd3dcfd6c6"
+    },
+    {
+      "title": "Beautiful home in condominium, Santo Domingo de Heredia 1,770 sq. mtrs",
+      "price_text": "₡260,000,000",
+      "price_usd": 520000,
+      "location": "hace 2 h4br1770ft2Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-home-in-condominium-santo/7892679557.html",
+      "images": [
+        "https://images.craigslist.org/d/7892679557/00Y0Y_dpbyM8FWIcO_0kE09H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:18.695Z",
+      "id": "1424eedfd726"
+    },
+    {
+      "title": "House for sale San Jose, near Plaza Viquez 226 sq. mtrs.",
+      "price_text": "₡83,000,000",
+      "price_usd": 166000,
+      "location": "hace 2 h4br226ft2San José Capital, near Plaza Viquez",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-san-jose-near-plaza/7893095462.html",
+      "images": [
+        "https://images.craigslist.org/d/7893095462/00R0R_K6bigO94Ay_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:18.735Z",
+      "id": "7a0173d305d4"
+    },
+    {
+      "title": "Lot for sale, Concepcion de San Rafael, 640 sq. mts",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 2 h640ft2Concepcion de San Rafael de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-concepcion-de-san-rafael/7891976903.html",
+      "images": [
+        "https://images.craigslist.org/d/7891976903/00x0x_eHY44ijuuhY_0bw0fm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:18.770Z",
+      "id": "d3cbdd966f44"
+    },
+    {
+      "title": "Farm for sale, La Ceiba de Orotina, 114 acres(46 hectares)",
+      "price_text": "₡4,800,000",
+      "price_usd": 9600,
+      "location": "hace 2 h466930ft2La Ceiba, Orotina",
+      "url": "https://costarica.craigslist.org/reb/d/farm-for-sale-la-ceiba-de-orotina-114/7893095336.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-11-27T12:27:18.816Z",
+      "id": "6c40c6417282"
+    },
+    {
+      "title": "House for sale San Jose, near Plaza Viquez 226 sq. mtrs.",
+      "price_text": "₡83,000,000",
+      "price_usd": 166000,
+      "location": "hace 2 h4br226ft2San José Capital, near Plaza Viquez",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-san-jose-near-plaza/7891976811.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T12:27:18.855Z",
+      "id": "7a0173d305d4"
+    },
+    {
+      "title": "Farm for sale, La Ceiba de Orotina, 114 acres(46 hectares)",
+      "price_text": "₡4,800,000",
+      "price_usd": 9600,
+      "location": "hace 2 h466930ft2La Ceiba, Orotina",
+      "url": "https://costarica.craigslist.org/reb/d/farm-for-sale-la-ceiba-de-orotina-114/7892679575.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-11-27T12:27:18.895Z",
+      "id": "6c40c6417282"
     }
   ],
-  "last_updated": "2025-11-27T06:26:26.611Z",
+  "last_updated": "2025-11-27T12:31:34.328Z",
   "total_count": 402
 }
