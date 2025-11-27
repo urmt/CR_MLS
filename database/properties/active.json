@@ -10671,8 +10671,83 @@
       "category": "residential",
       "scraped_at": "2025-11-27T01:03:17.178Z",
       "id": "c8f2ca391be2"
+    },
+    {
+      "title": "House in gated community",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 5 h3br250ft2Escazu - San Jose",
+      "url": "https://costarica.craigslist.org/reb/d/house-in-gated-community/7898577698.html",
+      "images": [
+        "https://images.craigslist.org/d/7898577698/00X0X_71K41EJDgga_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T06:21:27.732Z",
+      "id": "4264f7d0a77c"
+    },
+    {
+      "title": "House in gated community",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 5 h3br250ft2Escazu - San Jose",
+      "url": "https://costarica.craigslist.org/reb/d/house-in-gated-community/7898577698.html",
+      "images": [
+        "https://images.craigslist.org/d/7898577698/00X0X_71K41EJDgga_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T06:21:32.721Z",
+      "id": "4264f7d0a77c"
+    },
+    {
+      "title": "House in gated community",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 5 h3br250ft2Escazu - San Jose",
+      "url": "https://costarica.craigslist.org/reb/d/house-in-gated-community/7898577698.html",
+      "images": [
+        "https://images.craigslist.org/d/7898577698/00X0X_71K41EJDgga_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T06:21:37.676Z",
+      "id": "4264f7d0a77c"
+    },
+    {
+      "title": "House in gated community",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 5 h3br250ft2Escazu - San Jose",
+      "url": "https://costarica.craigslist.org/reb/d/house-in-gated-community/7898577698.html",
+      "images": [
+        "https://images.craigslist.org/d/7898577698/00X0X_71K41EJDgga_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T06:21:42.627Z",
+      "id": "4264f7d0a77c"
+    },
+    {
+      "title": "House in gated community",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 5 h3br250ft2Escazu - San Jose",
+      "url": "https://costarica.craigslist.org/reb/d/house-in-gated-community/7898577698.html",
+      "images": [
+        "https://images.craigslist.org/d/7898577698/00X0X_71K41EJDgga_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-27T06:21:47.719Z",
+      "id": "4264f7d0a77c"
     }
   ],
-  "last_updated": "2025-11-27T01:05:17.757Z",
+  "last_updated": "2025-11-27T06:25:58.059Z",
   "total_count": 402
 }
