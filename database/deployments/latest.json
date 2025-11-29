@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-11-29T12:29:21+00:00",
-  "ipfs_hash": "QmTsCwXXsFwrfXxnPF5dyp7JCpRJNMvbL9LRqvirBqc2oV",
-  "ipfs_url": "https://ipfs.io/ipfs/QmTsCwXXsFwrfXxnPF5dyp7JCpRJNMvbL9LRqvirBqc2oV",
-  "commit_sha": "8d05ea271a52be3d86664d9956d9a05f9b08a620",
+  "timestamp": "2025-11-29T18:24:29+00:00",
+  "ipfs_hash": "QmXkcWHwb2Qpc7AdYSXSn8ZQ9KAEwtMLcg4j8ZJpQk8K25",
+  "ipfs_url": "https://ipfs.io/ipfs/QmXkcWHwb2Qpc7AdYSXSn8ZQ9KAEwtMLcg4j8ZJpQk8K25",
+  "commit_sha": "d945ed86c5f9639be5ecb0fbe6f5112100eb2fd9",
   "deployed_by": "github-actions"
 }
