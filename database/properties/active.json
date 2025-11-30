@@ -11994,8 +11994,83 @@
       "category": "residential",
       "scraped_at": "2025-11-30T01:08:38.794Z",
       "id": "aedc9544f493"
+    },
+    {
+      "title": "Osa Peninsula Property for Sale",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 2 h5425ft2North of Puerto Jimenez",
+      "url": "https://costarica.craigslist.org/reo/d/osa-peninsula-property-for-sale/7890661786.html",
+      "images": [
+        "https://images.craigslist.org/d/7890661786/00P0P_3OY8QUng7sA_0dk09N_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-30T03:20:50.842Z",
+      "id": "866581cff2cd"
+    },
+    {
+      "title": "Osa Peninsula Property for Sale",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 2 h5425ft2North of Puerto Jimenez",
+      "url": "https://costarica.craigslist.org/reo/d/osa-peninsula-property-for-sale/7890661786.html",
+      "images": [
+        "https://images.craigslist.org/d/7890661786/00P0P_3OY8QUng7sA_0dk09N_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-30T03:20:55.626Z",
+      "id": "866581cff2cd"
+    },
+    {
+      "title": "Osa Peninsula Property for Sale",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 2 h5425ft2North of Puerto Jimenez",
+      "url": "https://costarica.craigslist.org/reo/d/osa-peninsula-property-for-sale/7890661786.html",
+      "images": [
+        "https://images.craigslist.org/d/7890661786/00P0P_3OY8QUng7sA_0dk09N_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-30T03:21:00.379Z",
+      "id": "866581cff2cd"
+    },
+    {
+      "title": "Osa Peninsula Property for Sale",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 2 h5425ft2North of Puerto Jimenez",
+      "url": "https://costarica.craigslist.org/reo/d/osa-peninsula-property-for-sale/7890661786.html",
+      "images": [
+        "https://images.craigslist.org/d/7890661786/00P0P_3OY8QUng7sA_0dk09N_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-30T03:21:05.121Z",
+      "id": "866581cff2cd"
+    },
+    {
+      "title": "Osa Peninsula Property for Sale",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 2 h5425ft2North of Puerto Jimenez",
+      "url": "https://costarica.craigslist.org/reo/d/osa-peninsula-property-for-sale/7890661786.html",
+      "images": [
+        "https://images.craigslist.org/d/7890661786/00P0P_3OY8QUng7sA_0dk09N_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-11-30T03:21:09.868Z",
+      "id": "866581cff2cd"
     }
   ],
-  "last_updated": "2025-11-30T01:13:00.349Z",
+  "last_updated": "2025-11-30T03:25:09.203Z",
   "total_count": 402
 }
