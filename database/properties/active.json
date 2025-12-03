@@ -12684,8 +12684,77 @@
       "category": "residential",
       "scraped_at": "2025-12-02T18:24:27.902Z",
       "id": "805bbdc1cf0b"
+    },
+    {
+      "title": "Luxury Villa in Gated Community\n                Single Family Homes, Manuel Antonio, Puntarenas",
+      "price_text": "$4,850,000",
+      "price_usd": 4850000,
+      "location": "Single Family Homes, Manuel Antonio, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-single-family-homes-for-sale-in-manuel-antonio/13549",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-03T01:03:07.358Z",
+      "id": "fd9c014494af"
+    },
+    {
+      "title": "La Perla 3-4 ~ Panoramic Ocean Views Over Playa Grande and...          Casa Oasis de Jutta          La Perla 4-3 ~ Elegant Ocean-View Retreat in Vibrant Tamarindo",
+      "price_text": "Price:     US$ 1 050 000.00      Price:     US$ 1 098 000.00      Price:     US$ 1 099 000.00",
+      "price_usd": 1050000.001098,
+      "location": "Location:     Playa Tamarindo      Location:     Tamarindo Areas      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/la-perla-3-4-playa-tamarindo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-perla-tamarindo-3-4.jpg?itok=5z_14Dbs",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-oasis-de-jutta-2023.jpg?itok=SJg7NmK7",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-perla-4-3.jpg?itok=qdRaqXzi"
+      ],
+      "description": "Welcome to La Perla Tamarindo 134 - an incredible ocean-view condo offering breathtaking panoramas of Playa...          Casa Oasis de Jutta is sitting on top of a mountain, overlooking the beautiful Guanacaste Valley, a lagoon,...          Experience the best of Costa Rican coastal living with La Perla Tamarindo 143 - a rare opportunity to own a...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2025-12-03T01:05:17.115Z",
+      "id": "c5b06db780ab"
+    },
+    {
+      "title": "PRICE REDUCTION! La Perla 5-4 ~ Exceptional Ocean View Property...          Tamarindo Park ~ New Luxury Gated Community          Casa Isani ~ Gorgeous Estate with Two Guest Homes in a Gated...",
+      "price_text": "Price:     US$ 1 099 000.00      Price:     US$ 1 100 000.00      Price:     US$ 1 100 000.00",
+      "price_usd": 1099000.0011,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/la-perla-5-4-playa-tamarindo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-LaPerla-54-Terrace.jpg?itok=oWFYQVhX",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/8-lot-24-%26-25.png?itok=cWJVtYrB",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-sasha.jpeg?itok=nFMOwHka"
+      ],
+      "description": "La Perla 5-4 is a fantastic ocean-view property located a short walk to the beach and town. The three-bedroom...          Tamarindo Park is proud to bring a unique Costa Rican gated community to the desirable Tamarindo area of...          Welcome to Casa Isani! This multi-unit property offers a turnkey solution to enjoy the amazing “pura vida''...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2025-12-03T01:05:17.304Z",
+      "id": "50e732f23a22"
+    },
+    {
+      "title": "Casa Crucero ~ Modern 4 Bedroom Home in Tamarindo's Newest...          Bosques de Pinilla - A New Way of Living          PRICE REDUCED! Bougainvillea 4211 ~ One-of-a-Kind Oceanview...",
+      "price_text": "Price:     US$ 1 100 000.00      Price:     US$ 1 135 873.00      Price:     US$ 1 150 000.00",
+      "price_usd": 1100000.001135873,
+      "location": "Location:     Playa Tamarindo      Location:     Hacienda-Pinilla      Location:     Reserva Conchal",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-crucero-residencias-de-tamarindo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5%20-casa-crucero-verde.jpeg?itok=12V8KF2X",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Bosques%20de%20Pinilla-%20Sales%20booklet_Page_02.jpg?itok=-NhQT2KV",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/21-bougainvillea_4211_guest_bathroom_2_0.jpg?itok=wpPEHDkJ"
+      ],
+      "description": "Casa Crucero Verde feels like being on a cruise ship overlooking the canopy and then touching the Pacific...          \nAt Bosques de Pinilla, you’ll find the perfect amenities for you and the family in the impeccably manicured...          This Bougainvillea condo is THE ONLY CONDO WITH ZERO STEPS in the Bougainvillea complex! A great opportunity...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2025-12-03T01:05:17.488Z",
+      "id": "67e1932e446c"
     }
   ],
-  "last_updated": "2025-12-02T18:26:04.841Z",
+  "last_updated": "2025-12-03T01:06:43.784Z",
   "total_count": 402
 }
