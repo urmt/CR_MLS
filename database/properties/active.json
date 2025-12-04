@@ -14403,8 +14403,98 @@
       "category": "residential",
       "scraped_at": "2025-12-04T01:02:47.603Z",
       "id": "04b753bee420"
+    },
+    {
+      "title": "Ocean View Lot in Playa Negra – Ideal for Residence or Investment",
+      "price_text": "₡91,290,000",
+      "price_usd": 182580,
+      "location": "hace 29 min5027ft2Playa Negra, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/ocean-view-lot-in-playa-negra-ideal-for/7900161277.html",
+      "images": [
+        "https://images.craigslist.org/d/7900161277/00m0m_A9IVOIDSH0_0uY0ne_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-04T18:21:35.997Z",
+      "id": "8af0844f0e7a"
+    },
+    {
+      "title": "Ocean View Lot in Playa Negra – Ideal for Residence or Investment",
+      "price_text": "₡91,290,000",
+      "price_usd": 182580,
+      "location": "hace 29 min5027ft2Playa Negra, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/ocean-view-lot-in-playa-negra-ideal-for/7900161277.html",
+      "images": [
+        "https://images.craigslist.org/d/7900161277/00m0m_A9IVOIDSH0_0uY0ne_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-04T18:21:41.222Z",
+      "id": "8af0844f0e7a"
+    },
+    {
+      "title": "Ocean View Lot in Playa Negra – Ideal for Residence or Investment",
+      "price_text": "₡91,290,000",
+      "price_usd": 182580,
+      "location": "hace 29 min5027ft2Playa Negra, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/ocean-view-lot-in-playa-negra-ideal-for/7900161277.html",
+      "images": [
+        "https://images.craigslist.org/d/7900161277/00m0m_A9IVOIDSH0_0uY0ne_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-04T18:21:46.397Z",
+      "id": "8af0844f0e7a"
+    },
+    {
+      "title": "Ocean View Lot in Playa Negra – Ideal for Residence or Investment",
+      "price_text": "₡91,290,000",
+      "price_usd": 182580,
+      "location": "hace 29 min5027ft2Playa Negra, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/ocean-view-lot-in-playa-negra-ideal-for/7900161277.html",
+      "images": [
+        "https://images.craigslist.org/d/7900161277/00m0m_A9IVOIDSH0_0uY0ne_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-04T18:21:51.557Z",
+      "id": "8af0844f0e7a"
+    },
+    {
+      "title": "Ocean View Lot in Playa Negra – Ideal for Residence or Investment",
+      "price_text": "₡91,290,000",
+      "price_usd": 182580,
+      "location": "hace 29 min5027ft2Playa Negra, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/ocean-view-lot-in-playa-negra-ideal-for/7900161277.html",
+      "images": [
+        "https://images.craigslist.org/d/7900161277/00m0m_A9IVOIDSH0_0uY0ne_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-04T18:21:56.721Z",
+      "id": "8af0844f0e7a"
+    },
+    {
+      "title": "Exclusive Santa Teresa’s Top ATV Rental Business\n                Commercial, Santa Teresa, Puntarenas",
+      "price_text": "$900,000",
+      "price_usd": 900000,
+      "location": "Commercial, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-santa-teresa/10268",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-04T18:23:00.321Z",
+      "id": "6eddb155cf75"
     }
   ],
-  "last_updated": "2025-12-04T12:34:00.752Z",
+  "last_updated": "2025-12-04T18:25:56.364Z",
   "total_count": 402
 }
