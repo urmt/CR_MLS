@@ -14493,8 +14493,674 @@
       "category": "land",
       "scraped_at": "2025-12-04T18:23:00.321Z",
       "id": "6eddb155cf75"
+    },
+    {
+      "title": "2 level Commercial Building Ready for Occupancy!",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 4 hCurridabat",
+      "url": "https://costarica.craigslist.org/reo/d/level-commercial-building-ready-for/7900214318.html",
+      "images": [
+        "https://images.craigslist.org/d/7900214318/00Y0Y_jI07wCOYN8t_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:38.585Z",
+      "id": "dc6fdd868c59"
+    },
+    {
+      "title": "JUST LISTED! Rare Nicoya Beachfront Master Plan Development",
+      "price_text": "₡10,000,000",
+      "price_usd": 20000,
+      "location": "hace 4 hNicoya",
+      "url": "https://costarica.craigslist.org/reo/d/just-listed-rare-nicoya-beachfront/7893251922.html",
+      "images": [
+        "https://images.craigslist.org/d/7893251922/00i0i_fOXhImpg4mw_0hM09U_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:38.648Z",
+      "id": "e266e33e66c2"
+    },
+    {
+      "title": "Almost SOLD OUT! 4 Residential lots just steps to Play Bandera!",
+      "price_text": "₡15,000,000",
+      "price_usd": 30000,
+      "location": "hace 4 hPlaya Bandera, Parrita",
+      "url": "https://costarica.craigslist.org/reo/d/almost-sold-out-residential-lots-just/7892326127.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:38.712Z",
+      "id": "5ea11adb64f6"
+    },
+    {
+      "title": "___Selling Now! 32 large lotes in New Development",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 4 hGrecia",
+      "url": "https://costarica.craigslist.org/reo/d/selling-now-32-large-lotes-in-new/7892326048.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-05T01:02:38.759Z",
+      "id": "64148c3fcb5c"
+    },
+    {
+      "title": "20,000 m2 Mixed Use + fruit business - Central Orotina",
+      "price_text": "₡30",
+      "price_usd": 0,
+      "location": "hace 4 hOrotina",
+      "url": "https://costarica.craigslist.org/reo/d/m2-mixed-use-fruit-business-central/7892325967.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-05T01:02:38.810Z",
+      "id": "57a2742a6e2c"
+    },
+    {
+      "title": "The Perfect Luxury Landmark Hotel location in Vistas de Atenas!",
+      "price_text": "₡6,000,000",
+      "price_usd": 12000,
+      "location": "hace 4 hAtenas",
+      "url": "https://costarica.craigslist.org/reo/d/the-perfect-luxury-landmark-hotel/7892325728.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:38.870Z",
+      "id": "6fc555265ad4"
+    },
+    {
+      "title": "2 level Commercial Building Ready for Occupancy!",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 4 hCurridabat",
+      "url": "https://costarica.craigslist.org/reo/d/level-commercial-building-ready-for/7900214318.html",
+      "images": [
+        "https://images.craigslist.org/d/7900214318/00Y0Y_jI07wCOYN8t_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:43.628Z",
+      "id": "dc6fdd868c59"
+    },
+    {
+      "title": "JUST LISTED! Rare Nicoya Beachfront Master Plan Development",
+      "price_text": "₡10,000,000",
+      "price_usd": 20000,
+      "location": "hace 4 hNicoya",
+      "url": "https://costarica.craigslist.org/reo/d/just-listed-rare-nicoya-beachfront/7893251922.html",
+      "images": [
+        "https://images.craigslist.org/d/7893251922/00i0i_fOXhImpg4mw_0hM09U_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:43.685Z",
+      "id": "e266e33e66c2"
+    },
+    {
+      "title": "Almost SOLD OUT! 4 Residential lots just steps to Play Bandera!",
+      "price_text": "₡15,000,000",
+      "price_usd": 30000,
+      "location": "hace 4 hPlaya Bandera, Parrita",
+      "url": "https://costarica.craigslist.org/reo/d/almost-sold-out-residential-lots-just/7892326127.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:43.748Z",
+      "id": "5ea11adb64f6"
+    },
+    {
+      "title": "___Selling Now! 32 large lotes in New Development",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 4 hGrecia",
+      "url": "https://costarica.craigslist.org/reo/d/selling-now-32-large-lotes-in-new/7892326048.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-05T01:02:43.793Z",
+      "id": "64148c3fcb5c"
+    },
+    {
+      "title": "20,000 m2 Mixed Use + fruit business - Central Orotina",
+      "price_text": "₡30",
+      "price_usd": 0,
+      "location": "hace 4 hOrotina",
+      "url": "https://costarica.craigslist.org/reo/d/m2-mixed-use-fruit-business-central/7892325967.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-05T01:02:43.843Z",
+      "id": "57a2742a6e2c"
+    },
+    {
+      "title": "The Perfect Luxury Landmark Hotel location in Vistas de Atenas!",
+      "price_text": "₡6,000,000",
+      "price_usd": 12000,
+      "location": "hace 4 hAtenas",
+      "url": "https://costarica.craigslist.org/reo/d/the-perfect-luxury-landmark-hotel/7892325728.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:43.903Z",
+      "id": "6fc555265ad4"
+    },
+    {
+      "title": "2 level Commercial Building Ready for Occupancy!",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 4 hCurridabat",
+      "url": "https://costarica.craigslist.org/reo/d/level-commercial-building-ready-for/7900214318.html",
+      "images": [
+        "https://images.craigslist.org/d/7900214318/00Y0Y_jI07wCOYN8t_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:48.626Z",
+      "id": "dc6fdd868c59"
+    },
+    {
+      "title": "JUST LISTED! Rare Nicoya Beachfront Master Plan Development",
+      "price_text": "₡10,000,000",
+      "price_usd": 20000,
+      "location": "hace 4 hNicoya",
+      "url": "https://costarica.craigslist.org/reo/d/just-listed-rare-nicoya-beachfront/7893251922.html",
+      "images": [
+        "https://images.craigslist.org/d/7893251922/00i0i_fOXhImpg4mw_0hM09U_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:48.683Z",
+      "id": "e266e33e66c2"
+    },
+    {
+      "title": "Almost SOLD OUT! 4 Residential lots just steps to Play Bandera!",
+      "price_text": "₡15,000,000",
+      "price_usd": 30000,
+      "location": "hace 4 hPlaya Bandera, Parrita",
+      "url": "https://costarica.craigslist.org/reo/d/almost-sold-out-residential-lots-just/7892326127.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:48.746Z",
+      "id": "5ea11adb64f6"
+    },
+    {
+      "title": "___Selling Now! 32 large lotes in New Development",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 4 hGrecia",
+      "url": "https://costarica.craigslist.org/reo/d/selling-now-32-large-lotes-in-new/7892326048.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-05T01:02:48.791Z",
+      "id": "64148c3fcb5c"
+    },
+    {
+      "title": "20,000 m2 Mixed Use + fruit business - Central Orotina",
+      "price_text": "₡30",
+      "price_usd": 0,
+      "location": "hace 4 hOrotina",
+      "url": "https://costarica.craigslist.org/reo/d/m2-mixed-use-fruit-business-central/7892325967.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-05T01:02:48.841Z",
+      "id": "57a2742a6e2c"
+    },
+    {
+      "title": "The Perfect Luxury Landmark Hotel location in Vistas de Atenas!",
+      "price_text": "₡6,000,000",
+      "price_usd": 12000,
+      "location": "hace 4 hAtenas",
+      "url": "https://costarica.craigslist.org/reo/d/the-perfect-luxury-landmark-hotel/7892325728.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:48.903Z",
+      "id": "6fc555265ad4"
+    },
+    {
+      "title": "2 level Commercial Building Ready for Occupancy!",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 4 hCurridabat",
+      "url": "https://costarica.craigslist.org/reo/d/level-commercial-building-ready-for/7900214318.html",
+      "images": [
+        "https://images.craigslist.org/d/7900214318/00Y0Y_jI07wCOYN8t_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:53.621Z",
+      "id": "dc6fdd868c59"
+    },
+    {
+      "title": "JUST LISTED! Rare Nicoya Beachfront Master Plan Development",
+      "price_text": "₡10,000,000",
+      "price_usd": 20000,
+      "location": "hace 4 hNicoya",
+      "url": "https://costarica.craigslist.org/reo/d/just-listed-rare-nicoya-beachfront/7893251922.html",
+      "images": [
+        "https://images.craigslist.org/d/7893251922/00i0i_fOXhImpg4mw_0hM09U_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:53.677Z",
+      "id": "e266e33e66c2"
+    },
+    {
+      "title": "Almost SOLD OUT! 4 Residential lots just steps to Play Bandera!",
+      "price_text": "₡15,000,000",
+      "price_usd": 30000,
+      "location": "hace 4 hPlaya Bandera, Parrita",
+      "url": "https://costarica.craigslist.org/reo/d/almost-sold-out-residential-lots-just/7892326127.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:53.739Z",
+      "id": "5ea11adb64f6"
+    },
+    {
+      "title": "___Selling Now! 32 large lotes in New Development",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 4 hGrecia",
+      "url": "https://costarica.craigslist.org/reo/d/selling-now-32-large-lotes-in-new/7892326048.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-05T01:02:53.784Z",
+      "id": "64148c3fcb5c"
+    },
+    {
+      "title": "20,000 m2 Mixed Use + fruit business - Central Orotina",
+      "price_text": "₡30",
+      "price_usd": 0,
+      "location": "hace 4 hOrotina",
+      "url": "https://costarica.craigslist.org/reo/d/m2-mixed-use-fruit-business-central/7892325967.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-05T01:02:53.833Z",
+      "id": "57a2742a6e2c"
+    },
+    {
+      "title": "The Perfect Luxury Landmark Hotel location in Vistas de Atenas!",
+      "price_text": "₡6,000,000",
+      "price_usd": 12000,
+      "location": "hace 4 hAtenas",
+      "url": "https://costarica.craigslist.org/reo/d/the-perfect-luxury-landmark-hotel/7892325728.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:53.892Z",
+      "id": "6fc555265ad4"
+    },
+    {
+      "title": "2 level Commercial Building Ready for Occupancy!",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 4 hCurridabat",
+      "url": "https://costarica.craigslist.org/reo/d/level-commercial-building-ready-for/7900214318.html",
+      "images": [
+        "https://images.craigslist.org/d/7900214318/00Y0Y_jI07wCOYN8t_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:58.612Z",
+      "id": "dc6fdd868c59"
+    },
+    {
+      "title": "JUST LISTED! Rare Nicoya Beachfront Master Plan Development",
+      "price_text": "₡10,000,000",
+      "price_usd": 20000,
+      "location": "hace 4 hNicoya",
+      "url": "https://costarica.craigslist.org/reo/d/just-listed-rare-nicoya-beachfront/7893251922.html",
+      "images": [
+        "https://images.craigslist.org/d/7893251922/00i0i_fOXhImpg4mw_0hM09U_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:58.669Z",
+      "id": "e266e33e66c2"
+    },
+    {
+      "title": "Almost SOLD OUT! 4 Residential lots just steps to Play Bandera!",
+      "price_text": "₡15,000,000",
+      "price_usd": 30000,
+      "location": "hace 4 hPlaya Bandera, Parrita",
+      "url": "https://costarica.craigslist.org/reo/d/almost-sold-out-residential-lots-just/7892326127.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:58.734Z",
+      "id": "5ea11adb64f6"
+    },
+    {
+      "title": "___Selling Now! 32 large lotes in New Development",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 4 hGrecia",
+      "url": "https://costarica.craigslist.org/reo/d/selling-now-32-large-lotes-in-new/7892326048.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-05T01:02:58.780Z",
+      "id": "64148c3fcb5c"
+    },
+    {
+      "title": "20,000 m2 Mixed Use + fruit business - Central Orotina",
+      "price_text": "₡30",
+      "price_usd": 0,
+      "location": "hace 4 hOrotina",
+      "url": "https://costarica.craigslist.org/reo/d/m2-mixed-use-fruit-business-central/7892325967.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-05T01:02:58.829Z",
+      "id": "57a2742a6e2c"
+    },
+    {
+      "title": "The Perfect Luxury Landmark Hotel location in Vistas de Atenas!",
+      "price_text": "₡6,000,000",
+      "price_usd": 12000,
+      "location": "hace 4 hAtenas",
+      "url": "https://costarica.craigslist.org/reo/d/the-perfect-luxury-landmark-hotel/7892325728.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:02:58.889Z",
+      "id": "6fc555265ad4"
+    },
+    {
+      "title": "Prime Tamarindo Investment Property with Rental Income Potential          Casa Mariposa ~ Luxurious Tropical Living in this Ocean View...          Spacious Lots in Prime Location ~ Investment Potential in Playa...",
+      "price_text": "Price:     US$ 699 000.00      Price:     US$ 699 000.00      Price:     US$ 700 000.00",
+      "price_usd": 699000.00699,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Negra      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/prime-tamarindo-commercial-property",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/23-prime-commercial-property-in-tamarindo.png?itok=jXSifLGj",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-mariposa-playa-negra.jpg?itok=RX1vYuPP",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5-Langosta-Dual-Lots.jpg?itok=uWUY0nEX"
+      ],
+      "description": "Situated along a prominent road in the lively Tamarindo region, this adaptable property boasts high...          Finca Pura Jungla is a development with a story deeply rooted in environmental stewardship. Thirty years ago...          Two premium lots are now available for $700,000 each (recently reduced from $750,000), offering exceptional...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2025-12-05T01:05:26.858Z",
+      "id": "0902576224e9"
+    },
+    {
+      "title": "Tamarindo Park 51 ~ Modern Tropical Luxury Home with Pool and...          Casa Nibbana ~ Expansive 4 Bedroom Villa in Hacienda Pinilla          La Perla 3-4 ~ Panoramic Ocean Views Over Playa Grande and...",
+      "price_text": "Price:     US$ 999 000.00      Price:     US$ 1 050 000.00      Price:     US$ 1 050 000.00",
+      "price_usd": 999000.00105,
+      "location": "Location:     Playa Tamarindo      Location:     Hacienda-Pinilla      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/tamarindo-park-51",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/39-tamarindo-51-playa-tamarindo.png?itok=yjHZlufJ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-nibbana-hacienda-pinilla-reserva-de-golf-%233.jpg?itok=H4oXvJkO",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-perla-tamarindo-3-4.jpg?itok=5z_14Dbs"
+      ],
+      "description": "Discover Tamarindo Park #51, a brand-new tropical modern residence offering 3 bedrooms and 3 bathrooms across...          \n\tPositioned within the prestigious Reserva de Golf enclave of Hacienda Pinilla, Casa Nibbana is a...          Welcome to La Perla Tamarindo 134 - an incredible ocean-view condo offering breathtaking panoramas of Playa...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2025-12-05T01:05:33.625Z",
+      "id": "59fa8b0cc9d8"
+    },
+    {
+      "title": "Bosques de Pinilla - A New Way of Living          PRICE REDUCED! Bougainvillea 4211 ~ One-of-a-Kind Oceanview...          Langosta’s Hidden Treasure: Casa Maya",
+      "price_text": "Price:     US$ 1 135 873.00      Price:     US$ 1 150 000.00      Price:     US$ 1 150 000.00",
+      "price_usd": 1135873.00115,
+      "location": "Location:     Hacienda-Pinilla      Location:     Reserva Conchal      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/bosques-de-pinilla",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Bosques%20de%20Pinilla-%20Sales%20booklet_Page_02.jpg?itok=-NhQT2KV",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/21-bougainvillea_4211_guest_bathroom_2_0.jpg?itok=wpPEHDkJ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-maya.png?itok=TI_pNKOD"
+      ],
+      "description": "At Bosques de Pinilla, you’ll find the perfect amenities for you and the family in the impeccably manicured...          This Bougainvillea condo is THE ONLY CONDO WITH ZERO STEPS in the Bougainvillea complex! A great opportunity...          Casa Maya presents a unique investment opportunity for the discerning buyer. Situated on a prime 500-square-...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2025-12-05T01:05:34.133Z",
+      "id": "667169e536a9"
+    },
+    {
+      "title": "Beautifully Appointed Four-Bedroom Estate in Beachfront Community          Mensajeros Compound ~ Multi-Home Property with Development...          Carao T1-5 ~ Luxury Penthouse in Reserva Conchal",
+      "price_text": "Price:     US$ 1 199 000.00      Price:     US$ 1 200 000.00      Price:     US$ 1 200 000.00",
+      "price_usd": 1199000.0012,
+      "location": "Location:     Hacienda-Pinilla      Location:     Playa Potrero      Location:     Reserva Conchal",
+      "url": "https://www.remax-oceansurf-cr.com/property/reserva-de-golf-63",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-reserva-de-golf-63.jpg?itok=01pDHyQG",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Propriedades-Mensajeros.jpg?itok=8B4UNE9Q",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/11-carao-t1-5.png?itok=thGA568a"
+      ],
+      "description": "Nestled within the prestigious Reserva de Golf community of Hacienda Pinilla, this newly constructed (...          Discover a rare investment opportunity encompassing five titled lots within a single 36,426 m² compound....          Positioned high above the coast in the exclusive Carao enclave of Reserva Conchal, this elegant 3-bedroom...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2025-12-05T01:05:34.439Z",
+      "id": "62366d0d6836"
+    },
+    {
+      "title": "Turnkey Ocean View Home with Recent Upgrades in Gated Community          Casa Chameleon Homes and Condos          Casa Sunshine ~ Contemporary 4-Bedroom Home with Ocean and...",
+      "price_text": "Price:     US$ 1 200 000.00      Price:     US$ 1 200 000.00      Price:     US$ 1 250 000.00",
+      "price_usd": 1200000.0012,
+      "location": "Location:     Playa Grande      Location:     Playa Danta      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-salinas-las-ventanas-de-playa-grande",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/27-casa-salinas.png?itok=W3fPMEhl",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-chamaleon-condominiums.png?itok=6HQIDObB",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/28-casa-sunshine.png?itok=99WIIWBS"
+      ],
+      "description": "Located in the quiet hills of Playa Grande within the gated community of Las Ventanas, this upgraded 3-...           ​​​​​​Welcome to Casa Chameleon! New luxurious beachside properties are now available in Costa Rica, located...          Set in the exclusive Tamarindo Hills neighborhood, this modern 4-bedroom, 4.5-bath home offers sleek design,...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2025-12-05T01:05:34.627Z",
+      "id": "2c7cc70dea8a"
+    },
+    {
+      "title": "El Tesoro 12 ~ Dramatic Ocean Views in Exclusive Gated Community...          Luxury 5-Bedroom Ocean View Residence Near Downtown Tamarindo          Casa Blue Iguana ~ Luxurious 3-Bedroom Tropical Retreat",
+      "price_text": "Price:     US$ 1 275 000.00      Price:     US$ 1 290 000.00      Price:     US$ 1 300 000.00",
+      "price_usd": 1275000.00129,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/el-tesoro-ocean-view-parcel",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/unnamed-1-758x564.jpg?itok=NEvhuo2N",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-de-la-perla-2025.png?itok=rqdrrk_M",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/8-casa-blue-iguana.jpg?itok=fEtPzN0J"
+      ],
+      "description": "El Tesoro stands out as Tamarindo’s most prestigious gated community, perfectly situated in the vibrant...          Just minutes from Tamarindo’s center yet tucked into a private hillside, this 5-bedroom, 4.5-bath luxury...          This stunning newly built home is a true masterpiece, thoughtfully crafted to offer both upscale living and...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2025-12-05T01:05:34.843Z",
+      "id": "67fedc92da0e"
+    },
+    {
+      "title": "La Esquina - Commercial Center in the Heart of Avellanas Beach          PRICE REDUCTION! Jasmine Homes ~ Prime Multi-Unit Property...          Casa Zoul ~ 4 Bedroom Pre-construction Beauty on Lot 9B",
+      "price_text": "Price:     US$ 1 300 000.00      Price:     US$ 1 350 000.00      Price:     US$ 1 350 000.00",
+      "price_usd": 1300000.00135,
+      "location": "Location:     Playa Avellanas      Location:     Tamarindo Areas      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/la-esquina-de-avellanas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-La-Esquina-de-Avellanas-1.jpg?itok=2HyiV65u",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/16-jasmine-i-and-ii.jpg?itok=U_oprJo9",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-zoul_0.png?itok=XW8byrCW"
+      ],
+      "description": "Welcome to La Esquina! Meaning \"The Corner\" in Spanish, Plaza La Esquina is the vibrant and culturally...          Jasmine Homes I & II\nLuxury Residences in Tamarindo – Live, Invest, and Enjoy Beachside Living! Discover...          Luckily, Senderos is one of the most opulent private communities in Tamarindo, and its location is very close...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:05:35.059Z",
+      "id": "5b4646d379c8"
+    },
+    {
+      "title": "Brand New Golf Front Masterpiece in High End Gated Community!           Casa Flor Del Mar ~ Balinese-Inspired Luxury Villa in the Heart...          Casa Samay ~ Luxurious Modern Retreat in Hacienda Pinilla",
+      "price_text": "Price:     US$ 1 395 000.00      Price:     US$ 1 495 000.00      Price:     US$ 1 499 000.00",
+      "price_usd": 1395000.001495,
+      "location": "Location:     Hacienda-Pinilla      Location:     Playa Avellanas      Location:     Hacienda-Pinilla",
+      "url": "https://www.remax-oceansurf-cr.com/property/los-almendros-69-golf-front-masterpiece-hacienda-pinilla",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.Golf-Front-Pinilla-Pool.jpg?itok=MgFzfDZb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Casa-Avellanas.jpeg?itok=fNsWU2PS",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-samay.png?itok=Ff5qGM04"
+      ],
+      "description": "This golf front luxury home is located in the sub community of Los Almendros, in Hacienda Pinilla, which has...          Discover Your Dream Villa in Playa Avellanas, Costa Rica\nStep into luxury with this fully furnished, turnkey...          Welcome to Casa Samay, an exquisite modern residence located in the prestigious and picturesque community of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2025-12-05T01:05:35.275Z",
+      "id": "e4716590358f"
+    },
+    {
+      "title": "Experience the Ultimate Beachfront Lifestyle in Tamarindo          Casa Sunset ~ Magnificent 5 Bedroom Estate with Amazing Ocean...          Casa Milagro ~ Los Amendros 4 Bedroom Home",
+      "price_text": "Price:     US$ 1 500 000.00      Price:     US$ 1 500 000.00      Price:     US$ 1 500 000.00",
+      "price_usd": 1500000.0015,
+      "location": "Location:     Playa Langosta      Location:     Playa Penca      Location:     Hacienda-Pinilla",
+      "url": "https://www.remax-oceansurf-cr.com/property/sunset-beachfront-luxury-villas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-mono-luxe-beachfront-residences.png?itok=2HqoMpV6",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/0-Potrero-Sunset-House.jpg?itok=guelsR6f",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/LA28-1.jpg?itok=839XtBkT"
+      ],
+      "description": "Sunset Beachfront Luxury Villas - Experience the pinnacle of coastal luxury in Tamarindo/Langosta!\nInvest in...          Want the best pool, the best views, the best location, and lots of privacy? This 4 bedroom 4 bathroom house...          Casa Milagro is a beautiful, contemporary 4 bedroom home located in Los Almendros, Hacienda Pinilla. The home...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2025-12-05T01:05:40.893Z",
+      "id": "c3a40d70156a"
+    },
+    {
+      "title": "Ocean View 79 hectares finca - La Puerta del Sol          Flamingo Marina Cove 606 ~ Ground-Floor Beachfront Condo Just...          Enclave 49 ~ Luxury Living with Direct Beach Access",
+      "price_text": "Price:     US$ 1 580 000.00      Price:     US$ 1 600 000.00      Price:     US$ 1 790 000.00",
+      "price_usd": 1580000.0016,
+      "location": "Location:     Playa Junquillal      Location:     Playa Flamingo      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/ocean-view-79-hectares-finca-la-puerta-del-sol",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Finca-la-puerta-del-sol.jpg?itok=oFtWBET_",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/35-flamingo-3-bedroom-condo-exterior-1.jpg?itok=cBGKokH6",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.-Enclave-49-house-exterior.jpg?itok=5Npke5qV"
+      ],
+      "description": "Beautiful property of 79 hectares with stunning views of valleys and the ocean, in La Puerta del Sol. The...          This fully remodeled, ground-floor beachfront condo sits directly on Flamingo Beach and only 45 seconds from...          Welcome to Enclave 49, a luxurious ocean-view home located in the exclusive San Francisco Point community of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2025-12-05T01:05:41.096Z",
+      "id": "4959068cfec2"
+    },
+    {
+      "title": "Tamarindo 360 -  Live the Dream with an Ocean View Condo in...          Casa Vibra del Mar ~ 25 Years Financing Available!          Modern Balinese-Inspired Villa in Tamarindo’s Most Elite Gated...",
+      "price_text": "Price:     US$ 2 200 000.00      Price:     US$ 2 250 000.00      Price:     US$ 2 395 000.00",
+      "price_usd": 2200000.00225,
+      "location": "Location:     Playa Tamarindo      Location:     Hacienda-Pinilla      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/tamarindo-360-ocean-view-condos",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Tamarindo-360.jpg?itok=mcUvmD3Q",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-vibra-del-mar-101-2024.jpg?itok=y_I8_89R",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-halaman-el-tesoro-tamarindo-2025_0.jpg?itok=gNwiI5lQ"
+      ],
+      "description": "LIVING WELL IS THE BEST INVESTMENT! Tamarindo 360 is a good investment in the quality of life but it is also...          OWNERS FINANCE UP TO 85% OF THE VALUE, LOW INTEREST RATE, LONG OR SHORT TERM, NO ORIGINATION FEES OR PRE...          Casa Halaman is positioned at the mouth of the Tamarindo River, within the most prestigious gated community...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2025-12-05T01:05:41.932Z",
+      "id": "e9f28fdc3d6f"
+    },
+    {
+      "title": "Casa de Los Sueños ~ Over 700 Square Meters of Tropical Luxury...          Casa Pacifica: Expansive Luxury Estate with Unmatched Views          Las Crestas de Senderos Home 12F ~ Senderos Phase Three",
+      "price_text": "Price:     US$ 4 250 000.00      Price:     US$ 4 490 000.00      Price:     US$ 4 900 000.00",
+      "price_usd": 4250000.00449,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Flamingo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-de-los-suenos-el-tesoro",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-24-el-tesoro-de-tamarindo.png?itok=Dd18uzVN",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-casa-pacifica.png?itok=V3Gq_Z-w",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-12F-Senderos-Tamarindo.png?itok=X1rr_qxt"
+      ],
+      "description": "Nestled in Tamarindo's renown gated community of El Tesoro, this property is just 300 meters from the...          Welcome to Casa Pacifica, where luxury living meets breathtaking ocean views. Situated 500 feet above sea...          Award-winning designer Richard Muller and his team were tasked with creating an estate-like home on the...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2025-12-05T01:05:47.949Z",
+      "id": "bea3fcf6522f"
     }
   ],
-  "last_updated": "2025-12-04T18:26:13.740Z",
+  "last_updated": "2025-12-05T01:07:05.318Z",
   "total_count": 402
 }
