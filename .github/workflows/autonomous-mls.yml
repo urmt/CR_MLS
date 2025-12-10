@@ -53,6 +53,9 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
+        # Pull any changes first (in case other jobs pushed)
+        git pull origin main --no-edit
+        
         # Only commit if there are changes
         if [ -n "$(git status --porcelain)" ]; then
           git add database/properties/
@@ -154,7 +157,8 @@ jobs:
         
         # Only commit if there are changes
         if [ -n "$(git status --porcelain)" ]; then
-          git add database/email-campaigns/
+          # Add email campaign data if directory exists
+          [ -d "database/email-campaigns/" ] && git add database/email-campaigns/
           git commit -m "📧 Email campaigns sent - $(date)"
           git push
           echo "✅ Email campaign results committed"
