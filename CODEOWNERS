@@ -1,0 +1,43 @@
+# Costa Rica MLS - Code Ownership & Approval Requirements
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owners for everything
+* @urmt
+
+# CI/CD and deployment workflows
+.github/workflows/ @urmt
+.github/ @urmt
+*.yml @urmt
+
+# Database schema and configuration
+database/config/ @urmt
+database/scraping/sources.json @urmt
+database/deployments/ @urmt
+
+# Backend infrastructure
+scripts/ @urmt
+src/ @urmt
+serverless/ @urmt
+
+# Client application
+client/src/ @urmt
+client/package.json @urmt
+client/tsconfig.json @urmt
+
+# Documentation - requires documentation review
+*.md @urmt
+docs/ @urmt
+README.md @urmt
+CONTRIBUTING.md @urmt
+
+# Security-sensitive files
+.husky/ @urmt
+.env.example @urmt
+SECURITY.md @urmt
+
+# Configuration files
+tsconfig.json @urmt
+jest.config.js @urmt
+.eslintrc.json @urmt
+.prettierrc.json @urmt
+package.json @urmt

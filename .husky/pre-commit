@@ -1,0 +1,29 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+# Detect secrets in staged files
+echo "🔐 Checking for exposed secrets..."
+if git diff --cached | grep -E '(PINATA_API_KEY|PINATA_SECRET|BCCR_API|REGISTRO_NACIONAL|password|secret|token)[\s]*=|"[a-f0-9]{20,}"|sk_[a-z0-9]{20,}' > /dev/null; then
+  echo "❌ ERROR: Detected potential secrets in staged files"
+  echo "   Do not commit API keys or credentials!"
+  echo "   Use GitHub Secrets instead: https://github.com/urmt/CR_MLS/settings/secrets/actions"
+  exit 1
+fi
+
+# Run linter on staged TypeScript/JavaScript files
+echo "✅ Running ESLint..."
+npx eslint $(git diff --cached --name-only --diff-filter=ACM | grep -E '\.(js|ts|jsx|tsx)$') --fix 2>/dev/null || true
+
+# Check for large files
+echo "📦 Checking file sizes..."
+MAX_SIZE=10485760  # 10MB
+for file in $(git diff --cached --name-only); do
+  if [ -f "$file" ]; then
+    size=$(stat -c%s "$file" 2>/dev/null || stat -f%z "$file" 2>/dev/null)
+    if [ "$size" -gt "$MAX_SIZE" ]; then
+      echo "⚠️  Warning: Large file detected: $file ($(numfmt --to=iec $size 2>/dev/null || echo "$size bytes"))"
+    fi
+  fi
+done
+
+echo "✅ Pre-commit checks passed"

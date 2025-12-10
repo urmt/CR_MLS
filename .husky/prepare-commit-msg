@@ -1,0 +1,11 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+# Prevent accidental commits to main/master
+branch=$(git rev-parse --abbrev-ref HEAD)
+if [ "$branch" = "main" ] || [ "$branch" = "master" ]; then
+  echo "❌ ERROR: Direct commits to $branch are not allowed!"
+  echo "   Please create a feature branch:"
+  echo "   git checkout -b feature/your-feature-name"
+  exit 1
+fi

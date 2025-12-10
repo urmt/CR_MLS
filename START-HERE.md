@@ -77,10 +77,16 @@
 Go to: https://github.com/urmt/CR_MLS/settings/secrets/actions
 
 Add these secrets (if not already done):
-- `PINATA_API_KEY` = `bd3fc2027eaa665246de`
-- `PINATA_SECRET` = `9b661b914477bd094c960f309d2b9f4a5cbc8d6a415a23ce52d94804f315c47e`
+- `PINATA_API_KEY` - Get from your Pinata dashboard (https://app.pinata.cloud/keys)
+- `PINATA_SECRET` - Get from your Pinata dashboard (https://app.pinata.cloud/keys)
 
-These enable automatic Pinata pinning when GitHub Actions runs.
+⚠️ **IMPORTANT**: Never commit API keys to the repository. Always use GitHub Secrets for sensitive credentials.
+
+**To rotate compromised keys**:
+1. Generate new keys in Pinata dashboard
+2. Update GitHub Secrets at https://github.com/urmt/CR_MLS/settings/secrets/actions
+3. Delete old keys from Pinata dashboard
+4. Verify workflow still functions in next automated run
 
 ### 2. **Commit & Push Latest Changes** ⚠️ LOCAL CHANGES PENDING
 The workflow file has been updated locally but not pushed to GitHub.
