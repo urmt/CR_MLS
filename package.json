@@ -6,7 +6,6 @@
     "start": "docker-compose up --build",
     "stop": "docker-compose down",
     "clean": "docker-compose down -v --rmi all",
-    "prepare": "husky install",
     "test": "jest --passWithNoTests",
     "test:integration": "jest --testPathPattern=integration --passWithNoTests",
     "validate": "node scripts/validate-properties.js",
