@@ -8290,8 +8290,1526 @@
       "category": "residential",
       "scraped_at": "2025-12-11T01:07:47.469Z",
       "id": "c8f2ca391be2"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-03",
+      "price_text": "₡60,653,000",
+      "price_usd": 121306,
+      "location": "hace 1 h2br84ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7901355578.html",
+      "images": [
+        "https://images.craigslist.org/d/7901355578/00b0b_gDtlkYfVKOu_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.036Z",
+      "id": "81bdd90249a7"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-02",
+      "price_text": "₡60,653,000",
+      "price_usd": 121306,
+      "location": "hace 1 h2br84ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7901353817.html",
+      "images": [
+        "https://images.craigslist.org/d/7901353817/00L0L_jBUwv7aeqc8_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.066Z",
+      "id": "d5c6bece273e"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-01",
+      "price_text": "₡70,357,000",
+      "price_usd": 140714,
+      "location": "hace 1 h2br90ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7901351992.html",
+      "images": [
+        "https://images.craigslist.org/d/7901351992/00O0O_lnGaV4woJeZ_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.095Z",
+      "id": "4f83534aeccd"
+    },
+    {
+      "title": "| APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-132-0294",
+      "price_text": "₡58,227,000",
+      "price_usd": 116454,
+      "location": "hace 1 h2br76ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7901350433.html",
+      "images": [
+        "https://images.craigslist.org/d/7901350433/01616_7cgYq6fMP0Z_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.132Z",
+      "id": "5115e431cc87"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-132-0285",
+      "price_text": "₡184,384,000",
+      "price_usd": 368768,
+      "location": "hace 1 h3br500ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7901351233.html",
+      "images": [
+        "https://images.craigslist.org/d/7901351233/01010_evNMsNcjNAA_05c06b_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.173Z",
+      "id": "9bf4949f3829"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡75,210,000",
+      "price_usd": 150420,
+      "location": "hace 1 h1br52ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901348154.html",
+      "images": [
+        "https://images.craigslist.org/d/7901348154/00D0D_dZD1MZoyvk4_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.210Z",
+      "id": "b0d3500fe7f1"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-250-19",
+      "price_text": "₡93,163,000",
+      "price_usd": 186326,
+      "location": "hace 1 h2br69ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901349475.html",
+      "images": [
+        "https://images.craigslist.org/d/7901349475/00404_9QO9aGoJasT_0gw0b1_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.243Z",
+      "id": "d71a9f57ee32"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ESCALANTE. 31-264-19",
+      "price_text": "₡70,357,000",
+      "price_usd": 140714,
+      "location": "hace 1 h1brSAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-escalante/7901345630.html",
+      "images": [
+        "https://images.craigslist.org/d/7901345630/01010_5Rph0peaR6m_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.274Z",
+      "id": "12a80c0a97da"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡107,719,000",
+      "price_usd": 215438,
+      "location": "hace 1 h2br80ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901346870.html",
+      "images": [
+        "https://images.craigslist.org/d/7901346870/00101_2PVXbm5FQpT_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.312Z",
+      "id": "9b4ed5af8fbe"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, DENT. 31-050",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 1 h3br125ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901344321.html",
+      "images": [
+        "https://images.craigslist.org/d/7901344321/00f0f_aC3b2FhrEAU_07K0ak_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.347Z",
+      "id": "0e750dc9168a"
+    },
+    {
+      "title": "PENTHOUSE PARA VENTA, EN BARRIO ESCALANTE. 31-242-19",
+      "price_text": "₡218,349,000",
+      "price_usd": 436698,
+      "location": "hace 1 h3br180ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/penthouse-para-venta-en-barrio/7901340182.html",
+      "images": [
+        "https://images.craigslist.org/d/7901340182/01313_jT1Y0xTMGew_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.378Z",
+      "id": "108aee149b86"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN YOSES SAN PEDRO. 31-270-60",
+      "price_text": "₡109,175,000",
+      "price_usd": 218350,
+      "location": "hace 1 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-yoses-san/7901341685.html",
+      "images": [
+        "https://images.craigslist.org/d/7901341685/00c0c_9SSQaSCSz4m_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.411Z",
+      "id": "fd50839da890"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-037",
+      "price_text": "₡94,618,000",
+      "price_usd": 189236,
+      "location": "hace 1 h3brSAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-montes-de-oca/7901337375.html",
+      "images": [
+        "https://images.craigslist.org/d/7901337375/00o0o_2ztqMj3yD3U_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.446Z",
+      "id": "e39d43a29792"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE 31-285-19.",
+      "price_text": "₡115,968,000",
+      "price_usd": 231936,
+      "location": "hace 1 h3br87ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901333136.html",
+      "images": [
+        "https://images.craigslist.org/d/7901333136/00B0B_fgVbc5qqarb_0gr0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.479Z",
+      "id": "77fe0d941050"
+    },
+    {
+      "title": "APARTAMENTO PARA LA VENTA, EN SAN RAFAEL MONTES DE OCA. 31-227-33",
+      "price_text": "₡99,471,000",
+      "price_usd": 198942,
+      "location": "hace 1 h3br134ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-la-venta-en-san-rafael/7901336219.html",
+      "images": [
+        "https://images.craigslist.org/d/7901336219/00a0a_iaXQpUKSqp9_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.519Z",
+      "id": "b9af2d6bd628"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN PEDRO. 31-195",
+      "price_text": "₡56,771,000",
+      "price_usd": 113542,
+      "location": "hace 1 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-pedro/7901331301.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.546Z",
+      "id": "e13ce0e4c34c"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-272-66",
+      "price_text": "₡55,890,000",
+      "price_usd": 111780,
+      "location": "hace 1 h2br42ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7901329601.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.574Z",
+      "id": "8738ce13c478"
+    },
+    {
+      "title": "CONDOMINIO PARA VENTA, EN GARABITO. 33-298",
+      "price_text": "₡126,355,000",
+      "price_usd": 252710,
+      "location": "hace 1 h3brPUNTARENAS, GARABITO",
+      "url": "https://costarica.craigslist.org/reo/d/condominio-para-venta-en-garabito/7901815590.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.599Z",
+      "id": "018339eeb4a5"
+    },
+    {
+      "title": "V-Isa Rocka 3 - 3 Rental Houses in Tropical Paradise Near Tamarindo",
+      "price_text": "₡197,500,000",
+      "price_usd": 395000,
+      "location": "hace 3 h6br1300ft2Villarreal, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/isa-rocka-rental-houses-in-tropical/7901795634.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.642Z",
+      "id": "633140c934e9"
+    },
+    {
+      "title": "A-Naxos Ju - 2 bedroom, 2 bathroom condominium in Playa Langosta",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 3 h2br151ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/naxos-ju-bedroom-bathroom-condominium/7901794165.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:26.682Z",
+      "id": "0d79f2d02962"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-03",
+      "price_text": "₡60,653,000",
+      "price_usd": 121306,
+      "location": "hace 1 h2br84ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7901355578.html",
+      "images": [
+        "https://images.craigslist.org/d/7901355578/00b0b_gDtlkYfVKOu_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.379Z",
+      "id": "81bdd90249a7"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-02",
+      "price_text": "₡60,653,000",
+      "price_usd": 121306,
+      "location": "hace 1 h2br84ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7901353817.html",
+      "images": [
+        "https://images.craigslist.org/d/7901353817/00L0L_jBUwv7aeqc8_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.407Z",
+      "id": "d5c6bece273e"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-01",
+      "price_text": "₡70,357,000",
+      "price_usd": 140714,
+      "location": "hace 1 h2br90ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7901351992.html",
+      "images": [
+        "https://images.craigslist.org/d/7901351992/00O0O_lnGaV4woJeZ_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.434Z",
+      "id": "4f83534aeccd"
+    },
+    {
+      "title": "| APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-132-0294",
+      "price_text": "₡58,227,000",
+      "price_usd": 116454,
+      "location": "hace 1 h2br76ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7901350433.html",
+      "images": [
+        "https://images.craigslist.org/d/7901350433/01616_7cgYq6fMP0Z_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.465Z",
+      "id": "5115e431cc87"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-132-0285",
+      "price_text": "₡184,384,000",
+      "price_usd": 368768,
+      "location": "hace 1 h3br500ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7901351233.html",
+      "images": [
+        "https://images.craigslist.org/d/7901351233/01010_evNMsNcjNAA_05c06b_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.493Z",
+      "id": "9bf4949f3829"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡75,210,000",
+      "price_usd": 150420,
+      "location": "hace 1 h1br52ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901348154.html",
+      "images": [
+        "https://images.craigslist.org/d/7901348154/00D0D_dZD1MZoyvk4_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.531Z",
+      "id": "b0d3500fe7f1"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-250-19",
+      "price_text": "₡93,163,000",
+      "price_usd": 186326,
+      "location": "hace 1 h2br69ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901349475.html",
+      "images": [
+        "https://images.craigslist.org/d/7901349475/00404_9QO9aGoJasT_0gw0b1_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.564Z",
+      "id": "d71a9f57ee32"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ESCALANTE. 31-264-19",
+      "price_text": "₡70,357,000",
+      "price_usd": 140714,
+      "location": "hace 1 h1brSAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-escalante/7901345630.html",
+      "images": [
+        "https://images.craigslist.org/d/7901345630/01010_5Rph0peaR6m_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.593Z",
+      "id": "12a80c0a97da"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡107,719,000",
+      "price_usd": 215438,
+      "location": "hace 1 h2br80ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901346870.html",
+      "images": [
+        "https://images.craigslist.org/d/7901346870/00101_2PVXbm5FQpT_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.629Z",
+      "id": "9b4ed5af8fbe"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, DENT. 31-050",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 1 h3br125ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901344321.html",
+      "images": [
+        "https://images.craigslist.org/d/7901344321/00f0f_aC3b2FhrEAU_07K0ak_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.663Z",
+      "id": "0e750dc9168a"
+    },
+    {
+      "title": "PENTHOUSE PARA VENTA, EN BARRIO ESCALANTE. 31-242-19",
+      "price_text": "₡218,349,000",
+      "price_usd": 436698,
+      "location": "hace 1 h3br180ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/penthouse-para-venta-en-barrio/7901340182.html",
+      "images": [
+        "https://images.craigslist.org/d/7901340182/01313_jT1Y0xTMGew_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.694Z",
+      "id": "108aee149b86"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN YOSES SAN PEDRO. 31-270-60",
+      "price_text": "₡109,175,000",
+      "price_usd": 218350,
+      "location": "hace 1 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-yoses-san/7901341685.html",
+      "images": [
+        "https://images.craigslist.org/d/7901341685/00c0c_9SSQaSCSz4m_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.725Z",
+      "id": "fd50839da890"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-037",
+      "price_text": "₡94,618,000",
+      "price_usd": 189236,
+      "location": "hace 1 h3brSAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-montes-de-oca/7901337375.html",
+      "images": [
+        "https://images.craigslist.org/d/7901337375/00o0o_2ztqMj3yD3U_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.760Z",
+      "id": "e39d43a29792"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE 31-285-19.",
+      "price_text": "₡115,968,000",
+      "price_usd": 231936,
+      "location": "hace 1 h3br87ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901333136.html",
+      "images": [
+        "https://images.craigslist.org/d/7901333136/00B0B_fgVbc5qqarb_0gr0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.792Z",
+      "id": "77fe0d941050"
+    },
+    {
+      "title": "APARTAMENTO PARA LA VENTA, EN SAN RAFAEL MONTES DE OCA. 31-227-33",
+      "price_text": "₡99,471,000",
+      "price_usd": 198942,
+      "location": "hace 1 h3br134ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-la-venta-en-san-rafael/7901336219.html",
+      "images": [
+        "https://images.craigslist.org/d/7901336219/00a0a_iaXQpUKSqp9_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.832Z",
+      "id": "b9af2d6bd628"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN PEDRO. 31-195",
+      "price_text": "₡56,771,000",
+      "price_usd": 113542,
+      "location": "hace 1 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-pedro/7901331301.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.858Z",
+      "id": "e13ce0e4c34c"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-272-66",
+      "price_text": "₡55,890,000",
+      "price_usd": 111780,
+      "location": "hace 1 h2br42ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7901329601.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.887Z",
+      "id": "8738ce13c478"
+    },
+    {
+      "title": "CONDOMINIO PARA VENTA, EN GARABITO. 33-298",
+      "price_text": "₡126,355,000",
+      "price_usd": 252710,
+      "location": "hace 1 h3brPUNTARENAS, GARABITO",
+      "url": "https://costarica.craigslist.org/reo/d/condominio-para-venta-en-garabito/7901815590.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.913Z",
+      "id": "018339eeb4a5"
+    },
+    {
+      "title": "V-Isa Rocka 3 - 3 Rental Houses in Tropical Paradise Near Tamarindo",
+      "price_text": "₡197,500,000",
+      "price_usd": 395000,
+      "location": "hace 3 h6br1300ft2Villarreal, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/isa-rocka-rental-houses-in-tropical/7901795634.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.956Z",
+      "id": "633140c934e9"
+    },
+    {
+      "title": "A-Naxos Ju - 2 bedroom, 2 bathroom condominium in Playa Langosta",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 3 h2br151ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/naxos-ju-bedroom-bathroom-condominium/7901794165.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:31.997Z",
+      "id": "0d79f2d02962"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-03",
+      "price_text": "₡60,653,000",
+      "price_usd": 121306,
+      "location": "hace 1 h2br84ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7901355578.html",
+      "images": [
+        "https://images.craigslist.org/d/7901355578/00b0b_gDtlkYfVKOu_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:36.668Z",
+      "id": "81bdd90249a7"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-02",
+      "price_text": "₡60,653,000",
+      "price_usd": 121306,
+      "location": "hace 1 h2br84ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7901353817.html",
+      "images": [
+        "https://images.craigslist.org/d/7901353817/00L0L_jBUwv7aeqc8_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:36.697Z",
+      "id": "d5c6bece273e"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-01",
+      "price_text": "₡70,357,000",
+      "price_usd": 140714,
+      "location": "hace 1 h2br90ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7901351992.html",
+      "images": [
+        "https://images.craigslist.org/d/7901351992/00O0O_lnGaV4woJeZ_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:36.725Z",
+      "id": "4f83534aeccd"
+    },
+    {
+      "title": "| APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-132-0294",
+      "price_text": "₡58,227,000",
+      "price_usd": 116454,
+      "location": "hace 1 h2br76ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7901350433.html",
+      "images": [
+        "https://images.craigslist.org/d/7901350433/01616_7cgYq6fMP0Z_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:36.757Z",
+      "id": "5115e431cc87"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-132-0285",
+      "price_text": "₡184,384,000",
+      "price_usd": 368768,
+      "location": "hace 1 h3br500ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7901351233.html",
+      "images": [
+        "https://images.craigslist.org/d/7901351233/01010_evNMsNcjNAA_05c06b_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:36.787Z",
+      "id": "9bf4949f3829"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡75,210,000",
+      "price_usd": 150420,
+      "location": "hace 1 h1br52ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901348154.html",
+      "images": [
+        "https://images.craigslist.org/d/7901348154/00D0D_dZD1MZoyvk4_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:36.825Z",
+      "id": "b0d3500fe7f1"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-250-19",
+      "price_text": "₡93,163,000",
+      "price_usd": 186326,
+      "location": "hace 1 h2br69ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901349475.html",
+      "images": [
+        "https://images.craigslist.org/d/7901349475/00404_9QO9aGoJasT_0gw0b1_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:36.858Z",
+      "id": "d71a9f57ee32"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ESCALANTE. 31-264-19",
+      "price_text": "₡70,357,000",
+      "price_usd": 140714,
+      "location": "hace 1 h1brSAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-escalante/7901345630.html",
+      "images": [
+        "https://images.craigslist.org/d/7901345630/01010_5Rph0peaR6m_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:36.887Z",
+      "id": "12a80c0a97da"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡107,719,000",
+      "price_usd": 215438,
+      "location": "hace 1 h2br80ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901346870.html",
+      "images": [
+        "https://images.craigslist.org/d/7901346870/00101_2PVXbm5FQpT_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:36.924Z",
+      "id": "9b4ed5af8fbe"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, DENT. 31-050",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 1 h3br125ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901344321.html",
+      "images": [
+        "https://images.craigslist.org/d/7901344321/00f0f_aC3b2FhrEAU_07K0ak_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:36.959Z",
+      "id": "0e750dc9168a"
+    },
+    {
+      "title": "PENTHOUSE PARA VENTA, EN BARRIO ESCALANTE. 31-242-19",
+      "price_text": "₡218,349,000",
+      "price_usd": 436698,
+      "location": "hace 1 h3br180ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/penthouse-para-venta-en-barrio/7901340182.html",
+      "images": [
+        "https://images.craigslist.org/d/7901340182/01313_jT1Y0xTMGew_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:36.991Z",
+      "id": "108aee149b86"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN YOSES SAN PEDRO. 31-270-60",
+      "price_text": "₡109,175,000",
+      "price_usd": 218350,
+      "location": "hace 1 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-yoses-san/7901341685.html",
+      "images": [
+        "https://images.craigslist.org/d/7901341685/00c0c_9SSQaSCSz4m_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:37.024Z",
+      "id": "fd50839da890"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-037",
+      "price_text": "₡94,618,000",
+      "price_usd": 189236,
+      "location": "hace 1 h3brSAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-montes-de-oca/7901337375.html",
+      "images": [
+        "https://images.craigslist.org/d/7901337375/00o0o_2ztqMj3yD3U_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:37.059Z",
+      "id": "e39d43a29792"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE 31-285-19.",
+      "price_text": "₡115,968,000",
+      "price_usd": 231936,
+      "location": "hace 1 h3br87ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901333136.html",
+      "images": [
+        "https://images.craigslist.org/d/7901333136/00B0B_fgVbc5qqarb_0gr0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:37.092Z",
+      "id": "77fe0d941050"
+    },
+    {
+      "title": "APARTAMENTO PARA LA VENTA, EN SAN RAFAEL MONTES DE OCA. 31-227-33",
+      "price_text": "₡99,471,000",
+      "price_usd": 198942,
+      "location": "hace 1 h3br134ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-la-venta-en-san-rafael/7901336219.html",
+      "images": [
+        "https://images.craigslist.org/d/7901336219/00a0a_iaXQpUKSqp9_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:37.131Z",
+      "id": "b9af2d6bd628"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN PEDRO. 31-195",
+      "price_text": "₡56,771,000",
+      "price_usd": 113542,
+      "location": "hace 1 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-pedro/7901331301.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:37.157Z",
+      "id": "e13ce0e4c34c"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-272-66",
+      "price_text": "₡55,890,000",
+      "price_usd": 111780,
+      "location": "hace 1 h2br42ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7901329601.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:37.185Z",
+      "id": "8738ce13c478"
+    },
+    {
+      "title": "CONDOMINIO PARA VENTA, EN GARABITO. 33-298",
+      "price_text": "₡126,355,000",
+      "price_usd": 252710,
+      "location": "hace 1 h3brPUNTARENAS, GARABITO",
+      "url": "https://costarica.craigslist.org/reo/d/condominio-para-venta-en-garabito/7901815590.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:37.209Z",
+      "id": "018339eeb4a5"
+    },
+    {
+      "title": "V-Isa Rocka 3 - 3 Rental Houses in Tropical Paradise Near Tamarindo",
+      "price_text": "₡197,500,000",
+      "price_usd": 395000,
+      "location": "hace 3 h6br1300ft2Villarreal, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/isa-rocka-rental-houses-in-tropical/7901795634.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:37.251Z",
+      "id": "633140c934e9"
+    },
+    {
+      "title": "A-Naxos Ju - 2 bedroom, 2 bathroom condominium in Playa Langosta",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 3 h2br151ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/naxos-ju-bedroom-bathroom-condominium/7901794165.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:37.292Z",
+      "id": "0d79f2d02962"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-03",
+      "price_text": "₡60,653,000",
+      "price_usd": 121306,
+      "location": "hace 1 h2br84ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7901355578.html",
+      "images": [
+        "https://images.craigslist.org/d/7901355578/00b0b_gDtlkYfVKOu_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:41.962Z",
+      "id": "81bdd90249a7"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-02",
+      "price_text": "₡60,653,000",
+      "price_usd": 121306,
+      "location": "hace 1 h2br84ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7901353817.html",
+      "images": [
+        "https://images.craigslist.org/d/7901353817/00L0L_jBUwv7aeqc8_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:41.991Z",
+      "id": "d5c6bece273e"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-01",
+      "price_text": "₡70,357,000",
+      "price_usd": 140714,
+      "location": "hace 1 h2br90ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7901351992.html",
+      "images": [
+        "https://images.craigslist.org/d/7901351992/00O0O_lnGaV4woJeZ_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:42.020Z",
+      "id": "4f83534aeccd"
+    },
+    {
+      "title": "| APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-132-0294",
+      "price_text": "₡58,227,000",
+      "price_usd": 116454,
+      "location": "hace 1 h2br76ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7901350433.html",
+      "images": [
+        "https://images.craigslist.org/d/7901350433/01616_7cgYq6fMP0Z_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:42.052Z",
+      "id": "5115e431cc87"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-132-0285",
+      "price_text": "₡184,384,000",
+      "price_usd": 368768,
+      "location": "hace 1 h3br500ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7901351233.html",
+      "images": [
+        "https://images.craigslist.org/d/7901351233/01010_evNMsNcjNAA_05c06b_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:42.082Z",
+      "id": "9bf4949f3829"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡75,210,000",
+      "price_usd": 150420,
+      "location": "hace 1 h1br52ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901348154.html",
+      "images": [
+        "https://images.craigslist.org/d/7901348154/00D0D_dZD1MZoyvk4_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:42.119Z",
+      "id": "b0d3500fe7f1"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-250-19",
+      "price_text": "₡93,163,000",
+      "price_usd": 186326,
+      "location": "hace 1 h2br69ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901349475.html",
+      "images": [
+        "https://images.craigslist.org/d/7901349475/00404_9QO9aGoJasT_0gw0b1_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:42.153Z",
+      "id": "d71a9f57ee32"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ESCALANTE. 31-264-19",
+      "price_text": "₡70,357,000",
+      "price_usd": 140714,
+      "location": "hace 1 h1brSAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-escalante/7901345630.html",
+      "images": [
+        "https://images.craigslist.org/d/7901345630/01010_5Rph0peaR6m_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:42.184Z",
+      "id": "12a80c0a97da"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡107,719,000",
+      "price_usd": 215438,
+      "location": "hace 1 h2br80ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901346870.html",
+      "images": [
+        "https://images.craigslist.org/d/7901346870/00101_2PVXbm5FQpT_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:42.222Z",
+      "id": "9b4ed5af8fbe"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, DENT. 31-050",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 1 h3br125ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901344321.html",
+      "images": [
+        "https://images.craigslist.org/d/7901344321/00f0f_aC3b2FhrEAU_07K0ak_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:42.258Z",
+      "id": "0e750dc9168a"
+    },
+    {
+      "title": "PENTHOUSE PARA VENTA, EN BARRIO ESCALANTE. 31-242-19",
+      "price_text": "₡218,349,000",
+      "price_usd": 436698,
+      "location": "hace 1 h3br180ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/penthouse-para-venta-en-barrio/7901340182.html",
+      "images": [
+        "https://images.craigslist.org/d/7901340182/01313_jT1Y0xTMGew_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:42.292Z",
+      "id": "108aee149b86"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN YOSES SAN PEDRO. 31-270-60",
+      "price_text": "₡109,175,000",
+      "price_usd": 218350,
+      "location": "hace 1 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-yoses-san/7901341685.html",
+      "images": [
+        "https://images.craigslist.org/d/7901341685/00c0c_9SSQaSCSz4m_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:42.325Z",
+      "id": "fd50839da890"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-037",
+      "price_text": "₡94,618,000",
+      "price_usd": 189236,
+      "location": "hace 1 h3brSAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-montes-de-oca/7901337375.html",
+      "images": [
+        "https://images.craigslist.org/d/7901337375/00o0o_2ztqMj3yD3U_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:42.361Z",
+      "id": "e39d43a29792"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE 31-285-19.",
+      "price_text": "₡115,968,000",
+      "price_usd": 231936,
+      "location": "hace 1 h3br87ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901333136.html",
+      "images": [
+        "https://images.craigslist.org/d/7901333136/00B0B_fgVbc5qqarb_0gr0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:42.395Z",
+      "id": "77fe0d941050"
+    },
+    {
+      "title": "APARTAMENTO PARA LA VENTA, EN SAN RAFAEL MONTES DE OCA. 31-227-33",
+      "price_text": "₡99,471,000",
+      "price_usd": 198942,
+      "location": "hace 1 h3br134ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-la-venta-en-san-rafael/7901336219.html",
+      "images": [
+        "https://images.craigslist.org/d/7901336219/00a0a_iaXQpUKSqp9_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:42.436Z",
+      "id": "b9af2d6bd628"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN PEDRO. 31-195",
+      "price_text": "₡56,771,000",
+      "price_usd": 113542,
+      "location": "hace 1 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-pedro/7901331301.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:42.463Z",
+      "id": "e13ce0e4c34c"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-272-66",
+      "price_text": "₡55,890,000",
+      "price_usd": 111780,
+      "location": "hace 1 h2br42ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7901329601.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:42.492Z",
+      "id": "8738ce13c478"
+    },
+    {
+      "title": "CONDOMINIO PARA VENTA, EN GARABITO. 33-298",
+      "price_text": "₡126,355,000",
+      "price_usd": 252710,
+      "location": "hace 1 h3brPUNTARENAS, GARABITO",
+      "url": "https://costarica.craigslist.org/reo/d/condominio-para-venta-en-garabito/7901815590.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:42.518Z",
+      "id": "018339eeb4a5"
+    },
+    {
+      "title": "V-Isa Rocka 3 - 3 Rental Houses in Tropical Paradise Near Tamarindo",
+      "price_text": "₡197,500,000",
+      "price_usd": 395000,
+      "location": "hace 3 h6br1300ft2Villarreal, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/isa-rocka-rental-houses-in-tropical/7901795634.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:42.562Z",
+      "id": "633140c934e9"
+    },
+    {
+      "title": "A-Naxos Ju - 2 bedroom, 2 bathroom condominium in Playa Langosta",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 3 h2br151ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/naxos-ju-bedroom-bathroom-condominium/7901794165.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:42.604Z",
+      "id": "0d79f2d02962"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-03",
+      "price_text": "₡60,653,000",
+      "price_usd": 121306,
+      "location": "hace 1 h2br84ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7901355578.html",
+      "images": [
+        "https://images.craigslist.org/d/7901355578/00b0b_gDtlkYfVKOu_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.295Z",
+      "id": "81bdd90249a7"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-02",
+      "price_text": "₡60,653,000",
+      "price_usd": 121306,
+      "location": "hace 1 h2br84ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7901353817.html",
+      "images": [
+        "https://images.craigslist.org/d/7901353817/00L0L_jBUwv7aeqc8_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.329Z",
+      "id": "d5c6bece273e"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-01",
+      "price_text": "₡70,357,000",
+      "price_usd": 140714,
+      "location": "hace 1 h2br90ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7901351992.html",
+      "images": [
+        "https://images.craigslist.org/d/7901351992/00O0O_lnGaV4woJeZ_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.360Z",
+      "id": "4f83534aeccd"
+    },
+    {
+      "title": "| APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-132-0294",
+      "price_text": "₡58,227,000",
+      "price_usd": 116454,
+      "location": "hace 1 h2br76ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7901350433.html",
+      "images": [
+        "https://images.craigslist.org/d/7901350433/01616_7cgYq6fMP0Z_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.392Z",
+      "id": "5115e431cc87"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-132-0285",
+      "price_text": "₡184,384,000",
+      "price_usd": 368768,
+      "location": "hace 1 h3br500ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7901351233.html",
+      "images": [
+        "https://images.craigslist.org/d/7901351233/01010_evNMsNcjNAA_05c06b_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.422Z",
+      "id": "9bf4949f3829"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡75,210,000",
+      "price_usd": 150420,
+      "location": "hace 1 h1br52ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901348154.html",
+      "images": [
+        "https://images.craigslist.org/d/7901348154/00D0D_dZD1MZoyvk4_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.464Z",
+      "id": "b0d3500fe7f1"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-250-19",
+      "price_text": "₡93,163,000",
+      "price_usd": 186326,
+      "location": "hace 1 h2br69ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901349475.html",
+      "images": [
+        "https://images.craigslist.org/d/7901349475/00404_9QO9aGoJasT_0gw0b1_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.516Z",
+      "id": "d71a9f57ee32"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ESCALANTE. 31-264-19",
+      "price_text": "₡70,357,000",
+      "price_usd": 140714,
+      "location": "hace 1 h1brSAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-escalante/7901345630.html",
+      "images": [
+        "https://images.craigslist.org/d/7901345630/01010_5Rph0peaR6m_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.548Z",
+      "id": "12a80c0a97da"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡107,719,000",
+      "price_usd": 215438,
+      "location": "hace 1 h2br80ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901346870.html",
+      "images": [
+        "https://images.craigslist.org/d/7901346870/00101_2PVXbm5FQpT_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.586Z",
+      "id": "9b4ed5af8fbe"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, DENT. 31-050",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 1 h3br125ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901344321.html",
+      "images": [
+        "https://images.craigslist.org/d/7901344321/00f0f_aC3b2FhrEAU_07K0ak_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.621Z",
+      "id": "0e750dc9168a"
+    },
+    {
+      "title": "PENTHOUSE PARA VENTA, EN BARRIO ESCALANTE. 31-242-19",
+      "price_text": "₡218,349,000",
+      "price_usd": 436698,
+      "location": "hace 1 h3br180ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/penthouse-para-venta-en-barrio/7901340182.html",
+      "images": [
+        "https://images.craigslist.org/d/7901340182/01313_jT1Y0xTMGew_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.653Z",
+      "id": "108aee149b86"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN YOSES SAN PEDRO. 31-270-60",
+      "price_text": "₡109,175,000",
+      "price_usd": 218350,
+      "location": "hace 1 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-yoses-san/7901341685.html",
+      "images": [
+        "https://images.craigslist.org/d/7901341685/00c0c_9SSQaSCSz4m_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.685Z",
+      "id": "fd50839da890"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-037",
+      "price_text": "₡94,618,000",
+      "price_usd": 189236,
+      "location": "hace 1 h3brSAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-montes-de-oca/7901337375.html",
+      "images": [
+        "https://images.craigslist.org/d/7901337375/00o0o_2ztqMj3yD3U_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.721Z",
+      "id": "e39d43a29792"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE 31-285-19.",
+      "price_text": "₡115,968,000",
+      "price_usd": 231936,
+      "location": "hace 1 h3br87ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7901333136.html",
+      "images": [
+        "https://images.craigslist.org/d/7901333136/00B0B_fgVbc5qqarb_0gr0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.755Z",
+      "id": "77fe0d941050"
+    },
+    {
+      "title": "APARTAMENTO PARA LA VENTA, EN SAN RAFAEL MONTES DE OCA. 31-227-33",
+      "price_text": "₡99,471,000",
+      "price_usd": 198942,
+      "location": "hace 1 h3br134ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-la-venta-en-san-rafael/7901336219.html",
+      "images": [
+        "https://images.craigslist.org/d/7901336219/00a0a_iaXQpUKSqp9_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.795Z",
+      "id": "b9af2d6bd628"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN PEDRO. 31-195",
+      "price_text": "₡56,771,000",
+      "price_usd": 113542,
+      "location": "hace 1 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-pedro/7901331301.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.823Z",
+      "id": "e13ce0e4c34c"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-272-66",
+      "price_text": "₡55,890,000",
+      "price_usd": 111780,
+      "location": "hace 1 h2br42ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7901329601.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.852Z",
+      "id": "8738ce13c478"
+    },
+    {
+      "title": "CONDOMINIO PARA VENTA, EN GARABITO. 33-298",
+      "price_text": "₡126,355,000",
+      "price_usd": 252710,
+      "location": "hace 1 h3brPUNTARENAS, GARABITO",
+      "url": "https://costarica.craigslist.org/reo/d/condominio-para-venta-en-garabito/7901815590.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.878Z",
+      "id": "018339eeb4a5"
+    },
+    {
+      "title": "V-Isa Rocka 3 - 3 Rental Houses in Tropical Paradise Near Tamarindo",
+      "price_text": "₡197,500,000",
+      "price_usd": 395000,
+      "location": "hace 3 h6br1300ft2Villarreal, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/isa-rocka-rental-houses-in-tropical/7901795634.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.922Z",
+      "id": "633140c934e9"
+    },
+    {
+      "title": "A-Naxos Ju - 2 bedroom, 2 bathroom condominium in Playa Langosta",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 3 h2br151ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/naxos-ju-bedroom-bathroom-condominium/7901794165.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:04:47.964Z",
+      "id": "0d79f2d02962"
+    },
+    {
+      "title": "Cabo Velas 18 ~ Spacious 3 Bedroom 3 Bath Condo Near Playa...          PRICE REDUCTION! Affordable Beachside Living in a Prime Location...          Oaks 39 ~ Best Deal at The Oaks, Lowest Priced Condo Available",
+      "price_text": "Price:     US$ 254 000.00      Price:     US$ 257 000.00      Price:     US$ 257 000.00",
+      "price_usd": 254000.00257,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Tamarindo      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/cabo-velas-18",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/23-Overhead_drone_Cabo_vida_18.jpeg?itok=yfFsRrUb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Villa-Verde-II-42.jpg?itok=-Rxy8uVj",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/19-Oaks_Tamarindo_Costa_Rica_94_For%20_Rent_For_Sale.jpg?itok=e_wmqU4N"
+      ],
+      "description": "This spacious 3-bedroom, 3-bathroom condo is ideally located near Playa Grande Beach and Conchal Beach. It’s...          This well-established condominium complex is known for its exceptional location and attractive pricing. Just...          Welcome to The Oaks Condominiums, where comfort and convenience come together in an ideal location just 10...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2025-12-12T01:07:10.167Z",
+      "id": "ed3bbbc8063b"
     }
   ],
-  "last_updated": "2025-12-11T18:24:30.942Z",
+  "last_updated": "2025-12-12T01:08:56.200Z",
   "total_count": 402
 }
