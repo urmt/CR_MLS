@@ -10423,8 +10423,473 @@
       "category": "residential",
       "scraped_at": "2025-12-12T18:22:51.013Z",
       "id": "b7c30906da40"
+    },
+    {
+      "title": "V-Stella Ju - House and Land with Commercial and Residential Potential",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 3 h3br2000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/stella-ju-house-and-land-with/7902017396.html",
+      "images": [
+        "https://images.craigslist.org/d/7902017396/00P0P_eSJLJ0vdvfp_0x20iA_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:33.417Z",
+      "id": "af721ebb23b8"
+    },
+    {
+      "title": "V-Dionicio Ju- Property with 3 New Houses and a Pool",
+      "price_text": "₡274,500,000",
+      "price_usd": 549000,
+      "location": "hace 3 h4br1000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/dionicio-ju-property-with-new-houses/7902015963.html",
+      "images": [
+        "https://images.craigslist.org/d/7902015963/00W0W_9drolOw3CQ_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:33.457Z",
+      "id": "ee1db74fb8f0"
+    },
+    {
+      "title": "T-TopherSJP - 5000 m² lot near Tamarindo",
+      "price_text": "₡55,000,000",
+      "price_usd": 110000,
+      "location": "hace 3 h5000ft2San José de Pinilla, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/tophersjp-lot-near-tamarindo/7902014399.html",
+      "images": [
+        "https://images.craigslist.org/d/7902014399/01010_emZesy76lXB_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:33.486Z",
+      "id": "09ba3e893153"
+    },
+    {
+      "title": "V-Miriam- Main house and 4 rental cabins, near Playa Grande",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 3 h6brMatapalo, Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/miriam-main-house-and-rental-cabins/7902013523.html",
+      "images": [
+        "https://images.craigslist.org/d/7902013523/00x0x_WQf1IhpkES_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:33.528Z",
+      "id": "a91634dfa50e"
+    },
+    {
+      "title": "1,224 square meters residential lot",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 4 h1224ft2Liberia",
+      "url": "https://costarica.craigslist.org/reo/d/1224-square-meters-residential-lot/7901999794.html",
+      "images": [
+        "https://images.craigslist.org/d/7901999794/00O0O_e9ZJ9tWXoVa_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-13T01:00:33.554Z",
+      "id": "23df112150c6"
+    },
+    {
+      "title": "Jungle House Walk To Beach!",
+      "price_text": "₡143,000,000",
+      "price_usd": 286000,
+      "location": "hace 5 h5000ft2Playa Zancudo",
+      "url": "https://costarica.craigslist.org/reb/d/jungle-house-walk-to-beach/7901987250.html",
+      "images": [
+        "https://images.craigslist.org/d/7901987250/00f0f_kAhmiRr7UAv_0CF0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:33.630Z",
+      "id": "367316977200"
+    },
+    {
+      "title": "V-Stella Ju - House and Land with Commercial and Residential Potential",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 3 h3br2000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/stella-ju-house-and-land-with/7902017396.html",
+      "images": [
+        "https://images.craigslist.org/d/7902017396/00P0P_eSJLJ0vdvfp_0x20iA_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:38.396Z",
+      "id": "af721ebb23b8"
+    },
+    {
+      "title": "V-Dionicio Ju- Property with 3 New Houses and a Pool",
+      "price_text": "₡274,500,000",
+      "price_usd": 549000,
+      "location": "hace 3 h4br1000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/dionicio-ju-property-with-new-houses/7902015963.html",
+      "images": [
+        "https://images.craigslist.org/d/7902015963/00W0W_9drolOw3CQ_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:38.434Z",
+      "id": "ee1db74fb8f0"
+    },
+    {
+      "title": "T-TopherSJP - 5000 m² lot near Tamarindo",
+      "price_text": "₡55,000,000",
+      "price_usd": 110000,
+      "location": "hace 3 h5000ft2San José de Pinilla, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/tophersjp-lot-near-tamarindo/7902014399.html",
+      "images": [
+        "https://images.craigslist.org/d/7902014399/01010_emZesy76lXB_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:38.463Z",
+      "id": "09ba3e893153"
+    },
+    {
+      "title": "V-Miriam- Main house and 4 rental cabins, near Playa Grande",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 3 h6brMatapalo, Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/miriam-main-house-and-rental-cabins/7902013523.html",
+      "images": [
+        "https://images.craigslist.org/d/7902013523/00x0x_WQf1IhpkES_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:38.506Z",
+      "id": "a91634dfa50e"
+    },
+    {
+      "title": "1,224 square meters residential lot",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 4 h1224ft2Liberia",
+      "url": "https://costarica.craigslist.org/reo/d/1224-square-meters-residential-lot/7901999794.html",
+      "images": [
+        "https://images.craigslist.org/d/7901999794/00O0O_e9ZJ9tWXoVa_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-13T01:00:38.532Z",
+      "id": "23df112150c6"
+    },
+    {
+      "title": "Jungle House Walk To Beach!",
+      "price_text": "₡143,000,000",
+      "price_usd": 286000,
+      "location": "hace 5 h5000ft2Playa Zancudo",
+      "url": "https://costarica.craigslist.org/reb/d/jungle-house-walk-to-beach/7901987250.html",
+      "images": [
+        "https://images.craigslist.org/d/7901987250/00f0f_kAhmiRr7UAv_0CF0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:38.610Z",
+      "id": "367316977200"
+    },
+    {
+      "title": "V-Stella Ju - House and Land with Commercial and Residential Potential",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 3 h3br2000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/stella-ju-house-and-land-with/7902017396.html",
+      "images": [
+        "https://images.craigslist.org/d/7902017396/00P0P_eSJLJ0vdvfp_0x20iA_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:43.334Z",
+      "id": "af721ebb23b8"
+    },
+    {
+      "title": "V-Dionicio Ju- Property with 3 New Houses and a Pool",
+      "price_text": "₡274,500,000",
+      "price_usd": 549000,
+      "location": "hace 3 h4br1000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/dionicio-ju-property-with-new-houses/7902015963.html",
+      "images": [
+        "https://images.craigslist.org/d/7902015963/00W0W_9drolOw3CQ_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:43.372Z",
+      "id": "ee1db74fb8f0"
+    },
+    {
+      "title": "T-TopherSJP - 5000 m² lot near Tamarindo",
+      "price_text": "₡55,000,000",
+      "price_usd": 110000,
+      "location": "hace 3 h5000ft2San José de Pinilla, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/tophersjp-lot-near-tamarindo/7902014399.html",
+      "images": [
+        "https://images.craigslist.org/d/7902014399/01010_emZesy76lXB_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:43.400Z",
+      "id": "09ba3e893153"
+    },
+    {
+      "title": "V-Miriam- Main house and 4 rental cabins, near Playa Grande",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 3 h6brMatapalo, Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/miriam-main-house-and-rental-cabins/7902013523.html",
+      "images": [
+        "https://images.craigslist.org/d/7902013523/00x0x_WQf1IhpkES_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:43.441Z",
+      "id": "a91634dfa50e"
+    },
+    {
+      "title": "1,224 square meters residential lot",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 4 h1224ft2Liberia",
+      "url": "https://costarica.craigslist.org/reo/d/1224-square-meters-residential-lot/7901999794.html",
+      "images": [
+        "https://images.craigslist.org/d/7901999794/00O0O_e9ZJ9tWXoVa_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-13T01:00:43.467Z",
+      "id": "23df112150c6"
+    },
+    {
+      "title": "Jungle House Walk To Beach!",
+      "price_text": "₡143,000,000",
+      "price_usd": 286000,
+      "location": "hace 5 h5000ft2Playa Zancudo",
+      "url": "https://costarica.craigslist.org/reb/d/jungle-house-walk-to-beach/7901987250.html",
+      "images": [
+        "https://images.craigslist.org/d/7901987250/00f0f_kAhmiRr7UAv_0CF0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:43.542Z",
+      "id": "367316977200"
+    },
+    {
+      "title": "V-Stella Ju - House and Land with Commercial and Residential Potential",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 3 h3br2000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/stella-ju-house-and-land-with/7902017396.html",
+      "images": [
+        "https://images.craigslist.org/d/7902017396/00P0P_eSJLJ0vdvfp_0x20iA_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:48.264Z",
+      "id": "af721ebb23b8"
+    },
+    {
+      "title": "V-Dionicio Ju- Property with 3 New Houses and a Pool",
+      "price_text": "₡274,500,000",
+      "price_usd": 549000,
+      "location": "hace 3 h4br1000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/dionicio-ju-property-with-new-houses/7902015963.html",
+      "images": [
+        "https://images.craigslist.org/d/7902015963/00W0W_9drolOw3CQ_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:48.302Z",
+      "id": "ee1db74fb8f0"
+    },
+    {
+      "title": "T-TopherSJP - 5000 m² lot near Tamarindo",
+      "price_text": "₡55,000,000",
+      "price_usd": 110000,
+      "location": "hace 3 h5000ft2San José de Pinilla, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/tophersjp-lot-near-tamarindo/7902014399.html",
+      "images": [
+        "https://images.craigslist.org/d/7902014399/01010_emZesy76lXB_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:48.331Z",
+      "id": "09ba3e893153"
+    },
+    {
+      "title": "V-Miriam- Main house and 4 rental cabins, near Playa Grande",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 3 h6brMatapalo, Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/miriam-main-house-and-rental-cabins/7902013523.html",
+      "images": [
+        "https://images.craigslist.org/d/7902013523/00x0x_WQf1IhpkES_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:48.374Z",
+      "id": "a91634dfa50e"
+    },
+    {
+      "title": "1,224 square meters residential lot",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 4 h1224ft2Liberia",
+      "url": "https://costarica.craigslist.org/reo/d/1224-square-meters-residential-lot/7901999794.html",
+      "images": [
+        "https://images.craigslist.org/d/7901999794/00O0O_e9ZJ9tWXoVa_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-13T01:00:48.401Z",
+      "id": "23df112150c6"
+    },
+    {
+      "title": "Jungle House Walk To Beach!",
+      "price_text": "₡143,000,000",
+      "price_usd": 286000,
+      "location": "hace 5 h5000ft2Playa Zancudo",
+      "url": "https://costarica.craigslist.org/reb/d/jungle-house-walk-to-beach/7901987250.html",
+      "images": [
+        "https://images.craigslist.org/d/7901987250/00f0f_kAhmiRr7UAv_0CF0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:48.479Z",
+      "id": "367316977200"
+    },
+    {
+      "title": "V-Stella Ju - House and Land with Commercial and Residential Potential",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 3 h3br2000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/stella-ju-house-and-land-with/7902017396.html",
+      "images": [
+        "https://images.craigslist.org/d/7902017396/00P0P_eSJLJ0vdvfp_0x20iA_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:53.200Z",
+      "id": "af721ebb23b8"
+    },
+    {
+      "title": "V-Dionicio Ju- Property with 3 New Houses and a Pool",
+      "price_text": "₡274,500,000",
+      "price_usd": 549000,
+      "location": "hace 3 h4br1000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/dionicio-ju-property-with-new-houses/7902015963.html",
+      "images": [
+        "https://images.craigslist.org/d/7902015963/00W0W_9drolOw3CQ_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:53.238Z",
+      "id": "ee1db74fb8f0"
+    },
+    {
+      "title": "T-TopherSJP - 5000 m² lot near Tamarindo",
+      "price_text": "₡55,000,000",
+      "price_usd": 110000,
+      "location": "hace 3 h5000ft2San José de Pinilla, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/tophersjp-lot-near-tamarindo/7902014399.html",
+      "images": [
+        "https://images.craigslist.org/d/7902014399/01010_emZesy76lXB_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:53.266Z",
+      "id": "09ba3e893153"
+    },
+    {
+      "title": "V-Miriam- Main house and 4 rental cabins, near Playa Grande",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 3 h6brMatapalo, Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/miriam-main-house-and-rental-cabins/7902013523.html",
+      "images": [
+        "https://images.craigslist.org/d/7902013523/00x0x_WQf1IhpkES_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:53.307Z",
+      "id": "a91634dfa50e"
+    },
+    {
+      "title": "1,224 square meters residential lot",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 4 h1224ft2Liberia",
+      "url": "https://costarica.craigslist.org/reo/d/1224-square-meters-residential-lot/7901999794.html",
+      "images": [
+        "https://images.craigslist.org/d/7901999794/00O0O_e9ZJ9tWXoVa_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-13T01:00:53.335Z",
+      "id": "23df112150c6"
+    },
+    {
+      "title": "Jungle House Walk To Beach!",
+      "price_text": "₡143,000,000",
+      "price_usd": 286000,
+      "location": "hace 5 h5000ft2Playa Zancudo",
+      "url": "https://costarica.craigslist.org/reb/d/jungle-house-walk-to-beach/7901987250.html",
+      "images": [
+        "https://images.craigslist.org/d/7901987250/00f0f_kAhmiRr7UAv_0CF0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-13T01:00:53.411Z",
+      "id": "367316977200"
+    },
+    {
+      "title": "Casa Fantastica Luxury Mountain and Ocean View Villa\n                Single Family Homes, Manuel Antonio, Puntarenas",
+      "price_text": "$5,500,000",
+      "price_usd": 5500000,
+      "location": "Single Family Homes, Manuel Antonio, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/10-bed-single-family-homes-for-sale-in-manuel-antonio/13617",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005cAX2J/k7gqctauh/midres/Fantastica-189.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-13T01:01:13.896Z",
+      "id": "10b7cb2a9784"
     }
   ],
-  "last_updated": "2025-12-12T18:25:46.557Z",
+  "last_updated": "2025-12-13T01:05:00.767Z",
   "total_count": 402
 }
