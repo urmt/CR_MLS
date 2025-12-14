@@ -10963,8 +10963,83 @@
       "category": "residential",
       "scraped_at": "2025-12-13T18:17:43.818Z",
       "id": "02731877fe5f"
+    },
+    {
+      "title": "Beach Area Titled,Financed Lot Aproximately $65,000 in CR Currency",
+      "price_text": "₡35,000,000",
+      "price_usd": 70000,
+      "location": "hace 5 h400ft2Samara Beach,Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/beach-area-titledfinanced-lot/7900934585.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7900934585/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-14T12:24:27.423Z",
+      "id": "9fc07aa8f5bf"
+    },
+    {
+      "title": "Beach Area Titled,Financed Lot Aproximately $65,000 in CR Currency",
+      "price_text": "₡35,000,000",
+      "price_usd": 70000,
+      "location": "hace 5 h400ft2Samara Beach,Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/beach-area-titledfinanced-lot/7900934585.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7900934585/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-14T12:24:32.159Z",
+      "id": "9fc07aa8f5bf"
+    },
+    {
+      "title": "Beach Area Titled,Financed Lot Aproximately $65,000 in CR Currency",
+      "price_text": "₡35,000,000",
+      "price_usd": 70000,
+      "location": "hace 5 h400ft2Samara Beach,Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/beach-area-titledfinanced-lot/7900934585.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7900934585/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-14T12:24:36.850Z",
+      "id": "9fc07aa8f5bf"
+    },
+    {
+      "title": "Beach Area Titled,Financed Lot Aproximately $65,000 in CR Currency",
+      "price_text": "₡35,000,000",
+      "price_usd": 70000,
+      "location": "hace 5 h400ft2Samara Beach,Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/beach-area-titledfinanced-lot/7900934585.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7900934585/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-14T12:24:41.548Z",
+      "id": "9fc07aa8f5bf"
+    },
+    {
+      "title": "Beach Area Titled,Financed Lot Aproximately $65,000 in CR Currency",
+      "price_text": "₡35,000,000",
+      "price_usd": 70000,
+      "location": "hace 5 h400ft2Samara Beach,Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/beach-area-titledfinanced-lot/7900934585.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7900934585/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-14T12:24:46.247Z",
+      "id": "9fc07aa8f5bf"
     }
   ],
-  "last_updated": "2025-12-14T06:25:07.236Z",
+  "last_updated": "2025-12-14T12:28:52.316Z",
   "total_count": 402
 }
