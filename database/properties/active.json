@@ -11113,8 +11113,44 @@
       "category": "residential",
       "scraped_at": "2025-12-15T01:07:19.607Z",
       "id": "ee790cb36347"
+    },
+    {
+      "title": "PRICE REDUCTION! Charming 11-Suites Hotel with Ocean &...          Renovated 4-Bedroom Villa with Golf Views in Reserva Conchal          Tamarindo Park 64 ~ Perfect Balance of Style and Practicality",
+      "price_text": "Price:     US$ 1 999 000.00      Price:     US$ 1 999 999.00      Price:     US$ 2 000 000.00",
+      "price_usd": 1999000.001999999,
+      "location": "Location:     Playa Tamarindo      Location:     Reserva Conchal      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/Eleven-Suites-Hotel-Tamarindo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Unknown.jpeg?itok=bivlWjXz",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/52.-Villa-Carao-11.jpg?itok=L3hxr3Ma",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-tamarindo-64-2025.png?itok=7ojVSy3V"
+      ],
+      "description": "This Suite Hotel is one of the original bed & breakfasts in the renowned beach town of Tamarindo, Costa...          Located in the prestigious gated community of Reserva Conchal, Villa Carao #11 offers a refined living...          Located in the new luxury gated community of Tamarindo Park, this modern home is designed to blend indoor and...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2025-12-16T01:07:50.069Z",
+      "id": "ea29d7350754"
+    },
+    {
+      "title": "Senderos Home 25E ~ Immaculate Piece of Real Estate - Phase 2          Tranquil Retreat B&B Boutique Hotel in Playa Grande          25 Paseo del Mar ~ Modern Townhome with Open Layout and Stunning...",
+      "price_text": "Price:     US$ 2 150 000.00      Price:     US$ 2 195 000.00      Price:     US$ 2 195 000.00",
+      "price_usd": 2150000.002195,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Grande      Location:     Playa Danta",
+      "url": "https://www.remax-oceansurf-cr.com/property/senderos-home-25e-functional-design",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-senderos-home-on-lot-25e.png?itok=-xeag2dI",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/0-kinamira-suites.jpg?itok=pGj3-nP3",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-25-paseo-del-mar.jpg?itok=HLD71j97"
+      ],
+      "description": "With expansive valley and mountain views surrounded by nature, this homesite is perfectly situated to inspire...          Discover this Hotel and Spa, just 3 km (1.8 miles) from the stunning Playa Grande beach. Nestled in a lush...          This beautiful and comfortable beachfront home sits just across the plaza from the Beach Club. Perfectly...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2025-12-16T01:07:50.242Z",
+      "id": "dce6e43477bc"
     }
   ],
-  "last_updated": "2025-12-15T18:26:45.127Z",
+  "last_updated": "2025-12-16T01:09:15.322Z",
   "total_count": 402
 }
