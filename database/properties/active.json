@@ -11224,8 +11224,533 @@
       "category": "land",
       "scraped_at": "2025-12-16T06:22:35.388Z",
       "id": "f9fc331bce90"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN MATEO.36-286-78",
+      "price_text": "₡22,000,000",
+      "price_usd": 44000,
+      "location": "hace 5 h1500ft2ALAJUELA, SAN MATEO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-san-mateo/7901779343.html",
+      "images": [
+        "https://images.craigslist.org/d/7901779343/00y0y_kzvhhcSuVOe_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:23.649Z",
+      "id": "48ec9a3379cd"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡169,827,000",
+      "price_usd": 339654,
+      "location": "hace 5 h380000ft2PUNTARENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-puntarenas/7901777939.html",
+      "images": [
+        "https://images.craigslist.org/d/7901777939/00N0N_gmnFsEvih85_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:23.712Z",
+      "id": "35681f442375"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡116,453,000",
+      "price_usd": 232906,
+      "location": "hace 5 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-carrizal/7901776693.html",
+      "images": [
+        "https://images.craigslist.org/d/7901776693/00z0z_gfn6C6drP20_0fu0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:23.743Z",
+      "id": "a4fb6ffcda60"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡291,132,000",
+      "price_usd": 582264,
+      "location": "hace 5 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-sabana-larga/7901775368.html",
+      "images": [
+        "https://images.craigslist.org/d/7901775368/00u0u_l6oQ32wptKL_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:23.782Z",
+      "id": "1febb5293883"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡70,357,000",
+      "price_usd": 140714,
+      "location": "hace 5 h500ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/rancho-para-venta-en-atenas/7901773648.html",
+      "images": [
+        "https://images.craigslist.org/d/7901773648/01414_eMWxDANNql8_08u069_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:23.810Z",
+      "id": "230f35bcc401"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡121,305,000",
+      "price_usd": 242610,
+      "location": "hace 5 h66116ft2CARTAGO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-cartago/7901770851.html",
+      "images": [
+        "https://images.craigslist.org/d/7901770851/00R0R_aGfS0fQi5pi_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:23.842Z",
+      "id": "71cc744377a7"
+    },
+    {
+      "title": "FINCA PARA VENTA, EN TIERRAS MORENAS. 36-133",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 5 hGUANACASTE, TILARAN",
+      "url": "https://costarica.craigslist.org/reo/d/finca-para-venta-en-tierras-morenas/7901772731.html",
+      "images": [
+        "https://images.craigslist.org/d/7901772731/00P0P_aczYUwD4RSL_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:23.874Z",
+      "id": "3a2f2a150535"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN MATEO.36-286-78",
+      "price_text": "₡22,000,000",
+      "price_usd": 44000,
+      "location": "hace 5 h1500ft2ALAJUELA, SAN MATEO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-san-mateo/7901779343.html",
+      "images": [
+        "https://images.craigslist.org/d/7901779343/00y0y_kzvhhcSuVOe_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:29.003Z",
+      "id": "48ec9a3379cd"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡169,827,000",
+      "price_usd": 339654,
+      "location": "hace 5 h380000ft2PUNTARENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-puntarenas/7901777939.html",
+      "images": [
+        "https://images.craigslist.org/d/7901777939/00N0N_gmnFsEvih85_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:29.062Z",
+      "id": "35681f442375"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡116,453,000",
+      "price_usd": 232906,
+      "location": "hace 5 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-carrizal/7901776693.html",
+      "images": [
+        "https://images.craigslist.org/d/7901776693/00z0z_gfn6C6drP20_0fu0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:29.093Z",
+      "id": "a4fb6ffcda60"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡291,132,000",
+      "price_usd": 582264,
+      "location": "hace 5 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-sabana-larga/7901775368.html",
+      "images": [
+        "https://images.craigslist.org/d/7901775368/00u0u_l6oQ32wptKL_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:29.136Z",
+      "id": "1febb5293883"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡70,357,000",
+      "price_usd": 140714,
+      "location": "hace 5 h500ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/rancho-para-venta-en-atenas/7901773648.html",
+      "images": [
+        "https://images.craigslist.org/d/7901773648/01414_eMWxDANNql8_08u069_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:29.164Z",
+      "id": "230f35bcc401"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡121,305,000",
+      "price_usd": 242610,
+      "location": "hace 5 h66116ft2CARTAGO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-cartago/7901770851.html",
+      "images": [
+        "https://images.craigslist.org/d/7901770851/00R0R_aGfS0fQi5pi_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:29.196Z",
+      "id": "71cc744377a7"
+    },
+    {
+      "title": "FINCA PARA VENTA, EN TIERRAS MORENAS. 36-133",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 5 hGUANACASTE, TILARAN",
+      "url": "https://costarica.craigslist.org/reo/d/finca-para-venta-en-tierras-morenas/7901772731.html",
+      "images": [
+        "https://images.craigslist.org/d/7901772731/00P0P_aczYUwD4RSL_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:29.228Z",
+      "id": "3a2f2a150535"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN MATEO.36-286-78",
+      "price_text": "₡22,000,000",
+      "price_usd": 44000,
+      "location": "hace 5 h1500ft2ALAJUELA, SAN MATEO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-san-mateo/7901779343.html",
+      "images": [
+        "https://images.craigslist.org/d/7901779343/00y0y_kzvhhcSuVOe_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:34.129Z",
+      "id": "48ec9a3379cd"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡169,827,000",
+      "price_usd": 339654,
+      "location": "hace 5 h380000ft2PUNTARENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-puntarenas/7901777939.html",
+      "images": [
+        "https://images.craigslist.org/d/7901777939/00N0N_gmnFsEvih85_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:34.189Z",
+      "id": "35681f442375"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡116,453,000",
+      "price_usd": 232906,
+      "location": "hace 5 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-carrizal/7901776693.html",
+      "images": [
+        "https://images.craigslist.org/d/7901776693/00z0z_gfn6C6drP20_0fu0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:34.220Z",
+      "id": "a4fb6ffcda60"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡291,132,000",
+      "price_usd": 582264,
+      "location": "hace 5 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-sabana-larga/7901775368.html",
+      "images": [
+        "https://images.craigslist.org/d/7901775368/00u0u_l6oQ32wptKL_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:34.261Z",
+      "id": "1febb5293883"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡70,357,000",
+      "price_usd": 140714,
+      "location": "hace 5 h500ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/rancho-para-venta-en-atenas/7901773648.html",
+      "images": [
+        "https://images.craigslist.org/d/7901773648/01414_eMWxDANNql8_08u069_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:34.290Z",
+      "id": "230f35bcc401"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡121,305,000",
+      "price_usd": 242610,
+      "location": "hace 5 h66116ft2CARTAGO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-cartago/7901770851.html",
+      "images": [
+        "https://images.craigslist.org/d/7901770851/00R0R_aGfS0fQi5pi_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:34.322Z",
+      "id": "71cc744377a7"
+    },
+    {
+      "title": "FINCA PARA VENTA, EN TIERRAS MORENAS. 36-133",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 5 hGUANACASTE, TILARAN",
+      "url": "https://costarica.craigslist.org/reo/d/finca-para-venta-en-tierras-morenas/7901772731.html",
+      "images": [
+        "https://images.craigslist.org/d/7901772731/00P0P_aczYUwD4RSL_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:34.355Z",
+      "id": "3a2f2a150535"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN MATEO.36-286-78",
+      "price_text": "₡22,000,000",
+      "price_usd": 44000,
+      "location": "hace 5 h1500ft2ALAJUELA, SAN MATEO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-san-mateo/7901779343.html",
+      "images": [
+        "https://images.craigslist.org/d/7901779343/00y0y_kzvhhcSuVOe_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:39.262Z",
+      "id": "48ec9a3379cd"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡169,827,000",
+      "price_usd": 339654,
+      "location": "hace 5 h380000ft2PUNTARENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-puntarenas/7901777939.html",
+      "images": [
+        "https://images.craigslist.org/d/7901777939/00N0N_gmnFsEvih85_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:39.322Z",
+      "id": "35681f442375"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡116,453,000",
+      "price_usd": 232906,
+      "location": "hace 5 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-carrizal/7901776693.html",
+      "images": [
+        "https://images.craigslist.org/d/7901776693/00z0z_gfn6C6drP20_0fu0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:39.355Z",
+      "id": "a4fb6ffcda60"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡291,132,000",
+      "price_usd": 582264,
+      "location": "hace 5 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-sabana-larga/7901775368.html",
+      "images": [
+        "https://images.craigslist.org/d/7901775368/00u0u_l6oQ32wptKL_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:39.395Z",
+      "id": "1febb5293883"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡70,357,000",
+      "price_usd": 140714,
+      "location": "hace 5 h500ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/rancho-para-venta-en-atenas/7901773648.html",
+      "images": [
+        "https://images.craigslist.org/d/7901773648/01414_eMWxDANNql8_08u069_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:39.424Z",
+      "id": "230f35bcc401"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡121,305,000",
+      "price_usd": 242610,
+      "location": "hace 5 h66116ft2CARTAGO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-cartago/7901770851.html",
+      "images": [
+        "https://images.craigslist.org/d/7901770851/00R0R_aGfS0fQi5pi_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:39.456Z",
+      "id": "71cc744377a7"
+    },
+    {
+      "title": "FINCA PARA VENTA, EN TIERRAS MORENAS. 36-133",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 5 hGUANACASTE, TILARAN",
+      "url": "https://costarica.craigslist.org/reo/d/finca-para-venta-en-tierras-morenas/7901772731.html",
+      "images": [
+        "https://images.craigslist.org/d/7901772731/00P0P_aczYUwD4RSL_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:39.488Z",
+      "id": "3a2f2a150535"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN MATEO.36-286-78",
+      "price_text": "₡22,000,000",
+      "price_usd": 44000,
+      "location": "hace 5 h1500ft2ALAJUELA, SAN MATEO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-san-mateo/7901779343.html",
+      "images": [
+        "https://images.craigslist.org/d/7901779343/00y0y_kzvhhcSuVOe_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:44.385Z",
+      "id": "48ec9a3379cd"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡169,827,000",
+      "price_usd": 339654,
+      "location": "hace 5 h380000ft2PUNTARENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-puntarenas/7901777939.html",
+      "images": [
+        "https://images.craigslist.org/d/7901777939/00N0N_gmnFsEvih85_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:44.444Z",
+      "id": "35681f442375"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡116,453,000",
+      "price_usd": 232906,
+      "location": "hace 5 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-carrizal/7901776693.html",
+      "images": [
+        "https://images.craigslist.org/d/7901776693/00z0z_gfn6C6drP20_0fu0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:44.475Z",
+      "id": "a4fb6ffcda60"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡291,132,000",
+      "price_usd": 582264,
+      "location": "hace 5 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-sabana-larga/7901775368.html",
+      "images": [
+        "https://images.craigslist.org/d/7901775368/00u0u_l6oQ32wptKL_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:44.515Z",
+      "id": "1febb5293883"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡70,357,000",
+      "price_usd": 140714,
+      "location": "hace 5 h500ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/rancho-para-venta-en-atenas/7901773648.html",
+      "images": [
+        "https://images.craigslist.org/d/7901773648/01414_eMWxDANNql8_08u069_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:44.543Z",
+      "id": "230f35bcc401"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡121,305,000",
+      "price_usd": 242610,
+      "location": "hace 5 h66116ft2CARTAGO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-cartago/7901770851.html",
+      "images": [
+        "https://images.craigslist.org/d/7901770851/00R0R_aGfS0fQi5pi_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:44.574Z",
+      "id": "71cc744377a7"
+    },
+    {
+      "title": "FINCA PARA VENTA, EN TIERRAS MORENAS. 36-133",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 5 hGUANACASTE, TILARAN",
+      "url": "https://costarica.craigslist.org/reo/d/finca-para-venta-en-tierras-morenas/7901772731.html",
+      "images": [
+        "https://images.craigslist.org/d/7901772731/00P0P_aczYUwD4RSL_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-16T18:21:44.606Z",
+      "id": "3a2f2a150535"
     }
   ],
-  "last_updated": "2025-12-16T12:33:58.749Z",
+  "last_updated": "2025-12-16T18:25:53.719Z",
   "total_count": 402
 }
