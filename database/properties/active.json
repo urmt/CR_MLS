@@ -13053,8 +13053,38 @@
       "category": "residential",
       "scraped_at": "2025-12-17T18:25:15.665Z",
       "id": "efd470591a89"
+    },
+    {
+      "title": "Casa Magnifica at Los Suenos Resort\n                Single Family Homes, Los Suenos, Puntarenas",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Single Family Homes, Los Suenos, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-los-suenos/13667",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005epnEJ/dt47wjqyq/midres/Outside_3.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-19T01:04:55.348Z",
+      "id": "8d2099a82af7"
+    },
+    {
+      "title": "Casa Magnifica at Los Suenos Resort\n                Single Family Homes, Los Suenos, Puntarenas",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Single Family Homes, Los Suenos, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-los-suenos/13667",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005epnEJ/dt47wjqyq/midres/Outside_3.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-19T01:06:36.145Z",
+      "id": "8d2099a82af7"
     }
   ],
-  "last_updated": "2025-12-18T18:25:59.342Z",
+  "last_updated": "2025-12-19T01:08:54.758Z",
   "total_count": 402
 }
