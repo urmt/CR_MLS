@@ -13188,8 +13188,44 @@
       "category": "residential",
       "scraped_at": "2025-12-19T18:22:27.732Z",
       "id": "a1dae12fbb8e"
+    },
+    {
+      "title": "Ocean View 79 hectares finca - La Puerta del Sol          Flamingo Marina Cove 606 ~ Ground-Floor Beachfront Condo Just...          Casa Sunset ~ Turnkey Elegance Meets Panoramic Views",
+      "price_text": "Price:     US$ 1 580 000.00      Price:     US$ 1 600 000.00      Price:     US$ 1 699 000.00",
+      "price_usd": 1580000.0016,
+      "location": "Location:     Playa Junquillal      Location:     Playa Flamingo      Location:     Playa Flamingo",
+      "url": "https://www.remax-oceansurf-cr.com/property/ocean-view-79-hectares-finca-la-puerta-del-sol",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Finca-la-puerta-del-sol.jpg?itok=oFtWBET_",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/35-flamingo-3-bedroom-condo-exterior-1.jpg?itok=cBGKokH6",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-buddha.png?itok=JgeL050B"
+      ],
+      "description": "Beautiful property of 79 hectares with stunning views of valleys and the ocean, in La Puerta del Sol. The...          This fully remodeled, ground-floor beachfront condo sits directly on Flamingo Beach and only 45 seconds from...          Welcome to Casa Sunset, a lovely and renovated 4-bedroom, 4.5-bath home with an ocean view. The home has just...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2025-12-20T01:04:02.274Z",
+      "id": "93061d14eff1"
+    },
+    {
+      "title": "PRICE REDUCTION! Prime Beachfront Lot in Playa Grande          Casa Mistral ~ Ocean Views & Jungle Serenity          PRICE REDUCTION! Charming 11-Suites Hotel with Ocean &...",
+      "price_text": "Price:     US$ 1 980 000.00      Price:     US$ 1 995 000.00      Price:     US$ 1 999 000.00",
+      "price_usd": 1980000.001995,
+      "location": "Location:     Playa Grande      Location:     Playa Penca      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/playa-grande-titled-beachfront-lot-rare-opportunity",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-playa-grande-beachfront-lot.jpg?itok=tmNE9jy7",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.Casa-Mistral.jpg?itok=4LKbfGBR",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Unknown.jpeg?itok=bivlWjXz"
+      ],
+      "description": "Exceptional Investment Opportunity for Nature Lovers and Surfers!\n\tThis rare Playa Grande beachfront lot ...          Experience the perfect blend of luxury and tranquility with this breathtaking ocean-view residence, completed...          This Suite Hotel is one of the original bed & breakfasts in the renowned beach town of Tamarindo, Costa...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2025-12-20T01:04:02.893Z",
+      "id": "44948330e612"
     }
   ],
-  "last_updated": "2025-12-19T18:24:50.019Z",
+  "last_updated": "2025-12-20T01:05:22.867Z",
   "total_count": 402
 }
