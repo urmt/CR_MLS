@@ -14424,8 +14424,581 @@
       "category": "land",
       "scraped_at": "2025-12-23T06:22:45.643Z",
       "id": "822fb84000b1"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN TIBAS. 33-296",
+      "price_text": "₡135,427,000",
+      "price_usd": 270854,
+      "location": "hace 40 min238ft2SAN JOSE, TIBAS",
+      "url": "https://costarica.craigslist.org/reo/d/propiedad-en-venta-en-tibas/7904254368.html",
+      "images": [
+        "https://images.craigslist.org/d/7904254368/00A0A_4RQkdfxlFuD_0kE0gv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:29.473Z",
+      "id": "17f69196bef1"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP65M-100M",
+      "price_text": "₡74,362,000",
+      "price_usd": 148724,
+      "location": "hace 51 min2br64ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap65m/7904251082.html",
+      "images": [
+        "https://images.craigslist.org/d/7904251082/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:29.522Z",
+      "id": "29c23bb762ad"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP46M",
+      "price_text": "₡54,073,000",
+      "price_usd": 108146,
+      "location": "hace 1 h1br46ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap46m/7904248133.html",
+      "images": [
+        "https://images.craigslist.org/d/7904248133/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:29.566Z",
+      "id": "9a0f73e2f096"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP57M",
+      "price_text": "₡65,990,000",
+      "price_usd": 131980,
+      "location": "hace 1 h1br57ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap57m/7904247035.html",
+      "images": [
+        "https://images.craigslist.org/d/7904247035/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:29.609Z",
+      "id": "1ee152c34c74"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP68M",
+      "price_text": "₡79,779,000",
+      "price_usd": 159558,
+      "location": "hace 1 h2br68ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap68m/7904244603.html",
+      "images": [
+        "https://images.craigslist.org/d/7904244603/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:29.652Z",
+      "id": "7104268d95a8"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN CURRIDABAT. 31-240",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 2 h2br126ft2SAN JOSE, CURRIDABAT",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-curridabat/7904233014.html",
+      "images": [
+        "https://images.craigslist.org/d/7904233014/01313_bEmoL6QRXzc_0fN0bZ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:29.724Z",
+      "id": "33a154a201bb"
+    },
+    {
+      "title": "Casa en Condominio Malaga San Pablo",
+      "price_text": "₡80,000,000",
+      "price_usd": 160000,
+      "location": "hace 4 h3br160ft2San Pablo Heredia",
+      "url": "https://costarica.craigslist.org/reo/d/casa-en-condominio-malaga-san-pablo/7898887599.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:29.891Z",
+      "id": "8737778dd2a6"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN TIBAS. 33-296",
+      "price_text": "₡135,427,000",
+      "price_usd": 270854,
+      "location": "hace 40 min238ft2SAN JOSE, TIBAS",
+      "url": "https://costarica.craigslist.org/reo/d/propiedad-en-venta-en-tibas/7904254368.html",
+      "images": [
+        "https://images.craigslist.org/d/7904254368/00A0A_4RQkdfxlFuD_0kE0gv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:34.677Z",
+      "id": "17f69196bef1"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP65M-100M",
+      "price_text": "₡74,362,000",
+      "price_usd": 148724,
+      "location": "hace 51 min2br64ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap65m/7904251082.html",
+      "images": [
+        "https://images.craigslist.org/d/7904251082/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:34.724Z",
+      "id": "29c23bb762ad"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP46M",
+      "price_text": "₡54,073,000",
+      "price_usd": 108146,
+      "location": "hace 1 h1br46ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap46m/7904248133.html",
+      "images": [
+        "https://images.craigslist.org/d/7904248133/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:34.767Z",
+      "id": "9a0f73e2f096"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP57M",
+      "price_text": "₡65,990,000",
+      "price_usd": 131980,
+      "location": "hace 1 h1br57ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap57m/7904247035.html",
+      "images": [
+        "https://images.craigslist.org/d/7904247035/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:34.811Z",
+      "id": "1ee152c34c74"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP68M",
+      "price_text": "₡79,779,000",
+      "price_usd": 159558,
+      "location": "hace 1 h2br68ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap68m/7904244603.html",
+      "images": [
+        "https://images.craigslist.org/d/7904244603/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:34.854Z",
+      "id": "7104268d95a8"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN CURRIDABAT. 31-240",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 2 h2br126ft2SAN JOSE, CURRIDABAT",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-curridabat/7904233014.html",
+      "images": [
+        "https://images.craigslist.org/d/7904233014/01313_bEmoL6QRXzc_0fN0bZ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:34.927Z",
+      "id": "33a154a201bb"
+    },
+    {
+      "title": "Casa en Condominio Malaga San Pablo",
+      "price_text": "₡80,000,000",
+      "price_usd": 160000,
+      "location": "hace 4 h3br160ft2San Pablo Heredia",
+      "url": "https://costarica.craigslist.org/reo/d/casa-en-condominio-malaga-san-pablo/7898887599.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:35.091Z",
+      "id": "8737778dd2a6"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN TIBAS. 33-296",
+      "price_text": "₡135,427,000",
+      "price_usd": 270854,
+      "location": "hace 41 min238ft2SAN JOSE, TIBAS",
+      "url": "https://costarica.craigslist.org/reo/d/propiedad-en-venta-en-tibas/7904254368.html",
+      "images": [
+        "https://images.craigslist.org/d/7904254368/00A0A_4RQkdfxlFuD_0kE0gv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:40.245Z",
+      "id": "3856a53459dd"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP65M-100M",
+      "price_text": "₡74,362,000",
+      "price_usd": 148724,
+      "location": "hace 52 min2br64ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap65m/7904251082.html",
+      "images": [
+        "https://images.craigslist.org/d/7904251082/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:40.294Z",
+      "id": "469c455c0e7a"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP46M",
+      "price_text": "₡54,073,000",
+      "price_usd": 108146,
+      "location": "hace 1 h1br46ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap46m/7904248133.html",
+      "images": [
+        "https://images.craigslist.org/d/7904248133/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:40.337Z",
+      "id": "9a0f73e2f096"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP57M",
+      "price_text": "₡65,990,000",
+      "price_usd": 131980,
+      "location": "hace 1 h1br57ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap57m/7904247035.html",
+      "images": [
+        "https://images.craigslist.org/d/7904247035/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:40.380Z",
+      "id": "1ee152c34c74"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP68M",
+      "price_text": "₡79,779,000",
+      "price_usd": 159558,
+      "location": "hace 1 h2br68ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap68m/7904244603.html",
+      "images": [
+        "https://images.craigslist.org/d/7904244603/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:40.423Z",
+      "id": "7104268d95a8"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN CURRIDABAT. 31-240",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 2 h2br126ft2SAN JOSE, CURRIDABAT",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-curridabat/7904233014.html",
+      "images": [
+        "https://images.craigslist.org/d/7904233014/01313_bEmoL6QRXzc_0fN0bZ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:40.496Z",
+      "id": "33a154a201bb"
+    },
+    {
+      "title": "Casa en Condominio Malaga San Pablo",
+      "price_text": "₡80,000,000",
+      "price_usd": 160000,
+      "location": "hace 4 h3br160ft2San Pablo Heredia",
+      "url": "https://costarica.craigslist.org/reo/d/casa-en-condominio-malaga-san-pablo/7898887599.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:40.661Z",
+      "id": "8737778dd2a6"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN TIBAS. 33-296",
+      "price_text": "₡135,427,000",
+      "price_usd": 270854,
+      "location": "hace 41 min238ft2SAN JOSE, TIBAS",
+      "url": "https://costarica.craigslist.org/reo/d/propiedad-en-venta-en-tibas/7904254368.html",
+      "images": [
+        "https://images.craigslist.org/d/7904254368/00A0A_4RQkdfxlFuD_0kE0gv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:45.409Z",
+      "id": "3856a53459dd"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP65M-100M",
+      "price_text": "₡74,362,000",
+      "price_usd": 148724,
+      "location": "hace 52 min2br64ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap65m/7904251082.html",
+      "images": [
+        "https://images.craigslist.org/d/7904251082/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:45.456Z",
+      "id": "469c455c0e7a"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP46M",
+      "price_text": "₡54,073,000",
+      "price_usd": 108146,
+      "location": "hace 1 h1br46ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap46m/7904248133.html",
+      "images": [
+        "https://images.craigslist.org/d/7904248133/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:45.499Z",
+      "id": "9a0f73e2f096"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP57M",
+      "price_text": "₡65,990,000",
+      "price_usd": 131980,
+      "location": "hace 1 h1br57ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap57m/7904247035.html",
+      "images": [
+        "https://images.craigslist.org/d/7904247035/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:45.543Z",
+      "id": "1ee152c34c74"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP68M",
+      "price_text": "₡79,779,000",
+      "price_usd": 159558,
+      "location": "hace 1 h2br68ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap68m/7904244603.html",
+      "images": [
+        "https://images.craigslist.org/d/7904244603/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:45.587Z",
+      "id": "7104268d95a8"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN CURRIDABAT. 31-240",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 2 h2br126ft2SAN JOSE, CURRIDABAT",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-curridabat/7904233014.html",
+      "images": [
+        "https://images.craigslist.org/d/7904233014/01313_bEmoL6QRXzc_0fN0bZ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:45.660Z",
+      "id": "33a154a201bb"
+    },
+    {
+      "title": "Casa en Condominio Malaga San Pablo",
+      "price_text": "₡80,000,000",
+      "price_usd": 160000,
+      "location": "hace 4 h3br160ft2San Pablo Heredia",
+      "url": "https://costarica.craigslist.org/reo/d/casa-en-condominio-malaga-san-pablo/7898887599.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:45.824Z",
+      "id": "8737778dd2a6"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN TIBAS. 33-296",
+      "price_text": "₡135,427,000",
+      "price_usd": 270854,
+      "location": "hace 41 min238ft2SAN JOSE, TIBAS",
+      "url": "https://costarica.craigslist.org/reo/d/propiedad-en-venta-en-tibas/7904254368.html",
+      "images": [
+        "https://images.craigslist.org/d/7904254368/00A0A_4RQkdfxlFuD_0kE0gv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:50.568Z",
+      "id": "3856a53459dd"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP65M-100M",
+      "price_text": "₡74,362,000",
+      "price_usd": 148724,
+      "location": "hace 52 min2br64ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap65m/7904251082.html",
+      "images": [
+        "https://images.craigslist.org/d/7904251082/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:50.615Z",
+      "id": "469c455c0e7a"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP46M",
+      "price_text": "₡54,073,000",
+      "price_usd": 108146,
+      "location": "hace 1 h1br46ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap46m/7904248133.html",
+      "images": [
+        "https://images.craigslist.org/d/7904248133/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:50.658Z",
+      "id": "9a0f73e2f096"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP57M",
+      "price_text": "₡65,990,000",
+      "price_usd": 131980,
+      "location": "hace 1 h1br57ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap57m/7904247035.html",
+      "images": [
+        "https://images.craigslist.org/d/7904247035/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:50.701Z",
+      "id": "1ee152c34c74"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP68M",
+      "price_text": "₡79,779,000",
+      "price_usd": 159558,
+      "location": "hace 1 h2br68ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap68m/7904244603.html",
+      "images": [
+        "https://images.craigslist.org/d/7904244603/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:50.745Z",
+      "id": "7104268d95a8"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN CURRIDABAT. 31-240",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 2 h2br126ft2SAN JOSE, CURRIDABAT",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-curridabat/7904233014.html",
+      "images": [
+        "https://images.craigslist.org/d/7904233014/01313_bEmoL6QRXzc_0fN0bZ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:50.818Z",
+      "id": "33a154a201bb"
+    },
+    {
+      "title": "Casa en Condominio Malaga San Pablo",
+      "price_text": "₡80,000,000",
+      "price_usd": 160000,
+      "location": "hace 4 h3br160ft2San Pablo Heredia",
+      "url": "https://costarica.craigslist.org/reo/d/casa-en-condominio-malaga-san-pablo/7898887599.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:20:50.981Z",
+      "id": "8737778dd2a6"
+    },
+    {
+      "title": "Tamarindo Commercial Center: Great ROI Potential!\n                Commercial, Tamarindo, Guanacaste",
+      "price_text": "$900,000",
+      "price_usd": 900000,
+      "location": "Commercial, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-tamarindo/5804",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T18:21:57.848Z",
+      "id": "9b0a38a1afdf"
+    },
+    {
+      "title": "Large Investment Opportunity Seccioncion L\n                Land, Nosara, Guanacaste",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Land, Nosara, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-nosara/13708",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005do1DC/q1cyyfds1/midres/2025_12_23B-1.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T18:22:40.239Z",
+      "id": "79e58c92602e"
+    },
+    {
+      "title": "Turn-Key Oceanview Condo Overlooking Playa Flamingo          Spacious 2-Bedroom Oceanview Condo in Playa Langosta          Norma Tamarindo 5A ~ 3 Bedroom Home with Guest House & Deck",
+      "price_text": "Price:     US$ 549 000.00      Price:     US$ 549 000.00      Price:     US$ 549 000.00",
+      "price_usd": 549000.00549,
+      "location": "Location:     Playa Flamingo      Location:     Playa Langosta      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/punta-plata-513",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/11-punta-plata-513.png?itok=ROg5sfrP",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-Naxos-19-Playa-Langosta.jpg?itok=Zov4Ou6R",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-norma-tamarindo-5a.png?itok=7_UuAfbw"
+      ],
+      "description": "Discover the perfect blend of oceanfront serenity and modern sophistication at Punta Plata 513, a beautifully...          Perched on the 5th floor of the sought-after Naxos complex, this beautifully appointed 2-bedroom, 2-bathroom...          Welcome to this delightful 3-bedroom, 2-bathroom home located in the tranquil La Norma community, just...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2025-12-23T18:23:22.186Z",
+      "id": "83806c914848"
     }
   ],
-  "last_updated": "2025-12-23T12:33:08.706Z",
+  "last_updated": "2025-12-23T18:24:56.403Z",
   "total_count": 402
 }
