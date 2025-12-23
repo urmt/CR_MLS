@@ -13899,8 +13899,533 @@
       "category": "land",
       "scraped_at": "2025-12-23T01:04:40.476Z",
       "id": "2366659b3979"
+    },
+    {
+      "title": "Dream Home for Sale in Pérez Zeledón!",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 4 h5br435ft2Perez Zeledon",
+      "url": "https://costarica.craigslist.org/reb/d/dream-home-for-sale-in-prez-zeledn/7896423780.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423780/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-23T06:22:25.324Z",
+      "id": "2f9992e22134"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 4 h2985ft2Aguirre, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale-in-matapalo-de-quepos/7896423503.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423503/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T06:22:25.363Z",
+      "id": "9aaf8b76a960"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 4 h2985ft2Aguirre, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale-in-matapalo-de-quepos/7896423578.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423578/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T06:22:25.403Z",
+      "id": "9aaf8b76a960"
+    },
+    {
+      "title": "Great Busines opportunity",
+      "price_text": "₡515,000,000",
+      "price_usd": 1030000,
+      "location": "hace 4 h6715ft2Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/great-busines-opportunity/7896424181.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896424181/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T06:22:25.427Z",
+      "id": "cbfcc7646ffb"
+    },
+    {
+      "title": "🌴 Property for Sale in Playa Hermosa🌴",
+      "price_text": "₡320,000,000",
+      "price_usd": 640000,
+      "location": "hace 4 hOsa, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/property-for-sale-in-playa-hermosa/7896423663.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423663/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T06:22:25.463Z",
+      "id": "37dd5b0fe45f"
+    },
+    {
+      "title": "Casas en San Jerónimo de Moravia",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 4 h8br238ft2Moravia, San José",
+      "url": "https://costarica.craigslist.org/reb/d/casas-en-san-jernimo-de-moravia/7900026526.html",
+      "images": [
+        "https://images.craigslist.org/d/7900026526/00m0m_6V2nQCIhPxt_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T06:22:25.492Z",
+      "id": "5d3ee50de4d1"
+    },
+    {
+      "title": "Land For sale",
+      "price_text": "₡280,000,000",
+      "price_usd": 560000,
+      "location": "hace 5 hTumbas Baru",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale/7904143231.html",
+      "images": [
+        "https://images.craigslist.org/d/7904143231/00m0m_dJAuYy21nBD_0gw0ax_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T06:22:25.504Z",
+      "id": "822fb84000b1"
+    },
+    {
+      "title": "Dream Home for Sale in Pérez Zeledón!",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 4 h5br435ft2Perez Zeledon",
+      "url": "https://costarica.craigslist.org/reb/d/dream-home-for-sale-in-prez-zeledn/7896423780.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423780/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-23T06:22:30.418Z",
+      "id": "2f9992e22134"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 4 h2985ft2Aguirre, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale-in-matapalo-de-quepos/7896423503.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423503/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T06:22:30.455Z",
+      "id": "9aaf8b76a960"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 4 h2985ft2Aguirre, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale-in-matapalo-de-quepos/7896423578.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423578/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T06:22:30.492Z",
+      "id": "9aaf8b76a960"
+    },
+    {
+      "title": "Great Busines opportunity",
+      "price_text": "₡515,000,000",
+      "price_usd": 1030000,
+      "location": "hace 4 h6715ft2Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/great-busines-opportunity/7896424181.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896424181/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T06:22:30.516Z",
+      "id": "cbfcc7646ffb"
+    },
+    {
+      "title": "🌴 Property for Sale in Playa Hermosa🌴",
+      "price_text": "₡320,000,000",
+      "price_usd": 640000,
+      "location": "hace 4 hOsa, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/property-for-sale-in-playa-hermosa/7896423663.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423663/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T06:22:30.552Z",
+      "id": "37dd5b0fe45f"
+    },
+    {
+      "title": "Casas en San Jerónimo de Moravia",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 4 h8br238ft2Moravia, San José",
+      "url": "https://costarica.craigslist.org/reb/d/casas-en-san-jernimo-de-moravia/7900026526.html",
+      "images": [
+        "https://images.craigslist.org/d/7900026526/00m0m_6V2nQCIhPxt_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T06:22:30.581Z",
+      "id": "5d3ee50de4d1"
+    },
+    {
+      "title": "Land For sale",
+      "price_text": "₡280,000,000",
+      "price_usd": 560000,
+      "location": "hace 5 hTumbas Baru",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale/7904143231.html",
+      "images": [
+        "https://images.craigslist.org/d/7904143231/00m0m_dJAuYy21nBD_0gw0ax_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T06:22:30.593Z",
+      "id": "822fb84000b1"
+    },
+    {
+      "title": "Dream Home for Sale in Pérez Zeledón!",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 4 h5br435ft2Perez Zeledon",
+      "url": "https://costarica.craigslist.org/reb/d/dream-home-for-sale-in-prez-zeledn/7896423780.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423780/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-23T06:22:35.449Z",
+      "id": "2f9992e22134"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 4 h2985ft2Aguirre, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale-in-matapalo-de-quepos/7896423503.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423503/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T06:22:35.487Z",
+      "id": "9aaf8b76a960"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 4 h2985ft2Aguirre, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale-in-matapalo-de-quepos/7896423578.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423578/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T06:22:35.524Z",
+      "id": "9aaf8b76a960"
+    },
+    {
+      "title": "Great Busines opportunity",
+      "price_text": "₡515,000,000",
+      "price_usd": 1030000,
+      "location": "hace 4 h6715ft2Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/great-busines-opportunity/7896424181.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896424181/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T06:22:35.547Z",
+      "id": "cbfcc7646ffb"
+    },
+    {
+      "title": "🌴 Property for Sale in Playa Hermosa🌴",
+      "price_text": "₡320,000,000",
+      "price_usd": 640000,
+      "location": "hace 4 hOsa, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/property-for-sale-in-playa-hermosa/7896423663.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423663/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T06:22:35.585Z",
+      "id": "37dd5b0fe45f"
+    },
+    {
+      "title": "Casas en San Jerónimo de Moravia",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 4 h8br238ft2Moravia, San José",
+      "url": "https://costarica.craigslist.org/reb/d/casas-en-san-jernimo-de-moravia/7900026526.html",
+      "images": [
+        "https://images.craigslist.org/d/7900026526/00m0m_6V2nQCIhPxt_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T06:22:35.615Z",
+      "id": "5d3ee50de4d1"
+    },
+    {
+      "title": "Land For sale",
+      "price_text": "₡280,000,000",
+      "price_usd": 560000,
+      "location": "hace 5 hTumbas Baru",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale/7904143231.html",
+      "images": [
+        "https://images.craigslist.org/d/7904143231/00m0m_dJAuYy21nBD_0gw0ax_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T06:22:35.627Z",
+      "id": "822fb84000b1"
+    },
+    {
+      "title": "Dream Home for Sale in Pérez Zeledón!",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 4 h5br435ft2Perez Zeledon",
+      "url": "https://costarica.craigslist.org/reb/d/dream-home-for-sale-in-prez-zeledn/7896423780.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423780/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-23T06:22:40.463Z",
+      "id": "2f9992e22134"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 4 h2985ft2Aguirre, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale-in-matapalo-de-quepos/7896423503.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423503/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T06:22:40.499Z",
+      "id": "9aaf8b76a960"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 4 h2985ft2Aguirre, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale-in-matapalo-de-quepos/7896423578.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423578/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T06:22:40.535Z",
+      "id": "9aaf8b76a960"
+    },
+    {
+      "title": "Great Busines opportunity",
+      "price_text": "₡515,000,000",
+      "price_usd": 1030000,
+      "location": "hace 4 h6715ft2Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/great-busines-opportunity/7896424181.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896424181/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T06:22:40.558Z",
+      "id": "cbfcc7646ffb"
+    },
+    {
+      "title": "🌴 Property for Sale in Playa Hermosa🌴",
+      "price_text": "₡320,000,000",
+      "price_usd": 640000,
+      "location": "hace 4 hOsa, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/property-for-sale-in-playa-hermosa/7896423663.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423663/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T06:22:40.593Z",
+      "id": "37dd5b0fe45f"
+    },
+    {
+      "title": "Casas en San Jerónimo de Moravia",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 4 h8br238ft2Moravia, San José",
+      "url": "https://costarica.craigslist.org/reb/d/casas-en-san-jernimo-de-moravia/7900026526.html",
+      "images": [
+        "https://images.craigslist.org/d/7900026526/00m0m_6V2nQCIhPxt_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T06:22:40.622Z",
+      "id": "5d3ee50de4d1"
+    },
+    {
+      "title": "Land For sale",
+      "price_text": "₡280,000,000",
+      "price_usd": 560000,
+      "location": "hace 5 hTumbas Baru",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale/7904143231.html",
+      "images": [
+        "https://images.craigslist.org/d/7904143231/00m0m_dJAuYy21nBD_0gw0ax_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T06:22:40.633Z",
+      "id": "822fb84000b1"
+    },
+    {
+      "title": "Dream Home for Sale in Pérez Zeledón!",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 4 h5br435ft2Perez Zeledon",
+      "url": "https://costarica.craigslist.org/reb/d/dream-home-for-sale-in-prez-zeledn/7896423780.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423780/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-23T06:22:45.464Z",
+      "id": "2f9992e22134"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 4 h2985ft2Aguirre, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale-in-matapalo-de-quepos/7896423503.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423503/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T06:22:45.502Z",
+      "id": "9aaf8b76a960"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 4 h2985ft2Aguirre, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale-in-matapalo-de-quepos/7896423578.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423578/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T06:22:45.540Z",
+      "id": "9aaf8b76a960"
+    },
+    {
+      "title": "Great Busines opportunity",
+      "price_text": "₡515,000,000",
+      "price_usd": 1030000,
+      "location": "hace 4 h6715ft2Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/great-busines-opportunity/7896424181.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896424181/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T06:22:45.563Z",
+      "id": "cbfcc7646ffb"
+    },
+    {
+      "title": "🌴 Property for Sale in Playa Hermosa🌴",
+      "price_text": "₡320,000,000",
+      "price_usd": 640000,
+      "location": "hace 4 hOsa, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/property-for-sale-in-playa-hermosa/7896423663.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7896423663/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T06:22:45.600Z",
+      "id": "37dd5b0fe45f"
+    },
+    {
+      "title": "Casas en San Jerónimo de Moravia",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 4 h8br238ft2Moravia, San José",
+      "url": "https://costarica.craigslist.org/reb/d/casas-en-san-jernimo-de-moravia/7900026526.html",
+      "images": [
+        "https://images.craigslist.org/d/7900026526/00m0m_6V2nQCIhPxt_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T06:22:45.630Z",
+      "id": "5d3ee50de4d1"
+    },
+    {
+      "title": "Land For sale",
+      "price_text": "₡280,000,000",
+      "price_usd": 560000,
+      "location": "hace 5 hTumbas Baru",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale/7904143231.html",
+      "images": [
+        "https://images.craigslist.org/d/7904143231/00m0m_dJAuYy21nBD_0gw0ax_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T06:22:45.643Z",
+      "id": "822fb84000b1"
     }
   ],
-  "last_updated": "2025-12-23T01:09:26.206Z",
+  "last_updated": "2025-12-23T06:26:52.688Z",
   "total_count": 402
 }
