@@ -13524,8 +13524,383 @@
       "category": "residential",
       "scraped_at": "2025-12-21T01:08:54.120Z",
       "id": "3b67e4530c54"
+    },
+    {
+      "title": "FOR SALE ! Nature Retreat with Pool and Guest Suite",
+      "price_text": "₡167,500,000",
+      "price_usd": 335000,
+      "location": "hace 3 h4br5000ft2Mansion in Nicoya",
+      "url": "https://costarica.craigslist.org/reb/d/for-sale-nature-retreat-with-pool-and/7899902963.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T01:04:19.373Z",
+      "id": "156e2c2fa3d9"
+    },
+    {
+      "title": "Tourism and Livestock Potential Farm in Fortuna de Bagaces",
+      "price_text": "₡771,816,000",
+      "price_usd": 1543632,
+      "location": "hace 3 h2br64318ft2Fortuna de Bagaces",
+      "url": "https://costarica.craigslist.org/reb/d/tourism-and-livestock-potential-farm-in/7899903299.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T01:04:19.428Z",
+      "id": "e8e3c3e37409"
+    },
+    {
+      "title": "Two Homes, One Paradise on the Pacific",
+      "price_text": "₡187,500,000",
+      "price_usd": 375000,
+      "location": "hace 3 h4br1900ft2Venado Santa Cruz",
+      "url": "https://costarica.craigslist.org/reo/d/two-homes-one-paradise-on-the-pacific/7899909916.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-23T01:04:19.466Z",
+      "id": "ef08b8c15af0"
+    },
+    {
+      "title": "House for Sale – 2 Bedrooms – Cañas Centro, Guanacaste",
+      "price_text": "₡48,000,000",
+      "price_usd": 96000,
+      "location": "hace 3 h2br198ft2Cañas",
+      "url": "https://costarica.craigslist.org/reo/d/house-for-sale-bedrooms-caas-centro/7899912831.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T01:04:19.517Z",
+      "id": "c4ca99d878d6"
+    },
+    {
+      "title": "Grow Your Wealth: 10 Hectares of Prime Guanacaste Land for IInvestment",
+      "price_text": "₡1,500,000,000",
+      "price_usd": 3000000,
+      "location": "hace 3 h100000ft2Liberia",
+      "url": "https://costarica.craigslist.org/reb/d/grow-your-wealth-10-hectares-of-prime/7899914112.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T01:04:19.582Z",
+      "id": "2366659b3979"
+    },
+    {
+      "title": "FOR SALE ! Nature Retreat with Pool and Guest Suite",
+      "price_text": "₡167,500,000",
+      "price_usd": 335000,
+      "location": "hace 3 h4br5000ft2Mansion in Nicoya",
+      "url": "https://costarica.craigslist.org/reb/d/for-sale-nature-retreat-with-pool-and/7899902963.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T01:04:24.609Z",
+      "id": "156e2c2fa3d9"
+    },
+    {
+      "title": "Tourism and Livestock Potential Farm in Fortuna de Bagaces",
+      "price_text": "₡771,816,000",
+      "price_usd": 1543632,
+      "location": "hace 3 h2br64318ft2Fortuna de Bagaces",
+      "url": "https://costarica.craigslist.org/reb/d/tourism-and-livestock-potential-farm-in/7899903299.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T01:04:24.663Z",
+      "id": "e8e3c3e37409"
+    },
+    {
+      "title": "Two Homes, One Paradise on the Pacific",
+      "price_text": "₡187,500,000",
+      "price_usd": 375000,
+      "location": "hace 3 h4br1900ft2Venado Santa Cruz",
+      "url": "https://costarica.craigslist.org/reo/d/two-homes-one-paradise-on-the-pacific/7899909916.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-23T01:04:24.699Z",
+      "id": "ef08b8c15af0"
+    },
+    {
+      "title": "House for Sale – 2 Bedrooms – Cañas Centro, Guanacaste",
+      "price_text": "₡48,000,000",
+      "price_usd": 96000,
+      "location": "hace 3 h2br198ft2Cañas",
+      "url": "https://costarica.craigslist.org/reo/d/house-for-sale-bedrooms-caas-centro/7899912831.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T01:04:24.748Z",
+      "id": "c4ca99d878d6"
+    },
+    {
+      "title": "Grow Your Wealth: 10 Hectares of Prime Guanacaste Land for IInvestment",
+      "price_text": "₡1,500,000,000",
+      "price_usd": 3000000,
+      "location": "hace 3 h100000ft2Liberia",
+      "url": "https://costarica.craigslist.org/reb/d/grow-your-wealth-10-hectares-of-prime/7899914112.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T01:04:24.812Z",
+      "id": "2366659b3979"
+    },
+    {
+      "title": "FOR SALE ! Nature Retreat with Pool and Guest Suite",
+      "price_text": "₡167,500,000",
+      "price_usd": 335000,
+      "location": "hace 3 h4br5000ft2Mansion in Nicoya",
+      "url": "https://costarica.craigslist.org/reb/d/for-sale-nature-retreat-with-pool-and/7899902963.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T01:04:29.825Z",
+      "id": "156e2c2fa3d9"
+    },
+    {
+      "title": "Tourism and Livestock Potential Farm in Fortuna de Bagaces",
+      "price_text": "₡771,816,000",
+      "price_usd": 1543632,
+      "location": "hace 3 h2br64318ft2Fortuna de Bagaces",
+      "url": "https://costarica.craigslist.org/reb/d/tourism-and-livestock-potential-farm-in/7899903299.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T01:04:29.879Z",
+      "id": "e8e3c3e37409"
+    },
+    {
+      "title": "Two Homes, One Paradise on the Pacific",
+      "price_text": "₡187,500,000",
+      "price_usd": 375000,
+      "location": "hace 3 h4br1900ft2Venado Santa Cruz",
+      "url": "https://costarica.craigslist.org/reo/d/two-homes-one-paradise-on-the-pacific/7899909916.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-23T01:04:29.915Z",
+      "id": "ef08b8c15af0"
+    },
+    {
+      "title": "House for Sale – 2 Bedrooms – Cañas Centro, Guanacaste",
+      "price_text": "₡48,000,000",
+      "price_usd": 96000,
+      "location": "hace 3 h2br198ft2Cañas",
+      "url": "https://costarica.craigslist.org/reo/d/house-for-sale-bedrooms-caas-centro/7899912831.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T01:04:29.966Z",
+      "id": "c4ca99d878d6"
+    },
+    {
+      "title": "Grow Your Wealth: 10 Hectares of Prime Guanacaste Land for IInvestment",
+      "price_text": "₡1,500,000,000",
+      "price_usd": 3000000,
+      "location": "hace 3 h100000ft2Liberia",
+      "url": "https://costarica.craigslist.org/reb/d/grow-your-wealth-10-hectares-of-prime/7899914112.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T01:04:30.032Z",
+      "id": "2366659b3979"
+    },
+    {
+      "title": "FOR SALE ! Nature Retreat with Pool and Guest Suite",
+      "price_text": "₡167,500,000",
+      "price_usd": 335000,
+      "location": "hace 3 h4br5000ft2Mansion in Nicoya",
+      "url": "https://costarica.craigslist.org/reb/d/for-sale-nature-retreat-with-pool-and/7899902963.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T01:04:35.042Z",
+      "id": "156e2c2fa3d9"
+    },
+    {
+      "title": "Tourism and Livestock Potential Farm in Fortuna de Bagaces",
+      "price_text": "₡771,816,000",
+      "price_usd": 1543632,
+      "location": "hace 3 h2br64318ft2Fortuna de Bagaces",
+      "url": "https://costarica.craigslist.org/reb/d/tourism-and-livestock-potential-farm-in/7899903299.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T01:04:35.096Z",
+      "id": "e8e3c3e37409"
+    },
+    {
+      "title": "Two Homes, One Paradise on the Pacific",
+      "price_text": "₡187,500,000",
+      "price_usd": 375000,
+      "location": "hace 3 h4br1900ft2Venado Santa Cruz",
+      "url": "https://costarica.craigslist.org/reo/d/two-homes-one-paradise-on-the-pacific/7899909916.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-23T01:04:35.131Z",
+      "id": "ef08b8c15af0"
+    },
+    {
+      "title": "House for Sale – 2 Bedrooms – Cañas Centro, Guanacaste",
+      "price_text": "₡48,000,000",
+      "price_usd": 96000,
+      "location": "hace 3 h2br198ft2Cañas",
+      "url": "https://costarica.craigslist.org/reo/d/house-for-sale-bedrooms-caas-centro/7899912831.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T01:04:35.181Z",
+      "id": "c4ca99d878d6"
+    },
+    {
+      "title": "Grow Your Wealth: 10 Hectares of Prime Guanacaste Land for IInvestment",
+      "price_text": "₡1,500,000,000",
+      "price_usd": 3000000,
+      "location": "hace 3 h100000ft2Liberia",
+      "url": "https://costarica.craigslist.org/reb/d/grow-your-wealth-10-hectares-of-prime/7899914112.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T01:04:35.245Z",
+      "id": "2366659b3979"
+    },
+    {
+      "title": "FOR SALE ! Nature Retreat with Pool and Guest Suite",
+      "price_text": "₡167,500,000",
+      "price_usd": 335000,
+      "location": "hace 3 h4br5000ft2Mansion in Nicoya",
+      "url": "https://costarica.craigslist.org/reb/d/for-sale-nature-retreat-with-pool-and/7899902963.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T01:04:40.264Z",
+      "id": "156e2c2fa3d9"
+    },
+    {
+      "title": "Tourism and Livestock Potential Farm in Fortuna de Bagaces",
+      "price_text": "₡771,816,000",
+      "price_usd": 1543632,
+      "location": "hace 3 h2br64318ft2Fortuna de Bagaces",
+      "url": "https://costarica.craigslist.org/reb/d/tourism-and-livestock-potential-farm-in/7899903299.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T01:04:40.319Z",
+      "id": "e8e3c3e37409"
+    },
+    {
+      "title": "Two Homes, One Paradise on the Pacific",
+      "price_text": "₡187,500,000",
+      "price_usd": 375000,
+      "location": "hace 3 h4br1900ft2Venado Santa Cruz",
+      "url": "https://costarica.craigslist.org/reo/d/two-homes-one-paradise-on-the-pacific/7899909916.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-23T01:04:40.356Z",
+      "id": "ef08b8c15af0"
+    },
+    {
+      "title": "House for Sale – 2 Bedrooms – Cañas Centro, Guanacaste",
+      "price_text": "₡48,000,000",
+      "price_usd": 96000,
+      "location": "hace 3 h2br198ft2Cañas",
+      "url": "https://costarica.craigslist.org/reo/d/house-for-sale-bedrooms-caas-centro/7899912831.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-23T01:04:40.409Z",
+      "id": "c4ca99d878d6"
+    },
+    {
+      "title": "Grow Your Wealth: 10 Hectares of Prime Guanacaste Land for IInvestment",
+      "price_text": "₡1,500,000,000",
+      "price_usd": 3000000,
+      "location": "hace 3 h100000ft2Liberia",
+      "url": "https://costarica.craigslist.org/reb/d/grow-your-wealth-10-hectares-of-prime/7899914112.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-23T01:04:40.476Z",
+      "id": "2366659b3979"
     }
   ],
-  "last_updated": "2025-12-22T18:25:47.864Z",
+  "last_updated": "2025-12-23T01:08:56.736Z",
   "total_count": 402
 }
