@@ -15390,8 +15390,83 @@
       "category": "residential",
       "scraped_at": "2025-12-25T18:19:52.827Z",
       "id": "47091f92fa48"
+    },
+    {
+      "title": "EN ZONA ALTAMENTE TURISTICA",
+      "price_text": "₡129,000,000",
+      "price_usd": 258000,
+      "location": "hace 6 h4brQuepos",
+      "url": "https://costarica.craigslist.org/reo/d/en-zona-altamente-turistica/7904586421.html",
+      "images": [
+        "https://images.craigslist.org/d/7904586421/01717_iW6wCE2Izef_0ne0ne_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-26T01:04:12.293Z",
+      "id": "d370221734c8"
+    },
+    {
+      "title": "EN ZONA ALTAMENTE TURISTICA",
+      "price_text": "₡129,000,000",
+      "price_usd": 258000,
+      "location": "hace 6 h4brQuepos",
+      "url": "https://costarica.craigslist.org/reo/d/en-zona-altamente-turistica/7904586421.html",
+      "images": [
+        "https://images.craigslist.org/d/7904586421/01717_iW6wCE2Izef_0ne0ne_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-26T01:04:17.293Z",
+      "id": "d370221734c8"
+    },
+    {
+      "title": "EN ZONA ALTAMENTE TURISTICA",
+      "price_text": "₡129,000,000",
+      "price_usd": 258000,
+      "location": "hace 6 h4brQuepos",
+      "url": "https://costarica.craigslist.org/reo/d/en-zona-altamente-turistica/7904586421.html",
+      "images": [
+        "https://images.craigslist.org/d/7904586421/01717_iW6wCE2Izef_0ne0ne_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-26T01:04:22.254Z",
+      "id": "d370221734c8"
+    },
+    {
+      "title": "EN ZONA ALTAMENTE TURISTICA",
+      "price_text": "₡129,000,000",
+      "price_usd": 258000,
+      "location": "hace 6 h4brQuepos",
+      "url": "https://costarica.craigslist.org/reo/d/en-zona-altamente-turistica/7904586421.html",
+      "images": [
+        "https://images.craigslist.org/d/7904586421/01717_iW6wCE2Izef_0ne0ne_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-26T01:04:27.209Z",
+      "id": "d370221734c8"
+    },
+    {
+      "title": "EN ZONA ALTAMENTE TURISTICA",
+      "price_text": "₡129,000,000",
+      "price_usd": 258000,
+      "location": "hace 6 h4brQuepos",
+      "url": "https://costarica.craigslist.org/reo/d/en-zona-altamente-turistica/7904586421.html",
+      "images": [
+        "https://images.craigslist.org/d/7904586421/01717_iW6wCE2Izef_0ne0ne_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-26T01:04:32.154Z",
+      "id": "d370221734c8"
     }
   ],
-  "last_updated": "2025-12-25T18:24:17.088Z",
+  "last_updated": "2025-12-26T01:08:38.276Z",
   "total_count": 402
 }
