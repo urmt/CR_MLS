@@ -15465,8 +15465,308 @@
       "category": "residential",
       "scraped_at": "2025-12-26T01:04:32.154Z",
       "id": "d370221734c8"
+    },
+    {
+      "title": "T-Celina 2 - Lots of 1500 m² 1.5 km from Playa Grande",
+      "price_text": "₡159,995,000",
+      "price_usd": 319990,
+      "location": "hace 5 h1500ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/celina-lots-of-1500-15-km-from-playa/7904748527.html",
+      "images": [
+        "https://images.craigslist.org/d/7904748527/00T0T_kdcbaqUU60Z_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-27T01:02:58.653Z",
+      "id": "e529953af54d"
+    },
+    {
+      "title": "V-Alison Ju - Villa in Potrero, with house and apartments for rent",
+      "price_text": "₡349,500,000",
+      "price_usd": 699000,
+      "location": "hace 5 h5br600ft2Playa Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/alison-ju-villa-in-potrero-with-house/7904747398.html",
+      "images": [
+        "https://images.craigslist.org/d/7904747398/00B0B_2hBR3hI43Zf_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-27T01:02:58.721Z",
+      "id": "169e0f427e4c"
+    },
+    {
+      "title": "V-Jose Panama- Luxury 5-Bed Villa Near Tamarindo and Paradise Beaches",
+      "price_text": "₡249,500,000",
+      "price_usd": 499000,
+      "location": "hace 5 h5br1000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/jose-panama-luxury-bed-villa-near/7904745369.html",
+      "images": [
+        "https://images.craigslist.org/d/7904745369/00Y0Y_av1qLvqMA27_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-27T01:02:58.787Z",
+      "id": "b5186bc6af8b"
+    },
+    {
+      "title": "Lote 36. Spacious 3,812 m² Lot Near Tamarindo Beaches",
+      "price_text": "₡39,995,000",
+      "price_usd": 79990,
+      "location": "hace 6 h3812ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/lote-36-spacious-3812-lot-near/7904744030.html",
+      "images": [
+        "https://images.craigslist.org/d/7904744030/00b0b_eUWdlT4Ygip_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-27T01:02:58.838Z",
+      "id": "152673e3bd48"
+    },
+    {
+      "title": "T-Celina 2 - Lots of 1500 m² 1.5 km from Playa Grande",
+      "price_text": "₡159,995,000",
+      "price_usd": 319990,
+      "location": "hace 5 h1500ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/celina-lots-of-1500-15-km-from-playa/7904748527.html",
+      "images": [
+        "https://images.craigslist.org/d/7904748527/00T0T_kdcbaqUU60Z_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-27T01:03:03.697Z",
+      "id": "e529953af54d"
+    },
+    {
+      "title": "V-Alison Ju - Villa in Potrero, with house and apartments for rent",
+      "price_text": "₡349,500,000",
+      "price_usd": 699000,
+      "location": "hace 5 h5br600ft2Playa Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/alison-ju-villa-in-potrero-with-house/7904747398.html",
+      "images": [
+        "https://images.craigslist.org/d/7904747398/00B0B_2hBR3hI43Zf_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-27T01:03:03.760Z",
+      "id": "169e0f427e4c"
+    },
+    {
+      "title": "V-Jose Panama- Luxury 5-Bed Villa Near Tamarindo and Paradise Beaches",
+      "price_text": "₡249,500,000",
+      "price_usd": 499000,
+      "location": "hace 5 h5br1000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/jose-panama-luxury-bed-villa-near/7904745369.html",
+      "images": [
+        "https://images.craigslist.org/d/7904745369/00Y0Y_av1qLvqMA27_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-27T01:03:03.826Z",
+      "id": "b5186bc6af8b"
+    },
+    {
+      "title": "Lote 36. Spacious 3,812 m² Lot Near Tamarindo Beaches",
+      "price_text": "₡39,995,000",
+      "price_usd": 79990,
+      "location": "hace 6 h3812ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/lote-36-spacious-3812-lot-near/7904744030.html",
+      "images": [
+        "https://images.craigslist.org/d/7904744030/00b0b_eUWdlT4Ygip_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-27T01:03:03.877Z",
+      "id": "152673e3bd48"
+    },
+    {
+      "title": "T-Celina 2 - Lots of 1500 m² 1.5 km from Playa Grande",
+      "price_text": "₡159,995,000",
+      "price_usd": 319990,
+      "location": "hace 5 h1500ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/celina-lots-of-1500-15-km-from-playa/7904748527.html",
+      "images": [
+        "https://images.craigslist.org/d/7904748527/00T0T_kdcbaqUU60Z_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-27T01:03:08.701Z",
+      "id": "e529953af54d"
+    },
+    {
+      "title": "V-Alison Ju - Villa in Potrero, with house and apartments for rent",
+      "price_text": "₡349,500,000",
+      "price_usd": 699000,
+      "location": "hace 5 h5br600ft2Playa Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/alison-ju-villa-in-potrero-with-house/7904747398.html",
+      "images": [
+        "https://images.craigslist.org/d/7904747398/00B0B_2hBR3hI43Zf_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-27T01:03:08.764Z",
+      "id": "169e0f427e4c"
+    },
+    {
+      "title": "V-Jose Panama- Luxury 5-Bed Villa Near Tamarindo and Paradise Beaches",
+      "price_text": "₡249,500,000",
+      "price_usd": 499000,
+      "location": "hace 5 h5br1000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/jose-panama-luxury-bed-villa-near/7904745369.html",
+      "images": [
+        "https://images.craigslist.org/d/7904745369/00Y0Y_av1qLvqMA27_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-27T01:03:08.829Z",
+      "id": "b5186bc6af8b"
+    },
+    {
+      "title": "Lote 36. Spacious 3,812 m² Lot Near Tamarindo Beaches",
+      "price_text": "₡39,995,000",
+      "price_usd": 79990,
+      "location": "hace 6 h3812ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/lote-36-spacious-3812-lot-near/7904744030.html",
+      "images": [
+        "https://images.craigslist.org/d/7904744030/00b0b_eUWdlT4Ygip_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-27T01:03:08.882Z",
+      "id": "152673e3bd48"
+    },
+    {
+      "title": "T-Celina 2 - Lots of 1500 m² 1.5 km from Playa Grande",
+      "price_text": "₡159,995,000",
+      "price_usd": 319990,
+      "location": "hace 5 h1500ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/celina-lots-of-1500-15-km-from-playa/7904748527.html",
+      "images": [
+        "https://images.craigslist.org/d/7904748527/00T0T_kdcbaqUU60Z_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-27T01:03:13.707Z",
+      "id": "e529953af54d"
+    },
+    {
+      "title": "V-Alison Ju - Villa in Potrero, with house and apartments for rent",
+      "price_text": "₡349,500,000",
+      "price_usd": 699000,
+      "location": "hace 5 h5br600ft2Playa Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/alison-ju-villa-in-potrero-with-house/7904747398.html",
+      "images": [
+        "https://images.craigslist.org/d/7904747398/00B0B_2hBR3hI43Zf_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-27T01:03:13.770Z",
+      "id": "169e0f427e4c"
+    },
+    {
+      "title": "V-Jose Panama- Luxury 5-Bed Villa Near Tamarindo and Paradise Beaches",
+      "price_text": "₡249,500,000",
+      "price_usd": 499000,
+      "location": "hace 5 h5br1000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/jose-panama-luxury-bed-villa-near/7904745369.html",
+      "images": [
+        "https://images.craigslist.org/d/7904745369/00Y0Y_av1qLvqMA27_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-27T01:03:13.836Z",
+      "id": "b5186bc6af8b"
+    },
+    {
+      "title": "Lote 36. Spacious 3,812 m² Lot Near Tamarindo Beaches",
+      "price_text": "₡39,995,000",
+      "price_usd": 79990,
+      "location": "hace 6 h3812ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/lote-36-spacious-3812-lot-near/7904744030.html",
+      "images": [
+        "https://images.craigslist.org/d/7904744030/00b0b_eUWdlT4Ygip_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-27T01:03:13.890Z",
+      "id": "152673e3bd48"
+    },
+    {
+      "title": "T-Celina 2 - Lots of 1500 m² 1.5 km from Playa Grande",
+      "price_text": "₡159,995,000",
+      "price_usd": 319990,
+      "location": "hace 5 h1500ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/celina-lots-of-1500-15-km-from-playa/7904748527.html",
+      "images": [
+        "https://images.craigslist.org/d/7904748527/00T0T_kdcbaqUU60Z_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-27T01:03:18.709Z",
+      "id": "e529953af54d"
+    },
+    {
+      "title": "V-Alison Ju - Villa in Potrero, with house and apartments for rent",
+      "price_text": "₡349,500,000",
+      "price_usd": 699000,
+      "location": "hace 5 h5br600ft2Playa Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/alison-ju-villa-in-potrero-with-house/7904747398.html",
+      "images": [
+        "https://images.craigslist.org/d/7904747398/00B0B_2hBR3hI43Zf_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-27T01:03:18.772Z",
+      "id": "169e0f427e4c"
+    },
+    {
+      "title": "V-Jose Panama- Luxury 5-Bed Villa Near Tamarindo and Paradise Beaches",
+      "price_text": "₡249,500,000",
+      "price_usd": 499000,
+      "location": "hace 5 h5br1000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/jose-panama-luxury-bed-villa-near/7904745369.html",
+      "images": [
+        "https://images.craigslist.org/d/7904745369/00Y0Y_av1qLvqMA27_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-27T01:03:18.838Z",
+      "id": "b5186bc6af8b"
+    },
+    {
+      "title": "Lote 36. Spacious 3,812 m² Lot Near Tamarindo Beaches",
+      "price_text": "₡39,995,000",
+      "price_usd": 79990,
+      "location": "hace 6 h3812ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/lote-36-spacious-3812-lot-near/7904744030.html",
+      "images": [
+        "https://images.craigslist.org/d/7904744030/00b0b_eUWdlT4Ygip_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-27T01:03:18.889Z",
+      "id": "152673e3bd48"
     }
   ],
-  "last_updated": "2025-12-26T18:25:08.430Z",
+  "last_updated": "2025-12-27T01:07:30.363Z",
   "total_count": 402
 }
