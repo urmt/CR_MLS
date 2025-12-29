@@ -15990,8 +15990,233 @@
       "category": "residential",
       "scraped_at": "2025-12-28T18:19:42.501Z",
       "id": "6735f96989ba"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡89,500,000",
+      "price_usd": 179000,
+      "location": "hace 14 min5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/nico-santa-rosa-lot-minutes-from/7905291115.html",
+      "images": [
+        "https://images.craigslist.org/d/7905291115/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-29T18:21:09.919Z",
+      "id": "14ae5f43aae4"
+    },
+    {
+      "title": "T-Maks - Strategic Lot in the Heart of Tamarindo",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 18 min465ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/maks-strategic-lot-in-the-heart-of/7905289520.html",
+      "images": [
+        "https://images.craigslist.org/d/7905289520/00o0o_6VjZ9EXcDqr_0iS0as_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-29T18:21:09.970Z",
+      "id": "fe01253d4ef6"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 25 min1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/finca-panama-ju-strategic-commercial/7905287484.html",
+      "images": [
+        "https://images.craigslist.org/d/7905287484/00U0U_4pKLsbIMbYE_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-29T18:21:10.038Z",
+      "id": "f12ca5f1f903"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡89,500,000",
+      "price_usd": 179000,
+      "location": "hace 14 min5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/nico-santa-rosa-lot-minutes-from/7905291115.html",
+      "images": [
+        "https://images.craigslist.org/d/7905291115/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-29T18:21:15.006Z",
+      "id": "14ae5f43aae4"
+    },
+    {
+      "title": "T-Maks - Strategic Lot in the Heart of Tamarindo",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 18 min465ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/maks-strategic-lot-in-the-heart-of/7905289520.html",
+      "images": [
+        "https://images.craigslist.org/d/7905289520/00o0o_6VjZ9EXcDqr_0iS0as_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-29T18:21:15.054Z",
+      "id": "fe01253d4ef6"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 25 min1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/finca-panama-ju-strategic-commercial/7905287484.html",
+      "images": [
+        "https://images.craigslist.org/d/7905287484/00U0U_4pKLsbIMbYE_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-29T18:21:15.119Z",
+      "id": "f12ca5f1f903"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡89,500,000",
+      "price_usd": 179000,
+      "location": "hace 14 min5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/nico-santa-rosa-lot-minutes-from/7905291115.html",
+      "images": [
+        "https://images.craigslist.org/d/7905291115/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-29T18:21:20.056Z",
+      "id": "14ae5f43aae4"
+    },
+    {
+      "title": "T-Maks - Strategic Lot in the Heart of Tamarindo",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 18 min465ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/maks-strategic-lot-in-the-heart-of/7905289520.html",
+      "images": [
+        "https://images.craigslist.org/d/7905289520/00o0o_6VjZ9EXcDqr_0iS0as_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-29T18:21:20.106Z",
+      "id": "fe01253d4ef6"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 25 min1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/finca-panama-ju-strategic-commercial/7905287484.html",
+      "images": [
+        "https://images.craigslist.org/d/7905287484/00U0U_4pKLsbIMbYE_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-29T18:21:20.176Z",
+      "id": "f12ca5f1f903"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡89,500,000",
+      "price_usd": 179000,
+      "location": "hace 14 min5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/nico-santa-rosa-lot-minutes-from/7905291115.html",
+      "images": [
+        "https://images.craigslist.org/d/7905291115/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-29T18:21:25.121Z",
+      "id": "14ae5f43aae4"
+    },
+    {
+      "title": "T-Maks - Strategic Lot in the Heart of Tamarindo",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 19 min465ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/maks-strategic-lot-in-the-heart-of/7905289520.html",
+      "images": [
+        "https://images.craigslist.org/d/7905289520/00o0o_6VjZ9EXcDqr_0iS0as_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-29T18:21:25.167Z",
+      "id": "53ea2e61a727"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 25 min1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/finca-panama-ju-strategic-commercial/7905287484.html",
+      "images": [
+        "https://images.craigslist.org/d/7905287484/00U0U_4pKLsbIMbYE_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-29T18:21:25.232Z",
+      "id": "f12ca5f1f903"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡89,500,000",
+      "price_usd": 179000,
+      "location": "hace 14 min5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/nico-santa-rosa-lot-minutes-from/7905291115.html",
+      "images": [
+        "https://images.craigslist.org/d/7905291115/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-29T18:21:30.156Z",
+      "id": "14ae5f43aae4"
+    },
+    {
+      "title": "T-Maks - Strategic Lot in the Heart of Tamarindo",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 19 min465ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/maks-strategic-lot-in-the-heart-of/7905289520.html",
+      "images": [
+        "https://images.craigslist.org/d/7905289520/00o0o_6VjZ9EXcDqr_0iS0as_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-29T18:21:30.202Z",
+      "id": "53ea2e61a727"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 25 min1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/finca-panama-ju-strategic-commercial/7905287484.html",
+      "images": [
+        "https://images.craigslist.org/d/7905287484/00U0U_4pKLsbIMbYE_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2025-12-29T18:21:30.268Z",
+      "id": "f12ca5f1f903"
     }
   ],
-  "last_updated": "2025-12-29T12:34:22.755Z",
+  "last_updated": "2025-12-29T18:25:28.788Z",
   "total_count": 402
 }
