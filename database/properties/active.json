@@ -16215,8 +16215,473 @@
       "category": "land",
       "scraped_at": "2025-12-29T18:21:30.268Z",
       "id": "f12ca5f1f903"
+    },
+    {
+      "title": "T- Sergio. Lot of 813 m² less than 5 minutes from Playa Tamarindo.",
+      "price_text": "₡27,500,000",
+      "price_usd": 55000,
+      "location": "hace 2 h813ft2Villarreal, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/sergio-lot-of-813-less-than-minutes/7905364662.html",
+      "images": [
+        "https://images.craigslist.org/d/7905364662/00X0X_7OLUrO7MFh2_09G05p_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:38.891Z",
+      "id": "30875efee7ce"
+    },
+    {
+      "title": "Smart Living in 18 m²: Modern Compact Apartment Near  Beaches",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 3 h1br18ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/smart-living-in-18-modern-compact/7905354615.html",
+      "images": [
+        "https://images.craigslist.org/d/7905354615/00b0b_gDw3XYHdtry_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:38.953Z",
+      "id": "cf0c9277cc2f"
+    },
+    {
+      "title": "Casa y local comercial funcionando",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 3 h3brCartago",
+      "url": "https://costarica.craigslist.org/reb/d/casa-local-comercial-funcionando/7899281046.html",
+      "images": [
+        "https://images.craigslist.org/d/7899281046/01515_256WGeKpxr4_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:38.987Z",
+      "id": "2146e987bbaf"
+    },
+    {
+      "title": "Costa Rica ocean view House",
+      "price_text": "₡250,000,000",
+      "price_usd": 500000,
+      "location": "hace 3 h3br202ft2Cobano",
+      "url": "https://costarica.craigslist.org/reb/d/costa-rica-ocean-view-house/7899102796.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7899102796/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:39.013Z",
+      "id": "b98883b45a59"
+    },
+    {
+      "title": "ELEGANT & SECURE FURNISHED HOUSE FOR SALE IN \"SARCHI \"",
+      "price_text": "₡70",
+      "price_usd": 0,
+      "location": "hace 3 h3br18777ft2",
+      "url": "https://costarica.craigslist.org/reo/d/elegant-secure-furnished-house-for-sale/7905352290.html",
+      "images": [
+        "https://images.craigslist.org/d/7905352290/00h0h_6SX83UZulud_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:39.078Z",
+      "id": "334c8291a9d0"
+    },
+    {
+      "title": "Dream Home in Black Stallion with Ocean Views and Nature",
+      "price_text": "₡246,000,000",
+      "price_usd": 492000,
+      "location": "hace 6 h2br5000ft2",
+      "url": "https://costarica.craigslist.org/reb/d/dream-home-in-black-stallion-with-ocean/7895883992.html",
+      "images": [
+        "https://images.craigslist.org/d/7895883992/00808_34QSjeF1RNz_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-30T01:04:39.133Z",
+      "id": "bf96fa2de384"
+    },
+    {
+      "title": "T- Sergio. Lot of 813 m² less than 5 minutes from Playa Tamarindo.",
+      "price_text": "₡27,500,000",
+      "price_usd": 55000,
+      "location": "hace 2 h813ft2Villarreal, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/sergio-lot-of-813-less-than-minutes/7905364662.html",
+      "images": [
+        "https://images.craigslist.org/d/7905364662/00X0X_7OLUrO7MFh2_09G05p_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:44.118Z",
+      "id": "30875efee7ce"
+    },
+    {
+      "title": "Smart Living in 18 m²: Modern Compact Apartment Near  Beaches",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 3 h1br18ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/smart-living-in-18-modern-compact/7905354615.html",
+      "images": [
+        "https://images.craigslist.org/d/7905354615/00b0b_gDw3XYHdtry_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:44.178Z",
+      "id": "cf0c9277cc2f"
+    },
+    {
+      "title": "Casa y local comercial funcionando",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 3 h3brCartago",
+      "url": "https://costarica.craigslist.org/reb/d/casa-local-comercial-funcionando/7899281046.html",
+      "images": [
+        "https://images.craigslist.org/d/7899281046/01515_256WGeKpxr4_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:44.210Z",
+      "id": "2146e987bbaf"
+    },
+    {
+      "title": "Costa Rica ocean view House",
+      "price_text": "₡250,000,000",
+      "price_usd": 500000,
+      "location": "hace 3 h3br202ft2Cobano",
+      "url": "https://costarica.craigslist.org/reb/d/costa-rica-ocean-view-house/7899102796.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7899102796/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:44.236Z",
+      "id": "b98883b45a59"
+    },
+    {
+      "title": "ELEGANT & SECURE FURNISHED HOUSE FOR SALE IN \"SARCHI \"",
+      "price_text": "₡70",
+      "price_usd": 0,
+      "location": "hace 3 h3br18777ft2",
+      "url": "https://costarica.craigslist.org/reo/d/elegant-secure-furnished-house-for-sale/7905352290.html",
+      "images": [
+        "https://images.craigslist.org/d/7905352290/00h0h_6SX83UZulud_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:44.300Z",
+      "id": "334c8291a9d0"
+    },
+    {
+      "title": "Dream Home in Black Stallion with Ocean Views and Nature",
+      "price_text": "₡246,000,000",
+      "price_usd": 492000,
+      "location": "hace 6 h2br5000ft2",
+      "url": "https://costarica.craigslist.org/reb/d/dream-home-in-black-stallion-with-ocean/7895883992.html",
+      "images": [
+        "https://images.craigslist.org/d/7895883992/00808_34QSjeF1RNz_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-30T01:04:44.355Z",
+      "id": "bf96fa2de384"
+    },
+    {
+      "title": "T- Sergio. Lot of 813 m² less than 5 minutes from Playa Tamarindo.",
+      "price_text": "₡27,500,000",
+      "price_usd": 55000,
+      "location": "hace 2 h813ft2Villarreal, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/sergio-lot-of-813-less-than-minutes/7905364662.html",
+      "images": [
+        "https://images.craigslist.org/d/7905364662/00X0X_7OLUrO7MFh2_09G05p_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:49.449Z",
+      "id": "30875efee7ce"
+    },
+    {
+      "title": "Smart Living in 18 m²: Modern Compact Apartment Near  Beaches",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 3 h1br18ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/smart-living-in-18-modern-compact/7905354615.html",
+      "images": [
+        "https://images.craigslist.org/d/7905354615/00b0b_gDw3XYHdtry_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:49.509Z",
+      "id": "cf0c9277cc2f"
+    },
+    {
+      "title": "Casa y local comercial funcionando",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 3 h3brCartago",
+      "url": "https://costarica.craigslist.org/reb/d/casa-local-comercial-funcionando/7899281046.html",
+      "images": [
+        "https://images.craigslist.org/d/7899281046/01515_256WGeKpxr4_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:49.541Z",
+      "id": "2146e987bbaf"
+    },
+    {
+      "title": "Costa Rica ocean view House",
+      "price_text": "₡250,000,000",
+      "price_usd": 500000,
+      "location": "hace 3 h3br202ft2Cobano",
+      "url": "https://costarica.craigslist.org/reb/d/costa-rica-ocean-view-house/7899102796.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7899102796/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:49.567Z",
+      "id": "b98883b45a59"
+    },
+    {
+      "title": "ELEGANT & SECURE FURNISHED HOUSE FOR SALE IN \"SARCHI \"",
+      "price_text": "₡70",
+      "price_usd": 0,
+      "location": "hace 3 h3br18777ft2",
+      "url": "https://costarica.craigslist.org/reo/d/elegant-secure-furnished-house-for-sale/7905352290.html",
+      "images": [
+        "https://images.craigslist.org/d/7905352290/00h0h_6SX83UZulud_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:49.632Z",
+      "id": "334c8291a9d0"
+    },
+    {
+      "title": "Dream Home in Black Stallion with Ocean Views and Nature",
+      "price_text": "₡246,000,000",
+      "price_usd": 492000,
+      "location": "hace 6 h2br5000ft2",
+      "url": "https://costarica.craigslist.org/reb/d/dream-home-in-black-stallion-with-ocean/7895883992.html",
+      "images": [
+        "https://images.craigslist.org/d/7895883992/00808_34QSjeF1RNz_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-30T01:04:49.689Z",
+      "id": "bf96fa2de384"
+    },
+    {
+      "title": "T- Sergio. Lot of 813 m² less than 5 minutes from Playa Tamarindo.",
+      "price_text": "₡27,500,000",
+      "price_usd": 55000,
+      "location": "hace 2 h813ft2Villarreal, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/sergio-lot-of-813-less-than-minutes/7905364662.html",
+      "images": [
+        "https://images.craigslist.org/d/7905364662/00X0X_7OLUrO7MFh2_09G05p_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:54.637Z",
+      "id": "30875efee7ce"
+    },
+    {
+      "title": "Smart Living in 18 m²: Modern Compact Apartment Near  Beaches",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 3 h1br18ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/smart-living-in-18-modern-compact/7905354615.html",
+      "images": [
+        "https://images.craigslist.org/d/7905354615/00b0b_gDw3XYHdtry_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:54.698Z",
+      "id": "cf0c9277cc2f"
+    },
+    {
+      "title": "Casa y local comercial funcionando",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 3 h3brCartago",
+      "url": "https://costarica.craigslist.org/reb/d/casa-local-comercial-funcionando/7899281046.html",
+      "images": [
+        "https://images.craigslist.org/d/7899281046/01515_256WGeKpxr4_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:54.731Z",
+      "id": "2146e987bbaf"
+    },
+    {
+      "title": "Costa Rica ocean view House",
+      "price_text": "₡250,000,000",
+      "price_usd": 500000,
+      "location": "hace 3 h3br202ft2Cobano",
+      "url": "https://costarica.craigslist.org/reb/d/costa-rica-ocean-view-house/7899102796.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7899102796/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:54.756Z",
+      "id": "b98883b45a59"
+    },
+    {
+      "title": "ELEGANT & SECURE FURNISHED HOUSE FOR SALE IN \"SARCHI \"",
+      "price_text": "₡70",
+      "price_usd": 0,
+      "location": "hace 3 h3br18777ft2",
+      "url": "https://costarica.craigslist.org/reo/d/elegant-secure-furnished-house-for-sale/7905352290.html",
+      "images": [
+        "https://images.craigslist.org/d/7905352290/00h0h_6SX83UZulud_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:54.820Z",
+      "id": "334c8291a9d0"
+    },
+    {
+      "title": "Dream Home in Black Stallion with Ocean Views and Nature",
+      "price_text": "₡246,000,000",
+      "price_usd": 492000,
+      "location": "hace 6 h2br5000ft2",
+      "url": "https://costarica.craigslist.org/reb/d/dream-home-in-black-stallion-with-ocean/7895883992.html",
+      "images": [
+        "https://images.craigslist.org/d/7895883992/00808_34QSjeF1RNz_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-30T01:04:54.875Z",
+      "id": "bf96fa2de384"
+    },
+    {
+      "title": "T- Sergio. Lot of 813 m² less than 5 minutes from Playa Tamarindo.",
+      "price_text": "₡27,500,000",
+      "price_usd": 55000,
+      "location": "hace 2 h813ft2Villarreal, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/sergio-lot-of-813-less-than-minutes/7905364662.html",
+      "images": [
+        "https://images.craigslist.org/d/7905364662/00X0X_7OLUrO7MFh2_09G05p_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:59.824Z",
+      "id": "30875efee7ce"
+    },
+    {
+      "title": "Smart Living in 18 m²: Modern Compact Apartment Near  Beaches",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 3 h1br18ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/smart-living-in-18-modern-compact/7905354615.html",
+      "images": [
+        "https://images.craigslist.org/d/7905354615/00b0b_gDw3XYHdtry_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:59.884Z",
+      "id": "cf0c9277cc2f"
+    },
+    {
+      "title": "Casa y local comercial funcionando",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 3 h3brCartago",
+      "url": "https://costarica.craigslist.org/reb/d/casa-local-comercial-funcionando/7899281046.html",
+      "images": [
+        "https://images.craigslist.org/d/7899281046/01515_256WGeKpxr4_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:59.917Z",
+      "id": "2146e987bbaf"
+    },
+    {
+      "title": "Costa Rica ocean view House",
+      "price_text": "₡250,000,000",
+      "price_usd": 500000,
+      "location": "hace 3 h3br202ft2Cobano",
+      "url": "https://costarica.craigslist.org/reb/d/costa-rica-ocean-view-house/7899102796.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7899102796/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:04:59.942Z",
+      "id": "b98883b45a59"
+    },
+    {
+      "title": "ELEGANT & SECURE FURNISHED HOUSE FOR SALE IN \"SARCHI \"",
+      "price_text": "₡70",
+      "price_usd": 0,
+      "location": "hace 3 h3br18777ft2",
+      "url": "https://costarica.craigslist.org/reo/d/elegant-secure-furnished-house-for-sale/7905352290.html",
+      "images": [
+        "https://images.craigslist.org/d/7905352290/00h0h_6SX83UZulud_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2025-12-30T01:05:00.006Z",
+      "id": "334c8291a9d0"
+    },
+    {
+      "title": "Dream Home in Black Stallion with Ocean Views and Nature",
+      "price_text": "₡246,000,000",
+      "price_usd": 492000,
+      "location": "hace 6 h2br5000ft2",
+      "url": "https://costarica.craigslist.org/reb/d/dream-home-in-black-stallion-with-ocean/7895883992.html",
+      "images": [
+        "https://images.craigslist.org/d/7895883992/00808_34QSjeF1RNz_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-30T01:05:00.066Z",
+      "id": "bf96fa2de384"
+    },
+    {
+      "title": "Casa Malinche Palace - $250,000US in Bookings! INCREDIBLE RENTAL INVESTMENT\n                Single Family Homes, Ocotal, Guanacaste",
+      "price_text": "$3,750,000",
+      "price_usd": 3750000,
+      "location": "Single Family Homes, Ocotal, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-single-family-homes-for-sale-in-ocotal/6325",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2025-12-30T01:05:35.421Z",
+      "id": "e54eb9d97f11"
     }
   ],
-  "last_updated": "2025-12-29T18:25:58.185Z",
+  "last_updated": "2025-12-30T01:09:11.254Z",
   "total_count": 402
 }
