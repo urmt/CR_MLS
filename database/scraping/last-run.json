@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-12-31T12:32:10.641Z",
+  "timestamp": "2025-12-31T18:24:20.985Z",
   "results": {
-    "new_properties": 0,
+    "new_properties": 10,
     "duplicates": 425,
-    "errors": 10
+    "errors": 15
   }
 }
