@@ -17670,8 +17670,83 @@
       "category": "residential",
       "scraped_at": "2026-01-04T01:13:23.123Z",
       "id": "0ac8d3850840"
+    },
+    {
+      "title": "Permaculture Farm $190 000 - 9.8 acres - 2 Houses",
+      "price_text": "₡190",
+      "price_usd": 0,
+      "location": "hace 55 min5brSan vito, Coto Brus",
+      "url": "https://costarica.craigslist.org/reo/d/permaculture-farm-acres-houses/7906536335.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7906536335/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-05T01:11:44.589Z",
+      "id": "e97325d88b0c"
+    },
+    {
+      "title": "Permaculture Farm $190 000 - 9.8 acres - 2 Houses",
+      "price_text": "₡190",
+      "price_usd": 0,
+      "location": "hace 55 min5brSan vito, Coto Brus",
+      "url": "https://costarica.craigslist.org/reo/d/permaculture-farm-acres-houses/7906536335.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7906536335/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-05T01:11:49.399Z",
+      "id": "e97325d88b0c"
+    },
+    {
+      "title": "Permaculture Farm $190 000 - 9.8 acres - 2 Houses",
+      "price_text": "₡190",
+      "price_usd": 0,
+      "location": "hace 55 min5brSan vito, Coto Brus",
+      "url": "https://costarica.craigslist.org/reo/d/permaculture-farm-acres-houses/7906536335.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7906536335/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-05T01:11:54.177Z",
+      "id": "e97325d88b0c"
+    },
+    {
+      "title": "Permaculture Farm $190 000 - 9.8 acres - 2 Houses",
+      "price_text": "₡190",
+      "price_usd": 0,
+      "location": "hace 55 min5brSan vito, Coto Brus",
+      "url": "https://costarica.craigslist.org/reo/d/permaculture-farm-acres-houses/7906536335.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7906536335/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-05T01:11:59.108Z",
+      "id": "e97325d88b0c"
+    },
+    {
+      "title": "Permaculture Farm $190 000 - 9.8 acres - 2 Houses",
+      "price_text": "₡190",
+      "price_usd": 0,
+      "location": "hace 55 min5brSan vito, Coto Brus",
+      "url": "https://costarica.craigslist.org/reo/d/permaculture-farm-acres-houses/7906536335.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7906536335/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-05T01:12:03.896Z",
+      "id": "e97325d88b0c"
     }
   ],
-  "last_updated": "2026-01-04T18:23:50.905Z",
+  "last_updated": "2026-01-05T01:16:12.104Z",
   "total_count": 402
 }
