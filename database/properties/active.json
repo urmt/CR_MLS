@@ -18033,8 +18033,80 @@
       "category": "residential",
       "scraped_at": "2026-01-06T06:23:05.585Z",
       "id": "a418f4689bda"
+    },
+    {
+      "title": "PRICE ADJUSTMENT! Luxury IBIS Condo – 2 Bedroom Residence with...          Multi-Unit Retreat in Costa Rica: Two Homes, One Incredible...          Enclave A8 ~ Custom-Built Coastal Retreat in The Enclave at...",
+      "price_text": "Price:     US$ 579 000.00      Price:     US$ 580 000.00      Price:     US$ 585 000.00",
+      "price_usd": 579000.0058,
+      "location": "Location:     Playa Tamarindo      Location:     Tamarindo Areas      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/luxury-ibis-condo-2-bedroom-residence-estuary-views-tamarindo-costa-rica",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Ibis-5-Playa-Tamarindo.jpg?itok=AalJK0FG",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-casa-dos-rosas.png?itok=8ULTL27H",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Enclave%20A8_0.jpg?itok=vNzRqeIQ"
+      ],
+      "description": "Experience elevated coastal living in this elegant 2-bedroom, 2-bath IBIS condo, ideally positioned across...          Welcome to Casa Dos Rosas!\nNestled on a spacious 1,100 m² lot, this property boasts two independent houses,...          Discover the perfect blend of comfort, elegance, and smart design in this custom-built 3-bedroom, 2.5-bath...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-06T18:23:44.154Z",
+      "id": "7152d40cd5e2"
+    },
+    {
+      "title": "Casa Mango de Isarocca ~ Newly Built 4 Bedroom Home in a Private...          Spacious Lots in Prime Location ~ Investment Potential in Playa...          PRICE REDUCTION! Casa Arboleda ~ Exceptional Multi-Unit...",
+      "price_text": "Price:     US$ 590 000.00      Price:     US$ 595 000.00      Price:     US$ 595 000.00",
+      "price_usd": 590000.00595,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Langosta      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-mango-santa-rosa",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Casa-Mango-Isarocca.jpg?itok=psHyntrD",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5-Langosta-Dual-Lots.jpg?itok=uWUY0nEX",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1_CasaArboleda.jpg?itok=eVkTetI0"
+      ],
+      "description": "Amazing opportunity to own a brand new house with 4 bedrooms within 5 minutes of Tamarindo! Casa Mango is...          These two premium lots are now available in Playa Langosta, offering exceptional value in one of the...          If you're seeking an exceptional investment property in the thriving region of Guanacaste, look no further...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-06T18:23:44.372Z",
+      "id": "a551fe962a6e"
+    },
+    {
+      "title": "Casa Tempisque ~ Tranquil Retreat in Matapalo with Pool &...          Jardines de Palma Real 224 ~ Large Corner Unit Townhome Walking...          FIRESALE! Villa Marseille ~ Imposing 4 Bedroom Ocean View Estate...",
+      "price_text": "Price:     US$ 599 000.00      Price:     US$ 599 000.00      Price:     US$ 600 000.00",
+      "price_usd": 599000.00599,
+      "location": "Location:     Tamarindo Areas      Location:     Hacienda-Pinilla      Location:     Playa Potrero",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-tempisque-matapalo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-4-bedroom-matapalo-home.png?itok=gykVVxAb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-JPR24-Drone1_1.jpg?itok=tNOrU6wx",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/VM-22.jpg?itok=p0u220A6"
+      ],
+      "description": "Located in the tranquil Matapalo area, just minutes from the stunning beaches of Guanacaste, this property...          \n\tNestled within the prestigious gated community of Hacienda Pinilla, Jardines de Palma Real 24 beckons as a...          Located in the province of Guanacaste on the north Pacific coast of Costa Rica, the villa is situated on the...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-01-06T18:23:44.592Z",
+      "id": "0d1d806d1f1f"
+    },
+    {
+      "title": "Casa Conchal: Modern Luxury Near Puerto Viejo Beach          Esmeralda Three Bedroom Home ~ Luxury Living in a Secluded...          Invest in Paradise: Mono Luxe Suites Condotel with Ocean Views",
+      "price_text": "Price:     US$ 749 000.00      Price:     US$ 749 000.00      Price:     US$ 759 000.00",
+      "price_usd": 749000.00749,
+      "location": "Location:     Playa Piratas      Location:     Tamarindo Areas      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-conchal",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/34-casa-conchal.png?itok=yQndvknn",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-esmeralda-three-bedroom-home.png?itok=jmiLjTrE",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/10-mono-luxe-suites.png?itok=52kaEraA"
+      ],
+      "description": "Welcome to Casa Conchal, a brand-new modern home in the gated community of Montanas de Conchal, Guanacaste,...          Conveniently located just 15 minutes from the vibrant beach town of Tamarindo, this property offers easy...          Discover the epitome of luxury and exceptional investment potential at the exclusive Mono Luxe Suites...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-06T18:23:46.078Z",
+      "id": "3ecaa92e3585"
     }
   ],
-  "last_updated": "2026-01-06T12:34:16.038Z",
+  "last_updated": "2026-01-06T18:25:19.445Z",
   "total_count": 402
 }
