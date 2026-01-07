@@ -18105,8 +18105,44 @@
       "category": "residential",
       "scraped_at": "2026-01-06T18:23:46.078Z",
       "id": "3ecaa92e3585"
+    },
+    {
+      "title": "Casa Blanca ~ Luxury Golf-Front Estate with Private Guest House          Spacious Multi-Use Property with Lots of Potential!           Casa Mistral ~ Ocean Views & Jungle Serenity",
+      "price_text": "Price:     US$ 1 950 000.00      Price:     US$ 1 975 000.00      Price:     US$ 1 995 000.00",
+      "price_usd": 1950000.001975,
+      "location": "Location:     Hacienda-Pinilla      Location:     Playa Flamingo      Location:     Playa Penca",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-blanca-reserva-de-golf",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-blanca-2025.png?itok=eHaLOaun",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-multi-use-flamingo-property-2022.jpg?itok=IjeOCwpI",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.Casa-Mistral.jpg?itok=4LKbfGBR"
+      ],
+      "description": "Casa Blanca is a stunning multi-family estate offering over 7,000 square feet of indoor living space. This...          Welcome to your dream tropical home in the heart of Flamingo Beach, Guanacaste! This exceptional property...          Experience the perfect blend of luxury and tranquility with this breathtaking ocean-view residence, completed...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-07T01:09:35.588Z",
+      "id": "2cc13eb9d428"
+    },
+    {
+      "title": "Senderos Home 25E ~ Immaculate Piece of Real Estate - Phase 2          Prime Beachfront Lot in Playa Grande          Tranquil Retreat B&B Boutique Hotel in Playa Grande",
+      "price_text": "Price:     US$ 2 150 000.00      Price:     US$ 2 175 000.00      Price:     US$ 2 195 000.00",
+      "price_usd": 2150000.002175,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Grande      Location:     Playa Grande",
+      "url": "https://www.remax-oceansurf-cr.com/property/senderos-home-25e-functional-design",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-senderos-home-on-lot-25e.png?itok=-xeag2dI",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-playa-grande-beachfront-lot.jpg?itok=tmNE9jy7",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/0-kinamira-suites.jpg?itok=pGj3-nP3"
+      ],
+      "description": "With expansive valley and mountain views surrounded by nature, this homesite is perfectly situated to inspire...          Exceptional Investment Opportunity for Nature Lovers and Surfers!\n\tThis rare Playa Grande beachfront lot ...          Discover this Hotel and Spa, just 3 km (1.8 miles) from the stunning Playa Grande beach. Nestled in a lush...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-01-07T01:09:35.959Z",
+      "id": "a75e28cf6f90"
     }
   ],
-  "last_updated": "2026-01-06T18:25:49.875Z",
+  "last_updated": "2026-01-07T01:10:53.916Z",
   "total_count": 402
 }
