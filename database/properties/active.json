@@ -18141,8 +18141,113 @@
       "category": "land",
       "scraped_at": "2026-01-07T01:09:35.959Z",
       "id": "a75e28cf6f90"
+    },
+    {
+      "title": "Warehouse for sale in Zapote 24630\n                Commercial, Zapote, San Jose",
+      "price_text": "$1,400,000",
+      "price_usd": 1400000,
+      "location": "Commercial, Zapote, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/3-bed-commercial-for-sale-in-zapote/13156",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-08T01:07:27.791Z",
+      "id": "7a3d13d77e99"
+    },
+    {
+      "title": "Casa Matapalo ~ Beautiful Multi-Home Property with Detached...          Villa Ma Waho ~ Newly Built Home in Tamarindo          Two Ocean View Homes in Corona del Cabo",
+      "price_text": "Price:     US$ 690 000.00      Price:     US$ 690 000.00      Price:     US$ 695 000.00",
+      "price_usd": 690000.0069,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Tamarindo      Location:     Playa Grande",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-matapalo-guanacaste",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1_8.jpg?itok=Lv0iKPZe",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3a-Villa-Seventeen.jpeg?itok=1jbn48So",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/46-corona-del-cabo-4-2025.jpg?itok=PArMzxfJ"
+      ],
+      "description": "Welcome to your Guanacaste paradise!\nThis spectacular property is located only 7 minutes from multiple...          Casa Tibo is the newest luxury beach villa in Norma Tamarindo, a new suburb in town. This quality constructed...          Nestled within a gated community with smooth, paved roads, these two stunning houses offer an inviting...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-08T01:09:05.268Z",
+      "id": "c2eabae2469e"
+    },
+    {
+      "title": "Avemoana ~ 29 Unit Development in the Heart of Booming Playa...          7.1 hectares lot with amazing ocean views, within 10 min from...          Guest House Apartments ~ Impeccable Multi-Unit Property with...",
+      "price_text": "Price:     US$ 705 000.00      Price:     US$ 710 000.00      Price:     US$ 715 500.00",
+      "price_usd": 705000.0071,
+      "location": "Location:     Playa Avellanas      Location:     Tamarindo Areas      Location:     Playa Flamingo",
+      "url": "https://www.remax-oceansurf-cr.com/property/avemoana-playa-avellanas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/ENTRADA%20CONDOMINIO.jpg?itok=ezkEHU98",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Finca-Pinilla.JPG?itok=BdduRsO1",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-guest-house-apartments_0.jpeg?itok=GXc2Sz6v"
+      ],
+      "description": "Avemoana is a pristine gated community development project offering 29 unique homes strategically located...          A MUST SEE! 7.1 hectares ocean view lot. Long driveway leading to the beginning of the lot, just before...          This is an amazing opportunity to invest in the Flamingo Beach area, take advantage of the new marina, and...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-08T01:09:05.671Z",
+      "id": "d0904835f4ab"
+    },
+    {
+      "title": "Invest in Paradise: Mono Luxe Suites Condotel with Ocean Views          Surfside Vista del Mar ~ 4 Bedroom House Across The Street From...          Ocean and Mountain Views Finca ~ With a Little River",
+      "price_text": "Price:     US$ 759 000.00      Price:     US$ 760 000.00      Price:     US$ 769 000.00",
+      "price_usd": 759000.0076,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Potrero      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/mono-luxe-suites",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/10-mono-luxe-suites.png?itok=52kaEraA",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Surfside-House.jpg?itok=Rpn9Vjkd",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Finca-Vista-Cana.JPG?itok=Kpg44YeL"
+      ],
+      "description": "Discover the epitome of luxury and exceptional investment potential at the exclusive Mono Luxe Suites...          Casa Surfside Vista del Mar - 4 bedroom 3.5 bathroom house across the street from the beach! This house has...          This is one of the best ocean and mountain view property for sale in the area. It is located in Canafistula,...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-08T01:09:06.022Z",
+      "id": "a313dd5c8314"
+    },
+    {
+      "title": "Villa Sasha ~ Renovated Spanish Colonial Townhome in Hacienda...          Alta Mar 169 ~ Stunning Ocean View Lot in Renown Gated Community          Villas Puesta de Sol ~ Tamarindo's Newest Condominium...",
+      "price_text": "Price:     US$ 790 000.00      Price:     US$ 798 000.00      Price:     US$ 825 000.00",
+      "price_usd": 790000.00798,
+      "location": "Location:     Hacienda-Pinilla      Location:     Playa Grande      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/villa-sasha-lagos-de-palma-real",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-villa-sasha.png?itok=37h5rExA",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-3269m2-las-ventanas-lot.png?itok=18mQBzNC",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Screenshot%202024-01-22%20at%2010.06.38.png?itok=k-H9iHk0"
+      ],
+      "description": "Welcome to Villa Sasha – a beautifully renovated luxury residence located in the prestigious Palma Real...          Welcome to Alta Mar, a remarkable community within Las Ventanas, Playa Grande, where the epitome of coastal...          Welcome to “Villas Puesta del Sol” or “The Sunset Villas” – Tamarindo’s newest addition to the luxury market...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-08T01:09:11.822Z",
+      "id": "6f204561e163"
+    },
+    {
+      "title": "Casa Naim ~ Perfect Blend of Luxury and Tranquility within an...          The Enclave C3 ~ Best-Priced Resale in The Enclave Community          The Enclave B6 ~ Luxury Five Bedroom Home with Rooftop Terrace",
+      "price_text": "Price:     US$ 839 000.00      Price:     US$ 850 000.00      Price:     US$ 850 000.00",
+      "price_usd": 839000.0085,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Avellanas      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-naim-rancho-villareal",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/31-casa-naim-villareal.png?itok=oYvNIjtb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Enclave-C3.png?itok=AQ3wGpGU",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/31-The-Enclave-B6.jpg?itok=rS1qmwT3"
+      ],
+      "description": "Step into your dream home nestled in the heart of paradise! This brand-new 3-bedroom main house, accompanied...          Discover the best-priced resale available in The Enclave at Avellanas, a luxurious gated community located...          Matterport interactive tour of the home HERE.  \nWelcome to The Enclave at Avellanas, where luxury living...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-08T01:09:12.082Z",
+      "id": "c2787a96a42f"
     }
   ],
-  "last_updated": "2026-01-07T18:26:49.630Z",
+  "last_updated": "2026-01-08T01:10:43.493Z",
   "total_count": 402
 }
