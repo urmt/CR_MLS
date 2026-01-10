@@ -18756,8 +18756,341 @@
       "category": "residential",
       "scraped_at": "2026-01-09T06:22:47.916Z",
       "id": "0614962ef8cc"
+    },
+    {
+      "title": "House for sale $72,000..00",
+      "price_text": "₡35,000,000",
+      "price_usd": 70000,
+      "location": "hace 2 h3br365ft2Quizarre Perez zeledon",
+      "url": "https://costarica.craigslist.org/reo/d/house-for-sale/7907623225.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7907623225/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-10T01:04:08.616Z",
+      "id": "1382007b1e8c"
+    },
+    {
+      "title": "Lote in San Miguel Costa Rica",
+      "price_text": "₡9,000,000",
+      "price_usd": 18000,
+      "location": "hace 2 h1890ft2San Miguel Perez Zeledon",
+      "url": "https://costarica.craigslist.org/reb/d/lote-in-san-miguel-costa-rica/7907627858.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7907627858/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-10T01:04:08.652Z",
+      "id": "aeb7b093d96f"
+    },
+    {
+      "title": "V- Coco. 857 m² container house on a plot with expansion potential",
+      "price_text": "₡109,950,000",
+      "price_usd": 219900,
+      "location": "hace 4 h1br857ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/coco-857-container-house-on-plot-with/7907608645.html",
+      "images": [
+        "https://images.craigslist.org/d/7907608645/00z0z_aA031ou7qkY_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-10T01:04:08.730Z",
+      "id": "23e254b5e5fb"
+    },
+    {
+      "title": "House for sale $72,000..00",
+      "price_text": "₡35,000,000",
+      "price_usd": 70000,
+      "location": "hace 2 h3br365ft2Quizarre Perez zeledon",
+      "url": "https://costarica.craigslist.org/reo/d/house-for-sale/7907623225.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7907623225/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-10T01:04:13.443Z",
+      "id": "1382007b1e8c"
+    },
+    {
+      "title": "Lote in San Miguel Costa Rica",
+      "price_text": "₡9,000,000",
+      "price_usd": 18000,
+      "location": "hace 2 h1890ft2San Miguel Perez Zeledon",
+      "url": "https://costarica.craigslist.org/reb/d/lote-in-san-miguel-costa-rica/7907627858.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7907627858/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-10T01:04:13.484Z",
+      "id": "aeb7b093d96f"
+    },
+    {
+      "title": "V- Coco. 857 m² container house on a plot with expansion potential",
+      "price_text": "₡109,950,000",
+      "price_usd": 219900,
+      "location": "hace 4 h1br857ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/coco-857-container-house-on-plot-with/7907608645.html",
+      "images": [
+        "https://images.craigslist.org/d/7907608645/00z0z_aA031ou7qkY_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-10T01:04:13.562Z",
+      "id": "23e254b5e5fb"
+    },
+    {
+      "title": "House for sale $72,000..00",
+      "price_text": "₡35,000,000",
+      "price_usd": 70000,
+      "location": "hace 2 h3br365ft2Quizarre Perez zeledon",
+      "url": "https://costarica.craigslist.org/reo/d/house-for-sale/7907623225.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7907623225/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-10T01:04:18.408Z",
+      "id": "1382007b1e8c"
+    },
+    {
+      "title": "Lote in San Miguel Costa Rica",
+      "price_text": "₡9,000,000",
+      "price_usd": 18000,
+      "location": "hace 2 h1890ft2San Miguel Perez Zeledon",
+      "url": "https://costarica.craigslist.org/reb/d/lote-in-san-miguel-costa-rica/7907627858.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7907627858/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-10T01:04:18.442Z",
+      "id": "aeb7b093d96f"
+    },
+    {
+      "title": "V- Coco. 857 m² container house on a plot with expansion potential",
+      "price_text": "₡109,950,000",
+      "price_usd": 219900,
+      "location": "hace 4 h1br857ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/coco-857-container-house-on-plot-with/7907608645.html",
+      "images": [
+        "https://images.craigslist.org/d/7907608645/00z0z_aA031ou7qkY_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-10T01:04:18.519Z",
+      "id": "23e254b5e5fb"
+    },
+    {
+      "title": "House for sale $72,000..00",
+      "price_text": "₡35,000,000",
+      "price_usd": 70000,
+      "location": "hace 2 h3br365ft2Quizarre Perez zeledon",
+      "url": "https://costarica.craigslist.org/reo/d/house-for-sale/7907623225.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7907623225/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-10T01:04:23.199Z",
+      "id": "1382007b1e8c"
+    },
+    {
+      "title": "Lote in San Miguel Costa Rica",
+      "price_text": "₡9,000,000",
+      "price_usd": 18000,
+      "location": "hace 2 h1890ft2San Miguel Perez Zeledon",
+      "url": "https://costarica.craigslist.org/reb/d/lote-in-san-miguel-costa-rica/7907627858.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7907627858/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-10T01:04:23.233Z",
+      "id": "aeb7b093d96f"
+    },
+    {
+      "title": "V- Coco. 857 m² container house on a plot with expansion potential",
+      "price_text": "₡109,950,000",
+      "price_usd": 219900,
+      "location": "hace 4 h1br857ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/coco-857-container-house-on-plot-with/7907608645.html",
+      "images": [
+        "https://images.craigslist.org/d/7907608645/00z0z_aA031ou7qkY_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-10T01:04:23.312Z",
+      "id": "23e254b5e5fb"
+    },
+    {
+      "title": "House for sale $72,000..00",
+      "price_text": "₡35,000,000",
+      "price_usd": 70000,
+      "location": "hace 2 h3br365ft2Quizarre Perez zeledon",
+      "url": "https://costarica.craigslist.org/reo/d/house-for-sale/7907623225.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7907623225/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-10T01:04:27.994Z",
+      "id": "1382007b1e8c"
+    },
+    {
+      "title": "Lote in San Miguel Costa Rica",
+      "price_text": "₡9,000,000",
+      "price_usd": 18000,
+      "location": "hace 2 h1890ft2San Miguel Perez Zeledon",
+      "url": "https://costarica.craigslist.org/reb/d/lote-in-san-miguel-costa-rica/7907627858.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7907627858/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-10T01:04:28.028Z",
+      "id": "aeb7b093d96f"
+    },
+    {
+      "title": "V- Coco. 857 m² container house on a plot with expansion potential",
+      "price_text": "₡109,950,000",
+      "price_usd": 219900,
+      "location": "hace 4 h1br857ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/coco-857-container-house-on-plot-with/7907608645.html",
+      "images": [
+        "https://images.craigslist.org/d/7907608645/00z0z_aA031ou7qkY_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-10T01:04:28.106Z",
+      "id": "23e254b5e5fb"
+    },
+    {
+      "title": "Esmeralda Three Bedroom Home ~ Luxury Living in a Secluded...          Invest in Paradise: Mono Luxe Suites Condotel with Ocean Views          Malinche Condo 113B ~ Cozy 2 Bedroom Unit in Reserva Conchal...",
+      "price_text": "Price:     US$ 749 000.00      Price:     US$ 759 000.00      Price:     US$ 759 000.00",
+      "price_usd": 749000.00759,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Tamarindo      Location:     Reserva Conchal",
+      "url": "https://www.remax-oceansurf-cr.com/property/esmeralda-three-bedroom",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-esmeralda-three-bedroom-home.png?itok=jmiLjTrE",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/10-mono-luxe-suites.png?itok=52kaEraA",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5_0.jpg?itok=W0T2lnvy"
+      ],
+      "description": "Conveniently located just 15 minutes from the vibrant beach town of Tamarindo, this property offers easy...          Discover the epitome of luxury and exceptional investment potential at the exclusive Mono Luxe Suites...          Reserva Conchal 2 bedroom condo for sale, located on the ground floor, no steps, and with direct access to...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-10T01:07:08.717Z",
+      "id": "17ab0e58cd9b"
+    },
+    {
+      "title": "La Vista Condos Residencial - Part of the Diria Family Complex          Pacific Park 703 ~ Jaw-Dropping Views from the Best Located...          Villa Sasha ~ Renovated Spanish Colonial Townhome in Hacienda...",
+      "price_text": "Price:     US$ 779 000.00      Price:     US$ 789 000.00      Price:     US$ 790 000.00",
+      "price_usd": 779000.00789,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Hacienda-Pinilla",
+      "url": "https://www.remax-oceansurf-cr.com/property/la-vista-condos-residencial",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5-general-pics-la-vista-tower-c-october-2025.jpg?itok=COapoWEz",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-pacific-park-703.jpg?itok=wqzIbgTQ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-villa-sasha.png?itok=37h5rExA"
+      ],
+      "description": "La Vista Condos Residencial is an exclusive gated condominium found at the top of the hills of Playa...          Welcome to Pacific Park 703, where luxury meets convenience in the heart of Tamarindo, Guanacaste. Step into...          Welcome to Villa Sasha – a beautifully renovated luxury residence located in the prestigious Palma Real...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-10T01:07:14.068Z",
+      "id": "be7e09180761"
+    },
+    {
+      "title": "Tamarindo Park 51 ~ Modern Tropical Luxury Home with Pool and...          Casa Nibbana ~ Expansive 4 Bedroom Villa in Hacienda Pinilla          La Perla 3-4 ~ Panoramic Ocean Views Over Playa Grande and...",
+      "price_text": "Price:     US$ 999 000.00      Price:     US$ 1 050 000.00      Price:     US$ 1 050 000.00",
+      "price_usd": 999000.00105,
+      "location": "Location:     Playa Tamarindo      Location:     Hacienda-Pinilla      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/tamarindo-park-51",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/39-tamarindo-51-playa-tamarindo.png?itok=yjHZlufJ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-nibbana-hacienda-pinilla-reserva-de-golf-%233.jpg?itok=H4oXvJkO",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-perla-tamarindo-3-4.jpg?itok=5z_14Dbs"
+      ],
+      "description": "Discover Tamarindo Park #51, a brand-new tropical modern residence offering 3 bedrooms and 3 bathrooms across...          \n\tPositioned within the prestigious Reserva de Golf enclave of Hacienda Pinilla, Casa Nibbana is a...          Welcome to La Perla Tamarindo 134 - an incredible ocean-view condo offering breathtaking panoramas of Playa...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-10T01:07:14.907Z",
+      "id": "59fa8b0cc9d8"
+    },
+    {
+      "title": "Casa Montaña ~ Three-Story Ocean View Jewel in a Gated Community          Casa Oasis de Jutta          La Perla 4-3 ~ Elegant Ocean-View Retreat in Vibrant Tamarindo",
+      "price_text": "Price:     US$ 1 090 000.00      Price:     US$ 1 098 000.00      Price:     US$ 1 099 000.00",
+      "price_usd": 1090000.001098,
+      "location": "Location:     Playa Flamingo      Location:     Tamarindo Areas      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-montana-altos-de-flamingo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/krain_casamonatana-2.jpg?itok=QUR9C9N8",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-oasis-de-jutta-2023.jpg?itok=SJg7NmK7",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-perla-4-3.jpg?itok=qdRaqXzi"
+      ],
+      "description": "Located in the heart of Playa Flamingo within the prestigious gated community of Altos de Flamingo, this...          Casa Oasis de Jutta is sitting on top of a mountain, overlooking the beautiful Guanacaste Valley, a lagoon,...          Experience the best of Costa Rican coastal living with La Perla Tamarindo 143 - a rare opportunity to own a...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-10T01:07:15.133Z",
+      "id": "8bfefab18961"
+    },
+    {
+      "title": "Casa Sunset ~ Turnkey Elegance Meets Panoramic Views           Enclave 49 ~ Luxury Living with Direct Beach Access          PRICE REDUCTION! Prime Development Opportunity ~ 18 Lots on 10.3...",
+      "price_text": "Price:     US$ 1 699 000.00      Price:     US$ 1 790 000.00      Price:     US$ 1 790 000.00",
+      "price_usd": 1699000.00179,
+      "location": "Location:     Playa Flamingo      Location:     Playa Langosta      Location:     Playa Negra",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-sunset",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-buddha.png?itok=JgeL050B",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.-Enclave-49-house-exterior.jpg?itok=5Npke5qV",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-prime-development-opportunity-playa-negra.jpg?itok=5SxrZgZR"
+      ],
+      "description": "Welcome to Casa Sunset, a lovely and renovated 4-bedroom, 4.5-bath home with an ocean view. The home has just...          Welcome to Enclave 49, a luxurious ocean-view home located in the exclusive San Francisco Point community of...          Introducing a prime 10.3-hectare development opportunity in Playa Negra, Guanacaste. This peaceful coastal...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-01-10T01:07:22.414Z",
+      "id": "b28409fe53c7"
+    },
+    {
+      "title": "25 Paseo del Mar ~ Modern Townhome with Open Layout and Stunning...          Spacious Multi-Use Property with Lots of Potential!           Casa Mistral ~ Ocean Views & Jungle Serenity",
+      "price_text": "Price:     US$ 1 950 000.00      Price:     US$ 1 975 000.00      Price:     US$ 1 995 000.00",
+      "price_usd": 1950000.001975,
+      "location": "Location:     Playa Danta      Location:     Playa Flamingo      Location:     Playa Penca",
+      "url": "https://www.remax-oceansurf-cr.com/property/25-paseo-del-mar-las-catalinas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-25-paseo-del-mar.jpg?itok=HLD71j97",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-multi-use-flamingo-property-2022.jpg?itok=IjeOCwpI",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.Casa-Mistral.jpg?itok=4LKbfGBR"
+      ],
+      "description": "This beautiful and comfortable beachfront home sits just across the plaza from the Beach Club. Perfectly...          Welcome to your dream tropical home in the heart of Flamingo Beach, Guanacaste! This exceptional property...          Experience the perfect blend of luxury and tranquility with this breathtaking ocean-view residence, completed...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-01-10T01:07:23.026Z",
+      "id": "63701849af11"
     }
   ],
-  "last_updated": "2026-01-09T18:26:40.515Z",
+  "last_updated": "2026-01-10T01:09:29.829Z",
   "total_count": 402
 }
