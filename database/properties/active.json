@@ -19254,8 +19254,62 @@
       "category": "land",
       "scraped_at": "2026-01-12T18:23:36.265Z",
       "id": "e7531ede611a"
+    },
+    {
+      "title": "Tamarindo Cove ~ Your Gateway to Seaside Bliss          PRICE REDUCTION! Villa Verde II-35 ~ Best-Priced 2 Bed 2 Bath...          PRICED TO SELL FAST! Affordable Beachside Living in a Prime...",
+      "price_text": "Price:     US$ 220 000.00      Price:     US$ 235 000.00      Price:     US$ 239 000.00",
+      "price_usd": 220000.00235,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/tamarindo-cove-new-development",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-tamarindo-cove.png?itok=S7T8TZGJ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Villa-Verde-II-35-Playa-Tamarindo.jpg?itok=ykrCTsqO",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Villa-Verde-II-42.jpg?itok=-Rxy8uVj"
+      ],
+      "description": "Welcome to Tamarindo Cove, where natural tranquility meets modern convenience in the heart of Los Jobos,...          This established condominium complex is renowned for its great location, while remaining affordable. It is...          This well-established condominium complex is known for its exceptional location and attractive pricing. Just...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-13T01:05:47.699Z",
+      "id": "33f18132d8b9"
+    },
+    {
+      "title": "Avellanas From Above ~ Discover Pochote Hills          Palmas de Tamarindo - Phase 2          Lote Tamarindo Hill ~ Perfect Plot of Land Only Minutes to...",
+      "price_text": "Price:     US$ 239 900.00      Price:     US$ 245 000.00      Price:     US$ 250 000.00",
+      "price_usd": 239900.00245,
+      "location": "Location:     Playa Avellanas      Location:     Tamarindo Areas      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/pochote-hills",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/7-pochotes-hills-2025.png?itok=ScL28xr8",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-SECOND%20PHASE%20RENDERS.jpg?itok=_8aaWgpv",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Lote-Tamarindo-Hill.jpg?itok=AwCPB47t"
+      ],
+      "description": "Pochote Hills is a new gated community of 41 lots in the hills of Playa Avellanas, Guanacaste. This exclusive...          Fantastic Opportunity to Invest in Costa Rica: Brand-New Condos Available!\nDiscover the perfect blend of...          Come visit this lot perched on the hillside of Tamarindo. Walking distance to the beach and all the...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-13T01:05:47.908Z",
+      "id": "e33d851a065b"
+    },
+    {
+      "title": "Charming Two-Story Tamarindo Condo Walking Distance to the Beach          Cabo Velas 18 ~ Spacious 3 Bedroom 3 Bath Condo Near Playa...          Oaks 39 ~ Best Deal at The Oaks, Lowest Priced Condo Available",
+      "price_text": "Price:     US$ 252 500.00      Price:     US$ 254 000.00      Price:     US$ 257 000.00",
+      "price_usd": 252500.00254,
+      "location": "Location:     Playa Tamarindo      Location:     Tamarindo Areas      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/los-suenos-iii-13",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-los-suen%CC%83os-iii-13.png?itok=SEB5UR_x",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/23-Overhead_drone_Cabo_vida_18.jpeg?itok=yfFsRrUb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/19-Oaks_Tamarindo_Costa_Rica_94_For%20_Rent_For_Sale.jpg?itok=e_wmqU4N"
+      ],
+      "description": "Nestled within a boutique 16-unit condominium community in Tamarindo, Costa Rica, Los Sueños III, Unit #13...          This spacious 3-bedroom, 3-bathroom condo is ideally located near Playa Grande Beach and Conchal Beach. It’s...          Welcome to The Oaks Condominiums, where comfort and convenience come together in an ideal location just 10...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-13T01:05:48.177Z",
+      "id": "112e7108741b"
     }
   ],
-  "last_updated": "2026-01-12T18:27:10.250Z",
+  "last_updated": "2026-01-13T01:07:33.710Z",
   "total_count": 402
 }
