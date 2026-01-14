@@ -19338,8 +19338,23 @@
       "category": "land",
       "scraped_at": "2026-01-13T18:25:10.126Z",
       "id": "15c09263fde2"
+    },
+    {
+      "title": "Turnkey Boutique Hotel in the Heart of Santa Teresa\n                Commercial, Santa Teresa, Puntarenas",
+      "price_text": "$1,200,000",
+      "price_usd": 1200000,
+      "location": "Commercial, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-commercial-for-sale-in-santa-teresa/13811",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005nJaLA/6a293w0hg/midres/Pool%20Villa%20Fortuna7.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-14T06:25:11.711Z",
+      "id": "84baaf0b3388"
     }
   ],
-  "last_updated": "2026-01-14T01:13:33.143Z",
+  "last_updated": "2026-01-14T06:28:23.126Z",
   "total_count": 402
 }
