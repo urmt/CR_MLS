@@ -19519,8 +19519,38 @@
       "category": "residential",
       "scraped_at": "2026-01-15T01:04:59.014Z",
       "id": "b0ce03d9ee3b"
+    },
+    {
+      "title": "Cap rate 10% shopping center in Escazú\n                Commercial, Escazu, San Jose",
+      "price_text": "$2,800,000",
+      "price_usd": 2800000,
+      "location": "Commercial, Escazu, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/14-bed-commercial-for-sale-in-escazu/13822",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-16T01:08:05.976Z",
+      "id": "9fff557917fb"
+    },
+    {
+      "title": "Bella Vista 5C at Los Suenos Resort\n                Condo, Los Suenos, Puntarenas",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Condo, Los Suenos, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/3-bed-condo-for-sale-in-los-suenos/13827",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005nysOs/aojsgso7v/midres/1.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-16T01:09:03.279Z",
+      "id": "74ac250ab43d"
     }
   ],
-  "last_updated": "2026-01-15T18:31:50.065Z",
+  "last_updated": "2026-01-16T01:11:23.030Z",
   "total_count": 402
 }
