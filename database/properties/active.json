@@ -20461,8 +20461,44 @@
       "category": "residential",
       "scraped_at": "2026-01-18T01:11:58.652Z",
       "id": "89d7f0ba528b"
+    },
+    {
+      "title": "Reserva de Golf 49 ~ Elegant 4-Bedroom Villa with Luxury...          PRICE REDUCTION! Casa Bettina ~ Luxury Living Steps from the...          Senderos Home 23E ~ Three Story Estate with Unparalleled Views",
+      "price_text": "Price:     US$ 2 495 000.00      Price:     US$ 2 495 000.00      Price:     US$ 2 550 000.00",
+      "price_usd": 2495000.002495,
+      "location": "Location:     Hacienda-Pinilla      Location:     Hacienda-Pinilla      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/reserva-de-golf-49-hacienda-pinilla",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/13-reserva-de-golf-49-2025.png?itok=-0Ls7Opf",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-benitta.jpg?itok=CrwJ8Yvm",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-senderos-home-23e.png?itok=eSqcELAg"
+      ],
+      "description": "Nestled within the prestigious Hacienda Pinilla community, Reserva de Golf 49 is a stunning two-story...          Welcome to Casa Bettina – A Tropical Dream Home in Hacienda Pinilla\nExperience luxury redefined at Casa...          This contemporary retreat was crafted by the exceptional team at WR Architects with a singular vision: to...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-01-19T18:24:20.074Z",
+      "id": "a0fe343b40c1"
+    },
+    {
+      "title": "Casa Mar del Paraiso ~ Luxury Four Bedroom Estate Perched in the...          Senderos 24E ~ Valley-View Luxury Estate with Pool and Yoga Deck          Aquarela Beach Residences ~ Newly Built 8 Unit Complex in...",
+      "price_text": "Price:     US$ 2 795 000.00      Price:     US$ 2 800 000.00      Price:     US$ 2 900 000.00",
+      "price_usd": 2795000.0028,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Playa Potrero",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-mar-del-paraiso-senderos",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-mar-paraiso.png?itok=JYGCCVgA",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-senderos-24e%20.png?itok=J6TOaYVm",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Flamingo%20beach%20properties%20for%20sale%2C%20costa%20rica%20real%20estate%20properties%2C%20properties%20in%20costa%20rica%20for%20sale%2C%20costa%20rica%20homes%20for%20sale%2C%20property%20for%20sale%20in%20guanacaste%20costa%20rica%2C%20summer%20coast%20realty%2C%20_0165_0.jpg?itok=H9s9j0OT"
+      ],
+      "description": "Casa Mar del Paraiso (Sea of Paradise) is truly a gem of a property that was recently constructed and...          Casa Verde is a meticulously crafted 4-bedroom, 4.5-bath residence, fully furnished and designed by renowned...          Explore a fantastic investment chance with this big commercial property in the heart of Potrero Beach....",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-01-19T18:24:20.469Z",
+      "id": "2fa47d15a6bd"
     }
   ],
-  "last_updated": "2026-01-19T12:36:49.068Z",
+  "last_updated": "2026-01-19T18:25:47.132Z",
   "total_count": 402
 }
