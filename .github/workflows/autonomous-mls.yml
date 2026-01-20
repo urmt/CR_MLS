@@ -264,17 +264,16 @@ jobs:
         git commit -m "🚀 IPFS deployment: $IPFS_HASH - $(date)"
         git push
         
-         # Pin to Pinata for permanent availability
+           # Pin to Pinata for permanent availability
         if [ -n "${{ secrets.PINATA_API_KEY }}" ] && [ -n "${{ secrets.PINATA_SECRET }}" ]; then
-          echo "📌 Pinning to Pinata..."
-          PINATA_RESPONSE=$(curl -X POST "https://api.pinata.cloud/pinning/pinByHash" \
+          curl -X POST "https://api.pinata.cloud/pinning/pinByHash" \
             -H "Authorization: Bearer ${{ secrets.PINATA_API_KEY }}:${{ secrets.PINATA_SECRET }}" \
             -H "Content-Type: application/json" \
-            -d "{\"hashToPin\": \"$IPFS_HASH\", \"pinataMetadata\": {\"name\": \"CR-MLS-$(date +%Y%m%d)\"}}")
-          
-          if echo "$PINATA_RESPONSE" | grep -q "id"; then
+            -d "{\"hashToPin\": \"$IPFS_HASH\", \"pinataMetadata\": {\"name\": \"CR-MLS-$(date +%Y%m%d)\"}}"
+        
+            if echo "$PINATA_RESPONSE" | grep -q "id"; then
             echo "✅ Successfully pinned to Pinata"
-          fi
+            fi
         fi
   notification:
     runs-on: ubuntu-latest
