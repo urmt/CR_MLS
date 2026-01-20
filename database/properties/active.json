@@ -20674,8 +20674,683 @@
       "category": "luxury",
       "scraped_at": "2026-01-20T01:09:07.828Z",
       "id": "0f92d8528cda"
+    },
+    {
+      "title": "PROPERTY / MIXED LAND USE IDEAL FOR BUSINESS / HOME HEREDIA #40101vcmc",
+      "price_text": "₡76,500,000",
+      "price_usd": 153000,
+      "location": "hace 3 h3br161ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reb/d/property-mixed-land-use-ideal-for/7909805113.html",
+      "images": [
+        "https://images.craigslist.org/d/7909805113/00M0M_6Dd6uNQ10dn_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-20T06:25:20.937Z",
+      "id": "a5775e1f1b99"
+    },
+    {
+      "title": "RECREATIONAL ESTATE IN OROTINA, ALAJUELA #20904em",
+      "price_text": "₡230,000,000",
+      "price_usd": 460000,
+      "location": "hace 3 h5br7036ft2ALAJUELA",
+      "url": "https://costarica.craigslist.org/reb/d/recreational-estate-in-orotina-alajuela/7909803872.html",
+      "images": [
+        "https://images.craigslist.org/d/7909803872/00I0I_b5bNcRITCab_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-20T06:25:20.999Z",
+      "id": "c6844268614c"
+    },
+    {
+      "title": "ESTATE FOR SALE GUAPILES, POCOCI, LIMON #70201cotd",
+      "price_text": "₡185,000,000",
+      "price_usd": 370000,
+      "location": "hace 3 h4br8524ft2GUAPILES",
+      "url": "https://costarica.craigslist.org/reb/d/estate-for-sale-guapiles-pococi-limon/7909805640.html",
+      "images": [
+        "https://images.craigslist.org/d/7909805640/00V0V_d7o25M0cCxM_0j30aJ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-20T06:25:21.059Z",
+      "id": "aae2b8ed7751"
+    },
+    {
+      "title": "CONTEMPORARY HOUSE FOR SALE CIUDAD QUESADA, SAN CARLOS #21001aptd",
+      "price_text": "₡180,000,000",
+      "price_usd": 360000,
+      "location": "hace 3 h4br1681ft2San Carlos",
+      "url": "https://costarica.craigslist.org/reb/d/contemporary-house-for-sale-ciudad/7909803000.html",
+      "images": [
+        "https://images.craigslist.org/d/7909803000/00s0s_9Usb8A0zOl0_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:21.139Z",
+      "id": "73b4ca93d009"
+    },
+    {
+      "title": "QUINTAS CASA DE CAMPO #10. OROTINA, ALAJUELA #20901al (FINANCED BY OWN",
+      "price_text": "₡130,050,000",
+      "price_usd": 260100,
+      "location": "hace 4 h7285ft2OROTINA",
+      "url": "https://costarica.craigslist.org/reb/d/quintas-casa-de-campo-10-orotina/7909804546.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:21.235Z",
+      "id": "b5eea2bd6cba"
+    },
+    {
+      "title": "MODERN HOUSE FOR SALE San Isidro of Grecia, Alajuela #20302dm",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 4 h2br439ft2Alajuela",
+      "url": "https://costarica.craigslist.org/reb/d/modern-house-for-sale-san-isidro-of/7909804285.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:21.310Z",
+      "id": "96c59775be6d"
+    },
+    {
+      "title": "COUNTRYSIDE PROPERTY IN LABRADOR OF SAN MATEO, ALAJUELA #20403mz",
+      "price_text": "₡183,600,000",
+      "price_usd": 367200,
+      "location": "hace 4 h4br6791ft2San Mateo",
+      "url": "https://costarica.craigslist.org/reb/d/countryside-property-in-labrador-of-san/7909802440.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:21.386Z",
+      "id": "ea2514182f23"
+    },
+    {
+      "title": "LAND FOR RESIDENTIAL DEVELOPMENT CIUDAD COLON, MORA, SAN JOSE #10701df",
+      "price_text": "₡460,000,000",
+      "price_usd": 920000,
+      "location": "hace 4 h10388ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-residential-development-ciudad/7909801352.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-20T06:25:21.474Z",
+      "id": "fca333efceb9"
+    },
+    {
+      "title": "HOUSE FOR COMMERCIAL USE FOR SALE SANTA BÁRBARA, HEREDIA #40403ns",
+      "price_text": "₡404,000,000",
+      "price_usd": 808000,
+      "location": "hace 4 h4br4423ft2Santa Bárbara / Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-commercial-use-for-sale-santa/7909798727.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:21.553Z",
+      "id": "4c77ac7df7ac"
+    },
+    {
+      "title": "PROPERTY / MIXED LAND USE IDEAL FOR BUSINESS / HOME HEREDIA #40101vcmc",
+      "price_text": "₡76,500,000",
+      "price_usd": 153000,
+      "location": "hace 3 h3br161ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reb/d/property-mixed-land-use-ideal-for/7909805113.html",
+      "images": [
+        "https://images.craigslist.org/d/7909805113/00M0M_6Dd6uNQ10dn_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-20T06:25:26.531Z",
+      "id": "a5775e1f1b99"
+    },
+    {
+      "title": "RECREATIONAL ESTATE IN OROTINA, ALAJUELA #20904em",
+      "price_text": "₡230,000,000",
+      "price_usd": 460000,
+      "location": "hace 3 h5br7036ft2ALAJUELA",
+      "url": "https://costarica.craigslist.org/reb/d/recreational-estate-in-orotina-alajuela/7909803872.html",
+      "images": [
+        "https://images.craigslist.org/d/7909803872/00I0I_b5bNcRITCab_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-20T06:25:26.592Z",
+      "id": "c6844268614c"
+    },
+    {
+      "title": "ESTATE FOR SALE GUAPILES, POCOCI, LIMON #70201cotd",
+      "price_text": "₡185,000,000",
+      "price_usd": 370000,
+      "location": "hace 3 h4br8524ft2GUAPILES",
+      "url": "https://costarica.craigslist.org/reb/d/estate-for-sale-guapiles-pococi-limon/7909805640.html",
+      "images": [
+        "https://images.craigslist.org/d/7909805640/00V0V_d7o25M0cCxM_0j30aJ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-20T06:25:26.651Z",
+      "id": "aae2b8ed7751"
+    },
+    {
+      "title": "CONTEMPORARY HOUSE FOR SALE CIUDAD QUESADA, SAN CARLOS #21001aptd",
+      "price_text": "₡180,000,000",
+      "price_usd": 360000,
+      "location": "hace 3 h4br1681ft2San Carlos",
+      "url": "https://costarica.craigslist.org/reb/d/contemporary-house-for-sale-ciudad/7909803000.html",
+      "images": [
+        "https://images.craigslist.org/d/7909803000/00s0s_9Usb8A0zOl0_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:26.727Z",
+      "id": "73b4ca93d009"
+    },
+    {
+      "title": "QUINTAS CASA DE CAMPO #10. OROTINA, ALAJUELA #20901al (FINANCED BY OWN",
+      "price_text": "₡130,050,000",
+      "price_usd": 260100,
+      "location": "hace 4 h7285ft2OROTINA",
+      "url": "https://costarica.craigslist.org/reb/d/quintas-casa-de-campo-10-orotina/7909804546.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:26.810Z",
+      "id": "b5eea2bd6cba"
+    },
+    {
+      "title": "MODERN HOUSE FOR SALE San Isidro of Grecia, Alajuela #20302dm",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 4 h2br439ft2Alajuela",
+      "url": "https://costarica.craigslist.org/reb/d/modern-house-for-sale-san-isidro-of/7909804285.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:26.882Z",
+      "id": "96c59775be6d"
+    },
+    {
+      "title": "COUNTRYSIDE PROPERTY IN LABRADOR OF SAN MATEO, ALAJUELA #20403mz",
+      "price_text": "₡183,600,000",
+      "price_usd": 367200,
+      "location": "hace 4 h4br6791ft2San Mateo",
+      "url": "https://costarica.craigslist.org/reb/d/countryside-property-in-labrador-of-san/7909802440.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:26.957Z",
+      "id": "ea2514182f23"
+    },
+    {
+      "title": "LAND FOR RESIDENTIAL DEVELOPMENT CIUDAD COLON, MORA, SAN JOSE #10701df",
+      "price_text": "₡460,000,000",
+      "price_usd": 920000,
+      "location": "hace 4 h10388ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-residential-development-ciudad/7909801352.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-20T06:25:27.039Z",
+      "id": "fca333efceb9"
+    },
+    {
+      "title": "HOUSE FOR COMMERCIAL USE FOR SALE SANTA BÁRBARA, HEREDIA #40403ns",
+      "price_text": "₡404,000,000",
+      "price_usd": 808000,
+      "location": "hace 4 h4br4423ft2Santa Bárbara / Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-commercial-use-for-sale-santa/7909798727.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:27.117Z",
+      "id": "4c77ac7df7ac"
+    },
+    {
+      "title": "PROPERTY / MIXED LAND USE IDEAL FOR BUSINESS / HOME HEREDIA #40101vcmc",
+      "price_text": "₡76,500,000",
+      "price_usd": 153000,
+      "location": "hace 3 h3br161ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reb/d/property-mixed-land-use-ideal-for/7909805113.html",
+      "images": [
+        "https://images.craigslist.org/d/7909805113/00M0M_6Dd6uNQ10dn_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-20T06:25:32.064Z",
+      "id": "a5775e1f1b99"
+    },
+    {
+      "title": "RECREATIONAL ESTATE IN OROTINA, ALAJUELA #20904em",
+      "price_text": "₡230,000,000",
+      "price_usd": 460000,
+      "location": "hace 3 h5br7036ft2ALAJUELA",
+      "url": "https://costarica.craigslist.org/reb/d/recreational-estate-in-orotina-alajuela/7909803872.html",
+      "images": [
+        "https://images.craigslist.org/d/7909803872/00I0I_b5bNcRITCab_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-20T06:25:32.124Z",
+      "id": "c6844268614c"
+    },
+    {
+      "title": "ESTATE FOR SALE GUAPILES, POCOCI, LIMON #70201cotd",
+      "price_text": "₡185,000,000",
+      "price_usd": 370000,
+      "location": "hace 3 h4br8524ft2GUAPILES",
+      "url": "https://costarica.craigslist.org/reb/d/estate-for-sale-guapiles-pococi-limon/7909805640.html",
+      "images": [
+        "https://images.craigslist.org/d/7909805640/00V0V_d7o25M0cCxM_0j30aJ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-20T06:25:32.183Z",
+      "id": "aae2b8ed7751"
+    },
+    {
+      "title": "CONTEMPORARY HOUSE FOR SALE CIUDAD QUESADA, SAN CARLOS #21001aptd",
+      "price_text": "₡180,000,000",
+      "price_usd": 360000,
+      "location": "hace 3 h4br1681ft2San Carlos",
+      "url": "https://costarica.craigslist.org/reb/d/contemporary-house-for-sale-ciudad/7909803000.html",
+      "images": [
+        "https://images.craigslist.org/d/7909803000/00s0s_9Usb8A0zOl0_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:32.258Z",
+      "id": "73b4ca93d009"
+    },
+    {
+      "title": "QUINTAS CASA DE CAMPO #10. OROTINA, ALAJUELA #20901al (FINANCED BY OWN",
+      "price_text": "₡130,050,000",
+      "price_usd": 260100,
+      "location": "hace 4 h7285ft2OROTINA",
+      "url": "https://costarica.craigslist.org/reb/d/quintas-casa-de-campo-10-orotina/7909804546.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:32.341Z",
+      "id": "b5eea2bd6cba"
+    },
+    {
+      "title": "MODERN HOUSE FOR SALE San Isidro of Grecia, Alajuela #20302dm",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 4 h2br439ft2Alajuela",
+      "url": "https://costarica.craigslist.org/reb/d/modern-house-for-sale-san-isidro-of/7909804285.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:32.414Z",
+      "id": "96c59775be6d"
+    },
+    {
+      "title": "COUNTRYSIDE PROPERTY IN LABRADOR OF SAN MATEO, ALAJUELA #20403mz",
+      "price_text": "₡183,600,000",
+      "price_usd": 367200,
+      "location": "hace 4 h4br6791ft2San Mateo",
+      "url": "https://costarica.craigslist.org/reb/d/countryside-property-in-labrador-of-san/7909802440.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:32.491Z",
+      "id": "ea2514182f23"
+    },
+    {
+      "title": "LAND FOR RESIDENTIAL DEVELOPMENT CIUDAD COLON, MORA, SAN JOSE #10701df",
+      "price_text": "₡460,000,000",
+      "price_usd": 920000,
+      "location": "hace 4 h10388ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-residential-development-ciudad/7909801352.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-20T06:25:32.573Z",
+      "id": "fca333efceb9"
+    },
+    {
+      "title": "HOUSE FOR COMMERCIAL USE FOR SALE SANTA BÁRBARA, HEREDIA #40403ns",
+      "price_text": "₡404,000,000",
+      "price_usd": 808000,
+      "location": "hace 4 h4br4423ft2Santa Bárbara / Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-commercial-use-for-sale-santa/7909798727.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:32.649Z",
+      "id": "4c77ac7df7ac"
+    },
+    {
+      "title": "PROPERTY / MIXED LAND USE IDEAL FOR BUSINESS / HOME HEREDIA #40101vcmc",
+      "price_text": "₡76,500,000",
+      "price_usd": 153000,
+      "location": "hace 3 h3br161ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reb/d/property-mixed-land-use-ideal-for/7909805113.html",
+      "images": [
+        "https://images.craigslist.org/d/7909805113/00M0M_6Dd6uNQ10dn_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-20T06:25:37.585Z",
+      "id": "a5775e1f1b99"
+    },
+    {
+      "title": "RECREATIONAL ESTATE IN OROTINA, ALAJUELA #20904em",
+      "price_text": "₡230,000,000",
+      "price_usd": 460000,
+      "location": "hace 3 h5br7036ft2ALAJUELA",
+      "url": "https://costarica.craigslist.org/reb/d/recreational-estate-in-orotina-alajuela/7909803872.html",
+      "images": [
+        "https://images.craigslist.org/d/7909803872/00I0I_b5bNcRITCab_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-20T06:25:37.645Z",
+      "id": "c6844268614c"
+    },
+    {
+      "title": "ESTATE FOR SALE GUAPILES, POCOCI, LIMON #70201cotd",
+      "price_text": "₡185,000,000",
+      "price_usd": 370000,
+      "location": "hace 3 h4br8524ft2GUAPILES",
+      "url": "https://costarica.craigslist.org/reb/d/estate-for-sale-guapiles-pococi-limon/7909805640.html",
+      "images": [
+        "https://images.craigslist.org/d/7909805640/00V0V_d7o25M0cCxM_0j30aJ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-20T06:25:37.704Z",
+      "id": "aae2b8ed7751"
+    },
+    {
+      "title": "CONTEMPORARY HOUSE FOR SALE CIUDAD QUESADA, SAN CARLOS #21001aptd",
+      "price_text": "₡180,000,000",
+      "price_usd": 360000,
+      "location": "hace 3 h4br1681ft2San Carlos",
+      "url": "https://costarica.craigslist.org/reb/d/contemporary-house-for-sale-ciudad/7909803000.html",
+      "images": [
+        "https://images.craigslist.org/d/7909803000/00s0s_9Usb8A0zOl0_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:37.780Z",
+      "id": "73b4ca93d009"
+    },
+    {
+      "title": "QUINTAS CASA DE CAMPO #10. OROTINA, ALAJUELA #20901al (FINANCED BY OWN",
+      "price_text": "₡130,050,000",
+      "price_usd": 260100,
+      "location": "hace 4 h7285ft2OROTINA",
+      "url": "https://costarica.craigslist.org/reb/d/quintas-casa-de-campo-10-orotina/7909804546.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:37.864Z",
+      "id": "b5eea2bd6cba"
+    },
+    {
+      "title": "MODERN HOUSE FOR SALE San Isidro of Grecia, Alajuela #20302dm",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 4 h2br439ft2Alajuela",
+      "url": "https://costarica.craigslist.org/reb/d/modern-house-for-sale-san-isidro-of/7909804285.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:37.939Z",
+      "id": "96c59775be6d"
+    },
+    {
+      "title": "COUNTRYSIDE PROPERTY IN LABRADOR OF SAN MATEO, ALAJUELA #20403mz",
+      "price_text": "₡183,600,000",
+      "price_usd": 367200,
+      "location": "hace 4 h4br6791ft2San Mateo",
+      "url": "https://costarica.craigslist.org/reb/d/countryside-property-in-labrador-of-san/7909802440.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:38.015Z",
+      "id": "ea2514182f23"
+    },
+    {
+      "title": "LAND FOR RESIDENTIAL DEVELOPMENT CIUDAD COLON, MORA, SAN JOSE #10701df",
+      "price_text": "₡460,000,000",
+      "price_usd": 920000,
+      "location": "hace 4 h10388ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-residential-development-ciudad/7909801352.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-20T06:25:38.098Z",
+      "id": "fca333efceb9"
+    },
+    {
+      "title": "HOUSE FOR COMMERCIAL USE FOR SALE SANTA BÁRBARA, HEREDIA #40403ns",
+      "price_text": "₡404,000,000",
+      "price_usd": 808000,
+      "location": "hace 4 h4br4423ft2Santa Bárbara / Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-commercial-use-for-sale-santa/7909798727.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:38.175Z",
+      "id": "4c77ac7df7ac"
+    },
+    {
+      "title": "PROPERTY / MIXED LAND USE IDEAL FOR BUSINESS / HOME HEREDIA #40101vcmc",
+      "price_text": "₡76,500,000",
+      "price_usd": 153000,
+      "location": "hace 3 h3br161ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reb/d/property-mixed-land-use-ideal-for/7909805113.html",
+      "images": [
+        "https://images.craigslist.org/d/7909805113/00M0M_6Dd6uNQ10dn_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-20T06:25:43.113Z",
+      "id": "a5775e1f1b99"
+    },
+    {
+      "title": "RECREATIONAL ESTATE IN OROTINA, ALAJUELA #20904em",
+      "price_text": "₡230,000,000",
+      "price_usd": 460000,
+      "location": "hace 3 h5br7036ft2ALAJUELA",
+      "url": "https://costarica.craigslist.org/reb/d/recreational-estate-in-orotina-alajuela/7909803872.html",
+      "images": [
+        "https://images.craigslist.org/d/7909803872/00I0I_b5bNcRITCab_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-20T06:25:43.172Z",
+      "id": "c6844268614c"
+    },
+    {
+      "title": "ESTATE FOR SALE GUAPILES, POCOCI, LIMON #70201cotd",
+      "price_text": "₡185,000,000",
+      "price_usd": 370000,
+      "location": "hace 3 h4br8524ft2GUAPILES",
+      "url": "https://costarica.craigslist.org/reb/d/estate-for-sale-guapiles-pococi-limon/7909805640.html",
+      "images": [
+        "https://images.craigslist.org/d/7909805640/00V0V_d7o25M0cCxM_0j30aJ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-20T06:25:43.231Z",
+      "id": "aae2b8ed7751"
+    },
+    {
+      "title": "CONTEMPORARY HOUSE FOR SALE CIUDAD QUESADA, SAN CARLOS #21001aptd",
+      "price_text": "₡180,000,000",
+      "price_usd": 360000,
+      "location": "hace 3 h4br1681ft2San Carlos",
+      "url": "https://costarica.craigslist.org/reb/d/contemporary-house-for-sale-ciudad/7909803000.html",
+      "images": [
+        "https://images.craigslist.org/d/7909803000/00s0s_9Usb8A0zOl0_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:43.308Z",
+      "id": "73b4ca93d009"
+    },
+    {
+      "title": "QUINTAS CASA DE CAMPO #10. OROTINA, ALAJUELA #20901al (FINANCED BY OWN",
+      "price_text": "₡130,050,000",
+      "price_usd": 260100,
+      "location": "hace 4 h7285ft2OROTINA",
+      "url": "https://costarica.craigslist.org/reb/d/quintas-casa-de-campo-10-orotina/7909804546.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:43.394Z",
+      "id": "b5eea2bd6cba"
+    },
+    {
+      "title": "MODERN HOUSE FOR SALE San Isidro of Grecia, Alajuela #20302dm",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 4 h2br439ft2Alajuela",
+      "url": "https://costarica.craigslist.org/reb/d/modern-house-for-sale-san-isidro-of/7909804285.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:43.469Z",
+      "id": "96c59775be6d"
+    },
+    {
+      "title": "COUNTRYSIDE PROPERTY IN LABRADOR OF SAN MATEO, ALAJUELA #20403mz",
+      "price_text": "₡183,600,000",
+      "price_usd": 367200,
+      "location": "hace 4 h4br6791ft2San Mateo",
+      "url": "https://costarica.craigslist.org/reb/d/countryside-property-in-labrador-of-san/7909802440.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:43.546Z",
+      "id": "ea2514182f23"
+    },
+    {
+      "title": "LAND FOR RESIDENTIAL DEVELOPMENT CIUDAD COLON, MORA, SAN JOSE #10701df",
+      "price_text": "₡460,000,000",
+      "price_usd": 920000,
+      "location": "hace 4 h10388ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-residential-development-ciudad/7909801352.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-20T06:25:43.628Z",
+      "id": "fca333efceb9"
+    },
+    {
+      "title": "HOUSE FOR COMMERCIAL USE FOR SALE SANTA BÁRBARA, HEREDIA #40403ns",
+      "price_text": "₡404,000,000",
+      "price_usd": 808000,
+      "location": "hace 4 h4br4423ft2Santa Bárbara / Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-commercial-use-for-sale-santa/7909798727.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T06:25:43.705Z",
+      "id": "4c77ac7df7ac"
     }
   ],
-  "last_updated": "2026-01-20T01:10:49.067Z",
+  "last_updated": "2026-01-20T06:29:54.221Z",
   "total_count": 402
 }
