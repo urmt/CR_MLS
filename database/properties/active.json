@@ -21349,8 +21349,233 @@
       "category": "residential",
       "scraped_at": "2026-01-20T06:25:43.705Z",
       "id": "4c77ac7df7ac"
+    },
+    {
+      "title": "Pavones Property",
+      "price_text": "₡500,000,000",
+      "price_usd": 1000000,
+      "location": "hace 17 min20468ft2Pavones",
+      "url": "https://costarica.craigslist.org/reb/d/pavones-property/7909916187.html",
+      "images": [
+        "https://images.craigslist.org/d/7909916187/01010_kPMPLaJYQq5_0dq0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T18:25:16.016Z",
+      "id": "35886db375c2"
+    },
+    {
+      "title": "Just Listed! Income Property in Heredia!",
+      "price_text": "₡2,999,000",
+      "price_usd": 5998,
+      "location": "hace 2 hHeredia",
+      "url": "https://costarica.craigslist.org/reo/d/just-listed-income-property-in-heredia/7900587222.html",
+      "images": [
+        "https://images.craigslist.org/d/7900587222/01616_f9PXF9D6sxm_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T18:25:16.070Z",
+      "id": "b87285510b70"
+    },
+    {
+      "title": "JUST LISTED! Gorgeous JACO property with Ocean Views...Financing!",
+      "price_text": "₡20",
+      "price_usd": 0,
+      "location": "hace 2 hJaco Beach",
+      "url": "https://costarica.craigslist.org/reo/d/just-listed-gorgeous-jaco-property-with/7900586840.html",
+      "images": [
+        "https://images.craigslist.org/d/7900586840/00C0C_ly4aph1rtGe_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T18:25:16.151Z",
+      "id": "4da99628147c"
+    },
+    {
+      "title": "Pavones Property",
+      "price_text": "₡500,000,000",
+      "price_usd": 1000000,
+      "location": "hace 17 min20468ft2Pavones",
+      "url": "https://costarica.craigslist.org/reb/d/pavones-property/7909916187.html",
+      "images": [
+        "https://images.craigslist.org/d/7909916187/01010_kPMPLaJYQq5_0dq0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T18:25:20.866Z",
+      "id": "35886db375c2"
+    },
+    {
+      "title": "Just Listed! Income Property in Heredia!",
+      "price_text": "₡2,999,000",
+      "price_usd": 5998,
+      "location": "hace 2 hHeredia",
+      "url": "https://costarica.craigslist.org/reo/d/just-listed-income-property-in-heredia/7900587222.html",
+      "images": [
+        "https://images.craigslist.org/d/7900587222/01616_f9PXF9D6sxm_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T18:25:20.919Z",
+      "id": "b87285510b70"
+    },
+    {
+      "title": "JUST LISTED! Gorgeous JACO property with Ocean Views...Financing!",
+      "price_text": "₡20",
+      "price_usd": 0,
+      "location": "hace 2 hJaco Beach",
+      "url": "https://costarica.craigslist.org/reo/d/just-listed-gorgeous-jaco-property-with/7900586840.html",
+      "images": [
+        "https://images.craigslist.org/d/7900586840/00C0C_ly4aph1rtGe_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T18:25:20.998Z",
+      "id": "4da99628147c"
+    },
+    {
+      "title": "Pavones Property",
+      "price_text": "₡500,000,000",
+      "price_usd": 1000000,
+      "location": "hace 17 min20468ft2Pavones",
+      "url": "https://costarica.craigslist.org/reb/d/pavones-property/7909916187.html",
+      "images": [
+        "https://images.craigslist.org/d/7909916187/01010_kPMPLaJYQq5_0dq0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T18:25:25.683Z",
+      "id": "35886db375c2"
+    },
+    {
+      "title": "Just Listed! Income Property in Heredia!",
+      "price_text": "₡2,999,000",
+      "price_usd": 5998,
+      "location": "hace 2 hHeredia",
+      "url": "https://costarica.craigslist.org/reo/d/just-listed-income-property-in-heredia/7900587222.html",
+      "images": [
+        "https://images.craigslist.org/d/7900587222/01616_f9PXF9D6sxm_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T18:25:25.739Z",
+      "id": "b87285510b70"
+    },
+    {
+      "title": "JUST LISTED! Gorgeous JACO property with Ocean Views...Financing!",
+      "price_text": "₡20",
+      "price_usd": 0,
+      "location": "hace 2 hJaco Beach",
+      "url": "https://costarica.craigslist.org/reo/d/just-listed-gorgeous-jaco-property-with/7900586840.html",
+      "images": [
+        "https://images.craigslist.org/d/7900586840/00C0C_ly4aph1rtGe_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T18:25:25.830Z",
+      "id": "4da99628147c"
+    },
+    {
+      "title": "Pavones Property",
+      "price_text": "₡500,000,000",
+      "price_usd": 1000000,
+      "location": "hace 17 min20468ft2Pavones",
+      "url": "https://costarica.craigslist.org/reb/d/pavones-property/7909916187.html",
+      "images": [
+        "https://images.craigslist.org/d/7909916187/01010_kPMPLaJYQq5_0dq0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T18:25:30.505Z",
+      "id": "35886db375c2"
+    },
+    {
+      "title": "Just Listed! Income Property in Heredia!",
+      "price_text": "₡2,999,000",
+      "price_usd": 5998,
+      "location": "hace 2 hHeredia",
+      "url": "https://costarica.craigslist.org/reo/d/just-listed-income-property-in-heredia/7900587222.html",
+      "images": [
+        "https://images.craigslist.org/d/7900587222/01616_f9PXF9D6sxm_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T18:25:30.557Z",
+      "id": "b87285510b70"
+    },
+    {
+      "title": "JUST LISTED! Gorgeous JACO property with Ocean Views...Financing!",
+      "price_text": "₡20",
+      "price_usd": 0,
+      "location": "hace 2 hJaco Beach",
+      "url": "https://costarica.craigslist.org/reo/d/just-listed-gorgeous-jaco-property-with/7900586840.html",
+      "images": [
+        "https://images.craigslist.org/d/7900586840/00C0C_ly4aph1rtGe_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T18:25:30.636Z",
+      "id": "4da99628147c"
+    },
+    {
+      "title": "Pavones Property",
+      "price_text": "₡500,000,000",
+      "price_usd": 1000000,
+      "location": "hace 17 min20468ft2Pavones",
+      "url": "https://costarica.craigslist.org/reb/d/pavones-property/7909916187.html",
+      "images": [
+        "https://images.craigslist.org/d/7909916187/01010_kPMPLaJYQq5_0dq0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T18:25:35.312Z",
+      "id": "35886db375c2"
+    },
+    {
+      "title": "Just Listed! Income Property in Heredia!",
+      "price_text": "₡2,999,000",
+      "price_usd": 5998,
+      "location": "hace 2 hHeredia",
+      "url": "https://costarica.craigslist.org/reo/d/just-listed-income-property-in-heredia/7900587222.html",
+      "images": [
+        "https://images.craigslist.org/d/7900587222/01616_f9PXF9D6sxm_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T18:25:35.365Z",
+      "id": "b87285510b70"
+    },
+    {
+      "title": "JUST LISTED! Gorgeous JACO property with Ocean Views...Financing!",
+      "price_text": "₡20",
+      "price_usd": 0,
+      "location": "hace 2 hJaco Beach",
+      "url": "https://costarica.craigslist.org/reo/d/just-listed-gorgeous-jaco-property-with/7900586840.html",
+      "images": [
+        "https://images.craigslist.org/d/7900586840/00C0C_ly4aph1rtGe_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-20T18:25:35.443Z",
+      "id": "4da99628147c"
     }
   ],
-  "last_updated": "2026-01-20T12:37:09.387Z",
+  "last_updated": "2026-01-20T18:29:52.740Z",
   "total_count": 402
 }
