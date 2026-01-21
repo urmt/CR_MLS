@@ -21799,8 +21799,308 @@
       "category": "residential",
       "scraped_at": "2026-01-20T22:55:52.183Z",
       "id": "63e7444c14a6"
+    },
+    {
+      "title": "CONDO HOME BELOW APPRAISED VALUE, LA GARITA OF ALAJUELA #20113gs",
+      "price_text": "₡189,500,000",
+      "price_usd": 379000,
+      "location": "hace 5 min5br1350ft220113",
+      "url": "https://costarica.craigslist.org/reb/d/condo-home-below-appraised-value-la/7910018327.html",
+      "images": [
+        "https://images.craigslist.org/d/7910018327/00W0W_7rcrWBhf5Xc_0j30aJ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T01:08:11.578Z",
+      "id": "2c830f273054"
+    },
+    {
+      "title": "COUNTRY HOUSE ESTATE FOR SALE; OROTINA, ALAJUELA #20901ab",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 7 min8507ft2OROTINA",
+      "url": "https://costarica.craigslist.org/reb/d/country-house-estate-for-sale-orotina/7910017902.html",
+      "images": [
+        "https://images.craigslist.org/d/7910017902/00000_3wuPrtwq6np_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T01:08:11.656Z",
+      "id": "26e33bf8322e"
+    },
+    {
+      "title": "HOUSE FOR SALE IN CONDOMINIUM SAN PABLO, HEREDIA, COSTA RICA #40901pe",
+      "price_text": "₡88,000,000",
+      "price_usd": 176000,
+      "location": "hace 9 min3br138ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-in-condominium-san-pablo/7910017589.html",
+      "images": [
+        "https://images.craigslist.org/d/7910017589/00a0a_ehaghZDQy7a_0fT0bV_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T01:08:11.743Z",
+      "id": "8791665ac963"
+    },
+    {
+      "title": "RECREATIONAL ESTATE FOR SALE. GUAPILES OF POCOCI, LIMON #70201eb",
+      "price_text": "₡84,000,000",
+      "price_usd": 168000,
+      "location": "hace 13 minGUAPILES",
+      "url": "https://costarica.craigslist.org/reb/d/recreational-estate-for-sale-guapiles/7910016928.html",
+      "images": [
+        "https://images.craigslist.org/d/7910016928/00q0q_6Om7bjj2SzY_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-21T01:08:11.823Z",
+      "id": "0ef6fc6251f9"
+    },
+    {
+      "title": "CONDO HOME BELOW APPRAISED VALUE, LA GARITA OF ALAJUELA #20113gs",
+      "price_text": "₡189,500,000",
+      "price_usd": 379000,
+      "location": "hace 5 min5br1350ft220113",
+      "url": "https://costarica.craigslist.org/reb/d/condo-home-below-appraised-value-la/7910018327.html",
+      "images": [
+        "https://images.craigslist.org/d/7910018327/00W0W_7rcrWBhf5Xc_0j30aJ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T01:08:16.922Z",
+      "id": "2c830f273054"
+    },
+    {
+      "title": "COUNTRY HOUSE ESTATE FOR SALE; OROTINA, ALAJUELA #20901ab",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 7 min8507ft2OROTINA",
+      "url": "https://costarica.craigslist.org/reb/d/country-house-estate-for-sale-orotina/7910017902.html",
+      "images": [
+        "https://images.craigslist.org/d/7910017902/00000_3wuPrtwq6np_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T01:08:16.993Z",
+      "id": "26e33bf8322e"
+    },
+    {
+      "title": "HOUSE FOR SALE IN CONDOMINIUM SAN PABLO, HEREDIA, COSTA RICA #40901pe",
+      "price_text": "₡88,000,000",
+      "price_usd": 176000,
+      "location": "hace 9 min3br138ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-in-condominium-san-pablo/7910017589.html",
+      "images": [
+        "https://images.craigslist.org/d/7910017589/00a0a_ehaghZDQy7a_0fT0bV_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T01:08:17.081Z",
+      "id": "8791665ac963"
+    },
+    {
+      "title": "RECREATIONAL ESTATE FOR SALE. GUAPILES OF POCOCI, LIMON #70201eb",
+      "price_text": "₡84,000,000",
+      "price_usd": 168000,
+      "location": "hace 13 minGUAPILES",
+      "url": "https://costarica.craigslist.org/reb/d/recreational-estate-for-sale-guapiles/7910016928.html",
+      "images": [
+        "https://images.craigslist.org/d/7910016928/00q0q_6Om7bjj2SzY_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-21T01:08:17.162Z",
+      "id": "0ef6fc6251f9"
+    },
+    {
+      "title": "CONDO HOME BELOW APPRAISED VALUE, LA GARITA OF ALAJUELA #20113gs",
+      "price_text": "₡189,500,000",
+      "price_usd": 379000,
+      "location": "hace 5 min5br1350ft220113",
+      "url": "https://costarica.craigslist.org/reb/d/condo-home-below-appraised-value-la/7910018327.html",
+      "images": [
+        "https://images.craigslist.org/d/7910018327/00W0W_7rcrWBhf5Xc_0j30aJ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T01:08:22.232Z",
+      "id": "2c830f273054"
+    },
+    {
+      "title": "COUNTRY HOUSE ESTATE FOR SALE; OROTINA, ALAJUELA #20901ab",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 7 min8507ft2OROTINA",
+      "url": "https://costarica.craigslist.org/reb/d/country-house-estate-for-sale-orotina/7910017902.html",
+      "images": [
+        "https://images.craigslist.org/d/7910017902/00000_3wuPrtwq6np_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T01:08:22.303Z",
+      "id": "26e33bf8322e"
+    },
+    {
+      "title": "HOUSE FOR SALE IN CONDOMINIUM SAN PABLO, HEREDIA, COSTA RICA #40901pe",
+      "price_text": "₡88,000,000",
+      "price_usd": 176000,
+      "location": "hace 9 min3br138ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-in-condominium-san-pablo/7910017589.html",
+      "images": [
+        "https://images.craigslist.org/d/7910017589/00a0a_ehaghZDQy7a_0fT0bV_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T01:08:22.389Z",
+      "id": "8791665ac963"
+    },
+    {
+      "title": "RECREATIONAL ESTATE FOR SALE. GUAPILES OF POCOCI, LIMON #70201eb",
+      "price_text": "₡84,000,000",
+      "price_usd": 168000,
+      "location": "hace 13 minGUAPILES",
+      "url": "https://costarica.craigslist.org/reb/d/recreational-estate-for-sale-guapiles/7910016928.html",
+      "images": [
+        "https://images.craigslist.org/d/7910016928/00q0q_6Om7bjj2SzY_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-21T01:08:22.468Z",
+      "id": "0ef6fc6251f9"
+    },
+    {
+      "title": "CONDO HOME BELOW APPRAISED VALUE, LA GARITA OF ALAJUELA #20113gs",
+      "price_text": "₡189,500,000",
+      "price_usd": 379000,
+      "location": "hace 5 min5br1350ft220113",
+      "url": "https://costarica.craigslist.org/reb/d/condo-home-below-appraised-value-la/7910018327.html",
+      "images": [
+        "https://images.craigslist.org/d/7910018327/00W0W_7rcrWBhf5Xc_0j30aJ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T01:08:27.532Z",
+      "id": "2c830f273054"
+    },
+    {
+      "title": "COUNTRY HOUSE ESTATE FOR SALE; OROTINA, ALAJUELA #20901ab",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 7 min8507ft2OROTINA",
+      "url": "https://costarica.craigslist.org/reb/d/country-house-estate-for-sale-orotina/7910017902.html",
+      "images": [
+        "https://images.craigslist.org/d/7910017902/00000_3wuPrtwq6np_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T01:08:27.604Z",
+      "id": "26e33bf8322e"
+    },
+    {
+      "title": "HOUSE FOR SALE IN CONDOMINIUM SAN PABLO, HEREDIA, COSTA RICA #40901pe",
+      "price_text": "₡88,000,000",
+      "price_usd": 176000,
+      "location": "hace 9 min3br138ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-in-condominium-san-pablo/7910017589.html",
+      "images": [
+        "https://images.craigslist.org/d/7910017589/00a0a_ehaghZDQy7a_0fT0bV_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T01:08:27.691Z",
+      "id": "8791665ac963"
+    },
+    {
+      "title": "RECREATIONAL ESTATE FOR SALE. GUAPILES OF POCOCI, LIMON #70201eb",
+      "price_text": "₡84,000,000",
+      "price_usd": 168000,
+      "location": "hace 13 minGUAPILES",
+      "url": "https://costarica.craigslist.org/reb/d/recreational-estate-for-sale-guapiles/7910016928.html",
+      "images": [
+        "https://images.craigslist.org/d/7910016928/00q0q_6Om7bjj2SzY_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-21T01:08:27.770Z",
+      "id": "0ef6fc6251f9"
+    },
+    {
+      "title": "CONDO HOME BELOW APPRAISED VALUE, LA GARITA OF ALAJUELA #20113gs",
+      "price_text": "₡189,500,000",
+      "price_usd": 379000,
+      "location": "hace 5 min5br1350ft220113",
+      "url": "https://costarica.craigslist.org/reb/d/condo-home-below-appraised-value-la/7910018327.html",
+      "images": [
+        "https://images.craigslist.org/d/7910018327/00W0W_7rcrWBhf5Xc_0j30aJ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T01:08:32.839Z",
+      "id": "2c830f273054"
+    },
+    {
+      "title": "COUNTRY HOUSE ESTATE FOR SALE; OROTINA, ALAJUELA #20901ab",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 7 min8507ft2OROTINA",
+      "url": "https://costarica.craigslist.org/reb/d/country-house-estate-for-sale-orotina/7910017902.html",
+      "images": [
+        "https://images.craigslist.org/d/7910017902/00000_3wuPrtwq6np_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T01:08:32.910Z",
+      "id": "26e33bf8322e"
+    },
+    {
+      "title": "HOUSE FOR SALE IN CONDOMINIUM SAN PABLO, HEREDIA, COSTA RICA #40901pe",
+      "price_text": "₡88,000,000",
+      "price_usd": 176000,
+      "location": "hace 9 min3br138ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-in-condominium-san-pablo/7910017589.html",
+      "images": [
+        "https://images.craigslist.org/d/7910017589/00a0a_ehaghZDQy7a_0fT0bV_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T01:08:32.995Z",
+      "id": "8791665ac963"
+    },
+    {
+      "title": "RECREATIONAL ESTATE FOR SALE. GUAPILES OF POCOCI, LIMON #70201eb",
+      "price_text": "₡84,000,000",
+      "price_usd": 168000,
+      "location": "hace 13 minGUAPILES",
+      "url": "https://costarica.craigslist.org/reb/d/recreational-estate-for-sale-guapiles/7910016928.html",
+      "images": [
+        "https://images.craigslist.org/d/7910016928/00q0q_6Om7bjj2SzY_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-21T01:08:33.080Z",
+      "id": "0ef6fc6251f9"
     }
   ],
-  "last_updated": "2026-01-21T00:02:17.790Z",
+  "last_updated": "2026-01-21T01:12:45.192Z",
   "total_count": 402
 }
