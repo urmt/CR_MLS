@@ -22324,8 +22324,83 @@
       "category": "land",
       "scraped_at": "2026-01-21T06:25:50.354Z",
       "id": "71b5861b90ea"
+    },
+    {
+      "title": "For Sale 37.5 Hectar Property,waterfalls,O.V. $150K in C.R.Currency",
+      "price_text": "₡80,000,000",
+      "price_usd": 160000,
+      "location": "hace 3 hGalan,de Turrubares,SAn Jose Province",
+      "url": "https://costarica.craigslist.org/reb/d/for-sale-375-hectar/7909424236.html",
+      "images": [
+        "https://images.craigslist.org/d/7909424236/00909_cikb8Jdrkmk_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T12:32:36.004Z",
+      "id": "92cf1f1fdc46"
+    },
+    {
+      "title": "For Sale 37.5 Hectar Property,waterfalls,O.V. $150K in C.R.Currency",
+      "price_text": "₡80,000,000",
+      "price_usd": 160000,
+      "location": "hace 3 hGalan,de Turrubares,SAn Jose Province",
+      "url": "https://costarica.craigslist.org/reb/d/for-sale-375-hectar/7909424236.html",
+      "images": [
+        "https://images.craigslist.org/d/7909424236/00909_cikb8Jdrkmk_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T12:32:40.781Z",
+      "id": "92cf1f1fdc46"
+    },
+    {
+      "title": "For Sale 37.5 Hectar Property,waterfalls,O.V. $150K in C.R.Currency",
+      "price_text": "₡80,000,000",
+      "price_usd": 160000,
+      "location": "hace 3 hGalan,de Turrubares,SAn Jose Province",
+      "url": "https://costarica.craigslist.org/reb/d/for-sale-375-hectar/7909424236.html",
+      "images": [
+        "https://images.craigslist.org/d/7909424236/00909_cikb8Jdrkmk_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T12:32:45.520Z",
+      "id": "92cf1f1fdc46"
+    },
+    {
+      "title": "For Sale 37.5 Hectar Property,waterfalls,O.V. $150K in C.R.Currency",
+      "price_text": "₡80,000,000",
+      "price_usd": 160000,
+      "location": "hace 3 hGalan,de Turrubares,SAn Jose Province",
+      "url": "https://costarica.craigslist.org/reb/d/for-sale-375-hectar/7909424236.html",
+      "images": [
+        "https://images.craigslist.org/d/7909424236/00909_cikb8Jdrkmk_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T12:32:50.251Z",
+      "id": "92cf1f1fdc46"
+    },
+    {
+      "title": "For Sale 37.5 Hectar Property,waterfalls,O.V. $150K in C.R.Currency",
+      "price_text": "₡80,000,000",
+      "price_usd": 160000,
+      "location": "hace 3 hGalan,de Turrubares,SAn Jose Province",
+      "url": "https://costarica.craigslist.org/reb/d/for-sale-375-hectar/7909424236.html",
+      "images": [
+        "https://images.craigslist.org/d/7909424236/00909_cikb8Jdrkmk_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-21T12:32:54.984Z",
+      "id": "92cf1f1fdc46"
     }
   ],
-  "last_updated": "2026-01-21T06:30:46.571Z",
+  "last_updated": "2026-01-21T12:37:10.420Z",
   "total_count": 402
 }
