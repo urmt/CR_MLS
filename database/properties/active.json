@@ -22819,8 +22819,101 @@
       "category": "luxury",
       "scraped_at": "2026-01-22T01:11:11.186Z",
       "id": "961fba3d94ab"
+    },
+    {
+      "title": "Luxury Home for Sale in Arenas Herradura with High-End Finishes",
+      "price_text": "₡122,500,000",
+      "price_usd": 245000,
+      "location": "hace 4 h3br130ft2Playa Herradura",
+      "url": "https://costarica.craigslist.org/reb/d/luxury-home-for-sale-in-arenas/7910252901.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7910252901/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-22T06:24:12.119Z",
+      "id": "74e08218d347"
+    },
+    {
+      "title": "Luxury Home for Sale in Arenas Herradura with High-End Finishes",
+      "price_text": "₡122,500,000",
+      "price_usd": 245000,
+      "location": "hace 4 h3br130ft2Playa Herradura",
+      "url": "https://costarica.craigslist.org/reb/d/luxury-home-for-sale-in-arenas/7910252901.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7910252901/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-22T06:24:17.430Z",
+      "id": "74e08218d347"
+    },
+    {
+      "title": "Luxury Home for Sale in Arenas Herradura with High-End Finishes",
+      "price_text": "₡122,500,000",
+      "price_usd": 245000,
+      "location": "hace 4 h3br130ft2Playa Herradura",
+      "url": "https://costarica.craigslist.org/reb/d/luxury-home-for-sale-in-arenas/7910252901.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7910252901/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-22T06:24:22.680Z",
+      "id": "74e08218d347"
+    },
+    {
+      "title": "Luxury Home for Sale in Arenas Herradura with High-End Finishes",
+      "price_text": "₡122,500,000",
+      "price_usd": 245000,
+      "location": "hace 4 h3br130ft2Playa Herradura",
+      "url": "https://costarica.craigslist.org/reb/d/luxury-home-for-sale-in-arenas/7910252901.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7910252901/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-22T06:24:27.928Z",
+      "id": "74e08218d347"
+    },
+    {
+      "title": "Luxury Home for Sale in Arenas Herradura with High-End Finishes",
+      "price_text": "₡122,500,000",
+      "price_usd": 245000,
+      "location": "hace 4 h3br130ft2Playa Herradura",
+      "url": "https://costarica.craigslist.org/reb/d/luxury-home-for-sale-in-arenas/7910252901.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7910252901/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-01-22T06:24:33.176Z",
+      "id": "74e08218d347"
+    },
+    {
+      "title": "5,000m² Lot in Playa Avellanas - Prime Investment Opportunity          Versatile Playa Potrero Home with Two Pools & Guest Suite          Casa Roca Blanca ~ Seaside Serenity in a Gated Community",
+      "price_text": "Price:     US$ 525 000.00      Price:     US$ 539 000.00      Price:     US$ 539 500.00",
+      "price_usd": 525000.00539,
+      "location": "Location:     Playa Avellanas      Location:     Playa Potrero      Location:     Playa Brasilito",
+      "url": "https://www.remax-oceansurf-cr.com/property/5000m2-lot-playa-avellanas-investment",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Lot-5000m2-Playa-Avellanas-Enclave.JPG?itok=TS3P98k9",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-grateful.png?itok=AQHKgslt",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-roca-blanca.png?itok=IkUGnnsS"
+      ],
+      "description": "This unique 5,000m² flat lot presents a rare opportunity to own a slice Playa Avellanas, one of Costa Rica’s...          Welcome to Casa Grateful, a stunning property offering either 3 or 4 bedrooms (depending on how it's divided...          Introducing Casa Roca Blanca, a tranquil haven in Catalina Cove, Brasilito, Costa Rica. Conveniently located...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-01-22T06:27:20.746Z",
+      "id": "cfc5d3600742"
     }
   ],
-  "last_updated": "2026-01-22T01:12:52.407Z",
+  "last_updated": "2026-01-22T06:29:00.104Z",
   "total_count": 402
 }
