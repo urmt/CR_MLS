@@ -23242,8 +23242,83 @@
       "category": "luxury",
       "scraped_at": "2026-01-24T01:05:40.649Z",
       "id": "813012409c3e"
+    },
+    {
+      "title": "Santa Cecilia Farm, Guanacaste",
+      "price_text": "₡4",
+      "price_usd": 0,
+      "location": "hace 5 hLa Cruz, Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/santa-cecilia-farm-guanacaste/7910815729.html",
+      "images": [
+        "https://images.craigslist.org/d/7910815729/00f0f_5u6JgPeV3OR_084048_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-25T01:13:49.359Z",
+      "id": "c958be04eb73"
+    },
+    {
+      "title": "Santa Cecilia Farm, Guanacaste",
+      "price_text": "₡4",
+      "price_usd": 0,
+      "location": "hace 5 hLa Cruz, Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/santa-cecilia-farm-guanacaste/7910815729.html",
+      "images": [
+        "https://images.craigslist.org/d/7910815729/00f0f_5u6JgPeV3OR_084048_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-25T01:13:54.278Z",
+      "id": "c958be04eb73"
+    },
+    {
+      "title": "Santa Cecilia Farm, Guanacaste",
+      "price_text": "₡4",
+      "price_usd": 0,
+      "location": "hace 5 hLa Cruz, Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/santa-cecilia-farm-guanacaste/7910815729.html",
+      "images": [
+        "https://images.craigslist.org/d/7910815729/00f0f_5u6JgPeV3OR_084048_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-25T01:13:59.155Z",
+      "id": "c958be04eb73"
+    },
+    {
+      "title": "Santa Cecilia Farm, Guanacaste",
+      "price_text": "₡4",
+      "price_usd": 0,
+      "location": "hace 5 hLa Cruz, Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/santa-cecilia-farm-guanacaste/7910815729.html",
+      "images": [
+        "https://images.craigslist.org/d/7910815729/00f0f_5u6JgPeV3OR_084048_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-25T01:14:04.001Z",
+      "id": "c958be04eb73"
+    },
+    {
+      "title": "Santa Cecilia Farm, Guanacaste",
+      "price_text": "₡4",
+      "price_usd": 0,
+      "location": "hace 5 hLa Cruz, Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/santa-cecilia-farm-guanacaste/7910815729.html",
+      "images": [
+        "https://images.craigslist.org/d/7910815729/00f0f_5u6JgPeV3OR_084048_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-25T01:14:08.872Z",
+      "id": "c958be04eb73"
     }
   ],
-  "last_updated": "2026-01-24T18:24:59.452Z",
+  "last_updated": "2026-01-25T01:18:26.018Z",
   "total_count": 402
 }
