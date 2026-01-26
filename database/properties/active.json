@@ -23317,8 +23317,23 @@
       "category": "land",
       "scraped_at": "2026-01-25T01:14:08.872Z",
       "id": "c958be04eb73"
+    },
+    {
+      "title": "Cap Rate 10% Apartment building in Santa Ana ID 25495\n                Commercial, Santa Ana, San Jose",
+      "price_text": "$1,000,000",
+      "price_usd": 1000000,
+      "location": "Commercial, Santa Ana, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/18-bed-commercial-for-sale-in-santa-ana/13895",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005rmuq7/19fpoth32/midres/WhatsApp%20Image%202025-11-29%20at%2010.28.21%20AM%20%284%29.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-26T06:28:05.594Z",
+      "id": "d1794e460262"
     }
   ],
-  "last_updated": "2026-01-26T01:17:31.326Z",
+  "last_updated": "2026-01-26T06:31:14.157Z",
   "total_count": 402
 }
