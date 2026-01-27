@@ -23332,8 +23332,359 @@
       "category": "residential",
       "scraped_at": "2026-01-26T06:28:05.594Z",
       "id": "d1794e460262"
+    },
+    {
+      "title": "Nine‑unit apartment complex for sale, featuring a pool and located jus",
+      "price_text": "₡299,995,000",
+      "price_usd": 599990,
+      "location": "hace 3 h8br1000ft2",
+      "url": "https://costarica.craigslist.org/reb/d/nineunit-apartment-complex-for-sale/7911206329.html",
+      "images": [
+        "https://images.craigslist.org/d/7911206329/00S0S_3fof7HrKJeG_0uY0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-27T01:11:17.965Z",
+      "id": "48e82bbfb3b9"
+    },
+    {
+      "title": "HOUSE + 4 STUDIO APARTMENTS FOR SALE",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 3 h3br600ft2Tamarindo",
+      "url": "https://costarica.craigslist.org/reb/d/house-studio-apartments-for-sale/7911198994.html",
+      "images": [
+        "https://images.craigslist.org/d/7911198994/00E0E_aNsv89zrc7P_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-27T01:11:18.018Z",
+      "id": "c0430e92c5bb"
+    },
+    {
+      "title": "SE VENDE CASA",
+      "price_text": "₡100,000,000",
+      "price_usd": 200000,
+      "location": "hace 4 h5br400ft2Barrio Brasilia",
+      "url": "https://costarica.craigslist.org/reo/d/se-vende-casa/7911179653.html",
+      "images": [
+        "https://images.craigslist.org/d/7911179653/00U0U_586W7FGLUMk_0i90oB_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-27T01:11:18.201Z",
+      "id": "b824b5d02207"
+    },
+    {
+      "title": "Nine‑unit apartment complex for sale, featuring a pool and located jus",
+      "price_text": "₡299,995,000",
+      "price_usd": 599990,
+      "location": "hace 3 h8br1000ft2",
+      "url": "https://costarica.craigslist.org/reb/d/nineunit-apartment-complex-for-sale/7911206329.html",
+      "images": [
+        "https://images.craigslist.org/d/7911206329/00S0S_3fof7HrKJeG_0uY0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-27T01:11:23.257Z",
+      "id": "48e82bbfb3b9"
+    },
+    {
+      "title": "HOUSE + 4 STUDIO APARTMENTS FOR SALE",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 3 h3br600ft2Tamarindo",
+      "url": "https://costarica.craigslist.org/reb/d/house-studio-apartments-for-sale/7911198994.html",
+      "images": [
+        "https://images.craigslist.org/d/7911198994/00E0E_aNsv89zrc7P_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-27T01:11:23.306Z",
+      "id": "c0430e92c5bb"
+    },
+    {
+      "title": "SE VENDE CASA",
+      "price_text": "₡100,000,000",
+      "price_usd": 200000,
+      "location": "hace 4 h5br400ft2Barrio Brasilia",
+      "url": "https://costarica.craigslist.org/reo/d/se-vende-casa/7911179653.html",
+      "images": [
+        "https://images.craigslist.org/d/7911179653/00U0U_586W7FGLUMk_0i90oB_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-27T01:11:23.487Z",
+      "id": "b824b5d02207"
+    },
+    {
+      "title": "Nine‑unit apartment complex for sale, featuring a pool and located jus",
+      "price_text": "₡299,995,000",
+      "price_usd": 599990,
+      "location": "hace 3 h8br1000ft2",
+      "url": "https://costarica.craigslist.org/reb/d/nineunit-apartment-complex-for-sale/7911206329.html",
+      "images": [
+        "https://images.craigslist.org/d/7911206329/00S0S_3fof7HrKJeG_0uY0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-27T01:11:28.492Z",
+      "id": "48e82bbfb3b9"
+    },
+    {
+      "title": "HOUSE + 4 STUDIO APARTMENTS FOR SALE",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 3 h3br600ft2Tamarindo",
+      "url": "https://costarica.craigslist.org/reb/d/house-studio-apartments-for-sale/7911198994.html",
+      "images": [
+        "https://images.craigslist.org/d/7911198994/00E0E_aNsv89zrc7P_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-27T01:11:28.542Z",
+      "id": "c0430e92c5bb"
+    },
+    {
+      "title": "SE VENDE CASA",
+      "price_text": "₡100,000,000",
+      "price_usd": 200000,
+      "location": "hace 4 h5br400ft2Barrio Brasilia",
+      "url": "https://costarica.craigslist.org/reo/d/se-vende-casa/7911179653.html",
+      "images": [
+        "https://images.craigslist.org/d/7911179653/00U0U_586W7FGLUMk_0i90oB_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-27T01:11:28.731Z",
+      "id": "b824b5d02207"
+    },
+    {
+      "title": "Nine‑unit apartment complex for sale, featuring a pool and located jus",
+      "price_text": "₡299,995,000",
+      "price_usd": 599990,
+      "location": "hace 3 h8br1000ft2",
+      "url": "https://costarica.craigslist.org/reb/d/nineunit-apartment-complex-for-sale/7911206329.html",
+      "images": [
+        "https://images.craigslist.org/d/7911206329/00S0S_3fof7HrKJeG_0uY0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-27T01:11:33.740Z",
+      "id": "48e82bbfb3b9"
+    },
+    {
+      "title": "HOUSE + 4 STUDIO APARTMENTS FOR SALE",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 3 h3br600ft2Tamarindo",
+      "url": "https://costarica.craigslist.org/reb/d/house-studio-apartments-for-sale/7911198994.html",
+      "images": [
+        "https://images.craigslist.org/d/7911198994/00E0E_aNsv89zrc7P_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-27T01:11:33.789Z",
+      "id": "c0430e92c5bb"
+    },
+    {
+      "title": "SE VENDE CASA",
+      "price_text": "₡100,000,000",
+      "price_usd": 200000,
+      "location": "hace 4 h5br400ft2Barrio Brasilia",
+      "url": "https://costarica.craigslist.org/reo/d/se-vende-casa/7911179653.html",
+      "images": [
+        "https://images.craigslist.org/d/7911179653/00U0U_586W7FGLUMk_0i90oB_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-27T01:11:33.970Z",
+      "id": "b824b5d02207"
+    },
+    {
+      "title": "Nine‑unit apartment complex for sale, featuring a pool and located jus",
+      "price_text": "₡299,995,000",
+      "price_usd": 599990,
+      "location": "hace 3 h8br1000ft2",
+      "url": "https://costarica.craigslist.org/reb/d/nineunit-apartment-complex-for-sale/7911206329.html",
+      "images": [
+        "https://images.craigslist.org/d/7911206329/00S0S_3fof7HrKJeG_0uY0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-27T01:11:38.980Z",
+      "id": "48e82bbfb3b9"
+    },
+    {
+      "title": "HOUSE + 4 STUDIO APARTMENTS FOR SALE",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 3 h3br600ft2Tamarindo",
+      "url": "https://costarica.craigslist.org/reb/d/house-studio-apartments-for-sale/7911198994.html",
+      "images": [
+        "https://images.craigslist.org/d/7911198994/00E0E_aNsv89zrc7P_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-27T01:11:39.030Z",
+      "id": "c0430e92c5bb"
+    },
+    {
+      "title": "SE VENDE CASA",
+      "price_text": "₡100,000,000",
+      "price_usd": 200000,
+      "location": "hace 4 h5br400ft2Barrio Brasilia",
+      "url": "https://costarica.craigslist.org/reo/d/se-vende-casa/7911179653.html",
+      "images": [
+        "https://images.craigslist.org/d/7911179653/00U0U_586W7FGLUMk_0i90oB_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-27T01:11:39.212Z",
+      "id": "b824b5d02207"
+    },
+    {
+      "title": "Ocean View 79 hectares finca - La Puerta del Sol          Flamingo Marina Cove 606 ~ Ground-Floor Beachfront Condo Just...          Tamarindo Park ~ New Luxury Gated Community",
+      "price_text": "Price:     US$ 1 580 000.00      Price:     US$ 1 600 000.00      Price:     US$ 1 655 000.00",
+      "price_usd": 1580000.0016,
+      "location": "Location:     Playa Junquillal      Location:     Playa Flamingo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/ocean-view-79-hectares-finca-la-puerta-del-sol",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Finca-la-puerta-del-sol.jpg?itok=oFtWBET_",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/35-flamingo-3-bedroom-condo-exterior-1.jpg?itok=cBGKokH6",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/8-lot-24-%26-25.png?itok=cWJVtYrB"
+      ],
+      "description": "Beautiful property of 79 hectares with stunning views of valleys and the ocean, in La Puerta del Sol. The...          This fully remodeled, ground-floor beachfront condo sits directly on Flamingo Beach and only 45 seconds from...          Tamarindo Park is proud to bring a unique Costa Rican gated community to the desirable Tamarindo area of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-27T01:14:31.770Z",
+      "id": "325f4f379113"
+    },
+    {
+      "title": "Rancho Coco ~ Multi-Unit Ranch Residence with Residential and...          Casa Sunset ~ Turnkey Elegance Meets Panoramic Views           Tamarindo Park 64 ~ Perfect Balance of Style and Practicality",
+      "price_text": "Price:     US$ 1 690 000.00      Price:     US$ 1 699 000.00      Price:     US$ 1 700 000.00",
+      "price_usd": 1690000.001699,
+      "location": "Location:     Playa Negra      Location:     Playa Flamingo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/rancho-coco-multi-unit-property",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Rancho_Coco_Drone_01_marker.jpg?itok=UjGNzKNq",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-buddha.png?itok=JgeL050B",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-tamarindo-64-2025.png?itok=7ojVSy3V"
+      ],
+      "description": "Set amidst the serene landscapes of Playa Negra, Rancho Coco offers an enticing opportunity for lucrative...          Welcome to Casa Sunset, a lovely and renovated 4-bedroom, 4.5-bath home with an ocean view. The home has just...          Located in the new luxury gated community of Tamarindo Park, this modern home is designed to blend indoor and...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-01-27T01:14:32.084Z",
+      "id": "6ebd979957c0"
+    },
+    {
+      "title": "Enclave 49 ~ Luxury Living with Direct Beach Access          PRICE REDUCTION! Prime Development Opportunity ~ 18 Lots on 10.3...          Casa Orquidea ~ Hacienda Pinilla",
+      "price_text": "Price:     US$ 1 790 000.00      Price:     US$ 1 790 000.00      Price:     US$ 1 850 000.00",
+      "price_usd": 1790000.00179,
+      "location": "Location:     Playa Langosta      Location:     Playa Negra      Location:     Hacienda-Pinilla",
+      "url": "https://www.remax-oceansurf-cr.com/property/enclave-49-tamarindo-preserve",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.-Enclave-49-house-exterior.jpg?itok=5Npke5qV",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-prime-development-opportunity-playa-negra.jpg?itok=5SxrZgZR",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-orquidea.png?itok=NHJkqC2d"
+      ],
+      "description": "Welcome to Enclave 49, a luxurious ocean-view home located in the exclusive San Francisco Point community of...          Introducing a prime 10.3-hectare development opportunity in Playa Negra, Guanacaste. This peaceful coastal...          The lovely residence is set within a beautifully landscaped 2,014m2 (½ acre) site, complemented by mature...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-01-27T01:14:32.358Z",
+      "id": "eefa7085e164"
+    },
+    {
+      "title": "Casa Blanca ~ Luxury Golf-Front Estate with Private Guest House          25 Paseo del Mar ~ Modern Townhome with Open Layout and Stunning...          Spacious Multi-Use Property with Lots of Potential!",
+      "price_text": "Price:     US$ 1 950 000.00      Price:     US$ 1 950 000.00      Price:     US$ 1 975 000.00",
+      "price_usd": 1950000.00195,
+      "location": "Location:     Hacienda-Pinilla      Location:     Playa Danta      Location:     Playa Flamingo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-blanca-reserva-de-golf",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-blanca-2025.png?itok=eHaLOaun",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-25-paseo-del-mar.jpg?itok=HLD71j97",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-multi-use-flamingo-property-2022.jpg?itok=IjeOCwpI"
+      ],
+      "description": "Casa Blanca is a stunning multi-family estate offering over 7,000 square feet of indoor living space. This...          This beautiful and comfortable beachfront home sits just across the plaza from the Beach Club. Perfectly...          Welcome to your dream tropical home in the heart of Flamingo Beach, Guanacaste! This exceptional property...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-27T01:14:32.777Z",
+      "id": "7c22d2dfd0ae"
+    },
+    {
+      "title": "Villa Ballena ~ Pinnacle of Luxury Living Sitting on the Sands...          Reserva de Golf 49 ~ Elegant 4-Bedroom Villa with Luxury...          PRICE REDUCTION! Casa Bettina ~ Luxury Living Steps from the...",
+      "price_text": "Price:     US$ 2 490 000.00      Price:     US$ 2 495 000.00      Price:     US$ 2 495 000.00",
+      "price_usd": 2490000.002495,
+      "location": "Location:     Playa Potrero      Location:     Hacienda-Pinilla      Location:     Hacienda-Pinilla",
+      "url": "https://www.remax-oceansurf-cr.com/property/villa-ballena-beach-front-potrero",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/83-villa-ballena.jpg?itok=wBgX_qeH",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/13-reserva-de-golf-49-2025.png?itok=-0Ls7Opf",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-benitta.jpg?itok=CrwJ8Yvm"
+      ],
+      "description": "Villa Ballena, meaning \"Whale House\" in Spanish, lives up to its name with nearly 5000 square feet of...          Nestled within the prestigious Hacienda Pinilla community, Reserva de Golf 49 is a stunning two-story...          Welcome to Casa Bettina – A Tropical Dream Home in Hacienda Pinilla\nExperience luxury redefined at Casa...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-27T01:14:33.816Z",
+      "id": "2dc1131b1669"
+    },
+    {
+      "title": "Las Crestas de Senderos Home 13F ~ Senderos Phase Three          Casa Mar del Paraiso ~ Luxury Four Bedroom Estate Perched in the...          Senderos 24E ~ Valley-View Luxury Estate with Pool and Yoga Deck",
+      "price_text": "Price:     US$ 2 660 000.00      Price:     US$ 2 795 000.00      Price:     US$ 2 800 000.00",
+      "price_usd": 2660000.002795,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/las-crestas-de-senderos-home-13f",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-13F-Senderos-Tamarindo.png?itok=BBMbfdu4",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-mar-paraiso.png?itok=JYGCCVgA",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-senderos-24e%20.png?itok=J6TOaYVm"
+      ],
+      "description": "Delivery December 2024\nOnce again, the team at WR Architects has created a spectacular design for the...          Casa Mar del Paraiso (Sea of Paradise) is truly a gem of a property that was recently constructed and...          Casa Verde is a meticulously crafted 4-bedroom, 4.5-bath residence, fully furnished and designed by renowned...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-01-27T01:14:34.334Z",
+      "id": "4acaf69608b6"
+    },
+    {
+      "title": "Casa Pacifica: Expansive Luxury Estate with Unmatched Views          Ultimate Beachfront Elegance in this 3-Bedroom Retreat          Las Crestas de Senderos Home 11F ~ Senderos Phase Three",
+      "price_text": "Price:     US$ 3 790 000.00      Price:     US$ 3 900 000.00      Price:     US$ 3 950 000.00",
+      "price_usd": 3790000.0039,
+      "location": "Location:     Playa Flamingo      Location:     Playa Flamingo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-pacifica-mar-vista",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-casa-pacifica.png?itok=V3Gq_Z-w",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-palms-33.jpg?itok=eAGVdaol",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-11F-Senderos-Tamarindo.png?itok=iGmBZX4u"
+      ],
+      "description": "Welcome to Casa Pacifica, where luxury living meets breathtaking ocean views. Situated 500 feet above sea...          Discover the epitome of beachfront luxury at Palms #33, a premier titled property nestled in the heart of...          Delivery December 2024\nThis modern hideaway was created by the amazing team at WR Architects with one thing...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-01-27T01:14:39.833Z",
+      "id": "fa0719a6ae99"
     }
   ],
-  "last_updated": "2026-01-26T18:29:52.155Z",
+  "last_updated": "2026-01-27T01:15:55.034Z",
   "total_count": 402
 }
