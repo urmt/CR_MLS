@@ -23788,8 +23788,98 @@
       "category": "luxury",
       "scraped_at": "2026-01-27T18:29:12.910Z",
       "id": "deb78a1d20bf"
+    },
+    {
+      "title": "T-Hanz - Lots for sale near Avellanas Beach",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 2 h1457ft2San Jose de Pinilla, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/hanz-lots-for-sale-near-avellanas-beach/7911430293.html",
+      "images": [
+        "https://images.craigslist.org/d/7911430293/00m0m_akiSOMK8U58_0gw0co_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-28T01:07:46.772Z",
+      "id": "97ea0a7eb7af"
+    },
+    {
+      "title": "T-Hanz - Lots for sale near Avellanas Beach",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 2 h1457ft2San Jose de Pinilla, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/hanz-lots-for-sale-near-avellanas-beach/7911430293.html",
+      "images": [
+        "https://images.craigslist.org/d/7911430293/00m0m_akiSOMK8U58_0gw0co_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-28T01:07:51.630Z",
+      "id": "97ea0a7eb7af"
+    },
+    {
+      "title": "T-Hanz - Lots for sale near Avellanas Beach",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 2 h1457ft2San Jose de Pinilla, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/hanz-lots-for-sale-near-avellanas-beach/7911430293.html",
+      "images": [
+        "https://images.craigslist.org/d/7911430293/00m0m_akiSOMK8U58_0gw0co_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-28T01:07:56.471Z",
+      "id": "97ea0a7eb7af"
+    },
+    {
+      "title": "T-Hanz - Lots for sale near Avellanas Beach",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 2 h1457ft2San Jose de Pinilla, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/hanz-lots-for-sale-near-avellanas-beach/7911430293.html",
+      "images": [
+        "https://images.craigslist.org/d/7911430293/00m0m_akiSOMK8U58_0gw0co_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-28T01:08:01.313Z",
+      "id": "97ea0a7eb7af"
+    },
+    {
+      "title": "T-Hanz - Lots for sale near Avellanas Beach",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 2 h1457ft2San Jose de Pinilla, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/hanz-lots-for-sale-near-avellanas-beach/7911430293.html",
+      "images": [
+        "https://images.craigslist.org/d/7911430293/00m0m_akiSOMK8U58_0gw0co_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-28T01:08:06.133Z",
+      "id": "97ea0a7eb7af"
+    },
+    {
+      "title": "40-Acre Titled Beachfront Development Opportunity in Playa Grande\n                Land, Playa Grande, Guanacaste",
+      "price_text": "$12,900,000",
+      "price_usd": 12900000,
+      "location": "Land, Playa Grande, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-playa-grande/13916",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-28T01:10:04.535Z",
+      "id": "389239b16703"
     }
   ],
-  "last_updated": "2026-01-27T18:33:29.872Z",
+  "last_updated": "2026-01-28T01:12:23.968Z",
   "total_count": 402
 }
