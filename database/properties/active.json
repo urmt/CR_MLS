@@ -24196,8 +24196,137 @@
       "category": "residential",
       "scraped_at": "2026-01-29T06:37:16.673Z",
       "id": "86c282de944f"
+    },
+    {
+      "title": "Beach House",
+      "price_text": "₡70,000,000",
+      "price_usd": 140000,
+      "location": "hace 4 h2br500ft2Playa Naranjo",
+      "url": "https://costarica.craigslist.org/reb/d/beach-house/7910171019.html",
+      "images": [
+        "https://images.craigslist.org/d/7910171019/01212_jyqCXjt4jz0_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-29T18:33:45.244Z",
+      "id": "64664513b393"
+    },
+    {
+      "title": "Beach House",
+      "price_text": "₡70,000,000",
+      "price_usd": 140000,
+      "location": "hace 4 h2br500ft2Playa Naranjo",
+      "url": "https://costarica.craigslist.org/reb/d/beach-house/7910171019.html",
+      "images": [
+        "https://images.craigslist.org/d/7910171019/01212_jyqCXjt4jz0_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-29T18:33:50.014Z",
+      "id": "64664513b393"
+    },
+    {
+      "title": "Beach House",
+      "price_text": "₡70,000,000",
+      "price_usd": 140000,
+      "location": "hace 4 h2br500ft2Playa Naranjo",
+      "url": "https://costarica.craigslist.org/reb/d/beach-house/7910171019.html",
+      "images": [
+        "https://images.craigslist.org/d/7910171019/01212_jyqCXjt4jz0_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-29T18:33:54.743Z",
+      "id": "64664513b393"
+    },
+    {
+      "title": "Beach House",
+      "price_text": "₡70,000,000",
+      "price_usd": 140000,
+      "location": "hace 4 h2br500ft2Playa Naranjo",
+      "url": "https://costarica.craigslist.org/reb/d/beach-house/7910171019.html",
+      "images": [
+        "https://images.craigslist.org/d/7910171019/01212_jyqCXjt4jz0_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-29T18:33:59.460Z",
+      "id": "64664513b393"
+    },
+    {
+      "title": "Beach House",
+      "price_text": "₡70,000,000",
+      "price_usd": 140000,
+      "location": "hace 4 h2br500ft2Playa Naranjo",
+      "url": "https://costarica.craigslist.org/reb/d/beach-house/7910171019.html",
+      "images": [
+        "https://images.craigslist.org/d/7910171019/01212_jyqCXjt4jz0_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-01-29T18:34:04.183Z",
+      "id": "64664513b393"
+    },
+    {
+      "title": "Senderos Lot 9E ~ Perfect Ocean View Plot of Land in Exclusive...          Casa Oceana ~ Private Beachfront Haven at your Fingertips          PRICE REDUCTION! La Oveja Surf House Restaurant",
+      "price_text": "Price:     US$ 549 000.00      Price:     US$ 549 000.00      Price:     US$ 550 000.00",
+      "price_usd": 549000.00549,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Junquillal      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/senderos-lot-9e",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-senderos-lot-immo.png?itok=IsgPXhAB",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-oceana.png?itok=YtLrocYv",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/17-La-Oveja-Surf%20House.jpg?itok=Mqc_a2QV"
+      ],
+      "description": "This Ocean View Lot spans 1201m2 and is situated within the prestigious gated community of Senderos, just 1km...          Welcome to Casa Oceana, a titled beachfront 2-bedroom condominium at Brisas del Mar, in the beach community...          La Oveja Restaurant is a fully renovated and operating restaurant and bar in the heart of Tamarindo Beach....",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-01-29T18:36:34.562Z",
+      "id": "dad142f1b0dc"
+    },
+    {
+      "title": "Luxury 5-Bedroom Ocean View Residence Near Downtown Tamarindo          La Esquina - Commercial Center in the Heart of Avellanas Beach          PRICE REDUCTION! Jasmine Homes ~ Prime Multi-Unit Property...",
+      "price_text": "Price:     US$ 1 290 000.00      Price:     US$ 1 300 000.00      Price:     US$ 1 350 000.00",
+      "price_usd": 1290000.0013,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Avellanas      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-de-la-perla-tamarindo-hillside",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-de-la-perla-2025.png?itok=rqdrrk_M",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-La-Esquina-de-Avellanas-1.jpg?itok=2HyiV65u",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/16-jasmine-i-and-ii.jpg?itok=U_oprJo9"
+      ],
+      "description": "Just minutes from Tamarindo’s center yet tucked into a private hillside, this 5-bedroom, 4.5-bath luxury...          Welcome to La Esquina! Meaning \"The Corner\" in Spanish, Plaza La Esquina is the vibrant and culturally...          Jasmine Homes I & II\nLuxury Residences in Tamarindo – Live, Invest, and Enjoy Beachside Living! Discover...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-01-29T18:36:45.781Z",
+      "id": "dc5183267c69"
+    },
+    {
+      "title": "Half Acre of Beachfront Bliss in Tamarindo          Casa Las Brisas ~ 5 Bedroom Ocean View Estate in Flamingo Beach          Hotel Boruca ~ Thriving Hotel in the Heart of Tamarindo",
+      "price_text": "Price:     US$ 2 950 000.00      Price:     US$ 2 950 000.00      Price:     US$ 3 000 000.00",
+      "price_usd": 2950000.00295,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Flamingo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/tamarindo-beachfront-lot",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-lot-next-to-chiringuito.jpg?itok=OJ2aw1-L",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-las-brisas.jpeg?itok=4NDOcz_A",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-hotel-boruca_0.png?itok=1eeezf0w"
+      ],
+      "description": "This beachfront property, just steps from Tamarindo's hub, is surrounded by international dining options,...          Casa Las Brisas is an extraordinary property with stunning ocean views extending from the Bay of Potrero and...          This thriving hotel in the heart of Tamarindo presents an exceptional investment opportunity, blending...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-01-29T18:37:00.180Z",
+      "id": "e76665c697a9"
     }
   ],
-  "last_updated": "2026-01-29T12:43:31.333Z",
+  "last_updated": "2026-01-29T18:38:15.653Z",
   "total_count": 402
 }
