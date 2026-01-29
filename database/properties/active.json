@@ -24016,8 +24016,38 @@
       "category": "land",
       "scraped_at": "2026-01-28T18:31:28.006Z",
       "id": "01bd02be144a"
+    },
+    {
+      "title": "Playa Prieta - Last Available Beachfront Parcel\n                Land, Playa Potrero, Guanacaste",
+      "price_text": "$8,500,000",
+      "price_usd": 8500000,
+      "location": "Land, Playa Potrero, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-playa-potrero/13936",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-29T01:17:56.110Z",
+      "id": "a25b977b9cbd"
+    },
+    {
+      "title": "Playa Prieta - Last Available Beachfront Parcel\n                Land, Playa Potrero, Guanacaste",
+      "price_text": "$8,500,000",
+      "price_usd": 8500000,
+      "location": "Land, Playa Potrero, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-playa-potrero/13936",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-01-29T01:19:58.015Z",
+      "id": "a25b977b9cbd"
     }
   ],
-  "last_updated": "2026-01-28T18:33:20.479Z",
+  "last_updated": "2026-01-29T01:22:13.273Z",
   "total_count": 402
 }
