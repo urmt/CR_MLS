@@ -24670,8 +24670,26 @@
       "category": "residential",
       "scraped_at": "2026-02-01T04:23:47.440Z",
       "id": "90d85fba3d42"
+    },
+    {
+      "title": "Casa Naim ~ Perfect Blend of Luxury and Tranquility within an...          Alta Mar 169 ~ Stunning Ocean View Lot in Renown Gated Community          Villas Puesta de Sol ~ Tamarindo's Newest Condominium...",
+      "price_text": "Price:     US$ 795 000.00      Price:     US$ 798 000.00      Price:     US$ 825 000.00",
+      "price_usd": 795000.00798,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Grande      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-naim-rancho-villareal",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/31-casa-naim-villareal.png?itok=oYvNIjtb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-3269m2-las-ventanas-lot.png?itok=18mQBzNC",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Screenshot%202024-01-22%20at%2010.06.38.png?itok=k-H9iHk0"
+      ],
+      "description": "Step into your dream home nestled in the heart of paradise! This brand-new 3-bedroom main house, accompanied...          Welcome to Alta Mar, a remarkable community within Las Ventanas, Playa Grande, where the epitome of coastal...          Welcome to “Villas Puesta del Sol” or “The Sunset Villas” – Tamarindo’s newest addition to the luxury market...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-02-02T18:35:21.525Z",
+      "id": "c47ab56101af"
     }
   ],
-  "last_updated": "2026-02-02T12:43:31.155Z",
+  "last_updated": "2026-02-02T18:36:53.623Z",
   "total_count": 402
 }
