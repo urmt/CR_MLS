@@ -24688,8 +24688,98 @@
       "category": "residential",
       "scraped_at": "2026-02-02T18:35:21.525Z",
       "id": "c47ab56101af"
+    },
+    {
+      "title": "WHAT IF - ?",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 2 h4br280ft2Cartago, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/what-if/7912775602.html",
+      "images": [
+        "https://images.craigslist.org/d/7912775602/00l0l_e7OVZyhOu8q_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-03T18:44:37.505Z",
+      "id": "2c2993758d40"
+    },
+    {
+      "title": "WHAT IF - ?",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 2 h4br280ft2Cartago, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/what-if/7912775602.html",
+      "images": [
+        "https://images.craigslist.org/d/7912775602/00l0l_e7OVZyhOu8q_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-03T18:44:42.351Z",
+      "id": "2c2993758d40"
+    },
+    {
+      "title": "WHAT IF - ?",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 2 h4br280ft2Cartago, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/what-if/7912775602.html",
+      "images": [
+        "https://images.craigslist.org/d/7912775602/00l0l_e7OVZyhOu8q_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-03T18:44:47.166Z",
+      "id": "2c2993758d40"
+    },
+    {
+      "title": "WHAT IF - ?",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 2 h4br280ft2Cartago, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/what-if/7912775602.html",
+      "images": [
+        "https://images.craigslist.org/d/7912775602/00l0l_e7OVZyhOu8q_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-03T18:44:51.978Z",
+      "id": "2c2993758d40"
+    },
+    {
+      "title": "WHAT IF - ?",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 2 h4br280ft2Cartago, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/what-if/7912775602.html",
+      "images": [
+        "https://images.craigslist.org/d/7912775602/00l0l_e7OVZyhOu8q_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-03T18:44:56.790Z",
+      "id": "2c2993758d40"
+    },
+    {
+      "title": "Casa Java - Newly Built Luxury Jungle Estate Near Playa La Vaca\n                Hotel / Leisure, Manuel Antonio, Puntarenas",
+      "price_text": "$1,950,000",
+      "price_usd": 1950000,
+      "location": "Hotel / Leisure, Manuel Antonio, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-hotel-leisure-for-sale-in-manuel-antonio/13977",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005nx0Y8/yclzidt70/midres/SUMBAPOOL_FASSADES_0411.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-02-03T18:46:32.684Z",
+      "id": "78f2aaf89406"
     }
   ],
-  "last_updated": "2026-02-03T12:44:51.240Z",
+  "last_updated": "2026-02-03T18:48:58.067Z",
   "total_count": 402
 }
