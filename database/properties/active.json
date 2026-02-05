@@ -25042,8 +25042,26 @@
       "category": "land",
       "scraped_at": "2026-02-04T01:19:59.945Z",
       "id": "d52befd30b2e"
+    },
+    {
+      "title": "Casa Las Brisas ~ 5 Bedroom Ocean View Estate in Flamingo Beach          Hotel Boruca ~ Thriving Hotel in the Heart of Tamarindo          La Dulce Vida 4 ~ Luxury and Comfort in Perfect Harmony within a...",
+      "price_text": "Price:     US$ 2 950 000.00      Price:     US$ 3 000 000.00      Price:     US$ 3 500 000.00",
+      "price_usd": 2950000.003,
+      "location": "Location:     Playa Flamingo      Location:     Playa Tamarindo      Location:     Hacienda-Pinilla",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-las-brisas-flamingo-north-ridge",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-las-brisas.jpeg?itok=4NDOcz_A",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-hotel-boruca_0.png?itok=1eeezf0w",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-dulce-vida-4.png?itok=sevIN26P"
+      ],
+      "description": "Casa Las Brisas is an extraordinary property with stunning ocean views extending from the Bay of Potrero and...          This thriving hotel in the heart of Tamarindo presents an exceptional investment opportunity, blending...          Richly detailed and filled with light, this unique residence offers all of the gracious conveniences of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-02-05T01:20:22.412Z",
+      "id": "e2abdc47c6c2"
     }
   ],
-  "last_updated": "2026-02-04T18:43:03.525Z",
+  "last_updated": "2026-02-05T01:21:39.848Z",
   "total_count": 402
 }
