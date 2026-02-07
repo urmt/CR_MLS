@@ -25426,8 +25426,233 @@
       "category": "land",
       "scraped_at": "2026-02-06T18:38:50.702Z",
       "id": "08f078612414"
+    },
+    {
+      "title": "Encantadora casa en SurfSide, cerca de Marina Flamingo",
+      "price_text": "₡173,750,000",
+      "price_usd": 347500,
+      "location": "hace 2 h4br540ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/encantadora-casa-en-surfside-cerca-de/7913554555.html",
+      "images": [
+        "https://images.craigslist.org/d/7913554555/00P0P_fPJumj59UHD_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-07T01:15:51.441Z",
+      "id": "7af015f043af"
+    },
+    {
+      "title": "Renovated House Near the Sea in Flamingo/Potrero – Villagio 1",
+      "price_text": "₡102,000,000",
+      "price_usd": 204000,
+      "location": "hace 2 h2br65ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/renovated-house-near-the-sea-in/7913552945.html",
+      "images": [
+        "https://images.craigslist.org/d/7913552945/00u0u_kGoRbR2PA1o_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-07T01:15:51.547Z",
+      "id": "bd44dccd3b42"
+    },
+    {
+      "title": "130 ACRES – Amazing Development Area Perfect For Hotel!!!",
+      "price_text": "₡9,999,999",
+      "price_usd": 20000,
+      "location": "hace 3 hUVITA",
+      "url": "https://costarica.craigslist.org/reb/d/130-acres-amazing-development-area/7913532886.html",
+      "images": [
+        "https://images.craigslist.org/d/7913532886/00g0g_6ZNNSCTU9yS_0iL09G_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-07T01:15:52.067Z",
+      "id": "2f40093a5ab1"
+    },
+    {
+      "title": "Encantadora casa en SurfSide, cerca de Marina Flamingo",
+      "price_text": "₡173,750,000",
+      "price_usd": 347500,
+      "location": "hace 2 h4br540ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/encantadora-casa-en-surfside-cerca-de/7913554555.html",
+      "images": [
+        "https://images.craigslist.org/d/7913554555/00P0P_fPJumj59UHD_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-07T01:15:56.928Z",
+      "id": "7af015f043af"
+    },
+    {
+      "title": "Renovated House Near the Sea in Flamingo/Potrero – Villagio 1",
+      "price_text": "₡102,000,000",
+      "price_usd": 204000,
+      "location": "hace 2 h2br65ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/renovated-house-near-the-sea-in/7913552945.html",
+      "images": [
+        "https://images.craigslist.org/d/7913552945/00u0u_kGoRbR2PA1o_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-07T01:15:57.017Z",
+      "id": "bd44dccd3b42"
+    },
+    {
+      "title": "130 ACRES – Amazing Development Area Perfect For Hotel!!!",
+      "price_text": "₡9,999,999",
+      "price_usd": 20000,
+      "location": "hace 3 hUVITA",
+      "url": "https://costarica.craigslist.org/reb/d/130-acres-amazing-development-area/7913532886.html",
+      "images": [
+        "https://images.craigslist.org/d/7913532886/00g0g_6ZNNSCTU9yS_0iL09G_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-07T01:15:57.526Z",
+      "id": "2f40093a5ab1"
+    },
+    {
+      "title": "Encantadora casa en SurfSide, cerca de Marina Flamingo",
+      "price_text": "₡173,750,000",
+      "price_usd": 347500,
+      "location": "hace 2 h4br540ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/encantadora-casa-en-surfside-cerca-de/7913554555.html",
+      "images": [
+        "https://images.craigslist.org/d/7913554555/00P0P_fPJumj59UHD_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-07T01:16:02.353Z",
+      "id": "7af015f043af"
+    },
+    {
+      "title": "Renovated House Near the Sea in Flamingo/Potrero – Villagio 1",
+      "price_text": "₡102,000,000",
+      "price_usd": 204000,
+      "location": "hace 2 h2br65ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/renovated-house-near-the-sea-in/7913552945.html",
+      "images": [
+        "https://images.craigslist.org/d/7913552945/00u0u_kGoRbR2PA1o_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-07T01:16:02.445Z",
+      "id": "bd44dccd3b42"
+    },
+    {
+      "title": "130 ACRES – Amazing Development Area Perfect For Hotel!!!",
+      "price_text": "₡9,999,999",
+      "price_usd": 20000,
+      "location": "hace 3 hUVITA",
+      "url": "https://costarica.craigslist.org/reb/d/130-acres-amazing-development-area/7913532886.html",
+      "images": [
+        "https://images.craigslist.org/d/7913532886/00g0g_6ZNNSCTU9yS_0iL09G_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-07T01:16:02.950Z",
+      "id": "2f40093a5ab1"
+    },
+    {
+      "title": "Encantadora casa en SurfSide, cerca de Marina Flamingo",
+      "price_text": "₡173,750,000",
+      "price_usd": 347500,
+      "location": "hace 2 h4br540ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/encantadora-casa-en-surfside-cerca-de/7913554555.html",
+      "images": [
+        "https://images.craigslist.org/d/7913554555/00P0P_fPJumj59UHD_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-07T01:16:07.777Z",
+      "id": "7af015f043af"
+    },
+    {
+      "title": "Renovated House Near the Sea in Flamingo/Potrero – Villagio 1",
+      "price_text": "₡102,000,000",
+      "price_usd": 204000,
+      "location": "hace 2 h2br65ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/renovated-house-near-the-sea-in/7913552945.html",
+      "images": [
+        "https://images.craigslist.org/d/7913552945/00u0u_kGoRbR2PA1o_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-07T01:16:07.867Z",
+      "id": "bd44dccd3b42"
+    },
+    {
+      "title": "130 ACRES – Amazing Development Area Perfect For Hotel!!!",
+      "price_text": "₡9,999,999",
+      "price_usd": 20000,
+      "location": "hace 3 hUVITA",
+      "url": "https://costarica.craigslist.org/reb/d/130-acres-amazing-development-area/7913532886.html",
+      "images": [
+        "https://images.craigslist.org/d/7913532886/00g0g_6ZNNSCTU9yS_0iL09G_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-07T01:16:08.374Z",
+      "id": "2f40093a5ab1"
+    },
+    {
+      "title": "Encantadora casa en SurfSide, cerca de Marina Flamingo",
+      "price_text": "₡173,750,000",
+      "price_usd": 347500,
+      "location": "hace 2 h4br540ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/encantadora-casa-en-surfside-cerca-de/7913554555.html",
+      "images": [
+        "https://images.craigslist.org/d/7913554555/00P0P_fPJumj59UHD_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-07T01:16:13.359Z",
+      "id": "7af015f043af"
+    },
+    {
+      "title": "Renovated House Near the Sea in Flamingo/Potrero – Villagio 1",
+      "price_text": "₡102,000,000",
+      "price_usd": 204000,
+      "location": "hace 2 h2br65ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/renovated-house-near-the-sea-in/7913552945.html",
+      "images": [
+        "https://images.craigslist.org/d/7913552945/00u0u_kGoRbR2PA1o_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-07T01:16:13.450Z",
+      "id": "bd44dccd3b42"
+    },
+    {
+      "title": "130 ACRES – Amazing Development Area Perfect For Hotel!!!",
+      "price_text": "₡9,999,999",
+      "price_usd": 20000,
+      "location": "hace 3 hUVITA",
+      "url": "https://costarica.craigslist.org/reb/d/130-acres-amazing-development-area/7913532886.html",
+      "images": [
+        "https://images.craigslist.org/d/7913532886/00g0g_6ZNNSCTU9yS_0iL09G_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-07T01:16:13.967Z",
+      "id": "2f40093a5ab1"
     }
   ],
-  "last_updated": "2026-02-06T18:42:09.457Z",
+  "last_updated": "2026-02-07T01:20:43.289Z",
   "total_count": 402
 }
