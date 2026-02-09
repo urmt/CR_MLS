@@ -25651,8 +25651,23 @@
       "category": "residential",
       "scraped_at": "2026-02-07T01:16:13.967Z",
       "id": "2f40093a5ab1"
+    },
+    {
+      "title": "Prime Commercial & Residential Building on Main Road in Santa Teresa\n                Commercial, Santa Teresa, Puntarenas",
+      "price_text": "$2,000,000",
+      "price_usd": 2000000,
+      "location": "Commercial, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-commercial-for-sale-in-santa-teresa/14009",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005yjX0P/3f9tirzxa/midres/1.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-02-09T18:47:40.592Z",
+      "id": "6971626b89c1"
     }
   ],
-  "last_updated": "2026-02-09T12:54:07.821Z",
+  "last_updated": "2026-02-09T18:50:55.224Z",
   "total_count": 402
 }
