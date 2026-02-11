@@ -25888,8 +25888,62 @@
       "category": "residential",
       "scraped_at": "2026-02-10T18:56:26.389Z",
       "id": "cfa8b4f062a6"
+    },
+    {
+      "title": "PRICE REDUCTION! Dream Home and Business Location          Solar-Powered Multi-Residence Estate in Finca Panama          5,000m² Lot in Playa Avellanas - Prime Investment Opportunity",
+      "price_text": "Price:     US$ 520 000.00      Price:     US$ 525 000.00      Price:     US$ 525 000.00",
+      "price_usd": 520000.00525,
+      "location": "Location:     Tamarindo Areas      Location:     Tamarindo Areas      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/dream-home-and-business",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-OUTSIDE-POT-FARM.jpg?itok=9gtgE_YQ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Real%20Estate%20-%20Tamarindo%20-%20Marge75.jpg?itok=rOOPR_nl",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Lot-5000m2-Playa-Avellanas-Enclave.JPG?itok=TS3P98k9"
+      ],
+      "description": "This modern 3 bedroom, 2.5 bath home features a large warehouse that has been utilized for various businesses...          This impressive 10,984 m² property is located within the prestigious Finca Panama Residential Community, a...          This unique 5,000m² flat lot presents a rare opportunity to own a slice Playa Avellanas, one of Costa Rica’s...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-02-11T01:32:44.772Z",
+      "id": "89fb97b76354"
+    },
+    {
+      "title": "Sanara 28 ~ Luxury Tropical Residence with Private Casita          Tamarindo Park 64 ~ Perfect Balance of Style and Practicality          Enclave 49 ~ Luxury Living with Direct Beach Access",
+      "price_text": "Price:     US$ 1 700 000.00      Price:     US$ 1 700 000.00      Price:     US$ 1 790 000.00",
+      "price_usd": 1700000.0017,
+      "location": "Location:     Reserva Conchal      Location:     Playa Tamarindo      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/sanara-28-reserva-conchal",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/imgi_6_Sanara-28-3.jpg?itok=U8pyDfnV",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-tamarindo-64-2025.png?itok=7ojVSy3V",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.-Enclave-49-house-exterior.jpg?itok=5Npke5qV"
+      ],
+      "description": "Welcome to Sanara 28, a refined tropical retreat located within the prestigious Reserva Conchal. Thoughtfully...          Located in the new luxury gated community of Tamarindo Park, this modern home is designed to blend indoor and...          Welcome to Enclave 49, a luxurious ocean-view home located in the exclusive San Francisco Point community of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-02-11T01:33:03.407Z",
+      "id": "97909e981c62"
+    },
+    {
+      "title": "PRICE REDUCTION! Prime Development Opportunity ~ 18 Lots on 10.3...          Casa Orquidea ~ Hacienda Pinilla          NEW ON THE MARKET! 4-Bedroom Luxury Home with 2-Bedroom Guest...",
+      "price_text": "Price:     US$ 1 790 000.00      Price:     US$ 1 795 000.00      Price:     US$ 1 800 000.00",
+      "price_usd": 1790000.001795,
+      "location": "Location:     Playa Negra      Location:     Hacienda-Pinilla      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/25-acres-development-playa-negra",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-prime-development-opportunity-playa-negra.jpg?itok=5SxrZgZR",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-orquidea.png?itok=NHJkqC2d",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Casa-Higueron.jpg?itok=9nRbn2eJ"
+      ],
+      "description": "Introducing a prime 10.3-hectare development opportunity in Playa Negra, Guanacaste. This peaceful coastal...          The lovely residence is set within a beautifully landscaped 2,014m2 (½ acre) site, complemented by mature...          Located within the new luxury gated community of Tamarindo Park, this impressive residence is part of one of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-02-11T01:33:03.726Z",
+      "id": "93c378c19257"
     }
   ],
-  "last_updated": "2026-02-10T19:01:09.860Z",
+  "last_updated": "2026-02-11T01:34:25.894Z",
   "total_count": 402
 }
