@@ -25957,8 +25957,26 @@
       "category": "land",
       "scraped_at": "2026-02-11T18:53:36.089Z",
       "id": "4e290aca6f75"
+    },
+    {
+      "title": "PRICE REDUCTION! The Oaks 94 ~ Ground-Floor Condo with Custom...          Tama Hills 4 ~ Modern 2-Bedroom Condo for Sale in Playa Tamarindo          Finca La Antigua ~ 8.67 acres of tranquility within minutes of...",
+      "price_text": "Price:     US$ 293 000.00      Price:     US$ 299 000.00      Price:     US$ 299 000.00",
+      "price_usd": 293000.00299,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Tamarindo      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/the-oaks-94-condominium",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/33_Oaks_Tamarindo_Costa_Rica_94_For%20_Rent_For_Sale.jpeg?itok=JhhLdOGQ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Tama-Hills-4.jpg?itok=OqxnSK1w",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.finca-antigua-santa-rosa.JPG?itok=PwtUPDHu"
+      ],
+      "description": "Presenting a brand-new Oaks condo with premium finishes throughout! This unit features high-quality wall...          Discover relaxed coastal living in this beautifully designed 2-bedroom, 1-bathroom condo located in the heart...          Finca La Antigua is a magic piece of land that has been kept antique and natural! This open land is perfect...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-02-12T01:25:43.669Z",
+      "id": "fbc960fe8a9d"
     }
   ],
-  "last_updated": "2026-02-11T18:57:53.378Z",
+  "last_updated": "2026-02-12T01:27:30.832Z",
   "total_count": 402
 }
