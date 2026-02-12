@@ -25975,8 +25975,167 @@
       "category": "residential",
       "scraped_at": "2026-02-12T01:25:43.669Z",
       "id": "fbc960fe8a9d"
+    },
+    {
+      "title": "A Private Luxury Sanctuary Above the Pacific\n                Single Family Homes, Playa Grande, Guanacaste",
+      "price_text": "$3,954,000",
+      "price_usd": 3954000,
+      "location": "Single Family Homes, Playa Grande, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-playa-grande/14034",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-02-12T18:52:58.588Z",
+      "id": "03e7901eae92"
+    },
+    {
+      "title": "Guest House Apartments ~ Impeccable Multi-Unit Property with...          Oceanview Villa in Marbella: Luxury and Income Potential          Modern Coastal Living in Tamarindo’s Oro del Sol Community",
+      "price_text": "Price:     US$ 715 500.00      Price:     US$ 729 000.00      Price:     US$ 749 000.00",
+      "price_usd": 715500.00729,
+      "location": "Location:     Playa Flamingo      Location:     Playa Marbella      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/guest-house-apartments-rental-income-potential",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-guest-house-apartments_0.jpeg?itok=GXc2Sz6v",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/29-5-bedroom-home-in-marbella.jpeg?itok=Nx8VdcDb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-oro-del-sol-23-2026.png?itok=YqNcRmcl"
+      ],
+      "description": "This is an amazing opportunity to invest in the Flamingo Beach area, take advantage of the new marina, and...          Discover an extraordinary opportunity to own a breathtaking villa on 1.7 acres in Marbella, Costa Rica,...          Oro del Sol 23 is a newly built residence set within the highly desirable Oro del Sol community in Tamarindo...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-02-12T18:56:04.000Z",
+      "id": "7cef43dae1f0"
+    },
+    {
+      "title": "Malinche Condo 113B ~ Cozy 2 Bedroom Unit in Reserva Conchal...          Surfside Vista del Mar ~ 4 Bedroom House Across The Street From...          Ocean and Mountain Views Finca ~ With a Little River",
+      "price_text": "Price:     US$ 759 000.00      Price:     US$ 760 000.00      Price:     US$ 769 000.00",
+      "price_usd": 759000.0076,
+      "location": "Location:     Reserva Conchal      Location:     Playa Potrero      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/malinche-condo-113b",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5_0.jpg?itok=W0T2lnvy",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Surfside-House.jpg?itok=Rpn9Vjkd",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Finca-Vista-Cana.JPG?itok=Kpg44YeL"
+      ],
+      "description": "Reserva Conchal 2 bedroom condo for sale, located on the ground floor, no steps, and with direct access to...          Casa Surfside Vista del Mar - 4 bedroom 3.5 bathroom house across the street from the beach! This house has...          This is one of the best ocean and mountain view property for sale in the area. It is located in Canafistula,...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-02-12T18:56:10.205Z",
+      "id": "a22f6e0f848a"
+    },
+    {
+      "title": "Villa Sasha ~ Renovated Spanish Colonial Townhome in Hacienda...          Casa Naim ~ Perfect Blend of Luxury and Tranquility within an...          Alta Mar 169 ~ Stunning Ocean View Lot in Renown Gated Community",
+      "price_text": "Price:     US$ 790 000.00      Price:     US$ 795 000.00      Price:     US$ 798 000.00",
+      "price_usd": 790000.00795,
+      "location": "Location:     Hacienda-Pinilla      Location:     Tamarindo Areas      Location:     Playa Grande",
+      "url": "https://www.remax-oceansurf-cr.com/property/villa-sasha-lagos-de-palma-real",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-villa-sasha.png?itok=37h5rExA",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/31-casa-naim-villareal.png?itok=oYvNIjtb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-3269m2-las-ventanas-lot.png?itok=18mQBzNC"
+      ],
+      "description": "Welcome to Villa Sasha – a beautifully renovated luxury residence located in the prestigious Palma Real...          Step into your dream home nestled in the heart of paradise! This brand-new 3-bedroom main house, accompanied...          Welcome to Alta Mar, a remarkable community within Las Ventanas, Playa Grande, where the epitome of coastal...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-02-12T18:56:10.672Z",
+      "id": "863d635542ca"
+    },
+    {
+      "title": "Villas Puesta de Sol ~ Tamarindo's Newest Condominium...          The Enclave C3 ~ Best-Priced Resale in The Enclave Community          The Enclave B6 ~ Luxury Five Bedroom Home with Rooftop Terrace",
+      "price_text": "Price:     US$ 825 000.00      Price:     US$ 850 000.00      Price:     US$ 850 000.00",
+      "price_usd": 825000.0085,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Avellanas      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/villas-puesta-de-sol",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Screenshot%202024-01-22%20at%2010.06.38.png?itok=k-H9iHk0",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Enclave-C3.png?itok=AQ3wGpGU",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/31-The-Enclave-B6.jpg?itok=rS1qmwT3"
+      ],
+      "description": "Welcome to “Villas Puesta del Sol” or “The Sunset Villas” – Tamarindo’s newest addition to the luxury market...          Discover the best-priced resale available in The Enclave at Avellanas, a luxurious gated community located...          Matterport interactive tour of the home HERE.  \nWelcome to The Enclave at Avellanas, where luxury living...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-02-12T18:56:11.021Z",
+      "id": "5c35bb54a801"
+    },
+    {
+      "title": "Turnkey 4-Plex Investment in Surfside ~ Steps from Flamingo Beach          Casa Nibbana ~ Expansive 4 Bedroom Villa in Hacienda Pinilla          La Perla 3-4 ~ Panoramic Ocean Views Over Playa Grande and...",
+      "price_text": "Price:     US$ 995 000.00      Price:     US$ 1 050 000.00      Price:     US$ 1 075 000.00",
+      "price_usd": 995000.00105,
+      "location": "Location:     Playa Potrero      Location:     Hacienda-Pinilla      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/surfside-4-plex",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/24-surfside-fourplex-pool.jpg?itok=W2vFGMJT",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-nibbana-hacienda-pinilla-reserva-de-golf-%233.jpg?itok=H4oXvJkO",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-perla-tamarindo-3-4.jpg?itok=5z_14Dbs"
+      ],
+      "description": "This rare opportunity includes four separate condos in a recently completed (2024) development, located just...          \n\tPositioned within the prestigious Reserva de Golf enclave of Hacienda Pinilla, Casa Nibbana is a...          Welcome to La Perla Tamarindo 134 - an incredible ocean-view condo offering breathtaking panoramas of Playa...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-02-12T18:56:11.840Z",
+      "id": "96a620dbb972"
+    },
+    {
+      "title": "El Tesoro 12 ~ Dramatic Ocean Views in Exclusive Gated Community...          Luxury 5-Bedroom Ocean View Residence Near Downtown Tamarindo          La Esquina - Commercial Center in the Heart of Avellanas Beach",
+      "price_text": "Price:     US$ 1 275 000.00      Price:     US$ 1 290 000.00      Price:     US$ 1 300 000.00",
+      "price_usd": 1275000.00129,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/el-tesoro-ocean-view-parcel",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/el-tesoro-tamarindo-lot.jpg?itok=cRbaHPsF",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-de-la-perla-2025.png?itok=rqdrrk_M",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-La-Esquina-de-Avellanas-1.jpg?itok=2HyiV65u"
+      ],
+      "description": "El Tesoro stands out as Tamarindo’s most prestigious gated community, perfectly situated in the vibrant...          Just minutes from Tamarindo’s center yet tucked into a private hillside, this 5-bedroom, 4.5-bath luxury...          Welcome to La Esquina! Meaning \"The Corner\" in Spanish, Plaza La Esquina is the vibrant and culturally...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-02-12T18:56:13.086Z",
+      "id": "a6b571ba4b97"
+    },
+    {
+      "title": "Casa Sunset ~ Turnkey Elegance Meets Panoramic Views           Sanara 28 ~ Luxury Tropical Residence with Private Casita          Tamarindo Park 64 ~ Perfect Balance of Style and Practicality",
+      "price_text": "Price:     US$ 1 699 000.00      Price:     US$ 1 700 000.00      Price:     US$ 1 700 000.00",
+      "price_usd": 1699000.0017,
+      "location": "Location:     Playa Flamingo      Location:     Reserva Conchal      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-sunset",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-buddha.png?itok=JgeL050B",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/imgi_6_Sanara-28-3.jpg?itok=U8pyDfnV",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-tamarindo-64-2025.png?itok=7ojVSy3V"
+      ],
+      "description": "Welcome to Casa Sunset, a lovely and renovated 4-bedroom, 4.5-bath home with an ocean view. The home has just...          Welcome to Sanara 28, a refined tropical retreat located within the prestigious Reserva Conchal. Thoughtfully...          Located in the new luxury gated community of Tamarindo Park, this modern home is designed to blend indoor and...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-02-12T18:56:19.792Z",
+      "id": "979943ff9a46"
+    },
+    {
+      "title": "NEW ON THE MARKET! 4-Bedroom Luxury Home with 2-Bedroom Guest...          Green Turtle Townhomes ~ Four-Unit Modern Investment Complex in...          La Mansion ~ Double Beachfront Mixed Use Property",
+      "price_text": "Price:     US$ 1 800 000.00      Price:     US$ 1 900 000.00      Price:     US$ 1 900 000.00",
+      "price_usd": 1800000.0019,
+      "location": "Location:     Playa Tamarindo      Location:     Tamarindo Areas      Location:     Playa Potrero",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-higueron-tamarindo-park-56",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Casa-Higueron.jpg?itok=9nRbn2eJ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/47-green-turtle-townhomes-2025.png?itok=EvFVIFok",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/23-la-mansion-potrero-2026.jpg?itok=RsdLUd5x"
+      ],
+      "description": "Located within the new luxury gated community of Tamarindo Park, this impressive residence is part of one of...          Introducing Green Turtle Townhomes, a contemporary residential complex featuring four brand-new and fully...          La Mansion is a rare double beachfront property in the Surfside and Flamingo area of Guanacaste, Costa Rica,...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-02-12T18:56:20.424Z",
+      "id": "0eb7bd6a4ade"
     }
   ],
-  "last_updated": "2026-02-12T12:49:54.992Z",
+  "last_updated": "2026-02-12T18:57:43.527Z",
   "total_count": 402
 }
