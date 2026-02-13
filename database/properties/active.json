@@ -26134,8 +26134,44 @@
       "category": "land",
       "scraped_at": "2026-02-12T18:56:20.424Z",
       "id": "0eb7bd6a4ade"
+    },
+    {
+      "title": "Casa Crucero ~ Modern 4 Bedroom Home in Tamarindo's Newest...          Turnkey Ocean View Home with Recent Upgrades in Gated Community          Bosques de Pinilla - A New Way of Living",
+      "price_text": "Price:     US$ 1 100 000.00      Price:     US$ 1 122 000.00      Price:     US$ 1 135 873.00",
+      "price_usd": 1100000.001122,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Grande      Location:     Hacienda-Pinilla",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-crucero-residencias-de-tamarindo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5%20-casa-crucero-verde.jpeg?itok=12V8KF2X",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/27-casa-salinas.png?itok=W3fPMEhl",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Bosques%20de%20Pinilla-%20Sales%20booklet_Page_02.jpg?itok=-NhQT2KV"
+      ],
+      "description": "Casa Crucero Verde feels like being on a cruise ship overlooking the canopy and then touching the Pacific...          Located in the quiet hills of Playa Grande within the gated community of Las Ventanas, this upgraded 3-...          \nAt Bosques de Pinilla, you’ll find the perfect amenities for you and the family in the impeccably manicured...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-02-13T01:28:37.916Z",
+      "id": "c4bfe54fe5d0"
+    },
+    {
+      "title": "Mensajeros Compound ~ Multi-Home Property with Development...          Carao T1-5 ~ Luxury Penthouse in Reserva Conchal          Casa Chameleon Homes and Condos",
+      "price_text": "Price:     US$ 1 200 000.00      Price:     US$ 1 200 000.00      Price:     US$ 1 200 000.00",
+      "price_usd": 1200000.0012,
+      "location": "Location:     Playa Potrero      Location:     Reserva Conchal      Location:     Playa Danta",
+      "url": "https://www.remax-oceansurf-cr.com/property/mensajeros-compound",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Propriedades-Mensajeros.jpg?itok=8B4UNE9Q",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/11-carao-t1-5.png?itok=thGA568a",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-chamaleon-condominiums.png?itok=6HQIDObB"
+      ],
+      "description": "Discover a rare investment opportunity encompassing five titled lots within a single 36,426 m² compound....          Positioned high above the coast in the exclusive Carao enclave of Reserva Conchal, this elegant 3-bedroom...           ​​​​​​Welcome to Casa Chameleon! New luxurious beachside properties are now available in Costa Rica, located...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-02-13T01:28:38.527Z",
+      "id": "c47042c7a417"
     }
   ],
-  "last_updated": "2026-02-12T18:58:21.270Z",
+  "last_updated": "2026-02-13T01:30:09.451Z",
   "total_count": 402
 }
