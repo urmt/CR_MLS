@@ -26779,8 +26779,242 @@
       "category": "residential",
       "scraped_at": "2026-02-17T06:49:01.549Z",
       "id": "4cfd1871c69a"
+    },
+    {
+      "title": "Casita on 1 Hectare in Perez Zeledon",
+      "price_text": "₡53,000,000",
+      "price_usd": 106000,
+      "location": "hace 54 min2brSan Isidro de El General",
+      "url": "https://costarica.craigslist.org/reo/d/casita-on-hectare-in-perez-zeledon/7915755066.html",
+      "images": [
+        "https://images.craigslist.org/d/7915755066/01616_cqAtIrNn8a2_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-17T18:45:31.300Z",
+      "id": "2cb5667d5dbc"
+    },
+    {
+      "title": "Casita on 1 Hectare in Perez Zeledon",
+      "price_text": "₡53,000,000",
+      "price_usd": 106000,
+      "location": "hace 54 min2brSan Isidro de El General",
+      "url": "https://costarica.craigslist.org/reo/d/casita-on-hectare-in-perez-zeledon/7915755066.html",
+      "images": [
+        "https://images.craigslist.org/d/7915755066/01616_cqAtIrNn8a2_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-17T18:45:36.450Z",
+      "id": "2cb5667d5dbc"
+    },
+    {
+      "title": "Casita on 1 Hectare in Perez Zeledon",
+      "price_text": "₡53,000,000",
+      "price_usd": 106000,
+      "location": "hace 54 min2brSan Isidro de El General",
+      "url": "https://costarica.craigslist.org/reo/d/casita-on-hectare-in-perez-zeledon/7915755066.html",
+      "images": [
+        "https://images.craigslist.org/d/7915755066/01616_cqAtIrNn8a2_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-17T18:45:41.579Z",
+      "id": "2cb5667d5dbc"
+    },
+    {
+      "title": "Casita on 1 Hectare in Perez Zeledon",
+      "price_text": "₡53,000,000",
+      "price_usd": 106000,
+      "location": "hace 54 min2brSan Isidro de El General",
+      "url": "https://costarica.craigslist.org/reo/d/casita-on-hectare-in-perez-zeledon/7915755066.html",
+      "images": [
+        "https://images.craigslist.org/d/7915755066/01616_cqAtIrNn8a2_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-17T18:45:46.695Z",
+      "id": "2cb5667d5dbc"
+    },
+    {
+      "title": "Casita on 1 Hectare in Perez Zeledon",
+      "price_text": "₡53,000,000",
+      "price_usd": 106000,
+      "location": "hace 54 min2brSan Isidro de El General",
+      "url": "https://costarica.craigslist.org/reo/d/casita-on-hectare-in-perez-zeledon/7915755066.html",
+      "images": [
+        "https://images.craigslist.org/d/7915755066/01616_cqAtIrNn8a2_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-17T18:45:51.809Z",
+      "id": "2cb5667d5dbc"
+    },
+    {
+      "title": "House for sale in Paso Ancho. ID25665 KA\n                Single Family Homes, San Jose, San Jose",
+      "price_text": "$13,300,000",
+      "price_usd": 13300000,
+      "location": "Single Family Homes, San Jose, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/3-bed-single-family-homes-for-sale-in-san-jose/14064",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000063Yhmb/i3nzcufoe/midres/WhatsApp%20Image%202026-02-15%20at%206.31.02%20PM%20%284%29.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-17T18:47:47.529Z",
+      "id": "5a8a5f179136"
+    },
+    {
+      "title": "Sanara Phase II: Luxury Meets Sustainability in Reserva Conchal          Casa Blue Iguana ~ Luxurious 3-Bedroom Tropical Retreat          Villa de Oro ~ Impressive Four Bedroom Home Overlooking Potrero...",
+      "price_text": "Price:     US$ 1 170 500.00      Price:     US$ 1 175 000.00      Price:     US$ 1 195 000.00",
+      "price_usd": 1170500.001175,
+      "location": "Location:     Reserva Conchal      Location:     Playa Langosta      Location:     Playa Penca",
+      "url": "https://www.remax-oceansurf-cr.com/property/sanara-phase-ii",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/18-sanara-phase-ii-pictures.jpg?itok=49tVtOVH",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/8-casa-blue-iguana.jpg?itok=fEtPzN0J",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-villa-oro.jpeg?itok=xeMBlfEq"
+      ],
+      "description": "Sanara Phase II at Reserva Conchal: A Sustainable Luxury Community\nWelcome to Sanara Phase II, an exclusive...          This stunning newly built home is a true masterpiece, thoughtfully crafted to offer both upscale living and...          Villa de Oro is a 4 bed, 4 bath luxury home situated above Potrero Bay in the Pacific Heights neighborhood,...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-02-17T18:48:36.508Z",
+      "id": "fc9d21979b75"
+    },
+    {
+      "title": "Brand New Golf Front Masterpiece in High End Gated Community!           Casa Sunset ~ Turnkey Elegance Meets Panoramic Views           Casa Flor Del Mar ~ Balinese-Inspired Luxury Villa in the Heart...",
+      "price_text": "Price:     US$ 1 395 000.00      Price:     US$ 1 490 000.00      Price:     US$ 1 495 000.00",
+      "price_usd": 1395000.00149,
+      "location": "Location:     Hacienda-Pinilla      Location:     Playa Flamingo      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/los-almendros-69-golf-front-masterpiece-hacienda-pinilla",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.Golf-Front-Pinilla-Pool.jpg?itok=MgFzfDZb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-buddha.png?itok=JgeL050B",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Casa-Avellanas.jpeg?itok=fNsWU2PS"
+      ],
+      "description": "This golf front luxury home is located in the sub community of Los Almendros, in Hacienda Pinilla, which has...          Welcome to Casa Sunset, a lovely and renovated 4-bedroom, 4.5-bath home with an ocean view. The home has just...          Discover Your Dream Villa in Playa Avellanas, Costa Rica\nStep into luxury with this fully furnished, turnkey...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-02-17T18:48:43.073Z",
+      "id": "d4f3561eb580"
+    },
+    {
+      "title": "Tamarindo Park ~ New Luxury Gated Community          Rancho Coco ~ Multi-Unit Ranch Residence with Residential and...          Sanara 28 ~ Luxury Tropical Residence with Private Casita",
+      "price_text": "Price:     US$ 1 655 000.00      Price:     US$ 1 690 000.00      Price:     US$ 1 700 000.00",
+      "price_usd": 1655000.00169,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Negra      Location:     Reserva Conchal",
+      "url": "https://www.remax-oceansurf-cr.com/property/tamarindo-park-new-luxury-gated-community",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/8-lot-24-%26-25.png?itok=cWJVtYrB",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Rancho_Coco_Drone_01_marker.jpg?itok=UjGNzKNq",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/imgi_6_Sanara-28-3.jpg?itok=U8pyDfnV"
+      ],
+      "description": "Tamarindo Park is proud to bring a unique Costa Rican gated community to the desirable Tamarindo area of...          Set amidst the serene landscapes of Playa Negra, Rancho Coco offers an enticing opportunity for lucrative...          Welcome to Sanara 28, a refined tropical retreat located within the prestigious Reserva Conchal. Thoughtfully...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-02-17T18:48:43.659Z",
+      "id": "5ac80b5ac027"
+    },
+    {
+      "title": "Tamarindo Park 64 ~ Perfect Balance of Style and Practicality          Casa Mistral ~ Ocean Views & Jungle Serenity          Enclave 49 ~ Luxury Living with Direct Beach Access",
+      "price_text": "Price:     US$ 1 700 000.00      Price:     US$ 1 765 000.00      Price:     US$ 1 790 000.00",
+      "price_usd": 1700000.001765,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Penca      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/tamarindo-park-64",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-tamarindo-64-2025.png?itok=7ojVSy3V",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.Casa-Mistral.jpg?itok=4LKbfGBR",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.-Enclave-49-house-exterior.jpg?itok=5Npke5qV"
+      ],
+      "description": "Located in the new luxury gated community of Tamarindo Park, this modern home is designed to blend indoor and...          Experience the perfect blend of luxury and tranquility with this breathtaking ocean-view residence, completed...          Welcome to Enclave 49, a luxurious ocean-view home located in the exclusive San Francisco Point community of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-02-17T18:48:43.985Z",
+      "id": "bec37c662f8a"
+    },
+    {
+      "title": "Reserva de Golf 49 ~ Elegant 4-Bedroom Villa with Luxury...          PRICE REDUCTION! Casa Bettina ~ Luxury Living Steps from the...          Casa Vista Escondida ~ Pinnacle of Coastal Luxury",
+      "price_text": "Price:     US$ 2 495 000.00      Price:     US$ 2 495 000.00      Price:     US$ 2 495 000.00",
+      "price_usd": 2495000.002495,
+      "location": "Location:     Hacienda-Pinilla      Location:     Hacienda-Pinilla      Location:     Playa Penca",
+      "url": "https://www.remax-oceansurf-cr.com/property/reserva-de-golf-49-hacienda-pinilla",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/13-reserva-de-golf-49-2025.png?itok=-0Ls7Opf",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-benitta.jpg?itok=CrwJ8Yvm",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-vista-escondida.png?itok=o8pWcISl"
+      ],
+      "description": "Nestled within the prestigious Hacienda Pinilla community, Reserva de Golf 49 is a stunning two-story...          Welcome to Casa Bettina – A Tropical Dream Home in Hacienda Pinilla\nExperience luxury redefined at Casa...          Introducing Casa Vista Escondida, an epitome of luxurious living nestled in the Pacific Heights enclave of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-02-17T18:48:46.194Z",
+      "id": "754597df752d"
+    },
+    {
+      "title": "Senderos Home 23E ~ Three Story Estate with Unparalleled Views           Los Almendros 66 ~ 4 Bedroom Masterpiece in Beachfront Golf...          Las Crestas de Senderos Home 13F ~ Senderos Phase Three",
+      "price_text": "Price:     US$ 2 550 000.00      Price:     US$ 2 588 000.00      Price:     US$ 2 660 000.00",
+      "price_usd": 2550000.002588,
+      "location": "Location:     Playa Tamarindo      Location:     Hacienda-Pinilla      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/senderos-home-23e",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-senderos-home-23e.png?itok=eSqcELAg",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/43.jpeg?itok=ETW08Sg9",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-13F-Senderos-Tamarindo.png?itok=BBMbfdu4"
+      ],
+      "description": "This contemporary retreat was crafted by the exceptional team at WR Architects with a singular vision: to...          Welcome to Villa Sueños - Los Almendros 66, your dream oasis in Hacienda Pinilla, where luxury and attention...          Delivery December 2024\nOnce again, the team at WR Architects has created a spectacular design for the...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-02-17T18:48:46.577Z",
+      "id": "00e7c68386a6"
+    },
+    {
+      "title": "Hotel Boruca ~ Thriving Hotel in the Heart of Tamarindo          La Dulce Vida 4 ~ Luxury and Comfort in Perfect Harmony within a...          Ultimate Beachfront Elegance in this 3-Bedroom Retreat",
+      "price_text": "Price:     US$ 3 000 000.00      Price:     US$ 3 500 000.00      Price:     US$ 3 600 000.00",
+      "price_usd": 3000000.0035,
+      "location": "Location:     Playa Tamarindo      Location:     Hacienda-Pinilla      Location:     Playa Flamingo",
+      "url": "https://www.remax-oceansurf-cr.com/property/hotel-boruca-tamarindo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-hotel-boruca_0.png?itok=1eeezf0w",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-dulce-vida-4.png?itok=sevIN26P",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-palms-33.jpg?itok=eAGVdaol"
+      ],
+      "description": "This thriving hotel in the heart of Tamarindo presents an exceptional investment opportunity, blending...          Richly detailed and filled with light, this unique residence offers all of the gracious conveniences of...          Discover the epitome of beachfront luxury at Palms #33, a premier titled property nestled in the heart of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-02-17T18:48:52.857Z",
+      "id": "62b514b2b2e7"
+    },
+    {
+      "title": "Casa de Mar ~ 5 Bedroom Masterpiece in Low-Density Beachfront...          Casa Pacifica: Expansive Luxury Estate with Unmatched Views          Las Crestas de Senderos Home 11F ~ Senderos Phase Three",
+      "price_text": "Price:     US$ 3 750 000.00      Price:     US$ 3 790 000.00      Price:     US$ 3 950 000.00",
+      "price_usd": 3750000.00379,
+      "location": "Location:     Hacienda-Pinilla      Location:     Playa Flamingo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-de-mar-dulce-vida-hacienda-pinilla",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-de-mar.png?itok=jp15e0_7",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-casa-pacifica.png?itok=V3Gq_Z-w",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-11F-Senderos-Tamarindo.png?itok=iGmBZX4u"
+      ],
+      "description": "Casa de Mar is located in the exclusive gated community of Dulce Vida, which is part of the Hacienda Pinilla...          Welcome to Casa Pacifica, where luxury living meets breathtaking ocean views. Situated 500 feet above sea...          Delivery December 2024\nThis modern hideaway was created by the amazing team at WR Architects with one thing...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-02-17T18:48:53.235Z",
+      "id": "c554bfc5ec9a"
     }
   ],
-  "last_updated": "2026-02-17T12:47:20.414Z",
+  "last_updated": "2026-02-17T18:51:47.882Z",
   "total_count": 402
 }
