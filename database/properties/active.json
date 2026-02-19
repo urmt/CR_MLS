@@ -27118,8 +27118,44 @@
       "category": "land",
       "scraped_at": "2026-02-18T01:26:32.243Z",
       "id": "958491ef823f"
+    },
+    {
+      "title": "Tamarindo Park ~ New Luxury Gated Community          Rancho Coco ~ Multi-Unit Ranch Residence with Residential and...          Tamarindo Park 64 ~ Perfect Balance of Style and Practicality",
+      "price_text": "Price:     US$ 1 655 000.00      Price:     US$ 1 690 000.00      Price:     US$ 1 700 000.00",
+      "price_usd": 1655000.00169,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Negra      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/tamarindo-park-new-luxury-gated-community",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/8-lot-24-%26-25.png?itok=cWJVtYrB",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Rancho_Coco_Drone_01_marker.jpg?itok=UjGNzKNq",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-tamarindo-64-2025.png?itok=7ojVSy3V"
+      ],
+      "description": "Tamarindo Park is proud to bring a unique Costa Rican gated community to the desirable Tamarindo area of...          Set amidst the serene landscapes of Playa Negra, Rancho Coco offers an enticing opportunity for lucrative...          Located in the new luxury gated community of Tamarindo Park, this modern home is designed to blend indoor and...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-02-19T01:25:21.939Z",
+      "id": "1d1972a83606"
+    },
+    {
+      "title": "Casa Orquidea ~ Hacienda Pinilla          Casa Higueron ~ 4-Bedroom Luxury Home with 2-Bedroom Guest House...          Sanara 28 ~ Luxury Tropical Residence with Private Casita",
+      "price_text": "Price:     US$ 1 795 000.00      Price:     US$ 1 800 000.00      Price:     US$ 1 850 000.00",
+      "price_usd": 1795000.0018,
+      "location": "Location:     Hacienda-Pinilla      Location:     Playa Tamarindo      Location:     Reserva Conchal",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-orquidea-las-golondrinas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-orquidea.png?itok=NHJkqC2d",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Casa-Higueron.jpg?itok=9nRbn2eJ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/imgi_6_Sanara-28-3.jpg?itok=U8pyDfnV"
+      ],
+      "description": "The lovely residence is set within a beautifully landscaped 2,014m2 (½ acre) site, complemented by mature...          Located within the new luxury gated community of Tamarindo Park, this impressive residence is part of one of...          Welcome to Sanara 28, a refined tropical retreat located within the prestigious Reserva Conchal. Thoughtfully...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-02-19T01:25:22.504Z",
+      "id": "7183361e2372"
     }
   ],
-  "last_updated": "2026-02-18T18:48:22.987Z",
+  "last_updated": "2026-02-19T01:28:26.677Z",
   "total_count": 402
 }
