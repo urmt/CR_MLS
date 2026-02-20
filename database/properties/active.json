@@ -27706,8 +27706,56 @@
       "category": "land",
       "scraped_at": "2026-02-20T01:21:33.309Z",
       "id": "7f244b58b74b"
+    },
+    {
+      "title": "Prime 2.25 Hectare Beachfront Concession Estate in Playa Carmen\n                Single Family Homes, Santa Teresa, Puntarenas",
+      "price_text": "$18,000,000",
+      "price_usd": 18000000,
+      "location": "Single Family Homes, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-single-family-homes-for-sale-in-santa-teresa/14088",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000065Jmpz/zekw4qkcn/midres/Seawing%20pic%20-%201.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-02-20T18:35:54.718Z",
+      "id": "e4bc05c46829"
+    },
+    {
+      "title": "Prime 2.25 Hectare Beachfront Concession Estate in Playa Carmen\n                Single Family Homes, Santa Teresa, Puntarenas",
+      "price_text": "$18,000,000",
+      "price_usd": 18000000,
+      "location": "Single Family Homes, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-single-family-homes-for-sale-in-santa-teresa/14088",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-02-20T18:37:29.153Z",
+      "id": "e4bc05c46829"
+    },
+    {
+      "title": "Turnkey Ocean View Home with Recent Upgrades in Gated Community          PRICE REDUCED! Bougainvillea 4211 ~ One-of-a-Kind Oceanview...          Langosta’s Hidden Treasure: Casa Maya",
+      "price_text": "Price:     US$ 1 122 000.00      Price:     US$ 1 150 000.00      Price:     US$ 1 150 000.00",
+      "price_usd": 1122000.00115,
+      "location": "Location:     Playa Grande      Location:     Reserva Conchal      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-salinas-las-ventanas-de-playa-grande",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/27-casa-salinas.png?itok=W3fPMEhl",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/21-bougainvillea_4211_guest_bathroom_2_0.jpg?itok=wpPEHDkJ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-maya.png?itok=TI_pNKOD"
+      ],
+      "description": "Located in the quiet hills of Playa Grande within the gated community of Las Ventanas, this upgraded 3-...          This Bougainvillea condo is THE ONLY CONDO WITH ZERO STEPS in the Bougainvillea complex! A great opportunity...          Casa Maya presents a unique investment opportunity for the discerning buyer. Situated on a prime 500-square-...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-02-20T18:38:20.714Z",
+      "id": "29c65c30c1e0"
     }
   ],
-  "last_updated": "2026-02-20T12:45:56.497Z",
+  "last_updated": "2026-02-20T18:41:39.290Z",
   "total_count": 402
 }
