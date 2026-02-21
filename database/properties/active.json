@@ -27754,8 +27754,83 @@
       "category": "residential",
       "scraped_at": "2026-02-20T18:38:20.714Z",
       "id": "29c65c30c1e0"
+    },
+    {
+      "title": "Apartamento en Piso 3 en Residencial con Acceso Controlado, Sabanilla",
+      "price_text": "₡58,150,000",
+      "price_usd": 116300,
+      "location": "hace 25 min1br51ft2Sabanilla, Montes de Oca",
+      "url": "https://costarica.craigslist.org/reb/d/apartamento-en-piso-en-residencial-con/7915293546.html",
+      "images": [
+        "https://images.craigslist.org/d/7915293546/00c0c_g2AaPEqHlsy_0fy0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-21T12:30:02.998Z",
+      "id": "e4741a84fb0f"
+    },
+    {
+      "title": "Apartamento en Piso 3 en Residencial con Acceso Controlado, Sabanilla",
+      "price_text": "₡58,150,000",
+      "price_usd": 116300,
+      "location": "hace 25 min1br51ft2Sabanilla, Montes de Oca",
+      "url": "https://costarica.craigslist.org/reb/d/apartamento-en-piso-en-residencial-con/7915293546.html",
+      "images": [
+        "https://images.craigslist.org/d/7915293546/00c0c_g2AaPEqHlsy_0fy0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-21T12:30:08.027Z",
+      "id": "e4741a84fb0f"
+    },
+    {
+      "title": "Apartamento en Piso 3 en Residencial con Acceso Controlado, Sabanilla",
+      "price_text": "₡58,150,000",
+      "price_usd": 116300,
+      "location": "hace 25 min1br51ft2Sabanilla, Montes de Oca",
+      "url": "https://costarica.craigslist.org/reb/d/apartamento-en-piso-en-residencial-con/7915293546.html",
+      "images": [
+        "https://images.craigslist.org/d/7915293546/00c0c_g2AaPEqHlsy_0fy0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-21T12:30:13.027Z",
+      "id": "e4741a84fb0f"
+    },
+    {
+      "title": "Apartamento en Piso 3 en Residencial con Acceso Controlado, Sabanilla",
+      "price_text": "₡58,150,000",
+      "price_usd": 116300,
+      "location": "hace 25 min1br51ft2Sabanilla, Montes de Oca",
+      "url": "https://costarica.craigslist.org/reb/d/apartamento-en-piso-en-residencial-con/7915293546.html",
+      "images": [
+        "https://images.craigslist.org/d/7915293546/00c0c_g2AaPEqHlsy_0fy0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-21T12:30:18.025Z",
+      "id": "e4741a84fb0f"
+    },
+    {
+      "title": "Apartamento en Piso 3 en Residencial con Acceso Controlado, Sabanilla",
+      "price_text": "₡58,150,000",
+      "price_usd": 116300,
+      "location": "hace 25 min1br51ft2Sabanilla, Montes de Oca",
+      "url": "https://costarica.craigslist.org/reb/d/apartamento-en-piso-en-residencial-con/7915293546.html",
+      "images": [
+        "https://images.craigslist.org/d/7915293546/00c0c_g2AaPEqHlsy_0fy0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-21T12:30:23.021Z",
+      "id": "e4741a84fb0f"
     }
   ],
-  "last_updated": "2026-02-21T06:39:11.034Z",
+  "last_updated": "2026-02-21T12:36:08.041Z",
   "total_count": 402
 }
