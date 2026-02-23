@@ -26264,8 +26264,275 @@
       "category": "commercial",
       "scraped_at": "2026-02-23T07:01:47.797Z",
       "id": "7589a0bd64ee"
+    },
+    {
+      "title": "Dominicalito Dream: A Sanctuary Carved from the Jungle\n                Land, Cabo Matapalo, Puntarenas",
+      "price_text": "$11,900,000",
+      "price_usd": 11900000,
+      "location": "Land, Cabo Matapalo, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-cabo-matapalo/14100",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-02-23T18:55:36.901Z",
+      "id": "0ca917c690c9"
+    },
+    {
+      "title": "Casa Pico de Piedra ~ Oceanview Hilltop Villa Near Tamarindo          Bocaraca 4 ~ Spacious 3-Bedroom Condo Steps from Tamarindo Beach          Casa Matapalo ~ Beautiful Multi-Home Property with Detached...",
+      "price_text": "Price:     US$ 680 000.00      Price:     US$ 689 000.00      Price:     US$ 690 000.00",
+      "price_usd": 680000.00689,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Tamarindo      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-pico-de-piedra",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/11-casa-pico-de-piedra-2025.jpg?itok=fTMTiSGE",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/26-bocaraca-3-bedroom-unit.png?itok=wQaLM5Uj",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1_8.jpg?itok=Lv0iKPZe"
+      ],
+      "description": "Welcome to Casa Pico de Piedra, a charming countryside villa tucked away in the peaceful hills of Río Santo,...          This 3-bedroom, 3.5-bathroom condo is located on the first floor of the Bocaraca condominium, just a 220m (...          Welcome to your Guanacaste paradise!\nThis spectacular property is located only 7 minutes from multiple...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-02-23T18:56:19.382Z",
+      "id": "430af402b58a"
+    },
+    {
+      "title": "Spacious Lots in Prime Location ~ Investment Potential in Playa...          Invest in Paradise: Mono Luxe Suites Condotel with Ocean Views          Malinche Condo 113B ~ Cozy 2 Bedroom Unit in Reserva Conchal...",
+      "price_text": "Price:     US$ 750 000.00      Price:     US$ 759 000.00      Price:     US$ 759 000.00",
+      "price_usd": 750000.00759,
+      "location": "Location:     Playa Langosta      Location:     Playa Tamarindo      Location:     Reserva Conchal",
+      "url": "https://www.remax-oceansurf-cr.com/property/playa-langosta-dual-lots",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5-Langosta-Dual-Lots.jpg?itok=uWUY0nEX",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/10-mono-luxe-suites.png?itok=52kaEraA",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5_0.jpg?itok=W0T2lnvy"
+      ],
+      "description": "These two premium lots are now available in Playa Langosta, offering exceptional value in one of the...          Discover the epitome of luxury and exceptional investment potential at the exclusive Mono Luxe Suites...          Reserva Conchal 2 bedroom condo for sale, located on the ground floor, no steps, and with direct access to...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-02-23T18:56:25.797Z",
+      "id": "fb56e50d50d1"
+    },
+    {
+      "title": "Villa Tanamara-Classic French Colonial          Bosques de Pinilla - A New Way of Living          Splendor 360º - Maximize Your Investment ~ Marina View Condo and...",
+      "price_text": "Price:     US$ 900 000.00      Price:     US$ 979 000.00      Price:     US$ 990 000.00",
+      "price_usd": 900000.00979,
+      "location": "Location:     Tamarindo Areas      Location:     Hacienda-Pinilla      Location:     Playa Flamingo",
+      "url": "https://www.remax-oceansurf-cr.com/property/villa-tanamara-classic-french-colonial",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/photos/exposio_0009_14.jpg?itok=Xd7jXtHY",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Bosques%20de%20Pinilla-%20Sales%20booklet_Page_02.jpg?itok=-NhQT2KV",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/29a_360_El_Splendor_Flamingo_Costa_Rica_Condo_For_Sale_0.jpg?itok=eQp3BCuT"
+      ],
+      "description": "WELCOME TO VILLA TANAMARA, your dream house in Costa Rica. Get it all with Villa Tanamara, the house with the...          \nAt Bosques de Pinilla, you’ll find the perfect amenities for you and the family in the impeccably manicured...          Spectacular Views ✅ | Strong Rental Income Potential ✅ | Prime Location ✅ | Breathtaking Sunsets ✅\nThis...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-02-23T18:56:26.554Z",
+      "id": "f752f30e0926"
+    },
+    {
+      "title": "Casa Crucero ~ Modern 4 Bedroom Home in Tamarindo's Newest...          Turnkey Ocean View Home with Recent Upgrades in Gated Community          PRICE REDUCED! Bougainvillea 4211 ~ One-of-a-Kind Oceanview...",
+      "price_text": "Price:     US$ 1 100 000.00      Price:     US$ 1 122 000.00      Price:     US$ 1 150 000.00",
+      "price_usd": 1100000.001122,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Grande      Location:     Reserva Conchal",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-crucero-residencias-de-tamarindo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5%20-casa-crucero-verde.jpeg?itok=12V8KF2X",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/27-casa-salinas.png?itok=W3fPMEhl",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/21-bougainvillea_4211_guest_bathroom_2_0.jpg?itok=wpPEHDkJ"
+      ],
+      "description": "Casa Crucero Verde feels like being on a cruise ship overlooking the canopy and then touching the Pacific...          Located in the quiet hills of Playa Grande within the gated community of Las Ventanas, this upgraded 3-...          This Bougainvillea condo is THE ONLY CONDO WITH ZERO STEPS in the Bougainvillea complex! A great opportunity...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-02-23T18:56:27.320Z",
+      "id": "87ce76c4a63a"
+    },
+    {
+      "title": "Casa Blue Iguana ~ Luxurious 3-Bedroom Tropical Retreat          Villa de Oro ~ Impressive Four Bedroom Home Overlooking Potrero...          Beautifully Appointed Four-Bedroom Estate in Beachfront Community",
+      "price_text": "Price:     US$ 1 175 000.00      Price:     US$ 1 195 000.00      Price:     US$ 1 199 000.00",
+      "price_usd": 1175000.001195,
+      "location": "Location:     Playa Langosta      Location:     Playa Penca      Location:     Hacienda-Pinilla",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-blue-iguana",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/8-casa-blue-iguana.jpg?itok=fEtPzN0J",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-villa-oro.jpeg?itok=xeMBlfEq",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-reserva-de-golf-63.jpg?itok=01pDHyQG"
+      ],
+      "description": "This stunning newly built home is a true masterpiece, thoughtfully crafted to offer both upscale living and...          Villa de Oro is a 4 bed, 4 bath luxury home situated above Potrero Bay in the Pacific Heights neighborhood,...          Nestled within the prestigious Reserva de Golf community of Hacienda Pinilla, this newly constructed (...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-02-23T18:56:27.708Z",
+      "id": "637a5139277b"
+    },
+    {
+      "title": "Rancho Coco ~ Multi-Unit Ranch Residence with Residential and...          Tamarindo Park 64 ~ Perfect Balance of Style and Practicality          Casa Mistral ~ Ocean Views & Jungle Serenity",
+      "price_text": "Price:     US$ 1 690 000.00      Price:     US$ 1 700 000.00      Price:     US$ 1 765 000.00",
+      "price_usd": 1690000.0017,
+      "location": "Location:     Playa Negra      Location:     Playa Tamarindo      Location:     Playa Penca",
+      "url": "https://www.remax-oceansurf-cr.com/property/rancho-coco-multi-unit-property",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Rancho_Coco_Drone_01_marker.jpg?itok=UjGNzKNq",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-tamarindo-64-2025.png?itok=7ojVSy3V",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.Casa-Mistral.jpg?itok=4LKbfGBR"
+      ],
+      "description": "Set amidst the serene landscapes of Playa Negra, Rancho Coco offers an enticing opportunity for lucrative...          Located in the new luxury gated community of Tamarindo Park, this modern home is designed to blend indoor and...          Experience the perfect blend of luxury and tranquility with this breathtaking ocean-view residence, completed...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-02-23T18:56:34.470Z",
+      "id": "83913363ebb0"
+    },
+    {
+      "title": "Casa Higueron ~ 4-Bedroom Luxury Home with 2-Bedroom Guest House...          Sanara 28 ~ Luxury Tropical Residence with Private Casita          Green Turtle Townhomes ~ Four-Unit Modern Investment Complex in...",
+      "price_text": "Price:     US$ 1 800 000.00      Price:     US$ 1 850 000.00      Price:     US$ 1 900 000.00",
+      "price_usd": 1800000.00185,
+      "location": "Location:     Playa Tamarindo      Location:     Reserva Conchal      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-higueron-tamarindo-park-56",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Casa-Higueron.jpg?itok=9nRbn2eJ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/imgi_6_Sanara-28-3.jpg?itok=U8pyDfnV",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/47-green-turtle-townhomes-2025.png?itok=EvFVIFok"
+      ],
+      "description": "Located within the new luxury gated community of Tamarindo Park, this impressive residence is part of one of...          Welcome to Sanara 28, a refined tropical retreat located within the prestigious Reserva Conchal. Thoughtfully...          Introducing Green Turtle Townhomes, a contemporary residential complex featuring four brand-new and fully...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-02-23T18:56:35.010Z",
+      "id": "df0ec79ca26a"
+    },
+    {
+      "title": "25 Paseo del Mar ~ Modern Townhome with Open Layout and Stunning...          Spacious Multi-Use Property with Lots of Potential!           PRICE REDUCTION! Charming 11-Suites Hotel with Ocean &...",
+      "price_text": "Price:     US$ 1 950 000.00      Price:     US$ 1 975 000.00      Price:     US$ 1 999 000.00",
+      "price_usd": 1950000.001975,
+      "location": "Location:     Playa Danta      Location:     Playa Flamingo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/25-paseo-del-mar-las-catalinas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-25-paseo-del-mar.jpg?itok=HLD71j97",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-multi-use-flamingo-property-2022.jpg?itok=IjeOCwpI",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Unknown.jpeg?itok=bivlWjXz"
+      ],
+      "description": "This beautiful and comfortable beachfront home sits just across the plaza from the Beach Club. Perfectly...          Welcome to your dream tropical home in the heart of Flamingo Beach, Guanacaste! This exceptional property...          This Suite Hotel is one of the original bed & breakfasts in the renowned beach town of Tamarindo, Costa...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-02-23T18:56:35.582Z",
+      "id": "186cfd995539"
+    },
+    {
+      "title": "Renovated 4-Bedroom Villa with Golf Views in Reserva Conchal          Senderos Home 25E ~ Immaculate Piece of Real Estate - Phase 2          Casa de Golf ~ 4 Bedroom Estate in Luxury Golf Resort",
+      "price_text": "Price:     US$ 1 999 999.00      Price:     US$ 2 150 000.00      Price:     US$ 2 175 000.00",
+      "price_usd": 1999999.00215,
+      "location": "Location:     Reserva Conchal      Location:     Playa Tamarindo      Location:     Reserva Conchal",
+      "url": "https://www.remax-oceansurf-cr.com/property/villa-carao-11-reserva-conchal",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/52.-Villa-Carao-11.jpg?itok=L3hxr3Ma",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-senderos-home-on-lot-25e.png?itok=-xeag2dI",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-de-golf-melina-2025.jpg?itok=M3ldLKX4"
+      ],
+      "description": "Located in the prestigious gated community of Reserva Conchal, Villa Carao #11 offers a refined living...          With expansive valley and mountain views surrounded by nature, this homesite is perfectly situated to inspire...          Welcome to your dream home! This stunning Mediterranean-style residence is a golfer's paradise, offering...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-02-23T18:56:35.928Z",
+      "id": "b72cfe5e3843"
+    },
+    {
+      "title": "Prime Beachfront Lot in Playa Grande          Tranquil Retreat B&B Boutique Hotel in Playa Grande          Tamarindo 360 -  Live the Dream with an Ocean View Condo in...",
+      "price_text": "Price:     US$ 2 175 000.00      Price:     US$ 2 195 000.00      Price:     US$ 2 200 000.00",
+      "price_usd": 2175000.002195,
+      "location": "Location:     Playa Grande      Location:     Playa Grande      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/playa-grande-titled-beachfront-lot-rare-opportunity",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-playa-grande-beachfront-lot.jpg?itok=tmNE9jy7",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/0-kinamira-suites.jpg?itok=pGj3-nP3",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Tamarindo-360.jpg?itok=mcUvmD3Q"
+      ],
+      "description": "Exceptional Investment Opportunity for Nature Lovers and Surfers!\n\tThis rare Playa Grande beachfront lot ...          Discover this Hotel and Spa, just 3 km (1.8 miles) from the stunning Playa Grande beach. Nestled in a lush...          LIVING WELL IS THE BEST INVESTMENT! Tamarindo 360 is a good investment in the quality of life but it is also...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-02-23T18:56:36.240Z",
+      "id": "787d119ba350"
+    },
+    {
+      "title": "Casa Vibra del Mar ~ 25 Years Financing Available!          Modern Balinese-Inspired Villa in Tamarindo’s Most Elite Gated...          Casa Vida ~ Ocean View Stunner Perched in the Hills of Tamarindo",
+      "price_text": "Price:     US$ 2 250 000.00      Price:     US$ 2 395 000.00      Price:     US$ 2 487 000.00",
+      "price_usd": 2250000.002395,
+      "location": "Location:     Hacienda-Pinilla      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-vibra-del-mar-reserva-de-golf",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-vibra-del-mar-101-2024.jpg?itok=y_I8_89R",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-halaman-el-tesoro-tamarindo-2025_0.jpg?itok=gNwiI5lQ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-vida-el-tesoro.png?itok=VOxP38Na"
+      ],
+      "description": "OWNERS FINANCE UP TO 85% OF THE VALUE, LOW INTEREST RATE, LONG OR SHORT TERM, NO ORIGINATION FEES OR PRE...          Casa Halaman is positioned at the mouth of the Tamarindo River, within the most prestigious gated community...          Casa Vida gracefully occupies an elevated position on the sun-drenched mountain overlooking Playa Tamarindo’s...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-02-23T18:56:36.588Z",
+      "id": "218685e82ed2"
+    },
+    {
+      "title": "Stunning Multi-Unit Villa/B&B ~ Just 250 Meters from...          Villa Ballena ~ Pinnacle of Luxury Living Sitting on the Sands...          Reserva de Golf 49 ~ Elegant 4-Bedroom Villa with Luxury...",
+      "price_text": "Price:     US$ 2 490 000.00      Price:     US$ 2 490 000.00      Price:     US$ 2 495 000.00",
+      "price_usd": 2490000.00249,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Potrero      Location:     Hacienda-Pinilla",
+      "url": "https://www.remax-oceansurf-cr.com/property/villa-nautilus-bed-and-breakfast",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-bed-%26-breakfast%20villa-Tamarindo.jpg?itok=APFA5TEb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/83-villa-ballena.jpg?itok=wBgX_qeH",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/13-reserva-de-golf-49-2025.png?itok=-0Ls7Opf"
+      ],
+      "description": "Nestled in the heart of Tamarindo, Costa Rica, just 250 meters from the beach, this stunning 450m2 villa...          Villa Ballena, meaning \"Whale House\" in Spanish, lives up to its name with nearly 5000 square feet of...          Nestled within the prestigious Hacienda Pinilla community, Reserva de Golf 49 is a stunning two-story...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-02-23T18:56:36.932Z",
+      "id": "6a1735cdf9f4"
+    },
+    {
+      "title": "La Dulce Vida 4 ~ Luxury and Comfort in Perfect Harmony within a...          Ultimate Beachfront Elegance in this 3-Bedroom Retreat          Casa de Mar ~ 5 Bedroom Masterpiece in Low-Density Beachfront...",
+      "price_text": "Price:     US$ 3 500 000.00      Price:     US$ 3 600 000.00      Price:     US$ 3 750 000.00",
+      "price_usd": 3500000.0036,
+      "location": "Location:     Hacienda-Pinilla      Location:     Playa Flamingo      Location:     Hacienda-Pinilla",
+      "url": "https://www.remax-oceansurf-cr.com/property/la-dulce-vida-4-golf-resort",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-dulce-vida-4.png?itok=sevIN26P",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-palms-33.jpg?itok=eAGVdaol",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-de-mar.png?itok=jp15e0_7"
+      ],
+      "description": "Richly detailed and filled with light, this unique residence offers all of the gracious conveniences of...          Discover the epitome of beachfront luxury at Palms #33, a premier titled property nestled in the heart of...          Casa de Mar is located in the exclusive gated community of Dulce Vida, which is part of the Hacienda Pinilla...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-02-23T18:56:43.507Z",
+      "id": "aaef38d5a805"
+    },
+    {
+      "title": "Casa Pacifica: Expansive Luxury Estate with Unmatched Views          Las Crestas de Senderos Home 11F ~ Senderos Phase Three           Casa Alegria ~ Perfect Blend of Comfort, Luxury, and Style",
+      "price_text": "Price:     US$ 3 790 000.00      Price:     US$ 3 950 000.00      Price:     US$ 3 990 000.00",
+      "price_usd": 3790000.00395,
+      "location": "Location:     Playa Flamingo      Location:     Playa Tamarindo      Location:     Playa Danta",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-pacifica-mar-vista",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-casa-pacifica.png?itok=V3Gq_Z-w",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-11F-Senderos-Tamarindo.png?itok=iGmBZX4u",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-2-paseo-miraflores.png?itok=ULC_BKbY"
+      ],
+      "description": "Welcome to Casa Pacifica, where luxury living meets breathtaking ocean views. Situated 500 feet above sea...          Delivery December 2024\nThis modern hideaway was created by the amazing team at WR Architects with one thing...          Introducing Casa Alegria at 2 Paseo Miraflores in the enchanting Las Catalinas, a newly custom-built...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-02-23T18:56:43.843Z",
+      "id": "3c44780e1e83"
     }
   ],
-  "last_updated": "2026-02-23T12:50:20.314Z",
+  "last_updated": "2026-02-23T18:59:11.481Z",
   "total_count": 402
 }
