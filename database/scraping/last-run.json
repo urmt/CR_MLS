@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-02-23T01:27:16.722Z",
+  "timestamp": "2026-02-23T07:01:49.374Z",
   "results": {
-    "new_properties": 5,
-    "duplicates": 418,
+    "new_properties": 284,
+    "duplicates": 139,
     "errors": 15
   }
 }
