@@ -26795,8 +26795,233 @@
       "category": "land",
       "scraped_at": "2026-02-25T01:26:22.032Z",
       "id": "c00d1bf95b59"
+    },
+    {
+      "title": "Mansion de Lujo Estilo Colonial Frances en Santa Ana",
+      "price_text": "₡616,527,470",
+      "price_usd": 1233055,
+      "location": "hace 2 h8br790ft2Rio Oro, Santa Ana",
+      "url": "https://costarica.craigslist.org/reb/d/mansion-de-lujo-estilo-colonial-frances/7917412789.html",
+      "images": [
+        "https://images.craigslist.org/d/7917412789/00H0H_fodr5oaVfMB_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-25T06:53:42.035Z",
+      "id": "76ec4cbb06d9"
+    },
+    {
+      "title": "Piedades de Santa Ana Casa de Lujo 4 Dormitorios",
+      "price_text": "₡213,413,355",
+      "price_usd": 426827,
+      "location": "hace 3 h3br330ft2Santa Ana",
+      "url": "https://costarica.craigslist.org/reb/d/piedades-de-santa-ana-casa-de-lujo/7917409628.html",
+      "images": [
+        "https://images.craigslist.org/d/7917409628/00G0G_5GXzvoOfxQ2_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-25T06:53:42.112Z",
+      "id": "14bf93c8d648"
+    },
+    {
+      "title": "Oportunidad de Inversión: Hotel Boutique",
+      "price_text": "₡1,138,204,085",
+      "price_usd": 2276408,
+      "location": "hace 4 h8br1600ft2Puerto Viejo, Limon",
+      "url": "https://costarica.craigslist.org/reb/d/oportunidad-de-inversin-hotel-boutique/7917407983.html",
+      "images": [
+        "https://images.craigslist.org/d/7917407983/00b0b_6VWFxpTtubD_0ew0aT_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-25T06:53:42.174Z",
+      "id": "373f296f50a6"
+    },
+    {
+      "title": "Mansion de Lujo Estilo Colonial Frances en Santa Ana",
+      "price_text": "₡616,527,470",
+      "price_usd": 1233055,
+      "location": "hace 2 h8br790ft2Rio Oro, Santa Ana",
+      "url": "https://costarica.craigslist.org/reb/d/mansion-de-lujo-estilo-colonial-frances/7917412789.html",
+      "images": [
+        "https://images.craigslist.org/d/7917412789/00H0H_fodr5oaVfMB_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-25T06:53:47.129Z",
+      "id": "76ec4cbb06d9"
+    },
+    {
+      "title": "Piedades de Santa Ana Casa de Lujo 4 Dormitorios",
+      "price_text": "₡213,413,355",
+      "price_usd": 426827,
+      "location": "hace 3 h3br330ft2Santa Ana",
+      "url": "https://costarica.craigslist.org/reb/d/piedades-de-santa-ana-casa-de-lujo/7917409628.html",
+      "images": [
+        "https://images.craigslist.org/d/7917409628/00G0G_5GXzvoOfxQ2_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-25T06:53:47.201Z",
+      "id": "14bf93c8d648"
+    },
+    {
+      "title": "Oportunidad de Inversión: Hotel Boutique",
+      "price_text": "₡1,138,204,085",
+      "price_usd": 2276408,
+      "location": "hace 4 h8br1600ft2Puerto Viejo, Limon",
+      "url": "https://costarica.craigslist.org/reb/d/oportunidad-de-inversin-hotel-boutique/7917407983.html",
+      "images": [
+        "https://images.craigslist.org/d/7917407983/00b0b_6VWFxpTtubD_0ew0aT_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-25T06:53:47.262Z",
+      "id": "373f296f50a6"
+    },
+    {
+      "title": "Mansion de Lujo Estilo Colonial Frances en Santa Ana",
+      "price_text": "₡616,527,470",
+      "price_usd": 1233055,
+      "location": "hace 2 h8br790ft2Rio Oro, Santa Ana",
+      "url": "https://costarica.craigslist.org/reb/d/mansion-de-lujo-estilo-colonial-frances/7917412789.html",
+      "images": [
+        "https://images.craigslist.org/d/7917412789/00H0H_fodr5oaVfMB_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-25T06:53:52.333Z",
+      "id": "76ec4cbb06d9"
+    },
+    {
+      "title": "Piedades de Santa Ana Casa de Lujo 4 Dormitorios",
+      "price_text": "₡213,413,355",
+      "price_usd": 426827,
+      "location": "hace 3 h3br330ft2Santa Ana",
+      "url": "https://costarica.craigslist.org/reb/d/piedades-de-santa-ana-casa-de-lujo/7917409628.html",
+      "images": [
+        "https://images.craigslist.org/d/7917409628/00G0G_5GXzvoOfxQ2_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-25T06:53:52.407Z",
+      "id": "14bf93c8d648"
+    },
+    {
+      "title": "Oportunidad de Inversión: Hotel Boutique",
+      "price_text": "₡1,138,204,085",
+      "price_usd": 2276408,
+      "location": "hace 4 h8br1600ft2Puerto Viejo, Limon",
+      "url": "https://costarica.craigslist.org/reb/d/oportunidad-de-inversin-hotel-boutique/7917407983.html",
+      "images": [
+        "https://images.craigslist.org/d/7917407983/00b0b_6VWFxpTtubD_0ew0aT_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-25T06:53:52.467Z",
+      "id": "373f296f50a6"
+    },
+    {
+      "title": "Mansion de Lujo Estilo Colonial Frances en Santa Ana",
+      "price_text": "₡616,527,470",
+      "price_usd": 1233055,
+      "location": "hace 2 h8br790ft2Rio Oro, Santa Ana",
+      "url": "https://costarica.craigslist.org/reb/d/mansion-de-lujo-estilo-colonial-frances/7917412789.html",
+      "images": [
+        "https://images.craigslist.org/d/7917412789/00H0H_fodr5oaVfMB_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-25T06:53:57.379Z",
+      "id": "76ec4cbb06d9"
+    },
+    {
+      "title": "Piedades de Santa Ana Casa de Lujo 4 Dormitorios",
+      "price_text": "₡213,413,355",
+      "price_usd": 426827,
+      "location": "hace 3 h3br330ft2Santa Ana",
+      "url": "https://costarica.craigslist.org/reb/d/piedades-de-santa-ana-casa-de-lujo/7917409628.html",
+      "images": [
+        "https://images.craigslist.org/d/7917409628/00G0G_5GXzvoOfxQ2_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-25T06:53:57.451Z",
+      "id": "14bf93c8d648"
+    },
+    {
+      "title": "Oportunidad de Inversión: Hotel Boutique",
+      "price_text": "₡1,138,204,085",
+      "price_usd": 2276408,
+      "location": "hace 4 h8br1600ft2Puerto Viejo, Limon",
+      "url": "https://costarica.craigslist.org/reb/d/oportunidad-de-inversin-hotel-boutique/7917407983.html",
+      "images": [
+        "https://images.craigslist.org/d/7917407983/00b0b_6VWFxpTtubD_0ew0aT_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-25T06:53:57.511Z",
+      "id": "373f296f50a6"
+    },
+    {
+      "title": "Mansion de Lujo Estilo Colonial Frances en Santa Ana",
+      "price_text": "₡616,527,470",
+      "price_usd": 1233055,
+      "location": "hace 2 h8br790ft2Rio Oro, Santa Ana",
+      "url": "https://costarica.craigslist.org/reb/d/mansion-de-lujo-estilo-colonial-frances/7917412789.html",
+      "images": [
+        "https://images.craigslist.org/d/7917412789/00H0H_fodr5oaVfMB_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-25T06:54:02.414Z",
+      "id": "76ec4cbb06d9"
+    },
+    {
+      "title": "Piedades de Santa Ana Casa de Lujo 4 Dormitorios",
+      "price_text": "₡213,413,355",
+      "price_usd": 426827,
+      "location": "hace 3 h3br330ft2Santa Ana",
+      "url": "https://costarica.craigslist.org/reb/d/piedades-de-santa-ana-casa-de-lujo/7917409628.html",
+      "images": [
+        "https://images.craigslist.org/d/7917409628/00G0G_5GXzvoOfxQ2_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-25T06:54:02.488Z",
+      "id": "14bf93c8d648"
+    },
+    {
+      "title": "Oportunidad de Inversión: Hotel Boutique",
+      "price_text": "₡1,138,204,085",
+      "price_usd": 2276408,
+      "location": "hace 4 h8br1600ft2Puerto Viejo, Limon",
+      "url": "https://costarica.craigslist.org/reb/d/oportunidad-de-inversin-hotel-boutique/7917407983.html",
+      "images": [
+        "https://images.craigslist.org/d/7917407983/00b0b_6VWFxpTtubD_0ew0aT_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-25T06:54:02.549Z",
+      "id": "373f296f50a6"
     }
   ],
-  "last_updated": "2026-02-25T01:30:56.974Z",
+  "last_updated": "2026-02-25T07:00:32.148Z",
   "total_count": 402
 }
