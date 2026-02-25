@@ -26750,8 +26750,53 @@
       "category": "residential",
       "scraped_at": "2026-02-24T01:23:33.660Z",
       "id": "61b88dcfc69c"
+    },
+    {
+      "title": "Oceano Papagayo - Architectural Oceanfront Estate\n                Single Family Homes, Papagayo Gulf, Guanacaste",
+      "price_text": "$14,450,000",
+      "price_usd": 14450000,
+      "location": "Single Family Homes, Papagayo Gulf, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-single-family-homes-for-sale-in-papagayo-gulf/14118",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-02-25T01:24:09.890Z",
+      "id": "c00d1bf95b59"
+    },
+    {
+      "title": "Signature Contemporary Estate in Las Ventanas\n                Single Family Homes, Playa Grande, Guanacaste",
+      "price_text": "$4,200,000",
+      "price_usd": 4200000,
+      "location": "Single Family Homes, Playa Grande, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-single-family-homes-for-sale-in-playa-grande/14119",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-02-25T01:24:41.495Z",
+      "id": "2198d62ac3d0"
+    },
+    {
+      "title": "Oceano Papagayo - Architectural Oceanfront Estate\n                Single Family Homes, Papagayo Gulf, Guanacaste",
+      "price_text": "$14,450,000",
+      "price_usd": 14450000,
+      "location": "Single Family Homes, Papagayo Gulf, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-single-family-homes-for-sale-in-papagayo-gulf/14118",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000067L0BO/s5f9de75h/midres/69706b8f05c35.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-02-25T01:26:22.032Z",
+      "id": "c00d1bf95b59"
     }
   ],
-  "last_updated": "2026-02-24T18:59:37.354Z",
+  "last_updated": "2026-02-25T01:30:28.965Z",
   "total_count": 402
 }
