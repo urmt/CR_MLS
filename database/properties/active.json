@@ -27020,8 +27020,41 @@
       "category": "residential",
       "scraped_at": "2026-02-25T06:54:02.549Z",
       "id": "373f296f50a6"
+    },
+    {
+      "title": "The Breeze Boutique Hotel - Solid Investment Opportunity in Tamarindo\n                Hotel / Leisure, Tamarindo, Guanacaste",
+      "price_text": "$2,250,000",
+      "price_usd": 2250000,
+      "location": "Hotel / Leisure, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/11-bed-hotel-leisure-for-sale-in-tamarindo/14126",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-02-25T18:56:42.135Z",
+      "id": "d3c850535397"
+    },
+    {
+      "title": "The Enclave B6 ~ Luxury Five Bedroom Home with Rooftop Terrace          4-Bedroom Townhome in Los Malinches of Hacienda Pinilla          Villa Resplandor ~ Two Beautiful Homes Sold Together in Langosta...",
+      "price_text": "Price:     US$ 850 000.00      Price:     US$ 859 000.00      Price:     US$ 899 000.00",
+      "price_usd": 850000.00859,
+      "location": "Location:     Playa Avellanas      Location:     Hacienda-Pinilla      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/enclave-b6-playa-avellanas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/31-The-Enclave-B6.jpg?itok=rS1qmwT3",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Los-Malinche-23.jpeg?itok=cPqfF0xY",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/A.jpg?itok=31eg8PST"
+      ],
+      "description": "Matterport interactive tour of the home HERE.  \nWelcome to The Enclave at Avellanas, where luxury living...          \n\t\nLos Malinches 23\nWelcome to an exceptional 4-bedroom, 4.5-bath residence in the exclusive enclave of Los...          Welcome to Villa Resplandor, a pair of splendid newly constructed 2-bedroom homes that effortlessly encompass...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-02-25T18:57:57.936Z",
+      "id": "5c3d9ca5fbb1"
     }
   ],
-  "last_updated": "2026-02-25T12:51:02.487Z",
+  "last_updated": "2026-02-25T19:01:06.703Z",
   "total_count": 402
 }
