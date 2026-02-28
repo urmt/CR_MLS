@@ -27671,8 +27671,23 @@
       "category": "residential",
       "scraped_at": "2026-02-28T12:29:25.864Z",
       "id": "81dc38a2aeda"
+    },
+    {
+      "title": "For Sale Building 2 Stories and Roof Top Ideal For Show Room or Restaurant\n                Commercial, Santa Ana, San Jose",
+      "price_text": "$850,000",
+      "price_usd": 850000,
+      "location": "Commercial, Santa Ana, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-commercial-for-sale-in-santa-ana/12368",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-02-28T18:23:49.090Z",
+      "id": "bdc70e5e57b1"
     }
   ],
-  "last_updated": "2026-02-28T12:36:49.197Z",
+  "last_updated": "2026-02-28T18:28:59.546Z",
   "total_count": 402
 }
