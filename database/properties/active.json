@@ -28037,8 +28037,80 @@
       "category": "residential",
       "scraped_at": "2026-03-03T01:25:35.705Z",
       "id": "d9737b63f523"
+    },
+    {
+      "title": "Introducing Baulas Sunset Community ~ A Lifestyle Rooted in...          Corner Lot with Mountain and Valley Views - Montana del Mar Lot...          San Antonio Estates ~ Ocean-View Homesites in an Exclusive...",
+      "price_text": "Price:     US$ 100 000.00      Price:     US$ 149 000.00      Price:     US$ 149 000.00",
+      "price_usd": 100000.00149,
+      "location": "Location:     Tamarindo Areas      Location:     Tamarindo Areas      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/baulas-sunset-community",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5-cielo-condominium.png?itok=FvdWkYg1",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Montana-del-Mar.jpg?itok=-dNr6zc7",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-san-antonio-estates-2026.jpg.png?itok=0TQRUmyk"
+      ],
+      "description": "Welcome to Baulas Sunset Community – a visionary new development in the heart of Huacas, Guanacaste.\nCrafted...          This prime resale lot in Montaña del Mar is positioned on a desirable corner location, the property benefits...          San Antonio Estates is a private gated residential community offering exceptional ocean-view homesites in one...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-03T18:40:56.332Z",
+      "id": "f033242c0e81"
+    },
+    {
+      "title": "PRICE REDUCTION! Studio Condo in Reserva Conchal ~ Ocean Views,...          Boca Raca 14 ~ Exclusive Sixth-Floor Condo with Breathtaking...          Tamarindo Walk ~ New Residential Community",
+      "price_text": "Price:     US$ 499 000.00      Price:     US$ 499 000.00      Price:     US$ 499 000.00",
+      "price_usd": 499000.00499,
+      "location": "Location:     Reserva Conchal      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/malinche-111b",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1._living_condo_reservaconchal.jpg?itok=-VePLHow",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/16-boca-raca-14.jpg?itok=J8DeGj5N",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/27-tamarindo-walk-2025-pictures.png?itok=7L6b29JI"
+      ],
+      "description": "Welcome to Malinche 111B, the lowest-priced condo in Reserva Conchal—an ocean-view ground-floor studio that...          Situated on the prestigious sixth floor of an exclusive development in Playa Tamarindo, Costa Rica, Boca Raca...          Tamarindo Walk – Boutique Coastal Residences in the Heart of Tamarindo\nWelcome to Tamarindo Walk, an...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-03T18:41:03.629Z",
+      "id": "8fafbf57aef5"
+    },
+    {
+      "title": "Beachfront Living at Its Finest ~ Horizontes del Mar 206 | Playa...          Villas Puesta de Sol ~ Tamarindo's Newest Condominium...          The Enclave C3 ~ Best-Priced Resale in The Enclave Community",
+      "price_text": "Price:     US$ 825 000.00      Price:     US$ 825 000.00      Price:     US$ 850 000.00",
+      "price_usd": 825000.00825,
+      "location": "Location:     Playa Langosta      Location:     Playa Tamarindo      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/horizontes-del-mar-206-playa-langosta",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Horizontes%20Del%20Mar%20206-Beachfront-Condo-Langosta.jpg?itok=Orcd7ouU",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Screenshot%202026-02-26%20at%209.29.53%E2%80%AFAM.png?itok=dsw6X-_W",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Enclave-C3.png?itok=AQ3wGpGU"
+      ],
+      "description": "Welcome to Horizontes del Mar 206, a beautifully appointed 1,500 sq ft beachfront condominium located in the...          Welcome to “Villas Puesta del Sol” or “The Sunset Villas” – Tamarindo’s newest addition to the luxury market...          Discover the best-priced resale available in The Enclave at Avellanas, a luxurious gated community located...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-03T18:41:14.213Z",
+      "id": "8c87218a2279"
+    },
+    {
+      "title": "Casa Hall ~ Modern Tropical Living with Walkable Beach Access          Modern Balinese-Inspired Villa in Tamarindo’s Most Elite Gated...          Casa Vida ~ Ocean View Stunner Perched in the Hills of Tamarindo",
+      "price_text": "Price:     US$ 2 295 000.00      Price:     US$ 2 395 000.00      Price:     US$ 2 487 000.00",
+      "price_usd": 2295000.002395,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-hall-playa-tamarindo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-hall-2026.png?itok=zkhdqI-V",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-halaman-el-tesoro-tamarindo-2025_0.jpg?itok=gNwiI5lQ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-vida-el-tesoro.png?itok=VOxP38Na"
+      ],
+      "description": "Tucked inside a boutique gated community just moments from the shoreline of Playa Tamarindo, Casa Hall offers...          Casa Halaman is positioned at the mouth of the Tamarindo River, within the most prestigious gated community...          Casa Vida gracefully occupies an elevated position on the sun-drenched mountain overlooking Playa Tamarindo’s...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-03T18:41:24.594Z",
+      "id": "a4c811568642"
     }
   ],
-  "last_updated": "2026-03-03T12:43:17.764Z",
+  "last_updated": "2026-03-03T18:42:48.010Z",
   "total_count": 402
 }
