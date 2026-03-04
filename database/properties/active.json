@@ -28127,8 +28127,26 @@
       "category": "land",
       "scraped_at": "2026-03-04T01:21:22.715Z",
       "id": "546e7db373b8"
+    },
+    {
+      "title": "Build-Ready Lot Near the Sand in Playa Grande Estates          PRICE REDUCTION! Studio Condo in Reserva Conchal ~ Ocean Views,...          Boca Raca 14 ~ Exclusive Sixth-Floor Condo with Breathtaking...",
+      "price_text": "Price:     US$ 499 000.00      Price:     US$ 499 000.00      Price:     US$ 499 000.00",
+      "price_usd": 499000.00499,
+      "location": "Location:     Playa Grande      Location:     Reserva Conchal      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/pge-lot-6",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-playa-grande-estates-lot-6.png?itok=l-haQPbq",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1._living_condo_reservaconchal.jpg?itok=-VePLHow",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/16-boca-raca-14.jpg?itok=J8DeGj5N"
+      ],
+      "description": "Lot 6 in Playa Grande Estates offers one of the closest residential positions to the beach without being...          Welcome to Malinche 111B, the lowest-priced condo in Reserva Conchal—an ocean-view ground-floor studio that...          Situated on the prestigious sixth floor of an exclusive development in Playa Tamarindo, Costa Rica, Boca Raca...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-04T18:40:16.522Z",
+      "id": "8babe037bc4c"
     }
   ],
-  "last_updated": "2026-03-04T12:43:12.805Z",
+  "last_updated": "2026-03-04T18:41:57.067Z",
   "total_count": 402
 }
