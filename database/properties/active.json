@@ -28109,8 +28109,26 @@
       "category": "land",
       "scraped_at": "2026-03-03T18:41:24.594Z",
       "id": "a4c811568642"
+    },
+    {
+      "title": "Casa Las Brisas ~ 5 Bedroom Ocean View Estate in Flamingo Beach          Hotel Boruca ~ Thriving Hotel in the Heart of Tamarindo          Casa Hall ~ Modern Tropical Living with Walkable Beach Access",
+      "price_text": "Price:     US$ 2 950 000.00      Price:     US$ 3 000 000.00      Price:     US$ 3 295 000.00",
+      "price_usd": 2950000.003,
+      "location": "Location:     Playa Flamingo      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-las-brisas-flamingo-north-ridge",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-las-brisas.jpeg?itok=4NDOcz_A",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-hotel-boruca_0.png?itok=1eeezf0w",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-hall-2026.png?itok=zkhdqI-V"
+      ],
+      "description": "Casa Las Brisas is an extraordinary property with stunning ocean views extending from the Bay of Potrero and...          This thriving hotel in the heart of Tamarindo presents an exceptional investment opportunity, blending...          Tucked inside a boutique gated community just moments from the shoreline of Playa Tamarindo, Casa Hall offers...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-04T01:21:22.715Z",
+      "id": "546e7db373b8"
     }
   ],
-  "last_updated": "2026-03-03T18:43:17.003Z",
+  "last_updated": "2026-03-04T01:22:36.185Z",
   "total_count": 402
 }
