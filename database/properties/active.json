@@ -28145,8 +28145,62 @@
       "category": "residential",
       "scraped_at": "2026-03-04T18:40:16.522Z",
       "id": "8babe037bc4c"
+    },
+    {
+      "title": "Alta Mar 169 ~ Stunning Ocean View Lot in Renown Gated Community          Beachfront Living at Its Finest ~ Horizontes del Mar 206 | Playa...          Villas Puesta de Sol ~ Tamarindo's Newest Condominium...",
+      "price_text": "Price:     US$ 798 000.00      Price:     US$ 825 000.00      Price:     US$ 825 000.00",
+      "price_usd": 798000.00825,
+      "location": "Location:     Playa Grande      Location:     Playa Langosta      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/alta-mar-169-las-ventanas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-3269m2-las-ventanas-lot.png?itok=18mQBzNC",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Horizontes%20Del%20Mar%20206-Beachfront-Condo-Langosta.jpg?itok=Orcd7ouU",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Screenshot%202026-02-26%20at%209.29.53%E2%80%AFAM.png?itok=dsw6X-_W"
+      ],
+      "description": "Welcome to Alta Mar, a remarkable community within Las Ventanas, Playa Grande, where the epitome of coastal...          Welcome to Horizontes del Mar 206, a beautifully appointed 1,500 sq ft beachfront condominium located in the...          Welcome to “Villas Puesta del Sol” or “The Sunset Villas” – Tamarindo’s newest addition to the luxury market...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-05T01:23:18.752Z",
+      "id": "f6ad4dd17cbe"
+    },
+    {
+      "title": "24 Plaza Carlota  ~ Timeless Gem in Charming Beachfront...          4-Bedroom Townhome in Los Malinches of Hacienda Pinilla          Villa Resplandor ~ Two Beautiful Homes Sold Together in Langosta...",
+      "price_text": "Price:     US$ 850 000.00      Price:     US$ 859 000.00      Price:     US$ 899 000.00",
+      "price_usd": 850000.00859,
+      "location": "Location:     Playa Danta      Location:     Hacienda-Pinilla      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/24-plaza-carlota",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/30-24-plaza-carlota.png?itok=k99IN_Ed",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Los-Malinche-23.jpeg?itok=cPqfF0xY",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/A.jpg?itok=31eg8PST"
+      ],
+      "description": "Welcome to 24 Plaza Carlota, a stunning 2-bedroom, 2-bathroom condo offering 1,669 square feet of...          \n\t\nLos Malinches 23\nWelcome to an exceptional 4-bedroom, 4.5-bath residence in the exclusive enclave of Los...          Welcome to Villa Resplandor, a pair of splendid newly constructed 2-bedroom homes that effortlessly encompass...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-05T01:23:19.482Z",
+      "id": "ff7018a3eb42"
+    },
+    {
+      "title": "Hotel Boruca ~ Thriving Hotel in the Heart of Tamarindo          Casa Hall ~ Modern Tropical Living with Walkable Beach Access          La Dulce Vida 4 ~ Luxury and Comfort in Perfect Harmony within a...",
+      "price_text": "Price:     US$ 3 000 000.00      Price:     US$ 3 295 000.00      Price:     US$ 3 500 000.00",
+      "price_usd": 3000000.003295,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Hacienda-Pinilla",
+      "url": "https://www.remax-oceansurf-cr.com/property/hotel-boruca-tamarindo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-hotel-boruca_0.png?itok=1eeezf0w",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-hall-2026.png?itok=zkhdqI-V",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-dulce-vida-4.png?itok=sevIN26P"
+      ],
+      "description": "This thriving hotel in the heart of Tamarindo presents an exceptional investment opportunity, blending...          Tucked inside a boutique gated community just moments from the shoreline of Playa Tamarindo, Casa Hall offers...          Richly detailed and filled with light, this unique residence offers all of the gracious conveniences of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-05T01:23:34.725Z",
+      "id": "5d8ba599fcf3"
     }
   ],
-  "last_updated": "2026-03-04T18:42:33.378Z",
+  "last_updated": "2026-03-05T01:24:54.809Z",
   "total_count": 402
 }
