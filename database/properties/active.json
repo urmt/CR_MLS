@@ -28250,8 +28250,44 @@
       "category": "residential",
       "scraped_at": "2026-03-05T19:13:38.471Z",
       "id": "5a441fead28d"
+    },
+    {
+      "title": "El Tesoro 3.3 ~ Panoramic Ocean & Estuary View Homesite in...          Villa Resplandor ~ Two Beautiful Homes Sold Together in Langosta...          Sunset Inn ~ Gorgeous Newly Built Hotel Only Minutes Away from...",
+      "price_text": "Price:     US$ 899 000.00      Price:     US$ 899 000.00      Price:     US$ 899 000.00",
+      "price_usd": 899000.00899,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Langosta      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/el-tesoro-ocean-view-lot",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-el-tesoro-1554m2-lot.png?itok=2-3ZZqwf",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/A.jpg?itok=31eg8PST",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-10-unit-property.jpeg?itok=1lweQ-tZ"
+      ],
+      "description": "Welcome to El Tesoro, one of Tamarindo’s most sought-after hillside communities. This exceptional 1,554 m² (0...          Welcome to Villa Resplandor, a pair of splendid newly constructed 2-bedroom homes that effortlessly encompass...          A 10-unit complex just a block from the sand, surf, and sunset of Langosta Beach! Position A in Tamarindo’s...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-07T01:18:22.149Z",
+      "id": "8a05cf125876"
+    },
+    {
+      "title": "Casa Hall ~ Modern Tropical Living with Walkable Beach Access          La Dulce Vida 4 ~ Luxury and Comfort in Perfect Harmony within a...          Ultimate Beachfront Elegance in this 3-Bedroom Retreat",
+      "price_text": "Price:     US$ 3 295 000.00      Price:     US$ 3 500 000.00      Price:     US$ 3 600 000.00",
+      "price_usd": 3295000.0035,
+      "location": "Location:     Playa Tamarindo      Location:     Hacienda-Pinilla      Location:     Playa Flamingo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-hall-playa-tamarindo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-hall-2026.png?itok=zkhdqI-V",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-dulce-vida-4.png?itok=sevIN26P",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-palms-33.jpg?itok=eAGVdaol"
+      ],
+      "description": "Tucked inside a boutique gated community just moments from the shoreline of Playa Tamarindo, Casa Hall offers...          Richly detailed and filled with light, this unique residence offers all of the gracious conveniences of...          Discover the epitome of beachfront luxury at Palms #33, a premier titled property nestled in the heart of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-07T01:18:38.634Z",
+      "id": "39b6d2703630"
     }
   ],
-  "last_updated": "2026-03-06T18:39:12.322Z",
+  "last_updated": "2026-03-07T01:19:50.761Z",
   "total_count": 402
 }
