@@ -28286,8 +28286,62 @@
       "category": "land",
       "scraped_at": "2026-03-07T01:18:38.634Z",
       "id": "39b6d2703630"
+    },
+    {
+      "title": "Casa Naim ~ Perfect Blend of Luxury and Tranquility within an...          Langosta Beach Lots by the Diria          Alta Mar 169 ~ Stunning Ocean View Lot in Renown Gated Community",
+      "price_text": "Price:     US$ 795 000.00      Price:     US$ 795 000.00      Price:     US$ 798 000.00",
+      "price_usd": 795000.00795,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Langosta      Location:     Playa Grande",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-naim-rancho-villareal",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/31-casa-naim-villareal.png?itok=oYvNIjtb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/0-Langosta-beach-lots.JPG?itok=8DIwo6ub",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-3269m2-las-ventanas-lot.png?itok=18mQBzNC"
+      ],
+      "description": "Step into your dream home nestled in the heart of paradise! This brand-new 3-bedroom main house, accompanied...          Diria Resort is introducing a limited collection of 11 exceptional residential lots in the prestigious beach...          Welcome to Alta Mar, a remarkable community within Las Ventanas, Playa Grande, where the epitome of coastal...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-10T01:18:40.143Z",
+      "id": "e2677d52950a"
+    },
+    {
+      "title": "The Enclave B9 ~ 5-Bedroom Designer Villa with Pool Views          The Enclave B6 ~ Luxury Five Bedroom Home with Rooftop Terrace          24 Plaza Carlota  ~ Timeless Gem in Charming Beachfront...",
+      "price_text": "Price:     US$ 850 000.00      Price:     US$ 850 000.00      Price:     US$ 850 000.00",
+      "price_usd": 850000.0085,
+      "location": "Location:     Playa Avellanas      Location:     Playa Avellanas      Location:     Playa Danta",
+      "url": "https://www.remax-oceansurf-cr.com/property/enclave-b9-playa-avellanas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/42-enclave-B8-2025.png?itok=ESJK1LH7",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/31-The-Enclave-B6.jpg?itok=rS1qmwT3",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/30-24-plaza-carlota.png?itok=k99IN_Ed"
+      ],
+      "description": "Experience the perfect union of contemporary design and natural beauty at The Enclave at Avellanas, a gated...          Matterport interactive tour of the home HERE.  \nWelcome to The Enclave at Avellanas, where luxury living...          Welcome to 24 Plaza Carlota, a stunning 2-bedroom, 2-bathroom condo offering 1,669 square feet of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-10T01:18:40.891Z",
+      "id": "656eb434f672"
+    },
+    {
+      "title": "4-Bedroom Townhome in Los Malinches of Hacienda Pinilla          El Tesoro 3.3 ~ Panoramic Ocean & Estuary View Homesite in...          Villa Resplandor ~ Two Beautiful Homes Sold Together in Langosta...",
+      "price_text": "Price:     US$ 859 000.00      Price:     US$ 899 000.00      Price:     US$ 899 000.00",
+      "price_usd": 859000.00899,
+      "location": "Location:     Hacienda-Pinilla      Location:     Playa Tamarindo      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/los-malinches-23-hacienda-pinilla",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Los-Malinche-23.jpeg?itok=cPqfF0xY",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-el-tesoro-1554m2-lot.png?itok=2-3ZZqwf",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/A.jpg?itok=31eg8PST"
+      ],
+      "description": "Los Malinches 23\nWelcome to an exceptional 4-bedroom, 4.5-bath residence in the exclusive enclave of Los...          Welcome to El Tesoro, one of Tamarindo’s most sought-after hillside communities. This exceptional 1,554 m² (0...          Welcome to Villa Resplandor, a pair of splendid newly constructed 2-bedroom homes that effortlessly encompass...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-10T01:18:41.271Z",
+      "id": "dc927577f01e"
     }
   ],
-  "last_updated": "2026-03-09T18:46:19.422Z",
+  "last_updated": "2026-03-10T01:20:10.368Z",
   "total_count": 402
 }
