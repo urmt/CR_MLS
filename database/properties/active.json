@@ -26219,8 +26219,251 @@
       "category": "residential",
       "scraped_at": "2026-03-11T01:19:02.381Z",
       "id": "65d810325d5c"
+    },
+    {
+      "title": "Costa Vida - Luxury Income Producing Villa\n                Single Family Homes, Manuel Antonio, Puntarenas",
+      "price_text": "$7,950,000",
+      "price_usd": 7950000,
+      "location": "Single Family Homes, Manuel Antonio, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/17-bed-single-family-homes-for-sale-in-manuel-antonio/12557",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00001fGH3B/o2q3iz0qm/midres/Home-103.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-11T06:41:48.988Z",
+      "id": "cbe1183460fe"
+    },
+    {
+      "title": "Luxurious Coffee Estate for Sale in the Mountains of Alajuela\n                Single Family Homes, San Isidro, Alajuela",
+      "price_text": "$4,980,000",
+      "price_usd": 4980000,
+      "location": "Single Family Homes, San Isidro, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/3-bed-single-family-homes-for-sale-in-san-isidro/13585",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005Z8rGb/ucpgzx3ew/midres/Copia%20de%20Los%20Cedros-8.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-11T06:42:06.687Z",
+      "id": "a45cf47c1b63"
+    },
+    {
+      "title": "Luxury Villa in Gated Community\n                Single Family Homes, Manuel Antonio, Puntarenas",
+      "price_text": "$4,850,000",
+      "price_usd": 4850000,
+      "location": "Single Family Homes, Manuel Antonio, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-single-family-homes-for-sale-in-manuel-antonio/13549",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005WwbkB/pgyz704vg/midres/Casa%20Nola-17F.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-11T06:42:07.354Z",
+      "id": "fd9c014494af"
+    },
+    {
+      "title": "Commercial Gem at Ojochal\n                Commercial, Ojochal, Puntarenas",
+      "price_text": "$989,000",
+      "price_usd": 989000,
+      "location": "Commercial, Ojochal, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-ojochal/10610",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00001Qgjnd/v66bj0hx3/midres/Foto%204-6-24,%201%2000%2036%E2%80%AFp.%C2%A0m..jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-11T06:42:59.042Z",
+      "id": "b8673728cbc5"
+    },
+    {
+      "title": "Quepos Arco Iris Castle\n                Commercial, Quepos, Puntarenas",
+      "price_text": "$985,000",
+      "price_usd": 985000,
+      "location": "Commercial, Quepos, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/3-bed-commercial-for-sale-in-quepos/6403",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-11T06:42:59.147Z",
+      "id": "3afae7350eb5"
+    },
+    {
+      "title": "Building for sale in Uruca\n                Commercial, La Uruca, San Jose",
+      "price_text": "$950,000",
+      "price_usd": 950000,
+      "location": "Commercial, La Uruca, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/15-bed-commercial-for-sale-in-la-uruca/6961",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-11T06:42:59.259Z",
+      "id": "608f9afb78ce"
+    },
+    {
+      "title": "Exclusive Santa Teresa’s Top ATV Rental Business\n                Commercial, Santa Teresa, Puntarenas",
+      "price_text": "$900,000",
+      "price_usd": 900000,
+      "location": "Commercial, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-santa-teresa/10268",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-11T06:42:59.537Z",
+      "id": "6eddb155cf75"
+    },
+    {
+      "title": "Epic Tamarindo, Exclusive Luxury Investment with 18 Villas and Suites\n                Hotel / Leisure, Tamarindo, Guanacaste",
+      "price_text": "$3,375,000",
+      "price_usd": 3375000,
+      "location": "Hotel / Leisure, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/12-bed-hotel-leisure-for-sale-in-tamarindo/13562",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-11T06:43:17.623Z",
+      "id": "c4f8b14214ac"
+    },
+    {
+      "title": "Costa Vida - Luxury Income Producing Villa\n                Single Family Homes, Manuel Antonio, Puntarenas",
+      "price_text": "$7,950,000",
+      "price_usd": 7950000,
+      "location": "Single Family Homes, Manuel Antonio, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/17-bed-single-family-homes-for-sale-in-manuel-antonio/12557",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00001fGH3B/o2q3iz0qm/midres/Home-103.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-11T06:44:19.311Z",
+      "id": "cbe1183460fe"
+    },
+    {
+      "title": "Rancho Las Colinas ~ Charming Rural Lot Minutes from the Coast          The Enclave at Los Cielos          Paseo del Mar Unit ~ Booming Commercial Hub Close to Everything",
+      "price_text": "Price:     US$ 85 000.00      Price:     US$ 85 000.00      Price:     US$ 89 000.00",
+      "price_usd": 85000.0085,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Avellanas      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/rancho-las-colinas-lot-65",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Rancho-Las-Colinas-65.jpg?itok=J74bz3sb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/6-the-enclave-at-los-cielos.png?itok=cIxZifLc",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-paseo-del-mar-unit_0.png?itok=IrJje0uY"
+      ],
+      "description": "This attractive lot in the Rancho Las Colinas community offers a great opportunity to build in a peaceful and...          Tucked into the rolling hills just 15 minutes from Playa Avellanas, The Enclave at Los Cielos offers a rare...          Huacas serves as the central hub for all the coastal towns along Guanacaste's Gold Coast, and the Paseo del...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-11T06:44:37.761Z",
+      "id": "c524c6411c55"
+    },
+    {
+      "title": "PRICE REDUCTION! Blue House ~ Home with Private Studio Near...          Lote Shane ~ Prime Coastal Lot in Matapalo          Tierra Pacifica 9 ~ Stunning Plot of Land in a Gated Community",
+      "price_text": "Price:     US$ 149 000.00      Price:     US$ 175 000.00      Price:     US$ 179 000.00",
+      "price_usd": 149000.00175,
+      "location": "Location:     Tamarindo Areas      Location:     Tamarindo Areas      Location:     Playa Junquillal",
+      "url": "https://www.remax-oceansurf-cr.com/property/blue-house-monte-donato",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-BlueHouse-Exterior%20.jpg?itok=hBok9C8A",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Hidden-Valley-Matapalo-Lot.JPG?itok=6TQezY3Q",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/tierra-pacifica-9_53641971622_o.jpg?itok=OddOwJbG"
+      ],
+      "description": "Welcome to your ideal home in Pinilla! This charming 2-bedroom, 1-bathroom residence includes a versatile and...          Discover the potential of this exceptional 5,275-square-meter plot of land located in the picturesque area of...          Tierra Pacifica is an ideal ecological gated community, located just a mile from the beach at Playa...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-11T06:44:38.694Z",
+      "id": "f9ead998b67f"
+    },
+    {
+      "title": "Renovated One-Bedroom Apartment in Palmas de Tamarindo          Rancho Agua Dulce B13 ~ 1.7 Acres in the Heart of Playa Negra          Tierra Pacifica Lot 73 ~ Your Own Piece of Paradise",
+      "price_text": "Price:     US$ 185 000.00      Price:     US$ 190 000.00      Price:     US$ 190 000.00",
+      "price_usd": 185000.0019,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Negra      Location:     Playa Junquillal",
+      "url": "https://www.remax-oceansurf-cr.com/property/palmas-de-tamarindo-202d",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/11-palmas-de-tamarindo-202d.png?itok=Bo11wE07",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1_RAD_B13_Playa%20Negra.png?itok=eKpE7OWz",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/tierra-pacifica-73_53641978067_o.jpg?itok=a-Uhso07"
+      ],
+      "description": "Just one minute from the Tamarindo–Villareal intersection, this fully renovated and furnished second-floor...          Discover your own slice of paradise with this exceptional 1.7-acre lot located in the serene and picturesque...          There are few places as ideal for nature lovers as this 1.5-acre property - lot #73 - in Tierra Pacifica, a...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-11T06:44:39.012Z",
+      "id": "5cfc74c1f6b1"
+    },
+    {
+      "title": "Guanavista at Ostional ~ Oceanview & Jungle Lots in...          Prime Development ~ Lot 21 in Aldea Santa Fe ~ Fully Permitted...          Loma Verde 14 ~ Beautiful 2-Bedroom Home in Gated Community Near...",
+      "price_text": "Price:     US$ 262 500.00      Price:     US$ 266 500.00      Price:     US$ 269 000.00",
+      "price_usd": 262500.002665,
+      "location": "Location:     Playa Ostional      Location:     Tamarindo Areas      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/guanavista-playa-ostional-development",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-guanavista-ostional.png?itok=Y1_w8JRD",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Aldea-Santa-Fe-development-parcel_0.jpg?itok=CucFKzrL",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Gated-Community-House-Tamarindo.jpg?itok=MfqUr5UE"
+      ],
+      "description": "Explore Real Estate Opportunities in Ostional, Costa Rica\nDreaming of owning property in Ostional? Welcome to...          Discover an exceptional development opportunity in the exclusive gated community of Aldea Santa Fe, ideally...          This charming two-bedroom, two-bath home is fully furnished and in excellent condition, offering one of the...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-03-11T06:44:40.244Z",
+      "id": "3998ef53c083"
+    },
+    {
+      "title": "Move-In Ready 2-Bedroom Condo Minutes from Tamarindo Beach          Scenic Ocean Views & Serenity in Finca Los Pargos          Move-In Ready Home with Jacuzzi & Tropical Garden in Loma...",
+      "price_text": "Price:     US$ 270 000.00      Price:     US$ 280 000.00      Price:     US$ 280 000.00",
+      "price_usd": 270000.0028,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Negra      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/palmas-de-tamarindo-304f",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/10-Palmas-Entrance.jpg?itok=73vKH0gl",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Los_Pargos_1.JPG?itok=WE-CWYqD",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/17-Loma-Verde-Pool%281%29%202.jpg?itok=qfmIH-9o"
+      ],
+      "description": "Fantastic condominium located in the Palmas de Tamarindo condominium community in Villareal. Located just a...          Discover a rare opportunity to own a 1.25-acre ocean-view homesite in the exclusive community of Finca Los...          Beautifully finished two-bedroom and two full bathroom home located in the popular community of Loma Verde....",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-11T06:44:40.562Z",
+      "id": "0d2f7bbd0c14"
+    },
+    {
+      "title": "Casa Milagro ~ Los Amendros 4 Bedroom Home          Ocean View 79 hectares finca - La Puerta del Sol          Flamingo Marina Cove 606 ~ Ground-Floor Beachfront Condo Just...",
+      "price_text": "Price:     US$ 1 500 000.00      Price:     US$ 1 580 000.00      Price:     US$ 1 600 000.00",
+      "price_usd": 1500000.00158,
+      "location": "Location:     Hacienda-Pinilla      Location:     Playa Junquillal      Location:     Playa Flamingo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-milagro-los-almendros",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/LA28-1.jpg?itok=839XtBkT",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Finca-la-puerta-del-sol.jpg?itok=oFtWBET_",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/35-flamingo-3-bedroom-condo-exterior-1.jpg?itok=cBGKokH6"
+      ],
+      "description": "Casa Milagro is a beautiful, contemporary 4 bedroom home located in Los Almendros, Hacienda Pinilla. The home...          Beautiful property of 79 hectares with stunning views of valleys and the ocean, in La Puerta del Sol. The...          This fully remodeled, ground-floor beachfront condo sits directly on Flamingo Beach and only 45 seconds from...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-11T06:45:03.596Z",
+      "id": "c5d0ac449c1d"
     }
   ],
-  "last_updated": "2026-03-11T01:21:02.141Z",
+  "last_updated": "2026-03-11T06:46:22.669Z",
   "total_count": 402
 }
