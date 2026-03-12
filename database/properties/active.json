@@ -25094,8 +25094,983 @@
       "category": "residential",
       "scraped_at": "2026-03-12T01:14:59.953Z",
       "id": "fb442ffcbc7f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-250-19",
+      "price_text": "₡90,043,000",
+      "price_usd": 180086,
+      "location": "hace 7 h2br69ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920643887.html",
+      "images": [
+        "https://images.craigslist.org/d/7920643887/00404_9QO9aGoJasT_0gw0b1_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:14.130Z",
+      "id": "7bd5b0e9b5ff"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡72,691,000",
+      "price_usd": 145382,
+      "location": "hace 8 h1br52ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920641638.html",
+      "images": [
+        "https://images.craigslist.org/d/7920641638/00D0D_dZD1MZoyvk4_0kE0fu_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:14.211Z",
+      "id": "44a0e4e056d8"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡104,112,000",
+      "price_usd": 208224,
+      "location": "hace 8 h2br80ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920640309.html",
+      "images": [
+        "https://images.craigslist.org/d/7920640309/00101_2PVXbm5FQpT_0kE0fu_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:14.291Z",
+      "id": "cdef1992730f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ESCALANTE. 31-264-19",
+      "price_text": "₡68,001,000",
+      "price_usd": 136002,
+      "location": "hace 8 h1brSAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-escalante/7920639040.html",
+      "images": [
+        "https://images.craigslist.org/d/7920639040/00P0P_brWLoqBzaDB_0kE0fu_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:14.445Z",
+      "id": "a187461ca0d9"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, DENT. 31-050",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 8 h3br125ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920637709.html",
+      "images": [
+        "https://images.craigslist.org/d/7920637709/00f0f_aC3b2FhrEAU_07K0ak_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:14.519Z",
+      "id": "bfa915407d0c"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN YOSES SAN PEDRO. 31-270-60",
+      "price_text": "₡105,519,000",
+      "price_usd": 211038,
+      "location": "hace 8 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-yoses-san/7920636628.html",
+      "images": [
+        "https://images.craigslist.org/d/7920636628/00c0c_9SSQaSCSz4m_0lM0t2_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:14.587Z",
+      "id": "15a89970aeab"
+    },
+    {
+      "title": "PENTHOUSE PARA VENTA, EN BARRIO ESCALANTE. 31-242-19",
+      "price_text": "₡211,037,000",
+      "price_usd": 422074,
+      "location": "3/113br180ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/penthouse-para-venta-en-barrio/7920627763.html",
+      "images": [
+        "https://images.craigslist.org/d/7920627763/01313_jT1Y0xTMGew_0CI0t2_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:14.733Z",
+      "id": "159aac23eec2"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-037",
+      "price_text": "₡91,450,000",
+      "price_usd": 182900,
+      "location": "3/113brSAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-montes-de-oca/7920626623.html",
+      "images": [
+        "https://images.craigslist.org/d/7920626623/00o0o_2ztqMj3yD3U_0kE0fu_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:14.814Z",
+      "id": "a749bc3ee174"
+    },
+    {
+      "title": "APARTAMENTO PARA LA VENTA, EN SAN RAFAEL MONTES DE OCA. 31-227-33",
+      "price_text": "₡96,139,000",
+      "price_usd": 192278,
+      "location": "3/113br106ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-la-venta-en-san-rafael/7920625480.html",
+      "images": [
+        "https://images.craigslist.org/d/7920625480/00a0a_iaXQpUKSqp9_0pO0ew_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:14.904Z",
+      "id": "907fd899c56a"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE 31-285-19.",
+      "price_text": "₡112,084,000",
+      "price_usd": 224168,
+      "location": "3/113br87ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920624038.html",
+      "images": [
+        "https://images.craigslist.org/d/7920624038/00B0B_fgVbc5qqarb_0gr0t2_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:14.978Z",
+      "id": "56a0ef97c0b7"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-272-66",
+      "price_text": "₡46,897,000",
+      "price_usd": 93794,
+      "location": "3/112br42ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7920622761.html",
+      "images": [
+        "https://images.craigslist.org/d/7920622761/00101_ksbeP5SBpKV_0kE09i_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:15.055Z",
+      "id": "350c9e80f5fd"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-299.",
+      "price_text": "₡105,519,000",
+      "price_usd": 211038,
+      "location": "3/112br76ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920620759.html",
+      "images": [
+        "https://images.craigslist.org/d/7920620759/00s0s_hyXcqvlNnLJ_0ew0aT_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:15.128Z",
+      "id": "84d638dc05bf"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-299",
+      "price_text": "₡91,450,000",
+      "price_usd": 182900,
+      "location": "3/112br62ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920619388.html",
+      "images": [
+        "https://images.craigslist.org/d/7920619388/00Q0Q_1QWkHLhD3cg_0jm0pO_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:15.203Z",
+      "id": "60b54a5ad09d"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-250-19",
+      "price_text": "₡90,043,000",
+      "price_usd": 180086,
+      "location": "hace 7 h2br69ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920643887.html",
+      "images": [
+        "https://images.craigslist.org/d/7920643887/00404_9QO9aGoJasT_0gw0b1_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:19.991Z",
+      "id": "7bd5b0e9b5ff"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡72,691,000",
+      "price_usd": 145382,
+      "location": "hace 8 h1br52ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920641638.html",
+      "images": [
+        "https://images.craigslist.org/d/7920641638/00D0D_dZD1MZoyvk4_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:20.073Z",
+      "id": "44a0e4e056d8"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡104,112,000",
+      "price_usd": 208224,
+      "location": "hace 8 h2br80ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920640309.html",
+      "images": [
+        "https://images.craigslist.org/d/7920640309/00101_2PVXbm5FQpT_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:20.154Z",
+      "id": "cdef1992730f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ESCALANTE. 31-264-19",
+      "price_text": "₡68,001,000",
+      "price_usd": 136002,
+      "location": "hace 8 h1brSAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-escalante/7920639040.html",
+      "images": [
+        "https://images.craigslist.org/d/7920639040/00P0P_brWLoqBzaDB_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:20.314Z",
+      "id": "a187461ca0d9"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, DENT. 31-050",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 8 h3br125ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920637709.html",
+      "images": [
+        "https://images.craigslist.org/d/7920637709/00f0f_aC3b2FhrEAU_07K0ak_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:20.392Z",
+      "id": "bfa915407d0c"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN YOSES SAN PEDRO. 31-270-60",
+      "price_text": "₡105,519,000",
+      "price_usd": 211038,
+      "location": "hace 8 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-yoses-san/7920636628.html",
+      "images": [
+        "https://images.craigslist.org/d/7920636628/00c0c_9SSQaSCSz4m_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:20.463Z",
+      "id": "15a89970aeab"
+    },
+    {
+      "title": "PENTHOUSE PARA VENTA, EN BARRIO ESCALANTE. 31-242-19",
+      "price_text": "₡211,037,000",
+      "price_usd": 422074,
+      "location": "3/113br180ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/penthouse-para-venta-en-barrio/7920627763.html",
+      "images": [
+        "https://images.craigslist.org/d/7920627763/01313_jT1Y0xTMGew_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:20.599Z",
+      "id": "159aac23eec2"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-037",
+      "price_text": "₡91,450,000",
+      "price_usd": 182900,
+      "location": "3/113brSAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-montes-de-oca/7920626623.html",
+      "images": [
+        "https://images.craigslist.org/d/7920626623/00o0o_2ztqMj3yD3U_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:20.677Z",
+      "id": "a749bc3ee174"
+    },
+    {
+      "title": "APARTAMENTO PARA LA VENTA, EN SAN RAFAEL MONTES DE OCA. 31-227-33",
+      "price_text": "₡96,139,000",
+      "price_usd": 192278,
+      "location": "3/113br106ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-la-venta-en-san-rafael/7920625480.html",
+      "images": [
+        "https://images.craigslist.org/d/7920625480/00a0a_iaXQpUKSqp9_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:20.759Z",
+      "id": "907fd899c56a"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE 31-285-19.",
+      "price_text": "₡112,084,000",
+      "price_usd": 224168,
+      "location": "3/113br87ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920624038.html",
+      "images": [
+        "https://images.craigslist.org/d/7920624038/00B0B_fgVbc5qqarb_0gr0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:20.829Z",
+      "id": "56a0ef97c0b7"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-272-66",
+      "price_text": "₡46,897,000",
+      "price_usd": 93794,
+      "location": "3/112br42ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7920622761.html",
+      "images": [
+        "https://images.craigslist.org/d/7920622761/00101_ksbeP5SBpKV_0kE09i_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:20.889Z",
+      "id": "350c9e80f5fd"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-299.",
+      "price_text": "₡105,519,000",
+      "price_usd": 211038,
+      "location": "3/112br76ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920620759.html",
+      "images": [
+        "https://images.craigslist.org/d/7920620759/00s0s_hyXcqvlNnLJ_0ew0aT_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:20.973Z",
+      "id": "84d638dc05bf"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-299",
+      "price_text": "₡91,450,000",
+      "price_usd": 182900,
+      "location": "3/112br62ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920619388.html",
+      "images": [
+        "https://images.craigslist.org/d/7920619388/00Q0Q_1QWkHLhD3cg_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:21.042Z",
+      "id": "60b54a5ad09d"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-250-19",
+      "price_text": "₡90,043,000",
+      "price_usd": 180086,
+      "location": "hace 7 h2br69ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920643887.html",
+      "images": [
+        "https://images.craigslist.org/d/7920643887/00404_9QO9aGoJasT_0gw0b1_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:25.800Z",
+      "id": "7bd5b0e9b5ff"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡72,691,000",
+      "price_usd": 145382,
+      "location": "hace 8 h1br52ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920641638.html",
+      "images": [
+        "https://images.craigslist.org/d/7920641638/00D0D_dZD1MZoyvk4_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:25.881Z",
+      "id": "44a0e4e056d8"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡104,112,000",
+      "price_usd": 208224,
+      "location": "hace 8 h2br80ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920640309.html",
+      "images": [
+        "https://images.craigslist.org/d/7920640309/00101_2PVXbm5FQpT_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:25.958Z",
+      "id": "cdef1992730f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ESCALANTE. 31-264-19",
+      "price_text": "₡68,001,000",
+      "price_usd": 136002,
+      "location": "hace 8 h1brSAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-escalante/7920639040.html",
+      "images": [
+        "https://images.craigslist.org/d/7920639040/00P0P_brWLoqBzaDB_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:26.111Z",
+      "id": "a187461ca0d9"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, DENT. 31-050",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 8 h3br125ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920637709.html",
+      "images": [
+        "https://images.craigslist.org/d/7920637709/00f0f_aC3b2FhrEAU_07K0ak_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:26.189Z",
+      "id": "bfa915407d0c"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN YOSES SAN PEDRO. 31-270-60",
+      "price_text": "₡105,519,000",
+      "price_usd": 211038,
+      "location": "hace 8 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-yoses-san/7920636628.html",
+      "images": [
+        "https://images.craigslist.org/d/7920636628/00c0c_9SSQaSCSz4m_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:26.262Z",
+      "id": "15a89970aeab"
+    },
+    {
+      "title": "PENTHOUSE PARA VENTA, EN BARRIO ESCALANTE. 31-242-19",
+      "price_text": "₡211,037,000",
+      "price_usd": 422074,
+      "location": "3/113br180ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/penthouse-para-venta-en-barrio/7920627763.html",
+      "images": [
+        "https://images.craigslist.org/d/7920627763/01313_jT1Y0xTMGew_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:26.406Z",
+      "id": "159aac23eec2"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-037",
+      "price_text": "₡91,450,000",
+      "price_usd": 182900,
+      "location": "3/113brSAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-montes-de-oca/7920626623.html",
+      "images": [
+        "https://images.craigslist.org/d/7920626623/00o0o_2ztqMj3yD3U_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:26.486Z",
+      "id": "a749bc3ee174"
+    },
+    {
+      "title": "APARTAMENTO PARA LA VENTA, EN SAN RAFAEL MONTES DE OCA. 31-227-33",
+      "price_text": "₡96,139,000",
+      "price_usd": 192278,
+      "location": "3/113br106ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-la-venta-en-san-rafael/7920625480.html",
+      "images": [
+        "https://images.craigslist.org/d/7920625480/00a0a_iaXQpUKSqp9_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:26.586Z",
+      "id": "907fd899c56a"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE 31-285-19.",
+      "price_text": "₡112,084,000",
+      "price_usd": 224168,
+      "location": "3/113br87ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920624038.html",
+      "images": [
+        "https://images.craigslist.org/d/7920624038/00B0B_fgVbc5qqarb_0gr0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:26.665Z",
+      "id": "56a0ef97c0b7"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-272-66",
+      "price_text": "₡46,897,000",
+      "price_usd": 93794,
+      "location": "3/112br42ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7920622761.html",
+      "images": [
+        "https://images.craigslist.org/d/7920622761/00101_ksbeP5SBpKV_0kE09i_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:26.725Z",
+      "id": "350c9e80f5fd"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-299.",
+      "price_text": "₡105,519,000",
+      "price_usd": 211038,
+      "location": "3/112br76ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920620759.html",
+      "images": [
+        "https://images.craigslist.org/d/7920620759/00s0s_hyXcqvlNnLJ_0ew0aT_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:26.792Z",
+      "id": "84d638dc05bf"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-299",
+      "price_text": "₡91,450,000",
+      "price_usd": 182900,
+      "location": "3/112br62ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920619388.html",
+      "images": [
+        "https://images.craigslist.org/d/7920619388/00Q0Q_1QWkHLhD3cg_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:26.860Z",
+      "id": "60b54a5ad09d"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-250-19",
+      "price_text": "₡90,043,000",
+      "price_usd": 180086,
+      "location": "hace 7 h2br69ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920643887.html",
+      "images": [
+        "https://images.craigslist.org/d/7920643887/00404_9QO9aGoJasT_0gw0b1_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:31.622Z",
+      "id": "7bd5b0e9b5ff"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡72,691,000",
+      "price_usd": 145382,
+      "location": "hace 8 h1br52ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920641638.html",
+      "images": [
+        "https://images.craigslist.org/d/7920641638/00D0D_dZD1MZoyvk4_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:31.705Z",
+      "id": "44a0e4e056d8"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡104,112,000",
+      "price_usd": 208224,
+      "location": "hace 8 h2br80ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920640309.html",
+      "images": [
+        "https://images.craigslist.org/d/7920640309/00101_2PVXbm5FQpT_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:31.784Z",
+      "id": "cdef1992730f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ESCALANTE. 31-264-19",
+      "price_text": "₡68,001,000",
+      "price_usd": 136002,
+      "location": "hace 8 h1brSAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-escalante/7920639040.html",
+      "images": [
+        "https://images.craigslist.org/d/7920639040/00P0P_brWLoqBzaDB_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:31.943Z",
+      "id": "a187461ca0d9"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, DENT. 31-050",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 8 h3br125ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920637709.html",
+      "images": [
+        "https://images.craigslist.org/d/7920637709/00f0f_aC3b2FhrEAU_07K0ak_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:32.021Z",
+      "id": "bfa915407d0c"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN YOSES SAN PEDRO. 31-270-60",
+      "price_text": "₡105,519,000",
+      "price_usd": 211038,
+      "location": "hace 8 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-yoses-san/7920636628.html",
+      "images": [
+        "https://images.craigslist.org/d/7920636628/00c0c_9SSQaSCSz4m_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:32.089Z",
+      "id": "15a89970aeab"
+    },
+    {
+      "title": "PENTHOUSE PARA VENTA, EN BARRIO ESCALANTE. 31-242-19",
+      "price_text": "₡211,037,000",
+      "price_usd": 422074,
+      "location": "3/113br180ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/penthouse-para-venta-en-barrio/7920627763.html",
+      "images": [
+        "https://images.craigslist.org/d/7920627763/01313_jT1Y0xTMGew_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:32.225Z",
+      "id": "159aac23eec2"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-037",
+      "price_text": "₡91,450,000",
+      "price_usd": 182900,
+      "location": "3/113brSAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-montes-de-oca/7920626623.html",
+      "images": [
+        "https://images.craigslist.org/d/7920626623/00o0o_2ztqMj3yD3U_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:32.301Z",
+      "id": "a749bc3ee174"
+    },
+    {
+      "title": "APARTAMENTO PARA LA VENTA, EN SAN RAFAEL MONTES DE OCA. 31-227-33",
+      "price_text": "₡96,139,000",
+      "price_usd": 192278,
+      "location": "3/113br106ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-la-venta-en-san-rafael/7920625480.html",
+      "images": [
+        "https://images.craigslist.org/d/7920625480/00a0a_iaXQpUKSqp9_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:32.384Z",
+      "id": "907fd899c56a"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE 31-285-19.",
+      "price_text": "₡112,084,000",
+      "price_usd": 224168,
+      "location": "3/113br87ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920624038.html",
+      "images": [
+        "https://images.craigslist.org/d/7920624038/00B0B_fgVbc5qqarb_0gr0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:32.455Z",
+      "id": "56a0ef97c0b7"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-272-66",
+      "price_text": "₡46,897,000",
+      "price_usd": 93794,
+      "location": "3/112br42ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7920622761.html",
+      "images": [
+        "https://images.craigslist.org/d/7920622761/00101_ksbeP5SBpKV_0kE09i_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:32.514Z",
+      "id": "350c9e80f5fd"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-299.",
+      "price_text": "₡105,519,000",
+      "price_usd": 211038,
+      "location": "3/112br76ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920620759.html",
+      "images": [
+        "https://images.craigslist.org/d/7920620759/00s0s_hyXcqvlNnLJ_0ew0aT_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:32.582Z",
+      "id": "84d638dc05bf"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-299",
+      "price_text": "₡91,450,000",
+      "price_usd": 182900,
+      "location": "3/112br62ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920619388.html",
+      "images": [
+        "https://images.craigslist.org/d/7920619388/00Q0Q_1QWkHLhD3cg_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:32.658Z",
+      "id": "60b54a5ad09d"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-250-19",
+      "price_text": "₡90,043,000",
+      "price_usd": 180086,
+      "location": "hace 7 h2br69ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920643887.html",
+      "images": [
+        "https://images.craigslist.org/d/7920643887/00404_9QO9aGoJasT_0gw0b1_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:37.406Z",
+      "id": "7bd5b0e9b5ff"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡72,691,000",
+      "price_usd": 145382,
+      "location": "hace 8 h1br52ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920641638.html",
+      "images": [
+        "https://images.craigslist.org/d/7920641638/00D0D_dZD1MZoyvk4_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:37.486Z",
+      "id": "44a0e4e056d8"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, TORRE. 31-250-19",
+      "price_text": "₡104,112,000",
+      "price_usd": 208224,
+      "location": "hace 8 h2br80ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920640309.html",
+      "images": [
+        "https://images.craigslist.org/d/7920640309/00101_2PVXbm5FQpT_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:37.569Z",
+      "id": "cdef1992730f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ESCALANTE. 31-264-19",
+      "price_text": "₡68,001,000",
+      "price_usd": 136002,
+      "location": "hace 8 h1brSAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-escalante/7920639040.html",
+      "images": [
+        "https://images.craigslist.org/d/7920639040/00P0P_brWLoqBzaDB_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:37.729Z",
+      "id": "a187461ca0d9"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, DENT. 31-050",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 8 h3br125ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920637709.html",
+      "images": [
+        "https://images.craigslist.org/d/7920637709/00f0f_aC3b2FhrEAU_07K0ak_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:37.807Z",
+      "id": "bfa915407d0c"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN YOSES SAN PEDRO. 31-270-60",
+      "price_text": "₡105,519,000",
+      "price_usd": 211038,
+      "location": "hace 8 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-yoses-san/7920636628.html",
+      "images": [
+        "https://images.craigslist.org/d/7920636628/00c0c_9SSQaSCSz4m_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:37.875Z",
+      "id": "15a89970aeab"
+    },
+    {
+      "title": "PENTHOUSE PARA VENTA, EN BARRIO ESCALANTE. 31-242-19",
+      "price_text": "₡211,037,000",
+      "price_usd": 422074,
+      "location": "3/113br180ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/penthouse-para-venta-en-barrio/7920627763.html",
+      "images": [
+        "https://images.craigslist.org/d/7920627763/01313_jT1Y0xTMGew_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:38.014Z",
+      "id": "159aac23eec2"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-037",
+      "price_text": "₡91,450,000",
+      "price_usd": 182900,
+      "location": "3/113brSAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-montes-de-oca/7920626623.html",
+      "images": [
+        "https://images.craigslist.org/d/7920626623/00o0o_2ztqMj3yD3U_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:38.091Z",
+      "id": "a749bc3ee174"
+    },
+    {
+      "title": "APARTAMENTO PARA LA VENTA, EN SAN RAFAEL MONTES DE OCA. 31-227-33",
+      "price_text": "₡96,139,000",
+      "price_usd": 192278,
+      "location": "3/113br106ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-la-venta-en-san-rafael/7920625480.html",
+      "images": [
+        "https://images.craigslist.org/d/7920625480/00a0a_iaXQpUKSqp9_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:38.176Z",
+      "id": "907fd899c56a"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE 31-285-19.",
+      "price_text": "₡112,084,000",
+      "price_usd": 224168,
+      "location": "3/113br87ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920624038.html",
+      "images": [
+        "https://images.craigslist.org/d/7920624038/00B0B_fgVbc5qqarb_0gr0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:38.247Z",
+      "id": "56a0ef97c0b7"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ROHRMOSER. 31-272-66",
+      "price_text": "₡46,897,000",
+      "price_usd": 93794,
+      "location": "3/112br42ft2SAN JOSE, ROHRMOSER",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-rohrmoser/7920622761.html",
+      "images": [
+        "https://images.craigslist.org/d/7920622761/00101_ksbeP5SBpKV_0kE09i_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:38.310Z",
+      "id": "350c9e80f5fd"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-299.",
+      "price_text": "₡105,519,000",
+      "price_usd": 211038,
+      "location": "3/112br76ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920620759.html",
+      "images": [
+        "https://images.craigslist.org/d/7920620759/00s0s_hyXcqvlNnLJ_0ew0aT_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:38.378Z",
+      "id": "84d638dc05bf"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE. 31-299",
+      "price_text": "₡91,450,000",
+      "price_usd": 182900,
+      "location": "3/112br62ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7920619388.html",
+      "images": [
+        "https://images.craigslist.org/d/7920619388/00Q0Q_1QWkHLhD3cg_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-12T06:43:38.444Z",
+      "id": "60b54a5ad09d"
     }
   ],
-  "last_updated": "2026-03-12T01:20:05.539Z",
+  "last_updated": "2026-03-12T06:48:08.558Z",
   "total_count": 402
 }
