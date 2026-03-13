@@ -25904,8 +25904,233 @@
       "category": "luxury",
       "scraped_at": "2026-03-13T06:41:59.993Z",
       "id": "10b7cb2a9784"
+    },
+    {
+      "title": "House for sale San Jose, near Plaza Viquez 226 sq. mtrs.",
+      "price_text": "₡83,000,000",
+      "price_usd": 166000,
+      "location": "hace 9 min4br226ft2San José Capital, near Plaza Viquez",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-san-jose-near-plaza/7912951752.html",
+      "images": [
+        "https://images.craigslist.org/d/7912951752/00R0R_K6bigO94Ay_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-13T12:38:51.824Z",
+      "id": "5209e659be35"
+    },
+    {
+      "title": "Beautiful home in condominium, Santo Domingo de Heredia 1,770 sq. mtrs",
+      "price_text": "₡260,000,000",
+      "price_usd": 520000,
+      "location": "hace 9 min4br1770ft2Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-home-in-condominium-santo/7912951741.html",
+      "images": [
+        "https://images.craigslist.org/d/7912951741/00Y0Y_dpbyM8FWIcO_0kE09H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-13T12:38:51.935Z",
+      "id": "fa41ae45f95d"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 915 sq. mtrs2",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 9 min915ft2Los Angeles de Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-los-angeles-de-santo/7912951757.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-13T12:38:52.039Z",
+      "id": "fd7a9ea29f38"
+    },
+    {
+      "title": "House for sale San Jose, near Plaza Viquez 226 sq. mtrs.",
+      "price_text": "₡83,000,000",
+      "price_usd": 166000,
+      "location": "hace 9 min4br226ft2San José Capital, near Plaza Viquez",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-san-jose-near-plaza/7912951752.html",
+      "images": [
+        "https://images.craigslist.org/d/7912951752/00R0R_K6bigO94Ay_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-13T12:38:56.870Z",
+      "id": "5209e659be35"
+    },
+    {
+      "title": "Beautiful home in condominium, Santo Domingo de Heredia 1,770 sq. mtrs",
+      "price_text": "₡260,000,000",
+      "price_usd": 520000,
+      "location": "hace 9 min4br1770ft2Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-home-in-condominium-santo/7912951741.html",
+      "images": [
+        "https://images.craigslist.org/d/7912951741/00Y0Y_dpbyM8FWIcO_0kE09H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-13T12:38:56.981Z",
+      "id": "fa41ae45f95d"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 915 sq. mtrs2",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 9 min915ft2Los Angeles de Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-los-angeles-de-santo/7912951757.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-13T12:38:57.092Z",
+      "id": "fd7a9ea29f38"
+    },
+    {
+      "title": "House for sale San Jose, near Plaza Viquez 226 sq. mtrs.",
+      "price_text": "₡83,000,000",
+      "price_usd": 166000,
+      "location": "hace 9 min4br226ft2San José Capital, near Plaza Viquez",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-san-jose-near-plaza/7912951752.html",
+      "images": [
+        "https://images.craigslist.org/d/7912951752/00R0R_K6bigO94Ay_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-13T12:39:01.888Z",
+      "id": "5209e659be35"
+    },
+    {
+      "title": "Beautiful home in condominium, Santo Domingo de Heredia 1,770 sq. mtrs",
+      "price_text": "₡260,000,000",
+      "price_usd": 520000,
+      "location": "hace 9 min4br1770ft2Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-home-in-condominium-santo/7912951741.html",
+      "images": [
+        "https://images.craigslist.org/d/7912951741/00Y0Y_dpbyM8FWIcO_0kE09H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-13T12:39:01.999Z",
+      "id": "fa41ae45f95d"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 915 sq. mtrs2",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 9 min915ft2Los Angeles de Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-los-angeles-de-santo/7912951757.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-13T12:39:02.104Z",
+      "id": "fd7a9ea29f38"
+    },
+    {
+      "title": "House for sale San Jose, near Plaza Viquez 226 sq. mtrs.",
+      "price_text": "₡83,000,000",
+      "price_usd": 166000,
+      "location": "hace 9 min4br226ft2San José Capital, near Plaza Viquez",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-san-jose-near-plaza/7912951752.html",
+      "images": [
+        "https://images.craigslist.org/d/7912951752/00R0R_K6bigO94Ay_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-13T12:39:06.898Z",
+      "id": "5209e659be35"
+    },
+    {
+      "title": "Beautiful home in condominium, Santo Domingo de Heredia 1,770 sq. mtrs",
+      "price_text": "₡260,000,000",
+      "price_usd": 520000,
+      "location": "hace 9 min4br1770ft2Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-home-in-condominium-santo/7912951741.html",
+      "images": [
+        "https://images.craigslist.org/d/7912951741/00Y0Y_dpbyM8FWIcO_0kE09H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-13T12:39:07.006Z",
+      "id": "fa41ae45f95d"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 915 sq. mtrs2",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 10 min915ft2Los Angeles de Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-los-angeles-de-santo/7912951757.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-13T12:39:07.113Z",
+      "id": "43c7a474bea2"
+    },
+    {
+      "title": "House for sale San Jose, near Plaza Viquez 226 sq. mtrs.",
+      "price_text": "₡83,000,000",
+      "price_usd": 166000,
+      "location": "hace 9 min4br226ft2San José Capital, near Plaza Viquez",
+      "url": "https://costarica.craigslist.org/reb/d/house-for-sale-san-jose-near-plaza/7912951752.html",
+      "images": [
+        "https://images.craigslist.org/d/7912951752/00R0R_K6bigO94Ay_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-13T12:39:11.908Z",
+      "id": "5209e659be35"
+    },
+    {
+      "title": "Beautiful home in condominium, Santo Domingo de Heredia 1,770 sq. mtrs",
+      "price_text": "₡260,000,000",
+      "price_usd": 520000,
+      "location": "hace 9 min4br1770ft2Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-home-in-condominium-santo/7912951741.html",
+      "images": [
+        "https://images.craigslist.org/d/7912951741/00Y0Y_dpbyM8FWIcO_0kE09H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-13T12:39:12.016Z",
+      "id": "fa41ae45f95d"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 915 sq. mtrs2",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 10 min915ft2Los Angeles de Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale-los-angeles-de-santo/7912951757.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-13T12:39:12.121Z",
+      "id": "43c7a474bea2"
     }
   ],
-  "last_updated": "2026-03-13T06:47:12.553Z",
+  "last_updated": "2026-03-13T12:43:56.452Z",
   "total_count": 402
 }
