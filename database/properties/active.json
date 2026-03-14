@@ -26054,8 +26054,83 @@
       "category": "residential",
       "scraped_at": "2026-03-13T12:39:12.121Z",
       "id": "43c7a474bea2"
+    },
+    {
+      "title": "Building for sale, downtwon San Jose 3,163 sq. mtrs",
+      "price_text": "₡3,800,000",
+      "price_usd": 7600,
+      "location": "3/133163ft2San Jose, near Plaza de La Cultura",
+      "url": "https://costarica.craigslist.org/reb/d/building-for-sale-downtwon-san-jose/7915077681.html",
+      "images": [
+        "https://images.craigslist.org/d/7915077681/00H0H_b7rqd6o0tPR_0o00gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-14T01:16:50.349Z",
+      "id": "767b4095a5b7"
+    },
+    {
+      "title": "Building for sale, downtwon San Jose 3,163 sq. mtrs",
+      "price_text": "₡3,800,000",
+      "price_usd": 7600,
+      "location": "3/133163ft2San Jose, near Plaza de La Cultura",
+      "url": "https://costarica.craigslist.org/reb/d/building-for-sale-downtwon-san-jose/7915077681.html",
+      "images": [
+        "https://images.craigslist.org/d/7915077681/00H0H_b7rqd6o0tPR_0o00gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-14T01:16:55.355Z",
+      "id": "767b4095a5b7"
+    },
+    {
+      "title": "Building for sale, downtwon San Jose 3,163 sq. mtrs",
+      "price_text": "₡3,800,000",
+      "price_usd": 7600,
+      "location": "3/133163ft2San Jose, near Plaza de La Cultura",
+      "url": "https://costarica.craigslist.org/reb/d/building-for-sale-downtwon-san-jose/7915077681.html",
+      "images": [
+        "https://images.craigslist.org/d/7915077681/00H0H_b7rqd6o0tPR_0o00gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-14T01:17:00.329Z",
+      "id": "767b4095a5b7"
+    },
+    {
+      "title": "Building for sale, downtwon San Jose 3,163 sq. mtrs",
+      "price_text": "₡3,800,000",
+      "price_usd": 7600,
+      "location": "3/133163ft2San Jose, near Plaza de La Cultura",
+      "url": "https://costarica.craigslist.org/reb/d/building-for-sale-downtwon-san-jose/7915077681.html",
+      "images": [
+        "https://images.craigslist.org/d/7915077681/00H0H_b7rqd6o0tPR_0o00gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-14T01:17:05.340Z",
+      "id": "767b4095a5b7"
+    },
+    {
+      "title": "Building for sale, downtwon San Jose 3,163 sq. mtrs",
+      "price_text": "₡3,800,000",
+      "price_usd": 7600,
+      "location": "3/133163ft2San Jose, near Plaza de La Cultura",
+      "url": "https://costarica.craigslist.org/reb/d/building-for-sale-downtwon-san-jose/7915077681.html",
+      "images": [
+        "https://images.craigslist.org/d/7915077681/00H0H_b7rqd6o0tPR_0o00gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-14T01:17:10.307Z",
+      "id": "767b4095a5b7"
     }
   ],
-  "last_updated": "2026-03-13T18:36:18.996Z",
+  "last_updated": "2026-03-14T01:21:38.300Z",
   "total_count": 402
 }
