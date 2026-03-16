@@ -26393,8 +26393,458 @@
       "category": "residential",
       "scraped_at": "2026-03-14T18:27:25.819Z",
       "id": "367316977200"
+    },
+    {
+      "title": "COMMERCIAL BUILDING FOR SALE, GUAPILES, POCOCI, LIMON #70201fm",
+      "price_text": "₡208,000,000",
+      "price_usd": 416000,
+      "location": "hace 3 h4158ft2GUAPILES",
+      "url": "https://costarica.craigslist.org/reb/d/commercial-building-for-sale-guapiles/7921488095.html",
+      "images": [
+        "https://images.craigslist.org/d/7921488095/00J0J_dBp5oIGFzUP_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-16T07:06:36.845Z",
+      "id": "bd2e972833f6"
+    },
+    {
+      "title": "LOT NEAR THE BEACH IN GARABITO PUNTARENAS #61102eb",
+      "price_text": "₡25,000,000",
+      "price_usd": 50000,
+      "location": "hace 3 h1677ft2GARABITO",
+      "url": "https://costarica.craigslist.org/reb/d/lot-near-the-beach-in-garabito/7921486999.html",
+      "images": [
+        "https://images.craigslist.org/d/7921486999/00N0N_foZD2LQsBoi_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-16T07:06:36.952Z",
+      "id": "584d4a617924"
+    },
+    {
+      "title": "Stylish & Cozy Apartment in La Sabana – Includes Parking",
+      "price_text": "₡118,750,000",
+      "price_usd": 237500,
+      "location": "hace 3 h1br62ft2San jose, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/stylish-cozy-apartment-in-la-sabana/7921484513.html",
+      "images": [
+        "https://images.craigslist.org/d/7921484513/00Y0Y_loMB8wIkaR9_0la0pb_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-16T07:06:37.037Z",
+      "id": "df5b7c3e6f48"
+    },
+    {
+      "title": "3 Bedroom Home With Full Cabin In Prime Location!",
+      "price_text": "₡117,700,000",
+      "price_usd": 235400,
+      "location": "hace 4 h3br100ft2Uvita",
+      "url": "https://costarica.craigslist.org/reb/d/bedroom-home-with-full-cabin-in-prime/7921484568.html",
+      "images": [
+        "https://images.craigslist.org/d/7921484568/00W0W_1ym0FahNZhE_0pO0hc_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-16T07:06:37.111Z",
+      "id": "1385d9268cab"
+    },
+    {
+      "title": "Two Lots Bordered By Cascading Streams Only 5 Min To The Beach!",
+      "price_text": "₡117,700,000",
+      "price_usd": 235400,
+      "location": "hace 4 h10077ft2Uvita",
+      "url": "https://costarica.craigslist.org/reb/d/two-lots-bordered-by-cascading-streams/7921484008.html",
+      "images": [
+        "https://images.craigslist.org/d/7921484008/00V0V_czhneN1Ukfc_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-16T07:06:37.220Z",
+      "id": "dbea39429990"
+    },
+    {
+      "title": "0.05 ACRES – 2 Bedroom Affordable Wooden Cabin In Desired Location!",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 4 h2br204ft2Beautiful Beach",
+      "url": "https://costarica.craigslist.org/reb/d/005-acres-bedroom-affordable-wooden/7921482835.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-16T07:06:37.325Z",
+      "id": "a96d486fc8ce"
+    },
+    {
+      "title": "COMMERCIAL BUILDING FOR SALE, GUAPILES, POCOCI, LIMON #70201fm",
+      "price_text": "₡208,000,000",
+      "price_usd": 416000,
+      "location": "hace 3 h4158ft2GUAPILES",
+      "url": "https://costarica.craigslist.org/reb/d/commercial-building-for-sale-guapiles/7921488095.html",
+      "images": [
+        "https://images.craigslist.org/d/7921488095/00J0J_dBp5oIGFzUP_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-16T07:06:42.581Z",
+      "id": "bd2e972833f6"
+    },
+    {
+      "title": "LOT NEAR THE BEACH IN GARABITO PUNTARENAS #61102eb",
+      "price_text": "₡25,000,000",
+      "price_usd": 50000,
+      "location": "hace 3 h1677ft2GARABITO",
+      "url": "https://costarica.craigslist.org/reb/d/lot-near-the-beach-in-garabito/7921486999.html",
+      "images": [
+        "https://images.craigslist.org/d/7921486999/00N0N_foZD2LQsBoi_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-16T07:06:42.688Z",
+      "id": "584d4a617924"
+    },
+    {
+      "title": "Stylish & Cozy Apartment in La Sabana – Includes Parking",
+      "price_text": "₡118,750,000",
+      "price_usd": 237500,
+      "location": "hace 3 h1br62ft2San jose, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/stylish-cozy-apartment-in-la-sabana/7921484513.html",
+      "images": [
+        "https://images.craigslist.org/d/7921484513/00Y0Y_loMB8wIkaR9_0la0pb_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-16T07:06:42.773Z",
+      "id": "df5b7c3e6f48"
+    },
+    {
+      "title": "3 Bedroom Home With Full Cabin In Prime Location!",
+      "price_text": "₡117,700,000",
+      "price_usd": 235400,
+      "location": "hace 4 h3br100ft2Uvita",
+      "url": "https://costarica.craigslist.org/reb/d/bedroom-home-with-full-cabin-in-prime/7921484568.html",
+      "images": [
+        "https://images.craigslist.org/d/7921484568/00W0W_1ym0FahNZhE_0pO0hc_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-16T07:06:42.847Z",
+      "id": "1385d9268cab"
+    },
+    {
+      "title": "Two Lots Bordered By Cascading Streams Only 5 Min To The Beach!",
+      "price_text": "₡117,700,000",
+      "price_usd": 235400,
+      "location": "hace 4 h10077ft2Uvita",
+      "url": "https://costarica.craigslist.org/reb/d/two-lots-bordered-by-cascading-streams/7921484008.html",
+      "images": [
+        "https://images.craigslist.org/d/7921484008/00V0V_czhneN1Ukfc_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-16T07:06:42.941Z",
+      "id": "dbea39429990"
+    },
+    {
+      "title": "0.05 ACRES – 2 Bedroom Affordable Wooden Cabin In Desired Location!",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 4 h2br204ft2Beautiful Beach",
+      "url": "https://costarica.craigslist.org/reb/d/005-acres-bedroom-affordable-wooden/7921482835.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-16T07:06:43.045Z",
+      "id": "a96d486fc8ce"
+    },
+    {
+      "title": "COMMERCIAL BUILDING FOR SALE, GUAPILES, POCOCI, LIMON #70201fm",
+      "price_text": "₡208,000,000",
+      "price_usd": 416000,
+      "location": "hace 3 h4158ft2GUAPILES",
+      "url": "https://costarica.craigslist.org/reb/d/commercial-building-for-sale-guapiles/7921488095.html",
+      "images": [
+        "https://images.craigslist.org/d/7921488095/00J0J_dBp5oIGFzUP_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-16T07:06:48.263Z",
+      "id": "bd2e972833f6"
+    },
+    {
+      "title": "LOT NEAR THE BEACH IN GARABITO PUNTARENAS #61102eb",
+      "price_text": "₡25,000,000",
+      "price_usd": 50000,
+      "location": "hace 3 h1677ft2GARABITO",
+      "url": "https://costarica.craigslist.org/reb/d/lot-near-the-beach-in-garabito/7921486999.html",
+      "images": [
+        "https://images.craigslist.org/d/7921486999/00N0N_foZD2LQsBoi_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-16T07:06:48.370Z",
+      "id": "584d4a617924"
+    },
+    {
+      "title": "Stylish & Cozy Apartment in La Sabana – Includes Parking",
+      "price_text": "₡118,750,000",
+      "price_usd": 237500,
+      "location": "hace 3 h1br62ft2San jose, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/stylish-cozy-apartment-in-la-sabana/7921484513.html",
+      "images": [
+        "https://images.craigslist.org/d/7921484513/00Y0Y_loMB8wIkaR9_0la0pb_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-16T07:06:48.455Z",
+      "id": "df5b7c3e6f48"
+    },
+    {
+      "title": "3 Bedroom Home With Full Cabin In Prime Location!",
+      "price_text": "₡117,700,000",
+      "price_usd": 235400,
+      "location": "hace 4 h3br100ft2Uvita",
+      "url": "https://costarica.craigslist.org/reb/d/bedroom-home-with-full-cabin-in-prime/7921484568.html",
+      "images": [
+        "https://images.craigslist.org/d/7921484568/00W0W_1ym0FahNZhE_0pO0hc_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-16T07:06:48.529Z",
+      "id": "1385d9268cab"
+    },
+    {
+      "title": "Two Lots Bordered By Cascading Streams Only 5 Min To The Beach!",
+      "price_text": "₡117,700,000",
+      "price_usd": 235400,
+      "location": "hace 4 h10077ft2Uvita",
+      "url": "https://costarica.craigslist.org/reb/d/two-lots-bordered-by-cascading-streams/7921484008.html",
+      "images": [
+        "https://images.craigslist.org/d/7921484008/00V0V_czhneN1Ukfc_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-16T07:06:48.624Z",
+      "id": "dbea39429990"
+    },
+    {
+      "title": "0.05 ACRES – 2 Bedroom Affordable Wooden Cabin In Desired Location!",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 4 h2br204ft2Beautiful Beach",
+      "url": "https://costarica.craigslist.org/reb/d/005-acres-bedroom-affordable-wooden/7921482835.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-16T07:06:48.726Z",
+      "id": "a96d486fc8ce"
+    },
+    {
+      "title": "COMMERCIAL BUILDING FOR SALE, GUAPILES, POCOCI, LIMON #70201fm",
+      "price_text": "₡208,000,000",
+      "price_usd": 416000,
+      "location": "hace 3 h4158ft2GUAPILES",
+      "url": "https://costarica.craigslist.org/reb/d/commercial-building-for-sale-guapiles/7921488095.html",
+      "images": [
+        "https://images.craigslist.org/d/7921488095/00J0J_dBp5oIGFzUP_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-16T07:06:53.944Z",
+      "id": "bd2e972833f6"
+    },
+    {
+      "title": "LOT NEAR THE BEACH IN GARABITO PUNTARENAS #61102eb",
+      "price_text": "₡25,000,000",
+      "price_usd": 50000,
+      "location": "hace 3 h1677ft2GARABITO",
+      "url": "https://costarica.craigslist.org/reb/d/lot-near-the-beach-in-garabito/7921486999.html",
+      "images": [
+        "https://images.craigslist.org/d/7921486999/00N0N_foZD2LQsBoi_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-16T07:06:54.051Z",
+      "id": "584d4a617924"
+    },
+    {
+      "title": "Stylish & Cozy Apartment in La Sabana – Includes Parking",
+      "price_text": "₡118,750,000",
+      "price_usd": 237500,
+      "location": "hace 3 h1br62ft2San jose, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/stylish-cozy-apartment-in-la-sabana/7921484513.html",
+      "images": [
+        "https://images.craigslist.org/d/7921484513/00Y0Y_loMB8wIkaR9_0la0pb_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-16T07:06:54.137Z",
+      "id": "df5b7c3e6f48"
+    },
+    {
+      "title": "3 Bedroom Home With Full Cabin In Prime Location!",
+      "price_text": "₡117,700,000",
+      "price_usd": 235400,
+      "location": "hace 4 h3br100ft2Uvita",
+      "url": "https://costarica.craigslist.org/reb/d/bedroom-home-with-full-cabin-in-prime/7921484568.html",
+      "images": [
+        "https://images.craigslist.org/d/7921484568/00W0W_1ym0FahNZhE_0pO0hc_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-16T07:06:54.212Z",
+      "id": "1385d9268cab"
+    },
+    {
+      "title": "Two Lots Bordered By Cascading Streams Only 5 Min To The Beach!",
+      "price_text": "₡117,700,000",
+      "price_usd": 235400,
+      "location": "hace 4 h10077ft2Uvita",
+      "url": "https://costarica.craigslist.org/reb/d/two-lots-bordered-by-cascading-streams/7921484008.html",
+      "images": [
+        "https://images.craigslist.org/d/7921484008/00V0V_czhneN1Ukfc_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-16T07:06:54.308Z",
+      "id": "dbea39429990"
+    },
+    {
+      "title": "0.05 ACRES – 2 Bedroom Affordable Wooden Cabin In Desired Location!",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 4 h2br204ft2Beautiful Beach",
+      "url": "https://costarica.craigslist.org/reb/d/005-acres-bedroom-affordable-wooden/7921482835.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-16T07:06:54.409Z",
+      "id": "a96d486fc8ce"
+    },
+    {
+      "title": "COMMERCIAL BUILDING FOR SALE, GUAPILES, POCOCI, LIMON #70201fm",
+      "price_text": "₡208,000,000",
+      "price_usd": 416000,
+      "location": "hace 3 h4158ft2GUAPILES",
+      "url": "https://costarica.craigslist.org/reb/d/commercial-building-for-sale-guapiles/7921488095.html",
+      "images": [
+        "https://images.craigslist.org/d/7921488095/00J0J_dBp5oIGFzUP_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-16T07:06:59.629Z",
+      "id": "bd2e972833f6"
+    },
+    {
+      "title": "LOT NEAR THE BEACH IN GARABITO PUNTARENAS #61102eb",
+      "price_text": "₡25,000,000",
+      "price_usd": 50000,
+      "location": "hace 3 h1677ft2GARABITO",
+      "url": "https://costarica.craigslist.org/reb/d/lot-near-the-beach-in-garabito/7921486999.html",
+      "images": [
+        "https://images.craigslist.org/d/7921486999/00N0N_foZD2LQsBoi_0j30aI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-16T07:06:59.734Z",
+      "id": "584d4a617924"
+    },
+    {
+      "title": "Stylish & Cozy Apartment in La Sabana – Includes Parking",
+      "price_text": "₡118,750,000",
+      "price_usd": 237500,
+      "location": "hace 3 h1br62ft2San jose, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/stylish-cozy-apartment-in-la-sabana/7921484513.html",
+      "images": [
+        "https://images.craigslist.org/d/7921484513/00Y0Y_loMB8wIkaR9_0la0pb_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-16T07:06:59.818Z",
+      "id": "df5b7c3e6f48"
+    },
+    {
+      "title": "3 Bedroom Home With Full Cabin In Prime Location!",
+      "price_text": "₡117,700,000",
+      "price_usd": 235400,
+      "location": "hace 4 h3br100ft2Uvita",
+      "url": "https://costarica.craigslist.org/reb/d/bedroom-home-with-full-cabin-in-prime/7921484568.html",
+      "images": [
+        "https://images.craigslist.org/d/7921484568/00W0W_1ym0FahNZhE_0pO0hc_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-16T07:06:59.891Z",
+      "id": "1385d9268cab"
+    },
+    {
+      "title": "Two Lots Bordered By Cascading Streams Only 5 Min To The Beach!",
+      "price_text": "₡117,700,000",
+      "price_usd": 235400,
+      "location": "hace 4 h10077ft2Uvita",
+      "url": "https://costarica.craigslist.org/reb/d/two-lots-bordered-by-cascading-streams/7921484008.html",
+      "images": [
+        "https://images.craigslist.org/d/7921484008/00V0V_czhneN1Ukfc_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-16T07:06:59.985Z",
+      "id": "dbea39429990"
+    },
+    {
+      "title": "0.05 ACRES – 2 Bedroom Affordable Wooden Cabin In Desired Location!",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 4 h2br204ft2Beautiful Beach",
+      "url": "https://costarica.craigslist.org/reb/d/005-acres-bedroom-affordable-wooden/7921482835.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-16T07:07:00.088Z",
+      "id": "a96d486fc8ce"
     }
   ],
-  "last_updated": "2026-03-16T01:34:45.076Z",
+  "last_updated": "2026-03-16T07:11:42.501Z",
   "total_count": 402
 }
