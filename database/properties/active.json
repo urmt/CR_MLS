@@ -25620,8 +25620,431 @@
       "category": "residential",
       "scraped_at": "2026-03-17T06:58:15.475Z",
       "id": "37a6361a3bcc"
+    },
+    {
+      "title": "Beautiful Mediterranean-Style House in Altos de Antigua",
+      "price_text": "₡210,000,000",
+      "price_usd": 420000,
+      "location": "hace 1 h3br11673ft2Puriscal",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-mediterranean-style-house-in/7921895840.html",
+      "images": [
+        "https://images.craigslist.org/d/7921895840/00y0y_diC7YdvVIot_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-18T01:24:27.705Z",
+      "id": "0d3285293071"
+    },
+    {
+      "title": "Granadilla Norte de Curridabat",
+      "price_text": "₡410,000,000",
+      "price_usd": 820000,
+      "location": "hace 6 h3brCondominio La Sevillana",
+      "url": "https://costarica.craigslist.org/reb/d/granadilla-norte-de-curridabat/7920144169.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-18T01:24:27.997Z",
+      "id": "047f3feaa0c9"
+    },
+    {
+      "title": "JUST LISTED! 8 lots with views of popular Volcano Arenal!",
+      "price_text": "₡55",
+      "price_usd": 0,
+      "location": "hace 6 hLa Fortuna",
+      "url": "https://costarica.craigslist.org/reb/d/just-listed-lots-with-views-of-popular/7920815075.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-18T01:24:28.077Z",
+      "id": "f904924f15cf"
+    },
+    {
+      "title": "Beautiful Mediterranean-Style House in Altos de Antigua",
+      "price_text": "₡210,000,000",
+      "price_usd": 420000,
+      "location": "hace 1 h3br11673ft2Puriscal",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-mediterranean-style-house-in/7921895840.html",
+      "images": [
+        "https://images.craigslist.org/d/7921895840/00y0y_diC7YdvVIot_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-18T01:24:32.879Z",
+      "id": "0d3285293071"
+    },
+    {
+      "title": "Granadilla Norte de Curridabat",
+      "price_text": "₡410,000,000",
+      "price_usd": 820000,
+      "location": "hace 6 h3brCondominio La Sevillana",
+      "url": "https://costarica.craigslist.org/reb/d/granadilla-norte-de-curridabat/7920144169.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-18T01:24:33.167Z",
+      "id": "047f3feaa0c9"
+    },
+    {
+      "title": "JUST LISTED! 8 lots with views of popular Volcano Arenal!",
+      "price_text": "₡55",
+      "price_usd": 0,
+      "location": "hace 6 hLa Fortuna",
+      "url": "https://costarica.craigslist.org/reb/d/just-listed-lots-with-views-of-popular/7920815075.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-18T01:24:33.248Z",
+      "id": "f904924f15cf"
+    },
+    {
+      "title": "Beautiful Mediterranean-Style House in Altos de Antigua",
+      "price_text": "₡210,000,000",
+      "price_usd": 420000,
+      "location": "hace 1 h3br11673ft2Puriscal",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-mediterranean-style-house-in/7921895840.html",
+      "images": [
+        "https://images.craigslist.org/d/7921895840/00y0y_diC7YdvVIot_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-18T01:24:37.994Z",
+      "id": "0d3285293071"
+    },
+    {
+      "title": "Granadilla Norte de Curridabat",
+      "price_text": "₡410,000,000",
+      "price_usd": 820000,
+      "location": "hace 6 h3brCondominio La Sevillana",
+      "url": "https://costarica.craigslist.org/reb/d/granadilla-norte-de-curridabat/7920144169.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-18T01:24:38.283Z",
+      "id": "047f3feaa0c9"
+    },
+    {
+      "title": "JUST LISTED! 8 lots with views of popular Volcano Arenal!",
+      "price_text": "₡55",
+      "price_usd": 0,
+      "location": "hace 6 hLa Fortuna",
+      "url": "https://costarica.craigslist.org/reb/d/just-listed-lots-with-views-of-popular/7920815075.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-18T01:24:38.363Z",
+      "id": "f904924f15cf"
+    },
+    {
+      "title": "Beautiful Mediterranean-Style House in Altos de Antigua",
+      "price_text": "₡210,000,000",
+      "price_usd": 420000,
+      "location": "hace 1 h3br11673ft2Puriscal",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-mediterranean-style-house-in/7921895840.html",
+      "images": [
+        "https://images.craigslist.org/d/7921895840/00y0y_diC7YdvVIot_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-18T01:24:43.099Z",
+      "id": "0d3285293071"
+    },
+    {
+      "title": "Granadilla Norte de Curridabat",
+      "price_text": "₡410,000,000",
+      "price_usd": 820000,
+      "location": "hace 6 h3brCondominio La Sevillana",
+      "url": "https://costarica.craigslist.org/reb/d/granadilla-norte-de-curridabat/7920144169.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-18T01:24:43.386Z",
+      "id": "047f3feaa0c9"
+    },
+    {
+      "title": "JUST LISTED! 8 lots with views of popular Volcano Arenal!",
+      "price_text": "₡55",
+      "price_usd": 0,
+      "location": "hace 6 hLa Fortuna",
+      "url": "https://costarica.craigslist.org/reb/d/just-listed-lots-with-views-of-popular/7920815075.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-18T01:24:43.468Z",
+      "id": "f904924f15cf"
+    },
+    {
+      "title": "Beautiful Mediterranean-Style House in Altos de Antigua",
+      "price_text": "₡210,000,000",
+      "price_usd": 420000,
+      "location": "hace 1 h3br11673ft2Puriscal",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-mediterranean-style-house-in/7921895840.html",
+      "images": [
+        "https://images.craigslist.org/d/7921895840/00y0y_diC7YdvVIot_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-18T01:24:48.199Z",
+      "id": "0d3285293071"
+    },
+    {
+      "title": "Granadilla Norte de Curridabat",
+      "price_text": "₡410,000,000",
+      "price_usd": 820000,
+      "location": "hace 6 h3brCondominio La Sevillana",
+      "url": "https://costarica.craigslist.org/reb/d/granadilla-norte-de-curridabat/7920144169.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-18T01:24:48.491Z",
+      "id": "047f3feaa0c9"
+    },
+    {
+      "title": "JUST LISTED! 8 lots with views of popular Volcano Arenal!",
+      "price_text": "₡55",
+      "price_usd": 0,
+      "location": "hace 6 hLa Fortuna",
+      "url": "https://costarica.craigslist.org/reb/d/just-listed-lots-with-views-of-popular/7920815075.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-18T01:24:48.571Z",
+      "id": "f904924f15cf"
+    },
+    {
+      "title": "Villa Verde II-45 ~ Living in a Prime Location          Guanavista at Ostional ~ Oceanview & Jungle Lots in...          Prime Development ~ Lot 21 in Aldea Santa Fe ~ Fully Permitted...",
+      "price_text": "Price:     US$ 259 000.00      Price:     US$ 262 500.00      Price:     US$ 266 500.00",
+      "price_usd": 259000.002625,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Ostional      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/villa-verde-ii-45-playa-tamarindo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Villa-Verde-II-45-Playa-Tamarindo.jpg?itok=LdGZJyfD",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-guanavista-ostional.png?itok=Y1_w8JRD",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Aldea-Santa-Fe-development-parcel_0.jpg?itok=CucFKzrL"
+      ],
+      "description": "This well-established condominium complex is known for its unbeatable location while remaining one of the...          Explore Real Estate Opportunities in Ostional, Costa Rica\nDreaming of owning property in Ostional? Welcome to...          Discover an exceptional development opportunity in the exclusive gated community of Aldea Santa Fe, ideally...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-18T01:27:23.588Z",
+      "id": "45c4caf34d0a"
+    },
+    {
+      "title": "SELLER MOTIVATED! The Point 19 ~ Elegant 3-Bedroom Home with...          Boutique Duplex Living in Tamarindo Hills ~ Fully Furnished          The Point 17 ~ 3-Bedroom Home with Private Guest Suite",
+      "price_text": "Price:     US$ 490 000.00      Price:     US$ 495 000.00      Price:     US$ 499 000.00",
+      "price_usd": 490000.00495,
+      "location": "Location:     Playa Avellanas      Location:     Playa Tamarindo      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/the-point-19",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/13-the-point-19.jpg?itok=V4yDv0F0",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/34-tamarindo-hills-8.png?itok=S46R2d7y",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-The-Point-17-Avellanas.jpg?itok=6YXRgnU4"
+      ],
+      "description": "Welcome to The Point #19, a well-appointed and centrally located residence in the sought-after gated...          This prime Tamarindo Hills duplex is a  3-bedroom, 2-bathroom unit located in the boutique Tamarindo Hills...          Discover comfort and convenience at The Point 17, located within the gated community of The Point at Playa...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-03-18T01:27:29.598Z",
+      "id": "6b0ed1be75e0"
+    },
+    {
+      "title": "Jardines de Palma Real 224 ~ Large Corner Unit Townhome Walking...          FIRESALE! Villa Marseille ~ Imposing 4 Bedroom Ocean View Estate...          Terraced Flats 7522 ~ Cozy Oasis with Private Pool in Las...",
+      "price_text": "Price:     US$ 599 000.00      Price:     US$ 600 000.00      Price:     US$ 619 000.00",
+      "price_usd": 599000.006,
+      "location": "Location:     Hacienda-Pinilla      Location:     Playa Potrero      Location:     Playa Danta",
+      "url": "https://www.remax-oceansurf-cr.com/property/jdr-224-hacienda-pinilla-golf-resort",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-JPR24-Drone1_1.jpg?itok=tNOrU6wx",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/VM-22.jpg?itok=p0u220A6",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-terraced-flats-7522.png?itok=auWLgf2E"
+      ],
+      "description": "Nestled within the prestigious gated community of Hacienda Pinilla, Jardines de Palma Real 24 beckons as a...          Located in the province of Guanacaste on the north Pacific coast of Costa Rica, the villa is situated on the...          Enjoy your very own tranquil oasis with a private pool, perfect for relaxing and rejuvenating without ever...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-03-18T01:27:31.680Z",
+      "id": "fa52eafc67f4"
+    },
+    {
+      "title": "Las Golondrinas Lot 10 ~ Stunning Forested Lot in Prestigious...          Prime Tamarindo Investment Property with Rental Income Potential          Casa Mariposa ~ Luxurious Tropical Living in this Ocean View...",
+      "price_text": "Price:     US$ 695 000.00      Price:     US$ 699 000.00      Price:     US$ 699 000.00",
+      "price_usd": 695000.00699,
+      "location": "Location:     Hacienda-Pinilla      Location:     Playa Tamarindo      Location:     Playa Negra",
+      "url": "https://www.remax-oceansurf-cr.com/property/las-golondrinas-lot-10",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-las-golondrinas-10.png?itok=ISFbKDnH",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/23-prime-commercial-property-in-tamarindo.png?itok=jXSifLGj",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-mariposa-playa-negra.jpg?itok=RX1vYuPP"
+      ],
+      "description": "Beautiful building lot located in the resort and golf community of Hacienda Pinilla. The property is in the...          Situated along a prominent road in the lively Tamarindo region, this adaptable property boasts high...          Finca Pura Jungla is a development with a story deeply rooted in environmental stewardship. Thirty years ago...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-18T01:27:38.163Z",
+      "id": "e3e998bc72ba"
+    },
+    {
+      "title": "Villa Sasha ~ Renovated Spanish Colonial Townhome in Hacienda...          Casa Naim ~ Perfect Blend of Luxury and Tranquility within an...          Langosta Beach Lots by the Diria",
+      "price_text": "Price:     US$ 790 000.00      Price:     US$ 795 000.00      Price:     US$ 795 000.00",
+      "price_usd": 790000.00795,
+      "location": "Location:     Hacienda-Pinilla      Location:     Tamarindo Areas      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/villa-sasha-lagos-de-palma-real",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-villa-sasha.png?itok=37h5rExA",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/31-casa-naim-villareal.png?itok=oYvNIjtb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/0-Langosta-beach-lots.JPG?itok=8DIwo6ub"
+      ],
+      "description": "Welcome to Villa Sasha – a beautifully renovated luxury residence located in the prestigious Palma Real...          Step into your dream home nestled in the heart of paradise! This brand-new 3-bedroom main house, accompanied...          Diria Resort is introducing a limited collection of 11 exceptional residential lots in the prestigious beach...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-18T01:27:39.162Z",
+      "id": "4bc606c88f82"
+    },
+    {
+      "title": "Multi-Unit Property with Pool and Owner’s Home in Playa Avellanas          The Enclave C3 ~ Best-Priced Resale in The Enclave Community          The Enclave B9 ~ 5-Bedroom Designer Villa with Pool Views",
+      "price_text": "Price:     US$ 850 000.00      Price:     US$ 850 000.00      Price:     US$ 850 000.00",
+      "price_usd": 850000.0085,
+      "location": "Location:     Playa Avellanas      Location:     Playa Avellanas      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/playa-avellanas-compound",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-playa-avellanas-compound.png?itok=SOgmydnB",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Enclave-C3.png?itok=AQ3wGpGU",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/42-enclave-B8-2025.png?itok=ESJK1LH7"
+      ],
+      "description": "Located just 800 meters from Playa Avellanas, this multi-unit property offers a practical opportunity for...          Discover the best-priced resale available in The Enclave at Avellanas, a luxurious gated community located...          Experience the perfect union of contemporary design and natural beauty at The Enclave at Avellanas, a gated...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-03-18T01:27:39.789Z",
+      "id": "dbf4e328243d"
+    },
+    {
+      "title": "PRICE REDUCTION! La Perla 5-4 ~ Exceptional Ocean View Property...          Tamarindo Park 51 ~ Modern Tropical Luxury Home with Pool and...          Casa Isani ~ Gorgeous Estate with Two Guest Homes in a Gated...",
+      "price_text": "Price:     US$ 1 099 000.00      Price:     US$ 1 100 000.00      Price:     US$ 1 100 000.00",
+      "price_usd": 1099000.0011,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/la-perla-5-4-playa-tamarindo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-LaPerla-54-Terrace.jpg?itok=oWFYQVhX",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/39-tamarindo-51-playa-tamarindo.png?itok=yjHZlufJ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-sasha.jpeg?itok=nFMOwHka"
+      ],
+      "description": "La Perla 5-4 is a fantastic ocean-view property located a short walk to the beach and town. The three-bedroom...          Discover Tamarindo Park #51, a brand-new tropical modern residence offering 3 bedrooms and 3 bathrooms across...          Welcome to Casa Isani! This multi-unit property offers a turnkey solution to enjoy the amazing “pura vida''...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-18T01:27:41.101Z",
+      "id": "986ad513a83d"
+    },
+    {
+      "title": "Langostas Hidden Treasure: Casa Maya          Finca Los Tres Leches ~ Development Opportunity          Sanara Phase II: Luxury Meets Sustainability in Reserva Conchal",
+      "price_text": "Price:     US$ 1 150 000.00      Price:     US$ 1 150 000.00      Price:     US$ 1 170 500.00",
+      "price_usd": 1150000.00115,
+      "location": "Location:     Playa Langosta      Location:     Tamarindo Areas      Location:     Reserva Conchal",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-maya-playa-langosta",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-maya.png?itok=TI_pNKOD",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1_Finca_Tres_Leches_0.jpeg?itok=ANtNnTFj",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/18-sanara-phase-ii-pictures.jpg?itok=49tVtOVH"
+      ],
+      "description": "Casa Maya presents a unique investment opportunity for the discerning buyer. Situated on a prime 500-square-...          Development opportunity! Amazing piece of land located in Santa Rosa, just 6 miles away from the stunning...          Sanara Phase II at Reserva Conchal: A Sustainable Luxury Community\nWelcome to Sanara Phase II, an exclusive...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-18T01:27:47.052Z",
+      "id": "d1e7cc8e0e44"
+    },
+    {
+      "title": "PRICE REDUCTION! Jasmine Homes ~ Prime Multi-Unit Property...          Casa Zoul ~ 4 Bedroom Pre-construction Beauty on Lot 9B          Brand New Golf Front Masterpiece in High End Gated Community!",
+      "price_text": "Price:     US$ 1 350 000.00      Price:     US$ 1 350 000.00      Price:     US$ 1 395 000.00",
+      "price_usd": 1350000.00135,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Tamarindo      Location:     Hacienda-Pinilla",
+      "url": "https://www.remax-oceansurf-cr.com/property/jasmine-homes",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/16-jasmine-i-and-ii.jpg?itok=U_oprJo9",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-zoul_0.png?itok=XW8byrCW",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.Golf-Front-Pinilla-Pool.jpg?itok=MgFzfDZb"
+      ],
+      "description": "Jasmine Homes I & II\nLuxury Residences in Tamarindo – Live, Invest, and Enjoy Beachside Living! Discover...          Luckily, Senderos is one of the most opulent private communities in Tamarindo, and its location is very close...          This golf front luxury home is located in the sub community of Los Almendros, in Hacienda Pinilla, which has...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-18T01:27:47.893Z",
+      "id": "68ee194b1ac9"
+    },
+    {
+      "title": "Experience the Ultimate Beachfront Lifestyle in Tamarindo          Casa Sunset ~ Magnificent 5 Bedroom Estate with Amazing Ocean...          Casa Milagro ~ Los Amendros 4 Bedroom Home",
+      "price_text": "Price:     US$ 1 500 000.00      Price:     US$ 1 500 000.00      Price:     US$ 1 500 000.00",
+      "price_usd": 1500000.0015,
+      "location": "Location:     Playa Langosta      Location:     Playa Penca      Location:     Hacienda-Pinilla",
+      "url": "https://www.remax-oceansurf-cr.com/property/sunset-beachfront-luxury-villas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-mono-luxe-beachfront-residences.png?itok=2HqoMpV6",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/0-Potrero-Sunset-House.jpg?itok=guelsR6f",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/LA28-1.jpg?itok=839XtBkT"
+      ],
+      "description": "Sunset Beachfront Luxury Villas - Experience the pinnacle of coastal luxury in Tamarindo/Langosta!\nInvest in...          Want the best pool, the best views, the best location, and lots of privacy? This 4 bedroom 4 bathroom house...          Casa Milagro is a beautiful, contemporary 4 bedroom home located in Los Almendros, Hacienda Pinilla. The home...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-18T01:27:48.338Z",
+      "id": "c3a40d70156a"
+    },
+    {
+      "title": "Casa Alegria ~ Perfect Blend of Comfort, Luxury, and Style           Casa del Atardecer ~ Luxury Ocean View Estate in Senderos          Las Crestas de Senderos Home 10F ~ Senderos Phase Three",
+      "price_text": "Price:     US$ 3 990 000.00      Price:     US$ 3 995 000.00      Price:     US$ 4 150 000.00",
+      "price_usd": 3990000.003995,
+      "location": "Location:     Playa Danta      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-alegria-paseo-miraflores",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-2-paseo-miraflores.png?itok=ULC_BKbY",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/14-casa-sunset-senderos-2026.jpg?itok=jUv-Eimr",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-10F-Senderos-Tamarindo_0.png?itok=jSdKWmsi"
+      ],
+      "description": "Introducing Casa Alegria at 2 Paseo Miraflores in the enchanting Las Catalinas, a newly custom-built...          Perched on a hillside in the exclusive gated community of Senderos in Playa Tamarindo, this exceptional...          Delivery December 2024\nWith 270-degree views of ocean and jungle, the home at #12 Las Crestas boasts...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-03-18T01:27:56.951Z",
+      "id": "f514917b87aa"
     }
   ],
-  "last_updated": "2026-03-17T18:59:12.807Z",
+  "last_updated": "2026-03-18T01:29:13.666Z",
   "total_count": 402
 }
