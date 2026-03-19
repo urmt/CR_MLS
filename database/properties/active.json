@@ -26114,8 +26114,101 @@
       "category": "residential",
       "scraped_at": "2026-03-18T18:52:21.297Z",
       "id": "efd470591a89"
+    },
+    {
+      "title": "Se vende - EN ZONA ALTAMENTE TURISTICA - For sale",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 4 h4brQuepos",
+      "url": "https://costarica.craigslist.org/reo/d/se-vende-en-zona-altamente-turistica/7917370532.html",
+      "images": [
+        "https://images.craigslist.org/d/7917370532/00E0E_1IRJr3JErdf_0t20t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-19T01:24:45.993Z",
+      "id": "2c8b0ca59813"
+    },
+    {
+      "title": "Se vende - EN ZONA ALTAMENTE TURISTICA - For sale",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 4 h4brQuepos",
+      "url": "https://costarica.craigslist.org/reo/d/se-vende-en-zona-altamente-turistica/7917370532.html",
+      "images": [
+        "https://images.craigslist.org/d/7917370532/00E0E_1IRJr3JErdf_0t20t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-19T01:24:50.774Z",
+      "id": "2c8b0ca59813"
+    },
+    {
+      "title": "Se vende - EN ZONA ALTAMENTE TURISTICA - For sale",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 4 h4brQuepos",
+      "url": "https://costarica.craigslist.org/reo/d/se-vende-en-zona-altamente-turistica/7917370532.html",
+      "images": [
+        "https://images.craigslist.org/d/7917370532/00E0E_1IRJr3JErdf_0t20t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-19T01:24:55.519Z",
+      "id": "2c8b0ca59813"
+    },
+    {
+      "title": "Se vende - EN ZONA ALTAMENTE TURISTICA - For sale",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 4 h4brQuepos",
+      "url": "https://costarica.craigslist.org/reo/d/se-vende-en-zona-altamente-turistica/7917370532.html",
+      "images": [
+        "https://images.craigslist.org/d/7917370532/00E0E_1IRJr3JErdf_0t20t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-19T01:25:00.297Z",
+      "id": "2c8b0ca59813"
+    },
+    {
+      "title": "Se vende - EN ZONA ALTAMENTE TURISTICA - For sale",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 4 h4brQuepos",
+      "url": "https://costarica.craigslist.org/reo/d/se-vende-en-zona-altamente-turistica/7917370532.html",
+      "images": [
+        "https://images.craigslist.org/d/7917370532/00E0E_1IRJr3JErdf_0t20t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-19T01:25:05.034Z",
+      "id": "2c8b0ca59813"
+    },
+    {
+      "title": "7.1 hectares lot with amazing ocean views, within 10 min from...          Guest House Apartments ~ Impeccable Multi-Unit Property with...          Casa Matapalo ~ Beautiful Multi-Home Property with Detached...",
+      "price_text": "Price:     US$ 710 000.00      Price:     US$ 715 500.00      Price:     US$ 720 000.00",
+      "price_usd": 710000.007155,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Flamingo      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/amazing-ocean-views",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Finca-Pinilla.JPG?itok=BdduRsO1",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-guest-house-apartments_0.jpeg?itok=GXc2Sz6v",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1_8.jpg?itok=Lv0iKPZe"
+      ],
+      "description": "A MUST SEE! 7.1 hectares ocean view lot. Long driveway leading to the beginning of the lot, just before...          This is an amazing opportunity to invest in the Flamingo Beach area, take advantage of the new marina, and...          Welcome to your Guanacaste paradise!\nThis spectacular property is located only 7 minutes from multiple...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-19T01:28:10.118Z",
+      "id": "90a3c5c73eab"
     }
   ],
-  "last_updated": "2026-03-18T18:54:05.208Z",
+  "last_updated": "2026-03-19T01:29:47.064Z",
   "total_count": 402
 }
