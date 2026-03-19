@@ -1,36 +1,6 @@
 {
   "properties": [
     {
-      "title": "Unique Beachfront House in Playa Langosta\n                Single Family Homes, Tamarindo, Guanacaste",
-      "price_text": "$6,782,000",
-      "price_usd": 6782000,
-      "location": "Single Family Homes, Tamarindo, Guanacaste",
-      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-tamarindo/13672",
-      "images": [
-        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005eUjJv/njc05f4ur/midres/DJI_0056-2%20copy.jpg"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "residential",
-      "scraped_at": "2025-12-19T18:20:28.610Z",
-      "id": "a1dae12fbb8e"
-    },
-    {
-      "title": "Unique Beachfront House in Playa Langosta\n                Single Family Homes, Tamarindo, Guanacaste",
-      "price_text": "$6,782,000",
-      "price_usd": 6782000,
-      "location": "Single Family Homes, Tamarindo, Guanacaste",
-      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-tamarindo/13672",
-      "images": [
-        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005eUjJv/njc05f4ur/midres/DJI_0056-2%20copy.jpg"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "residential",
-      "scraped_at": "2025-12-19T18:22:27.732Z",
-      "id": "a1dae12fbb8e"
-    },
-    {
       "title": "Ocean View 79 hectares finca - La Puerta del Sol          Flamingo Marina Cove 606 ~ Ground-Floor Beachfront Condo Just...          Casa Sunset ~ Turnkey Elegance Meets Panoramic Views",
       "price_text": "Price:     US$ 1 580 000.00      Price:     US$ 1 600 000.00      Price:     US$ 1 699 000.00",
       "price_usd": 1580000.0016,
@@ -26299,6 +26269,6 @@
       "id": "645a571c34af"
     }
   ],
-  "last_updated": "2026-03-19T18:49:35.575Z",
+  "last_updated": "2026-03-19T18:50:14.443Z",
   "total_count": 402
 }
