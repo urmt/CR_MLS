@@ -26132,8 +26132,173 @@
       "category": "luxury",
       "scraped_at": "2026-03-19T06:51:07.368Z",
       "id": "ea9bda128d63"
+    },
+    {
+      "title": "Ocean-View Land for Sale in Playa Hermosa, Guanacaste\n                Land, Papagayo Gulf, Guanacaste",
+      "price_text": "$14,000,000",
+      "price_usd": 14000000,
+      "location": "Land, Papagayo Gulf, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-land-for-sale-in-papagayo-gulf/1097",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-19T18:44:51.043Z",
+      "id": "cf15ce89a409"
+    },
+    {
+      "title": "Architectural Hacienda Style Luxury Villa inTranquil Natural Oasis\n                Single Family Homes, Santa Ana, San Jose",
+      "price_text": "$3,900,000",
+      "price_usd": 3900000,
+      "location": "Single Family Homes, Santa Ana, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-single-family-homes-for-sale-in-santa-ana/13586",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-19T18:45:27.997Z",
+      "id": "ed4c81224c6b"
+    },
+    {
+      "title": "Condo Development Project on main road into Playas del Coco\n                Land, Playas Del Coco, Guanacaste",
+      "price_text": "$3,774,999",
+      "price_usd": 3774999,
+      "location": "Land, Playas Del Coco, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-playas-del-coco/11295",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-19T18:45:28.236Z",
+      "id": "64e158ce8444"
+    },
+    {
+      "title": "Commercial Land for Sale in Grecia, Costa Rica | Ideal for Logistics\n                Commercial, Grecia, Alajuela",
+      "price_text": "$3,185,000",
+      "price_usd": 3185000,
+      "location": "Commercial, Grecia, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-grecia/14293",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006GqPR6/yksym8mis/midres/posts_ene_2026-01.png"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-19T18:45:43.768Z",
+      "id": "fbdd451cebfc"
+    },
+    {
+      "title": "Ocean View 46-Hectare Income-Producing Estate Peninsula Nicoya Blue Zone\n                Commercial, Hojancha, Guanacaste",
+      "price_text": "$1,800,000",
+      "price_usd": 1800000,
+      "location": "Commercial, Hojancha, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-commercial-for-sale-in-hojancha/14245",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000065MqtJ/4q9lev02s/midres/pool-with-view.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-19T18:45:52.634Z",
+      "id": "f1ff52574a0b"
+    },
+    {
+      "title": "Tropical Lodge - Income-Producing Estate Near Playa Grande\n                Commercial, Playa Grande, Guanacaste",
+      "price_text": "$999,000",
+      "price_usd": 999000,
+      "location": "Commercial, Playa Grande, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-commercial-for-sale-in-playa-grande/14255",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006AlVCZ/lqgmmjtda/midres/1.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-19T18:46:10.509Z",
+      "id": "5002732abf02"
+    },
+    {
+      "title": "Investment Property in Potrero - Ideal Location in Growing Guanacaste\n                Commercial, Playa Potrero, Guanacaste",
+      "price_text": "$990,000",
+      "price_usd": 990000,
+      "location": "Commercial, Playa Potrero, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-playa-potrero/13061",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-19T18:46:10.899Z",
+      "id": "fb6302d9e554"
+    },
+    {
+      "title": "Investment Opportunity in Playa Potrero | Commercial Center + 2-Bedroom Home\n                Commercial, Playa Potrero, Guanacaste",
+      "price_text": "$990,000",
+      "price_usd": 990000,
+      "location": "Commercial, Playa Potrero, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-playa-potrero/13282",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-19T18:46:11.117Z",
+      "id": "c126144f9ee7"
+    },
+    {
+      "title": "Stylish 2-Bed Oasis in Santa Teresa - Modern Design with Room to Expand\n                Single Family Homes, Santa Teresa, Puntarenas",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Single Family Homes, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/2-bed-single-family-homes-for-sale-in-santa-teresa/12249",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00003xMl2D/vlo4w9gya/midres/DawnCalleBuenosAires-13.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-19T18:46:59.304Z",
+      "id": "15e1eb2e62b7"
+    },
+    {
+      "title": "Ocean-View Land for Sale in Playa Hermosa, Guanacaste\n                Land, Papagayo Gulf, Guanacaste",
+      "price_text": "$14,000,000",
+      "price_usd": 14000000,
+      "location": "Land, Papagayo Gulf, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-land-for-sale-in-papagayo-gulf/1097",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o000013or76/08uzm2z5j/midres/wm_full%20%2813%29.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-19T18:47:08.846Z",
+      "id": "cf15ce89a409"
+    },
+    {
+      "title": "Land for Sale - 50 Hectares Development Property | Atenas, Costa Rica\n                Land, Atenas, Alajuela",
+      "price_text": "$7,000,000",
+      "price_usd": 7000000,
+      "location": "Land, Atenas, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-atenas/14265",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-19T18:47:26.897Z",
+      "id": "645a571c34af"
     }
   ],
-  "last_updated": "2026-03-19T12:47:49.616Z",
+  "last_updated": "2026-03-19T18:49:35.575Z",
   "total_count": 402
 }
