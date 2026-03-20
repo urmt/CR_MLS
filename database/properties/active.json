@@ -26267,8 +26267,773 @@
       "category": "land",
       "scraped_at": "2026-03-19T18:47:26.897Z",
       "id": "645a571c34af"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN MATEO.36-286-78",
+      "price_text": "₡22,000,000",
+      "price_usd": 44000,
+      "location": "hace 3 h1500ft2ALAJUELA, SAN MATEO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-san-mateo/7920866292.html",
+      "images": [
+        "https://images.craigslist.org/d/7920866292/00y0y_kzvhhcSuVOe_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:01.765Z",
+      "id": "b01255e2957b"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡112,553,000",
+      "price_usd": 225106,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-carrizal/7920865159.html",
+      "images": [
+        "https://images.craigslist.org/d/7920865159/00z0z_gfn6C6drP20_0fu0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:01.828Z",
+      "id": "55422ee4f9ba"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡164,140,000",
+      "price_usd": 328280,
+      "location": "hace 3 h380000ft2PUNTARENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-puntarenas/7920865815.html",
+      "images": [
+        "https://images.craigslist.org/d/7920865815/00N0N_gmnFsEvih85_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:01.907Z",
+      "id": "0736c803520d"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡281,382,000",
+      "price_usd": 562764,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-sabana-larga/7920864527.html",
+      "images": [
+        "https://images.craigslist.org/d/7920864527/00u0u_l6oQ32wptKL_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:01.992Z",
+      "id": "440c7131ce6f"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡68,001,000",
+      "price_usd": 136002,
+      "location": "hace 3 h500ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/rancho-para-venta-en-atenas/7920862700.html",
+      "images": [
+        "https://images.craigslist.org/d/7920862700/01414_eMWxDANNql8_08u069_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:02.054Z",
+      "id": "5813062e97c9"
+    },
+    {
+      "title": "FINCA PARA VENTA, EN TIERRAS MORENAS. 36-133",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 3 h118ft2GUANACASTE, TILARAN",
+      "url": "https://costarica.craigslist.org/reo/d/finca-para-venta-en-tierras-morenas/7920859655.html",
+      "images": [
+        "https://images.craigslist.org/d/7920859655/00P0P_aczYUwD4RSL_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:02.120Z",
+      "id": "820c4a5b9e7d"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡117,243,000",
+      "price_usd": 234486,
+      "location": "hace 3 h66116ft2CARTAGO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-cartago/7920857277.html",
+      "images": [
+        "https://images.craigslist.org/d/7920857277/00R0R_aGfS0fQi5pi_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:02.184Z",
+      "id": "54159b68e93a"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN MATEO.36-286-78",
+      "price_text": "₡22,000,000",
+      "price_usd": 44000,
+      "location": "hace 3 h1500ft2ALAJUELA, SAN MATEO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-san-mateo/7920866292.html",
+      "images": [
+        "https://images.craigslist.org/d/7920866292/00y0y_kzvhhcSuVOe_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:07.652Z",
+      "id": "b01255e2957b"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡112,553,000",
+      "price_usd": 225106,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-carrizal/7920865159.html",
+      "images": [
+        "https://images.craigslist.org/d/7920865159/00z0z_gfn6C6drP20_0fu0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:07.716Z",
+      "id": "55422ee4f9ba"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡164,140,000",
+      "price_usd": 328280,
+      "location": "hace 3 h380000ft2PUNTARENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-puntarenas/7920865815.html",
+      "images": [
+        "https://images.craigslist.org/d/7920865815/00N0N_gmnFsEvih85_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:07.779Z",
+      "id": "0736c803520d"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡281,382,000",
+      "price_usd": 562764,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-sabana-larga/7920864527.html",
+      "images": [
+        "https://images.craigslist.org/d/7920864527/00u0u_l6oQ32wptKL_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:07.861Z",
+      "id": "440c7131ce6f"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡68,001,000",
+      "price_usd": 136002,
+      "location": "hace 3 h500ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/rancho-para-venta-en-atenas/7920862700.html",
+      "images": [
+        "https://images.craigslist.org/d/7920862700/01414_eMWxDANNql8_08u069_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:07.918Z",
+      "id": "5813062e97c9"
+    },
+    {
+      "title": "FINCA PARA VENTA, EN TIERRAS MORENAS. 36-133",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 3 h118ft2GUANACASTE, TILARAN",
+      "url": "https://costarica.craigslist.org/reo/d/finca-para-venta-en-tierras-morenas/7920859655.html",
+      "images": [
+        "https://images.craigslist.org/d/7920859655/00P0P_aczYUwD4RSL_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:07.982Z",
+      "id": "820c4a5b9e7d"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡117,243,000",
+      "price_usd": 234486,
+      "location": "hace 3 h66116ft2CARTAGO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-cartago/7920857277.html",
+      "images": [
+        "https://images.craigslist.org/d/7920857277/00R0R_aGfS0fQi5pi_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:08.045Z",
+      "id": "54159b68e93a"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN MATEO.36-286-78",
+      "price_text": "₡22,000,000",
+      "price_usd": 44000,
+      "location": "hace 3 h1500ft2ALAJUELA, SAN MATEO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-san-mateo/7920866292.html",
+      "images": [
+        "https://images.craigslist.org/d/7920866292/00y0y_kzvhhcSuVOe_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:13.448Z",
+      "id": "b01255e2957b"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡112,553,000",
+      "price_usd": 225106,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-carrizal/7920865159.html",
+      "images": [
+        "https://images.craigslist.org/d/7920865159/00z0z_gfn6C6drP20_0fu0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:13.508Z",
+      "id": "55422ee4f9ba"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡164,140,000",
+      "price_usd": 328280,
+      "location": "hace 3 h380000ft2PUNTARENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-puntarenas/7920865815.html",
+      "images": [
+        "https://images.craigslist.org/d/7920865815/00N0N_gmnFsEvih85_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:13.571Z",
+      "id": "0736c803520d"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡281,382,000",
+      "price_usd": 562764,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-sabana-larga/7920864527.html",
+      "images": [
+        "https://images.craigslist.org/d/7920864527/00u0u_l6oQ32wptKL_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:13.653Z",
+      "id": "440c7131ce6f"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡68,001,000",
+      "price_usd": 136002,
+      "location": "hace 3 h500ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/rancho-para-venta-en-atenas/7920862700.html",
+      "images": [
+        "https://images.craigslist.org/d/7920862700/01414_eMWxDANNql8_08u069_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:13.712Z",
+      "id": "5813062e97c9"
+    },
+    {
+      "title": "FINCA PARA VENTA, EN TIERRAS MORENAS. 36-133",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 3 h118ft2GUANACASTE, TILARAN",
+      "url": "https://costarica.craigslist.org/reo/d/finca-para-venta-en-tierras-morenas/7920859655.html",
+      "images": [
+        "https://images.craigslist.org/d/7920859655/00P0P_aczYUwD4RSL_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:13.777Z",
+      "id": "820c4a5b9e7d"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡117,243,000",
+      "price_usd": 234486,
+      "location": "hace 3 h66116ft2CARTAGO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-cartago/7920857277.html",
+      "images": [
+        "https://images.craigslist.org/d/7920857277/00R0R_aGfS0fQi5pi_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:13.842Z",
+      "id": "54159b68e93a"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN MATEO.36-286-78",
+      "price_text": "₡22,000,000",
+      "price_usd": 44000,
+      "location": "hace 3 h1500ft2ALAJUELA, SAN MATEO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-san-mateo/7920866292.html",
+      "images": [
+        "https://images.craigslist.org/d/7920866292/00y0y_kzvhhcSuVOe_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:19.258Z",
+      "id": "b01255e2957b"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡112,553,000",
+      "price_usd": 225106,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-carrizal/7920865159.html",
+      "images": [
+        "https://images.craigslist.org/d/7920865159/00z0z_gfn6C6drP20_0fu0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:19.318Z",
+      "id": "55422ee4f9ba"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡164,140,000",
+      "price_usd": 328280,
+      "location": "hace 3 h380000ft2PUNTARENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-puntarenas/7920865815.html",
+      "images": [
+        "https://images.craigslist.org/d/7920865815/00N0N_gmnFsEvih85_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:19.382Z",
+      "id": "0736c803520d"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡281,382,000",
+      "price_usd": 562764,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-sabana-larga/7920864527.html",
+      "images": [
+        "https://images.craigslist.org/d/7920864527/00u0u_l6oQ32wptKL_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:19.459Z",
+      "id": "440c7131ce6f"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡68,001,000",
+      "price_usd": 136002,
+      "location": "hace 3 h500ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/rancho-para-venta-en-atenas/7920862700.html",
+      "images": [
+        "https://images.craigslist.org/d/7920862700/01414_eMWxDANNql8_08u069_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:19.516Z",
+      "id": "5813062e97c9"
+    },
+    {
+      "title": "FINCA PARA VENTA, EN TIERRAS MORENAS. 36-133",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 3 h118ft2GUANACASTE, TILARAN",
+      "url": "https://costarica.craigslist.org/reo/d/finca-para-venta-en-tierras-morenas/7920859655.html",
+      "images": [
+        "https://images.craigslist.org/d/7920859655/00P0P_aczYUwD4RSL_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:19.580Z",
+      "id": "820c4a5b9e7d"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡117,243,000",
+      "price_usd": 234486,
+      "location": "hace 3 h66116ft2CARTAGO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-cartago/7920857277.html",
+      "images": [
+        "https://images.craigslist.org/d/7920857277/00R0R_aGfS0fQi5pi_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:19.642Z",
+      "id": "54159b68e93a"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN MATEO.36-286-78",
+      "price_text": "₡22,000,000",
+      "price_usd": 44000,
+      "location": "hace 3 h1500ft2ALAJUELA, SAN MATEO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-san-mateo/7920866292.html",
+      "images": [
+        "https://images.craigslist.org/d/7920866292/00y0y_kzvhhcSuVOe_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:25.060Z",
+      "id": "b01255e2957b"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡112,553,000",
+      "price_usd": 225106,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-carrizal/7920865159.html",
+      "images": [
+        "https://images.craigslist.org/d/7920865159/00z0z_gfn6C6drP20_0fu0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:25.123Z",
+      "id": "55422ee4f9ba"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡164,140,000",
+      "price_usd": 328280,
+      "location": "hace 3 h380000ft2PUNTARENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-puntarenas/7920865815.html",
+      "images": [
+        "https://images.craigslist.org/d/7920865815/00N0N_gmnFsEvih85_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:25.187Z",
+      "id": "0736c803520d"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡281,382,000",
+      "price_usd": 562764,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-sabana-larga/7920864527.html",
+      "images": [
+        "https://images.craigslist.org/d/7920864527/00u0u_l6oQ32wptKL_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:25.267Z",
+      "id": "440c7131ce6f"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡68,001,000",
+      "price_usd": 136002,
+      "location": "hace 3 h500ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/rancho-para-venta-en-atenas/7920862700.html",
+      "images": [
+        "https://images.craigslist.org/d/7920862700/01414_eMWxDANNql8_08u069_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:25.323Z",
+      "id": "5813062e97c9"
+    },
+    {
+      "title": "FINCA PARA VENTA, EN TIERRAS MORENAS. 36-133",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 3 h118ft2GUANACASTE, TILARAN",
+      "url": "https://costarica.craigslist.org/reo/d/finca-para-venta-en-tierras-morenas/7920859655.html",
+      "images": [
+        "https://images.craigslist.org/d/7920859655/00P0P_aczYUwD4RSL_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:25.388Z",
+      "id": "820c4a5b9e7d"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡117,243,000",
+      "price_usd": 234486,
+      "location": "hace 3 h66116ft2CARTAGO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-cartago/7920857277.html",
+      "images": [
+        "https://images.craigslist.org/d/7920857277/00R0R_aGfS0fQi5pi_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:25.450Z",
+      "id": "54159b68e93a"
+    },
+    {
+      "title": "Unique Beachfront House in Playa Langosta\n                Single Family Homes, Tamarindo, Guanacaste",
+      "price_text": "$6,782,000",
+      "price_usd": 6782000,
+      "location": "Single Family Homes, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-tamarindo/13672",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005eUjJv/njc05f4ur/midres/DJI_0056-2%20copy.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:20:40.778Z",
+      "id": "a1dae12fbb8e"
+    },
+    {
+      "title": "Boutique Living in Escazú - 6-Unit Apartment Building, 100% Occupied, For Sale\n                Commercial, Escazu, San Jose",
+      "price_text": "$950,000",
+      "price_usd": 950000,
+      "location": "Commercial, Escazu, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-commercial-for-sale-in-escazu/14303",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:21:45.402Z",
+      "id": "d013ccc681ab"
+    },
+    {
+      "title": "Price Up Request | Stylish 2Bed Home in Santa Teresa\n                Single Family Homes, Santa Teresa, Puntarenas",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Single Family Homes, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/2-bed-single-family-homes-for-sale-in-santa-teresa/12249",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00003xMl2D/vlo4w9gya/midres/DawnCalleBuenosAires-13.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-20T01:22:30.775Z",
+      "id": "8cc1925a4815"
+    },
+    {
+      "title": "Unique Beachfront House in Playa Langosta\n                Single Family Homes, Tamarindo, Guanacaste",
+      "price_text": "$6,782,000",
+      "price_usd": 6782000,
+      "location": "Single Family Homes, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-tamarindo/13672",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005eUjJv/njc05f4ur/midres/DJI_0056-2%20copy.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:23:01.853Z",
+      "id": "a1dae12fbb8e"
+    },
+    {
+      "title": "Loma Verde 14 ~ Beautiful 2-Bedroom Home in Gated Community Near...          Move-In Ready 2-Bedroom Condo Minutes from Tamarindo Beach          The Oaks 67 ~ Ground-Floor 2-Bedroom Condo with Beautiful...",
+      "price_text": "Price:     US$ 269 000.00      Price:     US$ 270 000.00      Price:     US$ 279 000.00",
+      "price_usd": 269000.0027,
+      "location": "Location:     Tamarindo Areas      Location:     Tamarindo Areas      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/loma-verde-14-2-bedroom-home",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Gated-Community-House-Tamarindo.jpg?itok=MfqUr5UE",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/10-Palmas-Entrance.jpg?itok=73vKH0gl",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/01-oaks-condo-entrance-unit-67.JPG?itok=vnbi2neZ"
+      ],
+      "description": "This charming two-bedroom, two-bath home is fully furnished and in excellent condition, offering one of the...          Fantastic condominium located in the Palmas de Tamarindo condominium community in Villareal. Located just a...          Welcome to unit 67 at The Oaks, a fully furnished, ground-floor 2-bedroom, 2-bathroom condo nestled in one of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:23:12.317Z",
+      "id": "3c58548a22ad"
+    },
+    {
+      "title": "Casa Jade ~ Spacious 3-Bedroom Home with Pool in Villareal          SELLER MOTIVATED! The Point 19 ~ Elegant 3-Bedroom Home with...          Boutique Duplex Living in Tamarindo Hills ~ Fully Furnished",
+      "price_text": "Price:     US$ 479 000.00      Price:     US$ 490 000.00      Price:     US$ 495 000.00",
+      "price_usd": 479000.0049,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Avellanas      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-jade-villareal",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/33-villarreal-3-bedroom-exterior-3.jpg?itok=3lokSyp8",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/13-the-point-19.jpg?itok=V4yDv0F0",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/34-tamarindo-hills-8.png?itok=S46R2d7y"
+      ],
+      "description": "Casa Jade is a rare find—a large, well-appointed 3-bedroom, 2-bathroom home just minutes from Tamarindo and...          Welcome to The Point #19, a well-appointed and centrally located residence in the sought-after gated...          This prime Tamarindo Hills duplex is a  3-bedroom, 2-bathroom unit located in the boutique Tamarindo Hills...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-03-20T01:23:17.655Z",
+      "id": "73734be6a1a6"
+    },
+    {
+      "title": "Tamarindo Village Prime Land with Ocean Views           Casa Pura Chante ~ Beautiful Modern House Close to the Beach          Bocaraca 4 ~ Spacious 3-Bedroom Condo Steps from Tamarindo Beach",
+      "price_text": "Price:     US$ 625 000.00      Price:     US$ 649 000.00      Price:     US$ 659 000.00",
+      "price_usd": 625000.00649,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Junquillal      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/tamarindo-village-opportunity",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-989m2-tamarindo-lot.png?itok=lRUEaPx-",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-pura-chante.png?itok=dvdZNXjr",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/26-bocaraca-3-bedroom-unit.png?itok=wQaLM5Uj"
+      ],
+      "description": "Looking for the perfect property to build your dream ocean view home or multiple units with great rental...          This beautiful brand new home is literally 102 yards from an idyllic, undiscovered beach in a community that...          This 3-bedroom, 3.5-bathroom condo is located on the first floor of the Bocaraca condominium, just a 220m (...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:23:19.554Z",
+      "id": "76db80b39ecc"
+    },
+    {
+      "title": "Casa Pico de Piedra ~ Oceanview Hilltop Villa Near Tamarindo          Villa Ma Waho ~ Newly Built Home in Tamarindo          Two Ocean View Homes in Corona del Cabo",
+      "price_text": "Price:     US$ 680 000.00      Price:     US$ 690 000.00      Price:     US$ 695 000.00",
+      "price_usd": 680000.0069,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Tamarindo      Location:     Playa Grande",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-pico-de-piedra",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/11-casa-pico-de-piedra-2025.jpg?itok=fTMTiSGE",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3a-Villa-Seventeen.jpeg?itok=1jbn48So",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/46-corona-del-cabo-4-2025.jpg?itok=PArMzxfJ"
+      ],
+      "description": "Welcome to Casa Pico de Piedra, a charming countryside villa tucked away in the peaceful hills of Río Santo,...          Casa Tibo is the newest luxury beach villa in Norma Tamarindo, a new suburb in town. This quality constructed...          Nestled within a gated community with smooth, paved roads, these two stunning houses offer an inviting...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:23:19.923Z",
+      "id": "526741a30257"
+    },
+    {
+      "title": "Casa Matapalo ~ Beautiful Multi-Home Property with Detached...          Oceanview Villa in Marbella: Luxury and Income Potential          Modern Coastal Living in Tamarindo’s Oro del Sol Community",
+      "price_text": "Price:     US$ 720 000.00      Price:     US$ 729 000.00      Price:     US$ 749 000.00",
+      "price_usd": 720000.00729,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Marbella      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-matapalo-guanacaste",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1_8.jpg?itok=Lv0iKPZe",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/29-5-bedroom-home-in-marbella.jpeg?itok=Nx8VdcDb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-oro-del-sol-23-2026.png?itok=YqNcRmcl"
+      ],
+      "description": "Welcome to your Guanacaste paradise!\nThis spectacular property is located only 7 minutes from multiple...          Discover an extraordinary opportunity to own a breathtaking villa on 1.7 acres in Marbella, Costa Rica,...          Oro del Sol 23 is a newly built residence set within the highly desirable Oro del Sol community in Tamarindo...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-03-20T01:23:25.645Z",
+      "id": "0091193e2a1b"
+    },
+    {
+      "title": "4-Bedroom Townhome in Los Malinches of Hacienda Pinilla          Cabinas Loulou ~ Versatile 7-Suite Property with Owner’s...          El Tesoro 3.3 ~ Panoramic Ocean & Estuary View Homesite in...",
+      "price_text": "Price:     US$ 859 000.00      Price:     US$ 880 000.00      Price:     US$ 899 000.00",
+      "price_usd": 859000.0088,
+      "location": "Location:     Hacienda-Pinilla      Location:     Playa Junquillal      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/los-malinches-23-hacienda-pinilla",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Los-Malinche-23.jpeg?itok=cPqfF0xY",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/0-Cabinas-Loulou.jpg?itok=44RDIAll",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-el-tesoro-1554m2-lot.png?itok=2-3ZZqwf"
+      ],
+      "description": "Los Malinches 23\nWelcome to an exceptional 4-bedroom, 4.5-bath residence in the exclusive enclave of Los...          Located just 650 meters from the beach in the heart of Playa Junquillal, this unique property offers a...          Welcome to El Tesoro, one of Tamarindo’s most sought-after hillside communities. This exceptional 1,554 m² (0...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-20T01:23:27.350Z",
+      "id": "e77df38d2993"
+    },
+    {
+      "title": "Casa Nibbana ~ Expansive 4 Bedroom Villa in Hacienda Pinilla          La Perla 3-4 ~ Panoramic Ocean Views Over Playa Grande and...          Casa Montana ~ Three-Story Ocean View Jewel in a Gated Community",
+      "price_text": "Price:     US$ 1 050 000.00      Price:     US$ 1 075 000.00      Price:     US$ 1 090 000.00",
+      "price_usd": 1050000.001075,
+      "location": "Location:     Hacienda-Pinilla      Location:     Playa Tamarindo      Location:     Playa Flamingo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-nibbana-reserva-de-golf",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-nibbana-hacienda-pinilla-reserva-de-golf-%233.jpg?itok=H4oXvJkO",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-perla-tamarindo-3-4.jpg?itok=5z_14Dbs",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/krain_casamonatana-2.jpg?itok=QUR9C9N8"
+      ],
+      "description": "Positioned within the prestigious Reserva de Golf enclave of Hacienda Pinilla, Casa Nibbana is a...          Welcome to La Perla Tamarindo 134 - an incredible ocean-view condo offering breathtaking panoramas of Playa...          Located in the heart of Playa Flamingo within the prestigious gated community of Altos de Flamingo, this...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-20T01:23:28.021Z",
+      "id": "2492f445d54e"
+    },
+    {
+      "title": "Casa Oasis de Jutta          La Perla 4-3 ~ Elegant Ocean-View Retreat in Vibrant Tamarindo          PRICE REDUCTION! La Perla 5-4 ~ Exceptional Ocean View Property...",
+      "price_text": "Price:     US$ 1 098 000.00      Price:     US$ 1 099 000.00      Price:     US$ 1 099 000.00",
+      "price_usd": 1098000.001099,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-oasis-de-jutta",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-oasis-de-jutta-2023.jpg?itok=SJg7NmK7",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-perla-4-3.jpg?itok=qdRaqXzi",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-LaPerla-54-Terrace.jpg?itok=oWFYQVhX"
+      ],
+      "description": "Casa Oasis de Jutta is sitting on top of a mountain, overlooking the beautiful Guanacaste Valley, a lagoon,...          Experience the best of Costa Rican coastal living with La Perla Tamarindo 143 - a rare opportunity to own a...          La Perla 5-4 is a fantastic ocean-view property located a short walk to the beach and town. The three-bedroom...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-20T01:23:28.329Z",
+      "id": "321ed6fcbe8b"
+    },
+    {
+      "title": "Tamarindo Park 51 ~ Modern Tropical Luxury Home with Pool and...          Casa Isani ~ Gorgeous Estate with Two Guest Homes in a Gated...          Casa Crucero ~ Modern 4 Bedroom Home in Tamarindo's Newest...",
+      "price_text": "Price:     US$ 1 100 000.00      Price:     US$ 1 100 000.00      Price:     US$ 1 100 000.00",
+      "price_usd": 1100000.0011,
+      "location": "Location:     Playa Tamarindo      Location:     Tamarindo Areas      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/tamarindo-park-51",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/39-tamarindo-51-playa-tamarindo.png?itok=yjHZlufJ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-sasha.jpeg?itok=nFMOwHka",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5%20-casa-crucero-verde.jpeg?itok=12V8KF2X"
+      ],
+      "description": "Discover Tamarindo Park #51, a brand-new tropical modern residence offering 3 bedrooms and 3 bathrooms across...          Welcome to Casa Isani! This multi-unit property offers a turnkey solution to enjoy the amazing “pura vida''...          Casa Crucero Verde feels like being on a cruise ship overlooking the canopy and then touching the Pacific...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-03-20T01:23:34.117Z",
+      "id": "c45482c53d2f"
+    },
+    {
+      "title": "Casa Vista Escondida ~ Pinnacle of Coastal Luxury          TINAJAS - Income Producing Property with Expansion Plans          Senderos Home 23E ~ Three Story Estate with Unparalleled Views",
+      "price_text": "Price:     US$ 2 495 000.00      Price:     US$ 2 500 000.00      Price:     US$ 2 550 000.00",
+      "price_usd": 2495000.0025,
+      "location": "Location:     Playa Penca      Location:     Tamarindo Areas      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/vista-escondida-pacific-heights",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-vista-escondida.png?itok=o8pWcISl",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/DSCF5321_0.jpg?itok=f1G9u2s7",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-senderos-home-23e.png?itok=eSqcELAg"
+      ],
+      "description": "Introducing Casa Vista Escondida, an epitome of luxurious living nestled in the Pacific Heights enclave of...          An exceptional investment opportunity in a prime location! The owner of this project is retiring and offering...          This contemporary retreat was crafted by the exceptional team at WR Architects with a singular vision: to...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-03-20T01:23:42.684Z",
+      "id": "36548f7816bc"
     }
   ],
-  "last_updated": "2026-03-19T18:50:14.443Z",
+  "last_updated": "2026-03-20T01:24:58.549Z",
   "total_count": 402
 }
