@@ -26921,8 +26921,83 @@
       "category": "luxury",
       "scraped_at": "2026-03-20T01:23:42.684Z",
       "id": "36548f7816bc"
+    },
+    {
+      "title": "Venta de casa",
+      "price_text": "₡150,000,000",
+      "price_usd": 300000,
+      "location": "hace 6 h3br1522ft2Cuesta grande de Nicoya",
+      "url": "https://costarica.craigslist.org/reb/d/venta-de-casa/7922384982.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T18:36:15.413Z",
+      "id": "c2475139ad07"
+    },
+    {
+      "title": "Venta de casa",
+      "price_text": "₡150,000,000",
+      "price_usd": 300000,
+      "location": "hace 6 h3br1522ft2Cuesta grande de Nicoya",
+      "url": "https://costarica.craigslist.org/reb/d/venta-de-casa/7922384982.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T18:36:20.336Z",
+      "id": "c2475139ad07"
+    },
+    {
+      "title": "Venta de casa",
+      "price_text": "₡150,000,000",
+      "price_usd": 300000,
+      "location": "hace 6 h3br1522ft2Cuesta grande de Nicoya",
+      "url": "https://costarica.craigslist.org/reb/d/venta-de-casa/7922384982.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T18:36:25.360Z",
+      "id": "c2475139ad07"
+    },
+    {
+      "title": "Venta de casa",
+      "price_text": "₡150,000,000",
+      "price_usd": 300000,
+      "location": "hace 6 h3br1522ft2Cuesta grande de Nicoya",
+      "url": "https://costarica.craigslist.org/reb/d/venta-de-casa/7922384982.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T18:36:30.220Z",
+      "id": "c2475139ad07"
+    },
+    {
+      "title": "Venta de casa",
+      "price_text": "₡150,000,000",
+      "price_usd": 300000,
+      "location": "hace 6 h3br1522ft2Cuesta grande de Nicoya",
+      "url": "https://costarica.craigslist.org/reb/d/venta-de-casa/7922384982.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-20T18:36:35.073Z",
+      "id": "c2475139ad07"
     }
   ],
-  "last_updated": "2026-03-20T12:44:45.606Z",
+  "last_updated": "2026-03-20T18:41:03.720Z",
   "total_count": 402
 }
