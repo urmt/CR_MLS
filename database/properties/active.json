@@ -25685,8 +25685,83 @@
       "category": "luxury",
       "scraped_at": "2026-03-24T01:21:24.529Z",
       "id": "423a9c7fde58"
+    },
+    {
+      "title": "Property with two modest houses, San Isidro de Heredia 2,498 sq. mtrs",
+      "price_text": "₡125,000,000",
+      "price_usd": 250000,
+      "location": "hace 1 h3br2498ft2San Isidro de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/property-with-two-modest-houses-san/7922781455.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T12:48:51.762Z",
+      "id": "653c440c99d7"
+    },
+    {
+      "title": "Property with two modest houses, San Isidro de Heredia 2,498 sq. mtrs",
+      "price_text": "₡125,000,000",
+      "price_usd": 250000,
+      "location": "hace 1 h3br2498ft2San Isidro de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/property-with-two-modest-houses-san/7922781455.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T12:48:57.307Z",
+      "id": "653c440c99d7"
+    },
+    {
+      "title": "Property with two modest houses, San Isidro de Heredia 2,498 sq. mtrs",
+      "price_text": "₡125,000,000",
+      "price_usd": 250000,
+      "location": "hace 1 h3br2498ft2San Isidro de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/property-with-two-modest-houses-san/7922781455.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T12:49:02.839Z",
+      "id": "653c440c99d7"
+    },
+    {
+      "title": "Property with two modest houses, San Isidro de Heredia 2,498 sq. mtrs",
+      "price_text": "₡125,000,000",
+      "price_usd": 250000,
+      "location": "hace 1 h3br2498ft2San Isidro de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/property-with-two-modest-houses-san/7922781455.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T12:49:08.370Z",
+      "id": "653c440c99d7"
+    },
+    {
+      "title": "Property with two modest houses, San Isidro de Heredia 2,498 sq. mtrs",
+      "price_text": "₡125,000,000",
+      "price_usd": 250000,
+      "location": "hace 1 h3br2498ft2San Isidro de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/property-with-two-modest-houses-san/7922781455.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T12:49:13.906Z",
+      "id": "653c440c99d7"
     }
   ],
-  "last_updated": "2026-03-25T06:59:21.561Z",
+  "last_updated": "2026-03-25T12:53:46.963Z",
   "total_count": 402
 }
