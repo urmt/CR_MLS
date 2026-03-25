@@ -25760,8 +25760,458 @@
       "category": "residential",
       "scraped_at": "2026-03-25T12:49:13.906Z",
       "id": "653c440c99d7"
+    },
+    {
+      "title": "🌴 Property for Sale in Playa Hermosa🌴",
+      "price_text": "₡320,000,000",
+      "price_usd": 640000,
+      "location": "hace 55 minOsa, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/property-for-sale-in-playa-hermosa/7917368331.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917368331/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:01.538Z",
+      "id": "7aa248c0c1ba"
+    },
+    {
+      "title": "Dream Home for Sale in Pérez Zeledón!",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 55 min5br435ft2Perez Zeledon",
+      "url": "https://costarica.craigslist.org/reb/d/dream-home-for-sale-in-prez-zeledn/7917644512.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917644512/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-25T18:45:01.592Z",
+      "id": "0f6bbddb42e8"
+    },
+    {
+      "title": "Great Busines opportunity",
+      "price_text": "₡515,000,000",
+      "price_usd": 1030000,
+      "location": "hace 55 min6715ft2Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/great-busines-opportunity/7917368225.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917368225/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:01.628Z",
+      "id": "e7bbce567d42"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 55 min2985ft2Aguirre, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale-in-matapalo-de-quepos/7917368161.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917368161/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-25T18:45:01.685Z",
+      "id": "1175c00f04e6"
+    },
+    {
+      "title": "V- Vini. Prime investment opportunity in Tamarindo!",
+      "price_text": "₡349,995,000",
+      "price_usd": 699990,
+      "location": "hace 3 h8br488ft2",
+      "url": "https://costarica.craigslist.org/reo/d/vini-prime-investment-opportunity-in/7914518818.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:01.898Z",
+      "id": "7e06310c3842"
+    },
+    {
+      "title": "T-Gordy. Spacious lot with water and electricity in Surfside, Potrero.",
+      "price_text": "₡174,500,000",
+      "price_usd": 349000,
+      "location": "hace 3 h2000ft2Surfside Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/gordy-spacious-lot-with-water-and/7914520186.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:02.000Z",
+      "id": "624737a139b6"
+    },
+    {
+      "title": "🌴 Property for Sale in Playa Hermosa🌴",
+      "price_text": "₡320,000,000",
+      "price_usd": 640000,
+      "location": "hace 55 minOsa, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/property-for-sale-in-playa-hermosa/7917368331.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917368331/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:06.733Z",
+      "id": "7aa248c0c1ba"
+    },
+    {
+      "title": "Dream Home for Sale in Pérez Zeledón!",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 55 min5br435ft2Perez Zeledon",
+      "url": "https://costarica.craigslist.org/reb/d/dream-home-for-sale-in-prez-zeledn/7917644512.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917644512/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-25T18:45:06.784Z",
+      "id": "0f6bbddb42e8"
+    },
+    {
+      "title": "Great Busines opportunity",
+      "price_text": "₡515,000,000",
+      "price_usd": 1030000,
+      "location": "hace 55 min6715ft2Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/great-busines-opportunity/7917368225.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917368225/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:06.819Z",
+      "id": "e7bbce567d42"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 55 min2985ft2Aguirre, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale-in-matapalo-de-quepos/7917368161.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917368161/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-25T18:45:06.875Z",
+      "id": "1175c00f04e6"
+    },
+    {
+      "title": "V- Vini. Prime investment opportunity in Tamarindo!",
+      "price_text": "₡349,995,000",
+      "price_usd": 699990,
+      "location": "hace 3 h8br488ft2",
+      "url": "https://costarica.craigslist.org/reo/d/vini-prime-investment-opportunity-in/7914518818.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:07.087Z",
+      "id": "7e06310c3842"
+    },
+    {
+      "title": "T-Gordy. Spacious lot with water and electricity in Surfside, Potrero.",
+      "price_text": "₡174,500,000",
+      "price_usd": 349000,
+      "location": "hace 3 h2000ft2Surfside Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/gordy-spacious-lot-with-water-and/7914520186.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:07.188Z",
+      "id": "624737a139b6"
+    },
+    {
+      "title": "🌴 Property for Sale in Playa Hermosa🌴",
+      "price_text": "₡320,000,000",
+      "price_usd": 640000,
+      "location": "hace 56 minOsa, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/property-for-sale-in-playa-hermosa/7917368331.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917368331/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:11.893Z",
+      "id": "d158905dbe58"
+    },
+    {
+      "title": "Dream Home for Sale in Pérez Zeledón!",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 56 min5br435ft2Perez Zeledon",
+      "url": "https://costarica.craigslist.org/reb/d/dream-home-for-sale-in-prez-zeledn/7917644512.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917644512/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-25T18:45:11.947Z",
+      "id": "c36ba66247bf"
+    },
+    {
+      "title": "Great Busines opportunity",
+      "price_text": "₡515,000,000",
+      "price_usd": 1030000,
+      "location": "hace 56 min6715ft2Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/great-busines-opportunity/7917368225.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917368225/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:11.982Z",
+      "id": "d7ab93fe5802"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 56 min2985ft2Aguirre, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale-in-matapalo-de-quepos/7917368161.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917368161/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-25T18:45:12.038Z",
+      "id": "f109f8654814"
+    },
+    {
+      "title": "V- Vini. Prime investment opportunity in Tamarindo!",
+      "price_text": "₡349,995,000",
+      "price_usd": 699990,
+      "location": "hace 3 h8br488ft2",
+      "url": "https://costarica.craigslist.org/reo/d/vini-prime-investment-opportunity-in/7914518818.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:12.249Z",
+      "id": "7e06310c3842"
+    },
+    {
+      "title": "T-Gordy. Spacious lot with water and electricity in Surfside, Potrero.",
+      "price_text": "₡174,500,000",
+      "price_usd": 349000,
+      "location": "hace 3 h2000ft2Surfside Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/gordy-spacious-lot-with-water-and/7914520186.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:12.350Z",
+      "id": "624737a139b6"
+    },
+    {
+      "title": "🌴 Property for Sale in Playa Hermosa🌴",
+      "price_text": "₡320,000,000",
+      "price_usd": 640000,
+      "location": "hace 56 minOsa, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/property-for-sale-in-playa-hermosa/7917368331.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917368331/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:17.206Z",
+      "id": "d158905dbe58"
+    },
+    {
+      "title": "Dream Home for Sale in Pérez Zeledón!",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 56 min5br435ft2Perez Zeledon",
+      "url": "https://costarica.craigslist.org/reb/d/dream-home-for-sale-in-prez-zeledn/7917644512.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917644512/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-25T18:45:17.258Z",
+      "id": "c36ba66247bf"
+    },
+    {
+      "title": "Great Busines opportunity",
+      "price_text": "₡515,000,000",
+      "price_usd": 1030000,
+      "location": "hace 56 min6715ft2Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/great-busines-opportunity/7917368225.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917368225/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:17.293Z",
+      "id": "d7ab93fe5802"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 56 min2985ft2Aguirre, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale-in-matapalo-de-quepos/7917368161.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917368161/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-25T18:45:17.361Z",
+      "id": "f109f8654814"
+    },
+    {
+      "title": "V- Vini. Prime investment opportunity in Tamarindo!",
+      "price_text": "₡349,995,000",
+      "price_usd": 699990,
+      "location": "hace 3 h8br488ft2",
+      "url": "https://costarica.craigslist.org/reo/d/vini-prime-investment-opportunity-in/7914518818.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:17.574Z",
+      "id": "7e06310c3842"
+    },
+    {
+      "title": "T-Gordy. Spacious lot with water and electricity in Surfside, Potrero.",
+      "price_text": "₡174,500,000",
+      "price_usd": 349000,
+      "location": "hace 3 h2000ft2Surfside Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/gordy-spacious-lot-with-water-and/7914520186.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:17.676Z",
+      "id": "624737a139b6"
+    },
+    {
+      "title": "🌴 Property for Sale in Playa Hermosa🌴",
+      "price_text": "₡320,000,000",
+      "price_usd": 640000,
+      "location": "hace 56 minOsa, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/property-for-sale-in-playa-hermosa/7917368331.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917368331/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:22.377Z",
+      "id": "d158905dbe58"
+    },
+    {
+      "title": "Dream Home for Sale in Pérez Zeledón!",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 56 min5br435ft2Perez Zeledon",
+      "url": "https://costarica.craigslist.org/reb/d/dream-home-for-sale-in-prez-zeledn/7917644512.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917644512/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-25T18:45:22.433Z",
+      "id": "c36ba66247bf"
+    },
+    {
+      "title": "Great Busines opportunity",
+      "price_text": "₡515,000,000",
+      "price_usd": 1030000,
+      "location": "hace 56 min6715ft2Guanacaste",
+      "url": "https://costarica.craigslist.org/reb/d/great-busines-opportunity/7917368225.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917368225/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:22.470Z",
+      "id": "d7ab93fe5802"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 56 min2985ft2Aguirre, Puntarenas",
+      "url": "https://costarica.craigslist.org/reb/d/land-for-sale-in-matapalo-de-quepos/7917368161.html",
+      "images": [
+        "https://www.craigslist.org/images/d/7917368161/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-25T18:45:22.528Z",
+      "id": "f109f8654814"
+    },
+    {
+      "title": "V- Vini. Prime investment opportunity in Tamarindo!",
+      "price_text": "₡349,995,000",
+      "price_usd": 699990,
+      "location": "hace 3 h8br488ft2",
+      "url": "https://costarica.craigslist.org/reo/d/vini-prime-investment-opportunity-in/7914518818.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:22.754Z",
+      "id": "7e06310c3842"
+    },
+    {
+      "title": "T-Gordy. Spacious lot with water and electricity in Surfside, Potrero.",
+      "price_text": "₡174,500,000",
+      "price_usd": 349000,
+      "location": "hace 3 h2000ft2Surfside Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/gordy-spacious-lot-with-water-and/7914520186.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-25T18:45:22.859Z",
+      "id": "624737a139b6"
     }
   ],
-  "last_updated": "2026-03-25T12:54:21.431Z",
+  "last_updated": "2026-03-25T18:49:46.193Z",
   "total_count": 402
 }
