@@ -26135,8 +26135,308 @@
       "category": "residential",
       "scraped_at": "2026-03-25T18:45:22.859Z",
       "id": "624737a139b6"
+    },
+    {
+      "title": "JUST LISTED! Entrepreneur's Dream Property!",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 2 hGrecia",
+      "url": "https://costarica.craigslist.org/reb/d/just-listed-entrepreneurs-dream-property/7923558240.html",
+      "images": [
+        "https://images.craigslist.org/d/7923558240/00000_ju70jInyFIC_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:25.289Z",
+      "id": "f1b5e915d91f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN NUNCIATURA. 31-132-96",
+      "price_text": "₡45,846,000",
+      "price_usd": 91692,
+      "location": "hace 2 h2br59ft2SAN JOSE, NUNCIATURA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-nunciatura/7923557225.html",
+      "images": [
+        "https://images.craigslist.org/d/7923557225/00n0n_hZjccA0wSyy_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:25.690Z",
+      "id": "fc6a72568f5e"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN NUNCIATURA. 31-132-96",
+      "price_text": "₡45,846,000",
+      "price_usd": 91692,
+      "location": "hace 2 h2br59ft2SAN JOSE, NUNCIATURA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-nunciatura/7923554242.html",
+      "images": [
+        "https://images.craigslist.org/d/7923554242/00m0m_2bVbmGqlvK4_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:25.760Z",
+      "id": "fc6a72568f5e"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN NUNCIATURA. 31-132-96",
+      "price_text": "₡45,846,000",
+      "price_usd": 91692,
+      "location": "hace 3 h2br59ft2SAN JOSE, NUNCIATURA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-nunciatura/7923552449.html",
+      "images": [
+        "https://images.craigslist.org/d/7923552449/00101_hR6tgV7vauj_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:25.892Z",
+      "id": "d7b27d644ae5"
+    },
+    {
+      "title": "JUST LISTED! Entrepreneur's Dream Property!",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 2 hGrecia",
+      "url": "https://costarica.craigslist.org/reb/d/just-listed-entrepreneurs-dream-property/7923558240.html",
+      "images": [
+        "https://images.craigslist.org/d/7923558240/00000_ju70jInyFIC_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:31.014Z",
+      "id": "f1b5e915d91f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN NUNCIATURA. 31-132-96",
+      "price_text": "₡45,846,000",
+      "price_usd": 91692,
+      "location": "hace 2 h2br59ft2SAN JOSE, NUNCIATURA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-nunciatura/7923557225.html",
+      "images": [
+        "https://images.craigslist.org/d/7923557225/00n0n_hZjccA0wSyy_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:31.408Z",
+      "id": "fc6a72568f5e"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN NUNCIATURA. 31-132-96",
+      "price_text": "₡45,846,000",
+      "price_usd": 91692,
+      "location": "hace 2 h2br59ft2SAN JOSE, NUNCIATURA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-nunciatura/7923554242.html",
+      "images": [
+        "https://images.craigslist.org/d/7923554242/00m0m_2bVbmGqlvK4_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:31.478Z",
+      "id": "fc6a72568f5e"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN NUNCIATURA. 31-132-96",
+      "price_text": "₡45,846,000",
+      "price_usd": 91692,
+      "location": "hace 3 h2br59ft2SAN JOSE, NUNCIATURA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-nunciatura/7923552449.html",
+      "images": [
+        "https://images.craigslist.org/d/7923552449/00101_hR6tgV7vauj_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:31.607Z",
+      "id": "d7b27d644ae5"
+    },
+    {
+      "title": "JUST LISTED! Entrepreneur's Dream Property!",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 2 hGrecia",
+      "url": "https://costarica.craigslist.org/reb/d/just-listed-entrepreneurs-dream-property/7923558240.html",
+      "images": [
+        "https://images.craigslist.org/d/7923558240/00000_ju70jInyFIC_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:36.681Z",
+      "id": "f1b5e915d91f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN NUNCIATURA. 31-132-96",
+      "price_text": "₡45,846,000",
+      "price_usd": 91692,
+      "location": "hace 2 h2br59ft2SAN JOSE, NUNCIATURA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-nunciatura/7923557225.html",
+      "images": [
+        "https://images.craigslist.org/d/7923557225/00n0n_hZjccA0wSyy_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:37.085Z",
+      "id": "fc6a72568f5e"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN NUNCIATURA. 31-132-96",
+      "price_text": "₡45,846,000",
+      "price_usd": 91692,
+      "location": "hace 2 h2br59ft2SAN JOSE, NUNCIATURA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-nunciatura/7923554242.html",
+      "images": [
+        "https://images.craigslist.org/d/7923554242/00m0m_2bVbmGqlvK4_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:37.156Z",
+      "id": "fc6a72568f5e"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN NUNCIATURA. 31-132-96",
+      "price_text": "₡45,846,000",
+      "price_usd": 91692,
+      "location": "hace 3 h2br59ft2SAN JOSE, NUNCIATURA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-nunciatura/7923552449.html",
+      "images": [
+        "https://images.craigslist.org/d/7923552449/00101_hR6tgV7vauj_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:37.288Z",
+      "id": "d7b27d644ae5"
+    },
+    {
+      "title": "JUST LISTED! Entrepreneur's Dream Property!",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 2 hGrecia",
+      "url": "https://costarica.craigslist.org/reb/d/just-listed-entrepreneurs-dream-property/7923558240.html",
+      "images": [
+        "https://images.craigslist.org/d/7923558240/00000_ju70jInyFIC_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:42.365Z",
+      "id": "f1b5e915d91f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN NUNCIATURA. 31-132-96",
+      "price_text": "₡45,846,000",
+      "price_usd": 91692,
+      "location": "hace 2 h2br59ft2SAN JOSE, NUNCIATURA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-nunciatura/7923557225.html",
+      "images": [
+        "https://images.craigslist.org/d/7923557225/00n0n_hZjccA0wSyy_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:42.773Z",
+      "id": "fc6a72568f5e"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN NUNCIATURA. 31-132-96",
+      "price_text": "₡45,846,000",
+      "price_usd": 91692,
+      "location": "hace 2 h2br59ft2SAN JOSE, NUNCIATURA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-nunciatura/7923554242.html",
+      "images": [
+        "https://images.craigslist.org/d/7923554242/00m0m_2bVbmGqlvK4_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:42.845Z",
+      "id": "fc6a72568f5e"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN NUNCIATURA. 31-132-96",
+      "price_text": "₡45,846,000",
+      "price_usd": 91692,
+      "location": "hace 3 h2br59ft2SAN JOSE, NUNCIATURA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-nunciatura/7923552449.html",
+      "images": [
+        "https://images.craigslist.org/d/7923552449/00101_hR6tgV7vauj_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:42.978Z",
+      "id": "d7b27d644ae5"
+    },
+    {
+      "title": "JUST LISTED! Entrepreneur's Dream Property!",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 2 hGrecia",
+      "url": "https://costarica.craigslist.org/reb/d/just-listed-entrepreneurs-dream-property/7923558240.html",
+      "images": [
+        "https://images.craigslist.org/d/7923558240/00000_ju70jInyFIC_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:48.057Z",
+      "id": "f1b5e915d91f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN NUNCIATURA. 31-132-96",
+      "price_text": "₡45,846,000",
+      "price_usd": 91692,
+      "location": "hace 2 h2br59ft2SAN JOSE, NUNCIATURA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-nunciatura/7923557225.html",
+      "images": [
+        "https://images.craigslist.org/d/7923557225/00n0n_hZjccA0wSyy_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:48.455Z",
+      "id": "fc6a72568f5e"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN NUNCIATURA. 31-132-96",
+      "price_text": "₡45,846,000",
+      "price_usd": 91692,
+      "location": "hace 2 h2br59ft2SAN JOSE, NUNCIATURA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-nunciatura/7923554242.html",
+      "images": [
+        "https://images.craigslist.org/d/7923554242/00m0m_2bVbmGqlvK4_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:48.526Z",
+      "id": "fc6a72568f5e"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN NUNCIATURA. 31-132-96",
+      "price_text": "₡45,846,000",
+      "price_usd": 91692,
+      "location": "hace 3 h2br59ft2SAN JOSE, NUNCIATURA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-nunciatura/7923552449.html",
+      "images": [
+        "https://images.craigslist.org/d/7923552449/00101_hR6tgV7vauj_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-26T01:28:48.657Z",
+      "id": "d7b27d644ae5"
     }
   ],
-  "last_updated": "2026-03-25T18:50:21.056Z",
+  "last_updated": "2026-03-26T01:33:31.312Z",
   "total_count": 402
 }
