@@ -26510,8 +26510,188 @@
       "category": "residential",
       "scraped_at": "2026-03-26T18:55:39.943Z",
       "id": "c2e8417e61fb"
+    },
+    {
+      "title": "11 bedroom 2 story Multi Use Real Estate property",
+      "price_text": "₡230,250,000",
+      "price_usd": 460500,
+      "location": "hace 56 minJaco Beach",
+      "url": "https://costarica.craigslist.org/reo/d/11-bedroom-story-multi-use-real-estate/7923785369.html",
+      "images": [
+        "https://images.craigslist.org/d/7923785369/00000_jIo31ys7wY3_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-27T01:28:06.626Z",
+      "id": "12a981c517b3"
+    },
+    {
+      "title": "Camper-Tiny house trailer project",
+      "price_text": "₡3,500,000",
+      "price_usd": 7000,
+      "location": "hace 5 hDota, trailer house",
+      "url": "https://costarica.craigslist.org/reb/d/camper-tiny-house-trailer-project/7923730413.html",
+      "images": [
+        "https://images.craigslist.org/d/7923730413/00c0c_kb2xXZwdRKc_0f70ft_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-27T01:28:06.928Z",
+      "id": "e964f3709564"
+    },
+    {
+      "title": "11 bedroom 2 story Multi Use Real Estate property",
+      "price_text": "₡230,250,000",
+      "price_usd": 460500,
+      "location": "hace 56 minJaco Beach",
+      "url": "https://costarica.craigslist.org/reo/d/11-bedroom-story-multi-use-real-estate/7923785369.html",
+      "images": [
+        "https://images.craigslist.org/d/7923785369/00000_jIo31ys7wY3_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-27T01:28:11.973Z",
+      "id": "12a981c517b3"
+    },
+    {
+      "title": "Camper-Tiny house trailer project",
+      "price_text": "₡3,500,000",
+      "price_usd": 7000,
+      "location": "hace 5 hDota, trailer house",
+      "url": "https://costarica.craigslist.org/reb/d/camper-tiny-house-trailer-project/7923730413.html",
+      "images": [
+        "https://images.craigslist.org/d/7923730413/00c0c_kb2xXZwdRKc_0f70ft_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-27T01:28:12.272Z",
+      "id": "e964f3709564"
+    },
+    {
+      "title": "11 bedroom 2 story Multi Use Real Estate property",
+      "price_text": "₡230,250,000",
+      "price_usd": 460500,
+      "location": "hace 56 minJaco Beach",
+      "url": "https://costarica.craigslist.org/reo/d/11-bedroom-story-multi-use-real-estate/7923785369.html",
+      "images": [
+        "https://images.craigslist.org/d/7923785369/00000_jIo31ys7wY3_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-27T01:28:17.305Z",
+      "id": "12a981c517b3"
+    },
+    {
+      "title": "Camper-Tiny house trailer project",
+      "price_text": "₡3,500,000",
+      "price_usd": 7000,
+      "location": "hace 5 hDota, trailer house",
+      "url": "https://costarica.craigslist.org/reb/d/camper-tiny-house-trailer-project/7923730413.html",
+      "images": [
+        "https://images.craigslist.org/d/7923730413/00c0c_kb2xXZwdRKc_0f70ft_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-27T01:28:17.611Z",
+      "id": "e964f3709564"
+    },
+    {
+      "title": "11 bedroom 2 story Multi Use Real Estate property",
+      "price_text": "₡230,250,000",
+      "price_usd": 460500,
+      "location": "hace 56 minJaco Beach",
+      "url": "https://costarica.craigslist.org/reo/d/11-bedroom-story-multi-use-real-estate/7923785369.html",
+      "images": [
+        "https://images.craigslist.org/d/7923785369/00000_jIo31ys7wY3_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-27T01:28:22.620Z",
+      "id": "12a981c517b3"
+    },
+    {
+      "title": "Camper-Tiny house trailer project",
+      "price_text": "₡3,500,000",
+      "price_usd": 7000,
+      "location": "hace 5 hDota, trailer house",
+      "url": "https://costarica.craigslist.org/reb/d/camper-tiny-house-trailer-project/7923730413.html",
+      "images": [
+        "https://images.craigslist.org/d/7923730413/00c0c_kb2xXZwdRKc_0f70ft_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-27T01:28:22.916Z",
+      "id": "e964f3709564"
+    },
+    {
+      "title": "11 bedroom 2 story Multi Use Real Estate property",
+      "price_text": "₡230,250,000",
+      "price_usd": 460500,
+      "location": "hace 56 minJaco Beach",
+      "url": "https://costarica.craigslist.org/reo/d/11-bedroom-story-multi-use-real-estate/7923785369.html",
+      "images": [
+        "https://images.craigslist.org/d/7923785369/00000_jIo31ys7wY3_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-27T01:28:27.935Z",
+      "id": "12a981c517b3"
+    },
+    {
+      "title": "Camper-Tiny house trailer project",
+      "price_text": "₡3,500,000",
+      "price_usd": 7000,
+      "location": "hace 5 hDota, trailer house",
+      "url": "https://costarica.craigslist.org/reb/d/camper-tiny-house-trailer-project/7923730413.html",
+      "images": [
+        "https://images.craigslist.org/d/7923730413/00c0c_kb2xXZwdRKc_0f70ft_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-27T01:28:28.234Z",
+      "id": "e964f3709564"
+    },
+    {
+      "title": "Eco-Friendly Community Tamarindo Park- Model G\n                Single Family Homes, Tamarindo, Guanacaste",
+      "price_text": "$3,750,000",
+      "price_usd": 3750000,
+      "location": "Single Family Homes, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-tamarindo/2817",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-27T01:29:07.450Z",
+      "id": "8037ad3c7065"
+    },
+    {
+      "title": "Casa Skygarden - Ocean-View Luxury at Senderos\n                Single Family Homes, Tamarindo, Guanacaste",
+      "price_text": "$6,450,000",
+      "price_usd": 6450000,
+      "location": "Single Family Homes, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-tamarindo/13043",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-27T01:31:08.921Z",
+      "id": "be6d110cb4c5"
     }
   ],
-  "last_updated": "2026-03-26T19:01:03.250Z",
+  "last_updated": "2026-03-27T01:33:00.024Z",
   "total_count": 402
 }
