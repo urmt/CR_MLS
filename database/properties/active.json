@@ -26390,8 +26390,62 @@
       "category": "luxury",
       "scraped_at": "2026-03-27T01:31:08.921Z",
       "id": "be6d110cb4c5"
+    },
+    {
+      "title": "Casa Vista Grande ~ Modern Open Lay-Out Home Minutes to Playa...          Casa Jade ~ Spacious 3-Bedroom Home with Pool in Villareal          SELLER MOTIVATED! The Point 19 ~ Elegant 3-Bedroom Home with...",
+      "price_text": "Price:     US$ 460 000.00      Price:     US$ 479 000.00      Price:     US$ 490 000.00",
+      "price_usd": 460000.00479,
+      "location": "Location:     Playa Grande      Location:     Tamarindo Areas      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-vista-grande",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/18-casa-vista-grande-new-pics.jpg?itok=3bCyKtrA",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/33-villarreal-3-bedroom-exterior-3.jpg?itok=3lokSyp8",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/13-the-point-19.jpg?itok=V4yDv0F0"
+      ],
+      "description": "Welcome to Casa Vista Grande, a serene oasis nestled in Playa Grande, Costa Rica! This stylish 2-bedroom, 2-...          Casa Jade is a rare find—a large, well-appointed 3-bedroom, 2-bathroom home just minutes from Tamarindo and...          Welcome to The Point #19, a well-appointed and centrally located residence in the sought-after gated...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-03-27T18:48:01.456Z",
+      "id": "583ae845c70a"
+    },
+    {
+      "title": "Bocaraca 4 ~ Spacious 3-Bedroom Condo Steps from Tamarindo Beach          Numandi ~ Luxury Living Rooted in Sustainability          Air Homes ~ Tamarindo's Newest Luxury Condominiums...",
+      "price_text": "Price:     US$ 659 000.00      Price:     US$ 669 000.00      Price:     US$ 675 000.00",
+      "price_usd": 659000.00669,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Avellanas      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/bocaraca-4",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/26-bocaraca-3-bedroom-unit.png?itok=wQaLM5Uj",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5-numandi-new-renders-december-2025.jpg?itok=3WAoz0Ha",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/6-air-homes-cwp-2024.jpg?itok=hRXc3Wi7"
+      ],
+      "description": "This 3-bedroom, 3.5-bathroom condo is located on the first floor of the Bocaraca condominium, just a 220m (...          Starting from USD 670,000 | Financing Available\nNumandi Residences offers a rare opportunity to own a turnkey...          Welcome to Air Homes – an exclusive collection of 26 luxury condos in Playa Tamarindo, Costa Rica. Situated...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-27T18:48:05.053Z",
+      "id": "3a056f3981bf"
+    },
+    {
+      "title": "Laurel Residential ~ Where Nature Meets Luxury          Casa Pico de Piedra ~ Oceanview Hilltop Villa Near Tamarindo          Villa Ma Waho ~ Newly Built Home in Tamarindo",
+      "price_text": "Price:     US$ 677 500.00      Price:     US$ 680 000.00      Price:     US$ 690 000.00",
+      "price_usd": 677500.0068,
+      "location": "Location:     Reserva Conchal      Location:     Tamarindo Areas      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/laurel-residential-reserva-conchal",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-laurel-new-development-reserva-conchal.jpg?itok=dlPIRjxc",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/11-casa-pico-de-piedra-2025.jpg?itok=fTMTiSGE",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3a-Villa-Seventeen.jpeg?itok=1jbn48So"
+      ],
+      "description": "Discover the perfect blend of serenity and sophistication at Laurel Residential, an exclusive, nature-focused...          Welcome to Casa Pico de Piedra, a charming countryside villa tucked away in the peaceful hills of Río Santo,...          Casa Tibo is the newest luxury beach villa in Norma Tamarindo, a new suburb in town. This quality constructed...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-27T18:48:05.469Z",
+      "id": "56b3ade34f39"
     }
   ],
-  "last_updated": "2026-03-27T12:49:25.811Z",
+  "last_updated": "2026-03-27T18:49:44.797Z",
   "total_count": 402
 }
