@@ -26444,8 +26444,1139 @@
       "category": "land",
       "scraped_at": "2026-03-27T18:48:05.469Z",
       "id": "56b3ade34f39"
+    },
+    {
+      "title": "2 cabins on 2 acres in Quebradas",
+      "price_text": "₡100,000,000",
+      "price_usd": 200000,
+      "location": "hace 50 min1brSan Isidro de El general",
+      "url": "https://costarica.craigslist.org/reo/d/cabins-on-acres-in-quebradas/7924009838.html",
+      "images": [
+        "https://images.craigslist.org/d/7924009838/00m0m_dquV2MdV2Jb_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:19.817Z",
+      "id": "d0dc510ebc36"
+    },
+    {
+      "title": "CASA CON PISCINA, PARA VENTA, EN CURRIDABAT. 33-295",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 3 h5br330ft2SAN JOSE, CURRIDABAT",
+      "url": "https://costarica.craigslist.org/reo/d/casa-con-piscina-para-venta-en/7923978858.html",
+      "images": [
+        "https://images.craigslist.org/d/7923978858/00X0X_9P43nYVD4rp_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:20.193Z",
+      "id": "066367e1e97c"
+    },
+    {
+      "title": "CASA CON APARTAMENTO PARA VENTA, EN GUADALUPE. 33-038",
+      "price_text": "₡171,000,000",
+      "price_usd": 342000,
+      "location": "hace 3 h7br350ft2SAN JOSE, GOICOECHEA, GUADALUPE",
+      "url": "https://costarica.craigslist.org/reo/d/casa-con-apartamento-para-venta-en/7923979836.html",
+      "images": [
+        "https://images.craigslist.org/d/7923979836/00d0d_2femlNr3KEH_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:20.331Z",
+      "id": "44aa95615d15"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN TIBAS. 33-296",
+      "price_text": "₡127,037,000",
+      "price_usd": 254074,
+      "location": "hace 4 h238ft2SAN JOSE, TIBAS",
+      "url": "https://costarica.craigslist.org/reo/d/propiedad-en-venta-en-tibas/7923975860.html",
+      "images": [
+        "https://images.craigslist.org/d/7923975860/00A0A_4RQkdfxlFuD_0kE0gv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:20.485Z",
+      "id": "28177ac2b3dd"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP65M-100M",
+      "price_text": "₡70,000,000",
+      "price_usd": 140000,
+      "location": "hace 4 h2br64ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap65m/7923974516.html",
+      "images": [
+        "https://images.craigslist.org/d/7923974516/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:20.565Z",
+      "id": "e97d5fd39e8b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP46M",
+      "price_text": "₡51,000,000",
+      "price_usd": 102000,
+      "location": "hace 4 h1br46ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap46m/7923961865.html",
+      "images": [
+        "https://images.craigslist.org/d/7923961865/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:20.640Z",
+      "id": "f6950dc47797"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP57M",
+      "price_text": "₡62,000,000",
+      "price_usd": 124000,
+      "location": "hace 5 h1br57ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap57m/7923959152.html",
+      "images": [
+        "https://images.craigslist.org/d/7923959152/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:20.715Z",
+      "id": "4bd52743940f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP68M",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 5 h2br68ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap68m/7923956861.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:20.791Z",
+      "id": "d67b6d77f944"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN CURRIDABAT. 31-240",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 5 h2br96ft2SAN JOSE, CURRIDABAT",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-curridabat/7923953568.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:20.928Z",
+      "id": "afb3a1a138a3"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-08",
+      "price_text": "₡56,000,000",
+      "price_usd": 112000,
+      "location": "hace 5 h2br70ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7923951918.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:20.999Z",
+      "id": "8cf6b2f2450b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-01",
+      "price_text": "₡67,000,000",
+      "price_usd": 134000,
+      "location": "hace 5 h2br90ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7923950546.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:21.065Z",
+      "id": "64edc57eb4de"
+    },
+    {
+      "title": "2 cabins on 2 acres in Quebradas",
+      "price_text": "₡100,000,000",
+      "price_usd": 200000,
+      "location": "hace 50 min1brSan Isidro de El general",
+      "url": "https://costarica.craigslist.org/reo/d/cabins-on-acres-in-quebradas/7924009838.html",
+      "images": [
+        "https://images.craigslist.org/d/7924009838/00m0m_dquV2MdV2Jb_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:26.016Z",
+      "id": "d0dc510ebc36"
+    },
+    {
+      "title": "CASA CON PISCINA, PARA VENTA, EN CURRIDABAT. 33-295",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 3 h5br330ft2SAN JOSE, CURRIDABAT",
+      "url": "https://costarica.craigslist.org/reo/d/casa-con-piscina-para-venta-en/7923978858.html",
+      "images": [
+        "https://images.craigslist.org/d/7923978858/00X0X_9P43nYVD4rp_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:26.365Z",
+      "id": "066367e1e97c"
+    },
+    {
+      "title": "CASA CON APARTAMENTO PARA VENTA, EN GUADALUPE. 33-038",
+      "price_text": "₡171,000,000",
+      "price_usd": 342000,
+      "location": "hace 3 h7br350ft2SAN JOSE, GOICOECHEA, GUADALUPE",
+      "url": "https://costarica.craigslist.org/reo/d/casa-con-apartamento-para-venta-en/7923979836.html",
+      "images": [
+        "https://images.craigslist.org/d/7923979836/00d0d_2femlNr3KEH_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:26.507Z",
+      "id": "44aa95615d15"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN TIBAS. 33-296",
+      "price_text": "₡127,037,000",
+      "price_usd": 254074,
+      "location": "hace 4 h238ft2SAN JOSE, TIBAS",
+      "url": "https://costarica.craigslist.org/reo/d/propiedad-en-venta-en-tibas/7923975860.html",
+      "images": [
+        "https://images.craigslist.org/d/7923975860/00A0A_4RQkdfxlFuD_0kE0gv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:26.663Z",
+      "id": "28177ac2b3dd"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP65M-100M",
+      "price_text": "₡70,000,000",
+      "price_usd": 140000,
+      "location": "hace 4 h2br64ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap65m/7923974516.html",
+      "images": [
+        "https://images.craigslist.org/d/7923974516/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:26.747Z",
+      "id": "e97d5fd39e8b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP46M",
+      "price_text": "₡51,000,000",
+      "price_usd": 102000,
+      "location": "hace 4 h1br46ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap46m/7923961865.html",
+      "images": [
+        "https://images.craigslist.org/d/7923961865/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:26.823Z",
+      "id": "f6950dc47797"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP57M",
+      "price_text": "₡62,000,000",
+      "price_usd": 124000,
+      "location": "hace 5 h1br57ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap57m/7923959152.html",
+      "images": [
+        "https://images.craigslist.org/d/7923959152/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:26.895Z",
+      "id": "4bd52743940f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP68M",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 5 h2br68ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap68m/7923956861.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:26.971Z",
+      "id": "d67b6d77f944"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN CURRIDABAT. 31-240",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 5 h2br96ft2SAN JOSE, CURRIDABAT",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-curridabat/7923953568.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:27.103Z",
+      "id": "afb3a1a138a3"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-08",
+      "price_text": "₡56,000,000",
+      "price_usd": 112000,
+      "location": "hace 5 h2br70ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7923951918.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:27.170Z",
+      "id": "8cf6b2f2450b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-01",
+      "price_text": "₡67,000,000",
+      "price_usd": 134000,
+      "location": "hace 5 h2br90ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7923950546.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:27.237Z",
+      "id": "64edc57eb4de"
+    },
+    {
+      "title": "2 cabins on 2 acres in Quebradas",
+      "price_text": "₡100,000,000",
+      "price_usd": 200000,
+      "location": "hace 50 min1brSan Isidro de El general",
+      "url": "https://costarica.craigslist.org/reo/d/cabins-on-acres-in-quebradas/7924009838.html",
+      "images": [
+        "https://images.craigslist.org/d/7924009838/00m0m_dquV2MdV2Jb_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:32.145Z",
+      "id": "d0dc510ebc36"
+    },
+    {
+      "title": "CASA CON PISCINA, PARA VENTA, EN CURRIDABAT. 33-295",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 3 h5br330ft2SAN JOSE, CURRIDABAT",
+      "url": "https://costarica.craigslist.org/reo/d/casa-con-piscina-para-venta-en/7923978858.html",
+      "images": [
+        "https://images.craigslist.org/d/7923978858/00X0X_9P43nYVD4rp_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:32.495Z",
+      "id": "066367e1e97c"
+    },
+    {
+      "title": "CASA CON APARTAMENTO PARA VENTA, EN GUADALUPE. 33-038",
+      "price_text": "₡171,000,000",
+      "price_usd": 342000,
+      "location": "hace 3 h7br350ft2SAN JOSE, GOICOECHEA, GUADALUPE",
+      "url": "https://costarica.craigslist.org/reo/d/casa-con-apartamento-para-venta-en/7923979836.html",
+      "images": [
+        "https://images.craigslist.org/d/7923979836/00d0d_2femlNr3KEH_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:32.632Z",
+      "id": "44aa95615d15"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN TIBAS. 33-296",
+      "price_text": "₡127,037,000",
+      "price_usd": 254074,
+      "location": "hace 4 h238ft2SAN JOSE, TIBAS",
+      "url": "https://costarica.craigslist.org/reo/d/propiedad-en-venta-en-tibas/7923975860.html",
+      "images": [
+        "https://images.craigslist.org/d/7923975860/00A0A_4RQkdfxlFuD_0kE0gv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:32.786Z",
+      "id": "28177ac2b3dd"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP65M-100M",
+      "price_text": "₡70,000,000",
+      "price_usd": 140000,
+      "location": "hace 4 h2br64ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap65m/7923974516.html",
+      "images": [
+        "https://images.craigslist.org/d/7923974516/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:32.866Z",
+      "id": "e97d5fd39e8b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP46M",
+      "price_text": "₡51,000,000",
+      "price_usd": 102000,
+      "location": "hace 4 h1br46ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap46m/7923961865.html",
+      "images": [
+        "https://images.craigslist.org/d/7923961865/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:32.942Z",
+      "id": "f6950dc47797"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP57M",
+      "price_text": "₡62,000,000",
+      "price_usd": 124000,
+      "location": "hace 5 h1br57ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap57m/7923959152.html",
+      "images": [
+        "https://images.craigslist.org/d/7923959152/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:33.017Z",
+      "id": "4bd52743940f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP68M",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 5 h2br68ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap68m/7923956861.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:33.091Z",
+      "id": "d67b6d77f944"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN CURRIDABAT. 31-240",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 5 h2br96ft2SAN JOSE, CURRIDABAT",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-curridabat/7923953568.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:33.224Z",
+      "id": "afb3a1a138a3"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-08",
+      "price_text": "₡56,000,000",
+      "price_usd": 112000,
+      "location": "hace 5 h2br70ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7923951918.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:33.291Z",
+      "id": "8cf6b2f2450b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-01",
+      "price_text": "₡67,000,000",
+      "price_usd": 134000,
+      "location": "hace 5 h2br90ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7923950546.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:33.357Z",
+      "id": "64edc57eb4de"
+    },
+    {
+      "title": "2 cabins on 2 acres in Quebradas",
+      "price_text": "₡100,000,000",
+      "price_usd": 200000,
+      "location": "hace 50 min1brSan Isidro de El general",
+      "url": "https://costarica.craigslist.org/reo/d/cabins-on-acres-in-quebradas/7924009838.html",
+      "images": [
+        "https://images.craigslist.org/d/7924009838/00m0m_dquV2MdV2Jb_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:38.214Z",
+      "id": "d0dc510ebc36"
+    },
+    {
+      "title": "CASA CON PISCINA, PARA VENTA, EN CURRIDABAT. 33-295",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 3 h5br330ft2SAN JOSE, CURRIDABAT",
+      "url": "https://costarica.craigslist.org/reo/d/casa-con-piscina-para-venta-en/7923978858.html",
+      "images": [
+        "https://images.craigslist.org/d/7923978858/00X0X_9P43nYVD4rp_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:38.570Z",
+      "id": "066367e1e97c"
+    },
+    {
+      "title": "CASA CON APARTAMENTO PARA VENTA, EN GUADALUPE. 33-038",
+      "price_text": "₡171,000,000",
+      "price_usd": 342000,
+      "location": "hace 3 h7br350ft2SAN JOSE, GOICOECHEA, GUADALUPE",
+      "url": "https://costarica.craigslist.org/reo/d/casa-con-apartamento-para-venta-en/7923979836.html",
+      "images": [
+        "https://images.craigslist.org/d/7923979836/00d0d_2femlNr3KEH_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:38.712Z",
+      "id": "44aa95615d15"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN TIBAS. 33-296",
+      "price_text": "₡127,037,000",
+      "price_usd": 254074,
+      "location": "hace 4 h238ft2SAN JOSE, TIBAS",
+      "url": "https://costarica.craigslist.org/reo/d/propiedad-en-venta-en-tibas/7923975860.html",
+      "images": [
+        "https://images.craigslist.org/d/7923975860/00A0A_4RQkdfxlFuD_0kE0gv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:38.865Z",
+      "id": "28177ac2b3dd"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP65M-100M",
+      "price_text": "₡70,000,000",
+      "price_usd": 140000,
+      "location": "hace 4 h2br64ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap65m/7923974516.html",
+      "images": [
+        "https://images.craigslist.org/d/7923974516/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:38.951Z",
+      "id": "e97d5fd39e8b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP46M",
+      "price_text": "₡51,000,000",
+      "price_usd": 102000,
+      "location": "hace 4 h1br46ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap46m/7923961865.html",
+      "images": [
+        "https://images.craigslist.org/d/7923961865/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:39.028Z",
+      "id": "f6950dc47797"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP57M",
+      "price_text": "₡62,000,000",
+      "price_usd": 124000,
+      "location": "hace 5 h1br57ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap57m/7923959152.html",
+      "images": [
+        "https://images.craigslist.org/d/7923959152/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:39.105Z",
+      "id": "4bd52743940f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP68M",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 5 h2br68ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap68m/7923956861.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:39.178Z",
+      "id": "d67b6d77f944"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN CURRIDABAT. 31-240",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 5 h2br96ft2SAN JOSE, CURRIDABAT",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-curridabat/7923953568.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:39.315Z",
+      "id": "afb3a1a138a3"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-08",
+      "price_text": "₡56,000,000",
+      "price_usd": 112000,
+      "location": "hace 5 h2br70ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7923951918.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:39.381Z",
+      "id": "8cf6b2f2450b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-01",
+      "price_text": "₡67,000,000",
+      "price_usd": 134000,
+      "location": "hace 5 h2br90ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7923950546.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:39.461Z",
+      "id": "64edc57eb4de"
+    },
+    {
+      "title": "2 cabins on 2 acres in Quebradas",
+      "price_text": "₡100,000,000",
+      "price_usd": 200000,
+      "location": "hace 50 min1brSan Isidro de El general",
+      "url": "https://costarica.craigslist.org/reo/d/cabins-on-acres-in-quebradas/7924009838.html",
+      "images": [
+        "https://images.craigslist.org/d/7924009838/00m0m_dquV2MdV2Jb_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:44.367Z",
+      "id": "d0dc510ebc36"
+    },
+    {
+      "title": "CASA CON PISCINA, PARA VENTA, EN CURRIDABAT. 33-295",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 3 h5br330ft2SAN JOSE, CURRIDABAT",
+      "url": "https://costarica.craigslist.org/reo/d/casa-con-piscina-para-venta-en/7923978858.html",
+      "images": [
+        "https://images.craigslist.org/d/7923978858/00X0X_9P43nYVD4rp_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:44.760Z",
+      "id": "066367e1e97c"
+    },
+    {
+      "title": "CASA CON APARTAMENTO PARA VENTA, EN GUADALUPE. 33-038",
+      "price_text": "₡171,000,000",
+      "price_usd": 342000,
+      "location": "hace 3 h7br350ft2SAN JOSE, GOICOECHEA, GUADALUPE",
+      "url": "https://costarica.craigslist.org/reo/d/casa-con-apartamento-para-venta-en/7923979836.html",
+      "images": [
+        "https://images.craigslist.org/d/7923979836/00d0d_2femlNr3KEH_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:44.911Z",
+      "id": "44aa95615d15"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN TIBAS. 33-296",
+      "price_text": "₡127,037,000",
+      "price_usd": 254074,
+      "location": "hace 4 h238ft2SAN JOSE, TIBAS",
+      "url": "https://costarica.craigslist.org/reo/d/propiedad-en-venta-en-tibas/7923975860.html",
+      "images": [
+        "https://images.craigslist.org/d/7923975860/00A0A_4RQkdfxlFuD_0kE0gv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:45.071Z",
+      "id": "28177ac2b3dd"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP65M-100M",
+      "price_text": "₡70,000,000",
+      "price_usd": 140000,
+      "location": "hace 4 h2br64ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap65m/7923974516.html",
+      "images": [
+        "https://images.craigslist.org/d/7923974516/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:45.155Z",
+      "id": "e97d5fd39e8b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP46M",
+      "price_text": "₡51,000,000",
+      "price_usd": 102000,
+      "location": "hace 4 h1br46ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap46m/7923961865.html",
+      "images": [
+        "https://images.craigslist.org/d/7923961865/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:45.233Z",
+      "id": "f6950dc47797"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP57M",
+      "price_text": "₡62,000,000",
+      "price_usd": 124000,
+      "location": "hace 5 h1br57ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap57m/7923959152.html",
+      "images": [
+        "https://images.craigslist.org/d/7923959152/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:45.311Z",
+      "id": "4bd52743940f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN HEREDIA. 31-285-78-AP68M",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 5 h2br68ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-heredia-ap68m/7923956861.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:45.389Z",
+      "id": "d67b6d77f944"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN CURRIDABAT. 31-240",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 5 h2br96ft2SAN JOSE, CURRIDABAT",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-curridabat/7923953568.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:45.527Z",
+      "id": "afb3a1a138a3"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-08",
+      "price_text": "₡56,000,000",
+      "price_usd": 112000,
+      "location": "hace 5 h2br70ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7923951918.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:45.597Z",
+      "id": "8cf6b2f2450b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-01",
+      "price_text": "₡67,000,000",
+      "price_usd": 134000,
+      "location": "hace 5 h2br90ft2SAN JOSE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-san-jose/7923950546.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:22:45.665Z",
+      "id": "64edc57eb4de"
+    },
+    {
+      "title": "Test.          Flamingo Condominiums ~ Become Familiar with the Area          Potrero Condominiums ~ Become Familiar with the Area",
+      "price_text": "Price:           Price:           Price:",
+      "price_usd": null,
+      "location": "Location:           Location:     Playa Flamingo      Location:     Playa Potrero",
+      "url": "https://www.remax-oceansurf-cr.com/property/test",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-1690m2-coralis-lot.png?itok=hSWGIqqj",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Flamingo%20Cove_0.jpg?itok=zd0IErOr",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Stef%20Surf%202_0.jpg?itok=MEbElNH1"
+      ],
+      "description": "Test.          This page is intended to give you an idea of which condo complexes are available in our little piece of...          This page is intended to give you an idea of which condo complexes are available in our little piece of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:25:24.477Z",
+      "id": "4b1e33788f5a"
+    },
+    {
+      "title": "Langosta Condominiums ~ Become Familiar with the Area          Tamarindo Condominiums ~ Become Familiar with the Area          27 de Abril Land ~ Prime Land Opportunity with Main Road Frontage",
+      "price_text": "Price:           Price:           Price:     US$ 32 000.00",
+      "price_usd": 32000,
+      "location": "Location:     Playa Langosta      Location:     Playa Tamarindo      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/langosta-condominiums",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1%20-%20crystal-sands-503_0_0.jpg?itok=-wmHrfWC",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Sunrise-condos.jpg?itok=ZuIn8z6q",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-27-abril-lots.JPG?itok=NCTRFUjD"
+      ],
+      "description": "This page is intended to give you an idea of which condo complexes are available in our little piece of...          This page is intended to give you an idea of which condo complexes are available in our little piece of...          Discover the perfect canvas for your dreams in the heart of the community of 27 de Abril. This enticing plot...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:25:24.876Z",
+      "id": "0f306dc78ca7"
+    },
+    {
+      "title": "Linderos Lot Bundle ~ Buy Individually or as a Package          Playa Negra Jungle Sanctuary          A Slice of Paradise in Bosque Pinilla ~ 1,000m2 Lot with Water...",
+      "price_text": "Price:     US$ 33 000.00      Price:     US$ 45 000.00      Price:     US$ 75 000.00",
+      "price_usd": 33000.0045,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Negra      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/linderos-lot-bundle",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Lotes_Linderos_1.JPG?itok=2twCLhmY",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-jungle-sanctuary-playa-negra.png?itok=3Tj3Tl8t",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-derrick-bosques-de-pinilla.jpeg?itok=cr1pgZzk"
+      ],
+      "description": "Exceptional Land Opportunity in Linderos – 3 Lots Available\nTake advantage of this unique opportunity to...          Nestled atop the picturesque hills overlooking Playa Negra, Jungle Sanctuary presents an unparalleled retreat...          \n\tWelcome to your slice of paradise in Bosque Pinilla, San Jose De Pinilla, Guanacaste, Costa Rica! This...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-28T01:25:25.236Z",
+      "id": "270aa86e46ac"
+    },
+    {
+      "title": "Lote Boutino ~ Residential/Commercial 3,000m2 Lot          Rancho Las Colinas ~ Charming Rural Lot Minutes from the Coast          The Enclave at Los Cielos",
+      "price_text": "Price:     US$ 79 000.00      Price:     US$ 85 000.00      Price:     US$ 85 000.00",
+      "price_usd": 79000.0085,
+      "location": "Location:     Tamarindo Areas      Location:     Tamarindo Areas      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/lote-boutino-matapalo-playa-grande",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Lote-Boutino.JPG?itok=MTkqjsP5",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Rancho-Las-Colinas-65.jpg?itok=J74bz3sb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/6-the-enclave-at-los-cielos.png?itok=cIxZifLc"
+      ],
+      "description": "This residential/commercial lot of 3,000m2 (3/4 acres) is located in Matapalo, just 5 minutes from the...          This attractive lot in the Rancho Las Colinas community offers a great opportunity to build in a peaceful and...          Tucked into the rolling hills just 15 minutes from Playa Avellanas, The Enclave at Los Cielos offers a rare...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-28T01:25:25.559Z",
+      "id": "9e4ab3d914c3"
+    },
+    {
+      "title": "Paseo del Mar Unit ~ Booming Commercial Hub Close to Everything          Victoria Real Lot 7 - Large Lot Only 10 Minutes from Tamarindo          Pacific Estates Lot 16",
+      "price_text": "Price:     US$ 89 000.00      Price:     US$ 97 000.00      Price:     US$ 97 500.00",
+      "price_usd": 89000.0097,
+      "location": "Location:     Tamarindo Areas      Location:     Tamarindo Areas      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/paseo-del-mar-unit-huacas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-paseo-del-mar-unit_0.png?itok=IrJje0uY",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/12%20-%20spears-lot-villareal.JPG?itok=UezVgJ0F",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Pacific-Estates_0.jpeg?itok=keNzyoQm"
+      ],
+      "description": "Huacas serves as the central hub for all the coastal towns along Guanacaste's Gold Coast, and the Paseo del...          This is a great lot, ready to build with electricity ready to be connected. Located in Victoria Real, a new...          Welcome to your slice of heaven in Villarreal, Tamarindo! This tranquil gated neighborhood gives you a unique...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-28T01:25:25.892Z",
+      "id": "b066d407eeff"
+    },
+    {
+      "title": "Montana del Mar ~ A Gated Community Immersed in Nature and Near...          Introducing Baulas Sunset Community ~ A Lifestyle Rooted in...          NEW RESALE! Corner Lot with Mountain and Valley Views - Montana...",
+      "price_text": "Price:     US$ 99 000.00      Price:     US$ 145 000.00      Price:     US$ 149 000.00",
+      "price_usd": 99000.00145,
+      "location": "Location:     Tamarindo Areas      Location:     Tamarindo Areas      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/montana-del-mar-gated-community",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/MDM%20entrance.png?itok=cESZA5KF",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5-cielo-condominium.png?itok=FvdWkYg1",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Montana-del-Mar.jpg?itok=-dNr6zc7"
+      ],
+      "description": "Many people dream of living in Guanacaste, close to the beach, surrounded by nature, with space and privacy...          Welcome to Baulas Sunset Community – a visionary new development in the heart of Huacas, Guanacaste.\nCrafted...          This prime resale lot in Montana del Mar is positioned on a desirable corner location, the property benefits...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-28T01:25:26.296Z",
+      "id": "33fc97f2f2cd"
+    },
+    {
+      "title": "Oaks 39 ~ Best Deal at The Oaks, Lowest Priced Condo Available          Villa Verde II-45 ~ Living in a Prime Location          Guanavista at Ostional ~ Oceanview & Jungle Lots in...",
+      "price_text": "Price:     US$ 257 000.00      Price:     US$ 259 000.00      Price:     US$ 262 500.00",
+      "price_usd": 257000.00259,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Tamarindo      Location:     Playa Ostional",
+      "url": "https://www.remax-oceansurf-cr.com/property/the-oaks-39",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/19-Oaks_Tamarindo_Costa_Rica_94_For%20_Rent_For_Sale.jpg?itok=e_wmqU4N",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Villa-Verde-II-45-Playa-Tamarindo.jpg?itok=LdGZJyfD",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-guanavista-ostional.png?itok=Y1_w8JRD"
+      ],
+      "description": "Welcome to The Oaks Condominiums, where comfort and convenience come together in an ideal location just 10...          This well-established condominium complex is known for its unbeatable location while remaining one of the...          Explore Real Estate Opportunities in Ostional, Costa Rica\nDreaming of owning property in Ostional? Welcome to...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:25:28.561Z",
+      "id": "71c83b94d0ac"
+    },
+    {
+      "title": "Two Ocean View Homes in Corona del Cabo          Las Golondrinas Lot 10 ~ Stunning Forested Lot in Prestigious...          Prime Tamarindo Investment Property with Rental Income Potential",
+      "price_text": "Price:     US$ 695 000.00      Price:     US$ 695 000.00      Price:     US$ 699 000.00",
+      "price_usd": 695000.00695,
+      "location": "Location:     Playa Grande      Location:     Hacienda-Pinilla      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/two-ocean-view-homes-corona-del-cabo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/46-corona-del-cabo-4-2025.jpg?itok=PArMzxfJ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-las-golondrinas-10.png?itok=ISFbKDnH",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/23-prime-commercial-property-in-tamarindo.png?itok=jXSifLGj"
+      ],
+      "description": "Nestled within a gated community with smooth, paved roads, these two stunning houses offer an inviting...          Beautiful building lot located in the resort and golf community of Hacienda Pinilla. The property is in the...          Situated along a prominent road in the lively Tamarindo region, this adaptable property boasts high...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:25:43.961Z",
+      "id": "aa40e7296aa2"
+    },
+    {
+      "title": "Casa Mariposa ~ Luxurious Tropical Living in this Ocean View...          Palm House ~ Private Hillside Retreat Near Tamarindo          Avemoana ~ 29 Unit Development in the Heart of Booming Playa...",
+      "price_text": "Price:     US$ 699 000.00      Price:     US$ 699 900.00      Price:     US$ 705 000.00",
+      "price_usd": 699000.006999,
+      "location": "Location:     Playa Negra      Location:     Tamarindo Areas      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-mariposa-playa-negra",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-mariposa-playa-negra.jpg?itok=RX1vYuPP",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/17-palm-house.jpg?itok=HHyw0gcT",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/ENTRADA%20CONDOMINIO.jpg?itok=ezkEHU98"
+      ],
+      "description": "Finca Pura Jungla is a development with a story deeply rooted in environmental stewardship. Thirty years ago...          Tucked into the hills just outside Tamarindo, Palm House is a private tropical retreat set within a secluded...          Avemoana is a pristine gated community development project offering 29 unique homes strategically located...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:25:44.308Z",
+      "id": "edb6cfd9e255"
+    },
+    {
+      "title": "Cabinas Lilou ~ Versatile 7-Suite Property with Owner’s Residence          El Tesoro 3.3 ~ Panoramic Ocean & Estuary View Homesite in...          Villa Resplandor ~ Two Beautiful Homes Sold Together in Langosta...",
+      "price_text": "Price:     US$ 880 000.00      Price:     US$ 899 000.00      Price:     US$ 899 000.00",
+      "price_usd": 880000.00899,
+      "location": "Location:     Playa Junquillal      Location:     Playa Tamarindo      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/cabinas-lilou-playa-junquillal",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/0-Cabinas-Loulou.jpg?itok=44RDIAll",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-el-tesoro-1554m2-lot.png?itok=2-3ZZqwf",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/A.jpg?itok=31eg8PST"
+      ],
+      "description": "Located just 650 meters from the beach in the heart of Playa Junquillal, this unique property offers a...          Welcome to El Tesoro, one of Tamarindo’s most sought-after hillside communities. This exceptional 1,554 m² (0...          Welcome to Villa Resplandor, a pair of splendid newly constructed 2-bedroom homes that effortlessly encompass...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-28T01:25:46.817Z",
+      "id": "13eeb175f476"
+    },
+    {
+      "title": "La Perla 4-3 ~ Elegant Ocean-View Retreat in Vibrant Tamarindo          PRICE REDUCTION! La Perla 5-4 ~ Exceptional Ocean View Property...          Tamarindo Park 51 ~ Modern Tropical Luxury Home with Pool and...",
+      "price_text": "Price:     US$ 1 099 000.00      Price:     US$ 1 099 000.00      Price:     US$ 1 100 000.00",
+      "price_usd": 1099000.001099,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/la-perla-4-3",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-perla-4-3.jpg?itok=qdRaqXzi",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-LaPerla-54-Terrace.jpg?itok=oWFYQVhX",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/39-tamarindo-51-playa-tamarindo.png?itok=yjHZlufJ"
+      ],
+      "description": "Experience the best of Costa Rican coastal living with La Perla Tamarindo 143 - a rare opportunity to own a...          La Perla 5-4 is a fantastic ocean-view property located a short walk to the beach and town. The three-bedroom...          Discover Tamarindo Park #51, a brand-new tropical modern residence offering 3 bedrooms and 3 bathrooms across...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-28T01:25:52.636Z",
+      "id": "74863f323245"
+    },
+    {
+      "title": "PRICE REDUCED! Bougainvillea 4211 ~ One-of-a-Kind Oceanview...          Langostas Hidden Treasure: Casa Maya          Finca Los Tres Leches ~ Development Opportunity",
+      "price_text": "Price:     US$ 1 150 000.00      Price:     US$ 1 150 000.00      Price:     US$ 1 150 000.00",
+      "price_usd": 1150000.00115,
+      "location": "Location:     Reserva Conchal      Location:     Playa Langosta      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/bougainvillea-4211-reserva-conchal",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/21-bougainvillea_4211_guest_bathroom_2_0.jpg?itok=wpPEHDkJ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-maya.png?itok=TI_pNKOD",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1_Finca_Tres_Leches_0.jpeg?itok=ANtNnTFj"
+      ],
+      "description": "This Bougainvillea condo is THE ONLY CONDO WITH ZERO STEPS in the Bougainvillea complex! A great opportunity...          Casa Maya presents a unique investment opportunity for the discerning buyer. Situated on a prime 500-square-...          Development opportunity! Amazing piece of land located in Santa Rosa, just 6 miles away from the stunning...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:25:53.115Z",
+      "id": "7ce51a0f3bb7"
+    },
+    {
+      "title": "Beautifully Appointed Four-Bedroom Estate in Beachfront Community          Mensajeros Compound ~ Multi-Home Property with Development...          Carao T1-5 ~ Luxury Penthouse in Reserva Conchal",
+      "price_text": "Price:     US$ 1 199 000.00      Price:     US$ 1 200 000.00      Price:     US$ 1 200 000.00",
+      "price_usd": 1199000.0012,
+      "location": "Location:     Hacienda-Pinilla      Location:     Playa Potrero      Location:     Reserva Conchal",
+      "url": "https://www.remax-oceansurf-cr.com/property/reserva-de-golf-63",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-reserva-de-golf-63.jpg?itok=01pDHyQG",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Propriedades-Mensajeros.jpg?itok=8B4UNE9Q",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/11-carao-t1-5.png?itok=thGA568a"
+      ],
+      "description": "Nestled within the prestigious Reserva de Golf community of Hacienda Pinilla, this newly constructed (...          Discover a rare investment opportunity encompassing five titled lots within a single 36,426 m² compound....          Positioned high above the coast in the exclusive Carao enclave of Reserva Conchal, this elegant 3-bedroom...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:25:53.603Z",
+      "id": "62366d0d6836"
+    },
+    {
+      "title": "La Esquina - Commercial Center in the Heart of Avellanas Beach          PRICE REDUCTION! Jasmine Homes ~ Prime Multi-Unit Property...          Casa Zoul ~ 4 Bedroom Pre-construction Beauty on Lot 9B",
+      "price_text": "Price:     US$ 1 300 000.00      Price:     US$ 1 350 000.00      Price:     US$ 1 350 000.00",
+      "price_usd": 1300000.00135,
+      "location": "Location:     Playa Avellanas      Location:     Tamarindo Areas      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/la-esquina-de-avellanas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-La-Esquina-de-Avellanas-1.jpg?itok=2HyiV65u",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/16-jasmine-i-and-ii.jpg?itok=U_oprJo9",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-zoul_0.png?itok=XW8byrCW"
+      ],
+      "description": "Welcome to La Esquina! Meaning \"The Corner\" in Spanish, Plaza La Esquina is the vibrant and culturally...          Jasmine Homes I & II\nLuxury Residences in Tamarindo – Live, Invest, and Enjoy Beachside Living! Discover...          Luckily, Senderos is one of the most opulent private communities in Tamarindo, and its location is very close...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-28T01:25:54.042Z",
+      "id": "5b4646d379c8"
+    },
+    {
+      "title": "Tamarindo 360 -  Live the Dream with an Ocean View Condo in...          Casa Vibra del Mar ~ 25 Years Financing Available!          Modern Balinese-Inspired Villa in Tamarindo’s Most Elite Gated...",
+      "price_text": "Price:     US$ 2 200 000.00      Price:     US$ 2 250 000.00      Price:     US$ 2 395 000.00",
+      "price_usd": 2200000.00225,
+      "location": "Location:     Playa Tamarindo      Location:     Hacienda-Pinilla      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/tamarindo-360-ocean-view-condos",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Tamarindo-360.jpg?itok=mcUvmD3Q",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-vibra-del-mar-101-2024.jpg?itok=y_I8_89R",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-halaman-el-tesoro-tamarindo-2025_0.jpg?itok=gNwiI5lQ"
+      ],
+      "description": "LIVING WELL IS THE BEST INVESTMENT! Tamarindo 360 is a good investment in the quality of life but it is also...          OWNERS FINANCE UP TO 85% OF THE VALUE, LOW INTEREST RATE, LONG OR SHORT TERM, NO ORIGINATION FEES OR PRE...          Casa Halaman is positioned at the mouth of the Tamarindo River, within the most prestigious gated community...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:26:01.390Z",
+      "id": "e9f28fdc3d6f"
+    },
+    {
+      "title": "Casa Vida ~ Ocean View Stunner Perched in the Hills of Tamarindo          Stunning Multi-Unit Villa/B&B ~ Just 250 Meters from...          Villa Ballena ~ Pinnacle of Luxury Living Sitting on the Sands...",
+      "price_text": "Price:     US$ 2 487 000.00      Price:     US$ 2 490 000.00      Price:     US$ 2 490 000.00",
+      "price_usd": 2487000.00249,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Playa Potrero",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-vida-luxury-estate",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-vida-el-tesoro.png?itok=VOxP38Na",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-bed-%26-breakfast%20villa-Tamarindo.jpg?itok=APFA5TEb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/83-villa-ballena.jpg?itok=wBgX_qeH"
+      ],
+      "description": "Casa Vida gracefully occupies an elevated position on the sun-drenched mountain overlooking Playa Tamarindo’s...          \n\tNestled in the heart of Tamarindo, Costa Rica, just 250 meters from the beach, this stunning 450m2 villa...          Villa Ballena, meaning \"Whale House\" in Spanish, lives up to its name with nearly 5000 square feet of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-28T01:26:01.758Z",
+      "id": "ad3f39519a7d"
+    },
+    {
+      "title": "TINAJAS - Income Producing Property with Expansion Plans          Senderos Home 23E ~ Three Story Estate with Unparalleled Views           Los Almendros 66 ~ 4 Bedroom Masterpiece in Beachfront Golf...",
+      "price_text": "Price:     US$ 2 500 000.00      Price:     US$ 2 550 000.00      Price:     US$ 2 588 000.00",
+      "price_usd": 2500000.00255,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Tamarindo      Location:     Hacienda-Pinilla",
+      "url": "https://www.remax-oceansurf-cr.com/property/tinajas-project-rentals-huacas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/DSCF5321_0.jpg?itok=f1G9u2s7",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-senderos-home-23e.png?itok=eSqcELAg",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/43.jpeg?itok=ETW08Sg9"
+      ],
+      "description": "An exceptional investment opportunity in a prime location! The owner of this project is retiring and offering...          This contemporary retreat was crafted by the exceptional team at WR Architects with a singular vision: to...          Welcome to Villa Sueños - Los Almendros 66, your dream oasis in Hacienda Pinilla, where luxury and attention...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-03-28T01:26:02.264Z",
+      "id": "8bfa78cae9bd"
     }
   ],
-  "last_updated": "2026-03-27T18:50:19.049Z",
+  "last_updated": "2026-03-28T01:27:13.195Z",
   "total_count": 402
 }
