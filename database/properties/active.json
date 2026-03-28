@@ -27500,8 +27500,83 @@
       "category": "land",
       "scraped_at": "2026-03-28T01:26:02.264Z",
       "id": "8bfa78cae9bd"
+    },
+    {
+      "title": "Lot for sale .",
+      "price_text": "₡9,000,000",
+      "price_usd": 18000,
+      "location": "hace 4 h300ft2Puntarenas Guacalillo",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale/7915245381.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T18:29:54.952Z",
+      "id": "1802186bebcc"
+    },
+    {
+      "title": "Lot for sale .",
+      "price_text": "₡9,000,000",
+      "price_usd": 18000,
+      "location": "hace 4 h300ft2Puntarenas Guacalillo",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale/7915245381.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T18:29:59.857Z",
+      "id": "1802186bebcc"
+    },
+    {
+      "title": "Lot for sale .",
+      "price_text": "₡9,000,000",
+      "price_usd": 18000,
+      "location": "hace 4 h300ft2Puntarenas Guacalillo",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale/7915245381.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T18:30:04.726Z",
+      "id": "1802186bebcc"
+    },
+    {
+      "title": "Lot for sale .",
+      "price_text": "₡9,000,000",
+      "price_usd": 18000,
+      "location": "hace 4 h300ft2Puntarenas Guacalillo",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale/7915245381.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T18:30:09.596Z",
+      "id": "1802186bebcc"
+    },
+    {
+      "title": "Lot for sale .",
+      "price_text": "₡9,000,000",
+      "price_usd": 18000,
+      "location": "hace 4 h300ft2Puntarenas Guacalillo",
+      "url": "https://costarica.craigslist.org/reb/d/lot-for-sale/7915245381.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-28T18:30:14.516Z",
+      "id": "1802186bebcc"
     }
   ],
-  "last_updated": "2026-03-28T12:41:51.014Z",
+  "last_updated": "2026-03-28T18:35:06.405Z",
   "total_count": 402
 }
