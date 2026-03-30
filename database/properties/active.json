@@ -26960,8 +26960,566 @@
       "category": "residential",
       "scraped_at": "2026-03-30T12:59:19.948Z",
       "id": "7365b01eb931"
+    },
+    {
+      "title": "T- Sergio. Lot of 813 m² less than 5 minutes from Playa Tamarindo.",
+      "price_text": "₡27,500,000",
+      "price_usd": 55000,
+      "location": "hace 3 h813ft2Villarreal, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/sergio-lot-of-813-less-than-minutes/7915138328.html",
+      "images": [
+        "https://images.craigslist.org/d/7915138328/00X0X_7OLUrO7MFh2_09G05p_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:34.076Z",
+      "id": "e2b5d56dd076"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 3 h1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/finca-panama-ju-strategic-commercial/7915007309.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007309/00U0U_4pKLsbIMbYE_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-30T18:49:34.319Z",
+      "id": "59c88f516d40"
+    },
+    {
+      "title": "T-Maks - Strategic Lot in the Heart of Tamarindo",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 3 h465ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/maks-strategic-lot-in-the-heart-of/7915007869.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007869/00o0o_6VjZ9EXcDqr_0iS0as_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:34.392Z",
+      "id": "6d5735807ecd"
+    },
+    {
+      "title": "T- Cesar. 1,106 m² Lot in a Prime Growth Area Near Tamarindo",
+      "price_text": "₡46,530,000",
+      "price_usd": 93060,
+      "location": "hace 3 h1106ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/cesar-1106-lot-in-prime-growth-area/7919337253.html",
+      "images": [
+        "https://images.craigslist.org/d/7919337253/00e0e_c8FDM8AmsTo_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:34.484Z",
+      "id": "4f2506e4b24f"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡79,500,000",
+      "price_usd": 159000,
+      "location": "hace 3 h5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/nico-santa-rosa-lot-minutes-from/7915007508.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007508/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:34.669Z",
+      "id": "665524d66b41"
+    },
+    {
+      "title": "A- Vero. Smart Living in 18 m²: Modern Compact Apartment Near  Beaches",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 3 h1br18ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/vero-smart-living-in-18-modern-compact/7915007164.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007164/00b0b_gDw3XYHdtry_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:34.779Z",
+      "id": "f6adfbe7dd66"
+    },
+    {
+      "title": "T- Sergio. Lot of 813 m² less than 5 minutes from Playa Tamarindo.",
+      "price_text": "₡27,500,000",
+      "price_usd": 55000,
+      "location": "hace 3 h813ft2Villarreal, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/sergio-lot-of-813-less-than-minutes/7915138328.html",
+      "images": [
+        "https://images.craigslist.org/d/7915138328/00X0X_7OLUrO7MFh2_09G05p_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:39.957Z",
+      "id": "e2b5d56dd076"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 3 h1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/finca-panama-ju-strategic-commercial/7915007309.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007309/00U0U_4pKLsbIMbYE_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-30T18:49:40.193Z",
+      "id": "59c88f516d40"
+    },
+    {
+      "title": "T-Maks - Strategic Lot in the Heart of Tamarindo",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 3 h465ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/maks-strategic-lot-in-the-heart-of/7915007869.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007869/00o0o_6VjZ9EXcDqr_0iS0as_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:40.266Z",
+      "id": "6d5735807ecd"
+    },
+    {
+      "title": "T- Cesar. 1,106 m² Lot in a Prime Growth Area Near Tamarindo",
+      "price_text": "₡46,530,000",
+      "price_usd": 93060,
+      "location": "hace 3 h1106ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/cesar-1106-lot-in-prime-growth-area/7919337253.html",
+      "images": [
+        "https://images.craigslist.org/d/7919337253/00e0e_c8FDM8AmsTo_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:40.357Z",
+      "id": "4f2506e4b24f"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡79,500,000",
+      "price_usd": 159000,
+      "location": "hace 3 h5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/nico-santa-rosa-lot-minutes-from/7915007508.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007508/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:40.543Z",
+      "id": "665524d66b41"
+    },
+    {
+      "title": "A- Vero. Smart Living in 18 m²: Modern Compact Apartment Near  Beaches",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 3 h1br18ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/vero-smart-living-in-18-modern-compact/7915007164.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007164/00b0b_gDw3XYHdtry_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:40.650Z",
+      "id": "f6adfbe7dd66"
+    },
+    {
+      "title": "T- Sergio. Lot of 813 m² less than 5 minutes from Playa Tamarindo.",
+      "price_text": "₡27,500,000",
+      "price_usd": 55000,
+      "location": "hace 3 h813ft2Villarreal, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/sergio-lot-of-813-less-than-minutes/7915138328.html",
+      "images": [
+        "https://images.craigslist.org/d/7915138328/00X0X_7OLUrO7MFh2_09G05p_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:45.791Z",
+      "id": "e2b5d56dd076"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 3 h1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/finca-panama-ju-strategic-commercial/7915007309.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007309/00U0U_4pKLsbIMbYE_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-30T18:49:46.027Z",
+      "id": "59c88f516d40"
+    },
+    {
+      "title": "T-Maks - Strategic Lot in the Heart of Tamarindo",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 3 h465ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/maks-strategic-lot-in-the-heart-of/7915007869.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007869/00o0o_6VjZ9EXcDqr_0iS0as_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:46.102Z",
+      "id": "6d5735807ecd"
+    },
+    {
+      "title": "T- Cesar. 1,106 m² Lot in a Prime Growth Area Near Tamarindo",
+      "price_text": "₡46,530,000",
+      "price_usd": 93060,
+      "location": "hace 3 h1106ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/cesar-1106-lot-in-prime-growth-area/7919337253.html",
+      "images": [
+        "https://images.craigslist.org/d/7919337253/00e0e_c8FDM8AmsTo_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:46.195Z",
+      "id": "4f2506e4b24f"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡79,500,000",
+      "price_usd": 159000,
+      "location": "hace 3 h5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/nico-santa-rosa-lot-minutes-from/7915007508.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007508/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:46.378Z",
+      "id": "665524d66b41"
+    },
+    {
+      "title": "A- Vero. Smart Living in 18 m²: Modern Compact Apartment Near  Beaches",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 3 h1br18ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/vero-smart-living-in-18-modern-compact/7915007164.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007164/00b0b_gDw3XYHdtry_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:46.485Z",
+      "id": "f6adfbe7dd66"
+    },
+    {
+      "title": "T- Sergio. Lot of 813 m² less than 5 minutes from Playa Tamarindo.",
+      "price_text": "₡27,500,000",
+      "price_usd": 55000,
+      "location": "hace 3 h813ft2Villarreal, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/sergio-lot-of-813-less-than-minutes/7915138328.html",
+      "images": [
+        "https://images.craigslist.org/d/7915138328/00X0X_7OLUrO7MFh2_09G05p_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:51.619Z",
+      "id": "e2b5d56dd076"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 3 h1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/finca-panama-ju-strategic-commercial/7915007309.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007309/00U0U_4pKLsbIMbYE_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-30T18:49:51.855Z",
+      "id": "59c88f516d40"
+    },
+    {
+      "title": "T-Maks - Strategic Lot in the Heart of Tamarindo",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 3 h465ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/maks-strategic-lot-in-the-heart-of/7915007869.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007869/00o0o_6VjZ9EXcDqr_0iS0as_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:51.928Z",
+      "id": "6d5735807ecd"
+    },
+    {
+      "title": "T- Cesar. 1,106 m² Lot in a Prime Growth Area Near Tamarindo",
+      "price_text": "₡46,530,000",
+      "price_usd": 93060,
+      "location": "hace 3 h1106ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/cesar-1106-lot-in-prime-growth-area/7919337253.html",
+      "images": [
+        "https://images.craigslist.org/d/7919337253/00e0e_c8FDM8AmsTo_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:52.020Z",
+      "id": "4f2506e4b24f"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡79,500,000",
+      "price_usd": 159000,
+      "location": "hace 3 h5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/nico-santa-rosa-lot-minutes-from/7915007508.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007508/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:52.206Z",
+      "id": "665524d66b41"
+    },
+    {
+      "title": "A- Vero. Smart Living in 18 m²: Modern Compact Apartment Near  Beaches",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 3 h1br18ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/vero-smart-living-in-18-modern-compact/7915007164.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007164/00b0b_gDw3XYHdtry_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:52.313Z",
+      "id": "f6adfbe7dd66"
+    },
+    {
+      "title": "T- Sergio. Lot of 813 m² less than 5 minutes from Playa Tamarindo.",
+      "price_text": "₡27,500,000",
+      "price_usd": 55000,
+      "location": "hace 3 h813ft2Villarreal, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/sergio-lot-of-813-less-than-minutes/7915138328.html",
+      "images": [
+        "https://images.craigslist.org/d/7915138328/00X0X_7OLUrO7MFh2_09G05p_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:57.456Z",
+      "id": "e2b5d56dd076"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 3 h1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/finca-panama-ju-strategic-commercial/7915007309.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007309/00U0U_4pKLsbIMbYE_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-03-30T18:49:57.692Z",
+      "id": "59c88f516d40"
+    },
+    {
+      "title": "T-Maks - Strategic Lot in the Heart of Tamarindo",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 3 h465ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/maks-strategic-lot-in-the-heart-of/7915007869.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007869/00o0o_6VjZ9EXcDqr_0iS0as_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:57.764Z",
+      "id": "6d5735807ecd"
+    },
+    {
+      "title": "T- Cesar. 1,106 m² Lot in a Prime Growth Area Near Tamarindo",
+      "price_text": "₡46,530,000",
+      "price_usd": 93060,
+      "location": "hace 3 h1106ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/cesar-1106-lot-in-prime-growth-area/7919337253.html",
+      "images": [
+        "https://images.craigslist.org/d/7919337253/00e0e_c8FDM8AmsTo_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:57.854Z",
+      "id": "4f2506e4b24f"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡79,500,000",
+      "price_usd": 159000,
+      "location": "hace 3 h5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/nico-santa-rosa-lot-minutes-from/7915007508.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007508/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:58.039Z",
+      "id": "665524d66b41"
+    },
+    {
+      "title": "A- Vero. Smart Living in 18 m²: Modern Compact Apartment Near  Beaches",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 3 h1br18ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reo/d/vero-smart-living-in-18-modern-compact/7915007164.html",
+      "images": [
+        "https://images.craigslist.org/d/7915007164/00b0b_gDw3XYHdtry_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:49:58.147Z",
+      "id": "f6adfbe7dd66"
+    },
+    {
+      "title": "Tamarindo Hills ~ Beautiful Residential Ocean View Community in...          Ready-to-Build 1024m² Lot with Water & Electricity Near...          Cabo Velas 38 ~ Renovated Condo in Secure Community Near Playa...",
+      "price_text": "Price:     US$ 211 875.00      Price:     US$ 219 000.00      Price:     US$ 219 000.00",
+      "price_usd": 211875.00219,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Avellanas      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/tamarindo-hills-residential-community",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/0-Tamarindo-Hills.jpeg?itok=nUzG8NEB",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-1024m2-avellanas-lot.png?itok=DNJfOe4d",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/17-cabo-velas-38.png?itok=JX6X0Pc8"
+      ],
+      "description": "Tamarindo Hills is a development of residential and commercial lots in Playa Tamarindo, just 1/2 mile from...          Tranquil Setting Near Playa Avellanas\nLocated in a peaceful and serene neighborhood, this 1024m² lot is the...          Situated in the heart of Matapalo, this two-bedroom, two-bathroom condo provides a unique opportunity to...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:52:33.376Z",
+      "id": "687401aab365"
+    },
+    {
+      "title": "The Oaks 67 ~ Ground-Floor 2-Bedroom Condo with Beautiful...          Scenic Ocean Views & Serenity in Finca Los Pargos          Loma Verde 19 - Move-In Ready Home with Jacuzzi & Tropical...",
+      "price_text": "Price:     US$ 279 000.00      Price:     US$ 280 000.00      Price:     US$ 280 000.00",
+      "price_usd": 279000.0028,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Negra      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/the-oaks-67",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/01-oaks-condo-entrance-unit-67.JPG?itok=vnbi2neZ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Los_Pargos_1.JPG?itok=WE-CWYqD",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/17-Loma-Verde-Pool%281%29%202.jpg?itok=qfmIH-9o"
+      ],
+      "description": "Welcome to unit 67 at The Oaks, a fully furnished, ground-floor 2-bedroom, 2-bathroom condo nestled in one of...          Discover a rare opportunity to own a 1.25-acre ocean-view homesite in the exclusive community of Finca Los...          Beautifully finished two-bedroom and two full bathroom home located in the popular community of Loma Verde....",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:52:34.764Z",
+      "id": "99e3012b2483"
+    },
+    {
+      "title": "Multi-Unit Retreat in Costa Rica: Two Homes, One Incredible...          La Esquina 8 ~ Spacious Luxury Condo in Exclusive Langosta...          Casa Plumeria ~ Gated Community Home 7 minutes from Playa...",
+      "price_text": "Price:     US$ 580 000.00      Price:     US$ 589 000.00      Price:     US$ 589 000.00",
+      "price_usd": 580000.00589,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Langosta      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-dos-rosas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-casa-dos-rosas.png?itok=8ULTL27H",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-esquina-8-playa-langosta.png?itok=jeggVgBn",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-plumeria-better-lighting.png?itok=Uq9vmmYx"
+      ],
+      "description": "Welcome to Casa Dos Rosas!\nNestled on a spacious 1,100 m² lot, this property boasts two independent houses,...          Located within the exclusive La Esquina condominium in Playa Langosta, this 3-bedroom, 2-bathroom residence...          Welcome to Casa Plumeria — a refined and fully furnished villa that perfectly blends modern comfort with the...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:52:41.818Z",
+      "id": "0a4ced3a4cf5"
+    },
+    {
+      "title": "Palm House ~ Private Hillside Retreat Near Tamarindo          Avemoana ~ 29 Unit Development in the Heart of Booming Playa...          7.1 hectares lot with amazing ocean views, within 10 min from...",
+      "price_text": "Price:     US$ 699 900.00      Price:     US$ 705 000.00      Price:     US$ 710 000.00",
+      "price_usd": 699900.00705,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Avellanas      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/palm-house-finca-panama",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/17-palm-house.jpg?itok=HHyw0gcT",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/ENTRADA%20CONDOMINIO.jpg?itok=ezkEHU98",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Finca-Pinilla.JPG?itok=BdduRsO1"
+      ],
+      "description": "Tucked into the hills just outside Tamarindo, Palm House is a private tropical retreat set within a secluded...          Avemoana is a pristine gated community development project offering 29 unique homes strategically located...          A MUST SEE! 7.1 hectares ocean view lot. Long driveway leading to the beginning of the lot, just before...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:52:48.860Z",
+      "id": "28b11ae5473b"
+    },
+    {
+      "title": "Guest House Apartments ~ Impeccable Multi-Unit Property with...          Casa Matapalo ~ Beautiful Multi-Home Property with Detached...          Oceanview Villa in Marbella: Luxury and Income Potential",
+      "price_text": "Price:     US$ 715 500.00      Price:     US$ 720 000.00      Price:     US$ 729 000.00",
+      "price_usd": 715500.0072,
+      "location": "Location:     Playa Flamingo      Location:     Tamarindo Areas      Location:     Playa Marbella",
+      "url": "https://www.remax-oceansurf-cr.com/property/guest-house-apartments-rental-income-potential",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-guest-house-apartments_0.jpeg?itok=GXc2Sz6v",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1_8.jpg?itok=Lv0iKPZe",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/29-5-bedroom-home-in-marbella.jpeg?itok=Nx8VdcDb"
+      ],
+      "description": "This is an amazing opportunity to invest in the Flamingo Beach area, take advantage of the new marina, and...          Welcome to your Guanacaste paradise!\nThis spectacular property is located only 7 minutes from multiple...          Discover an extraordinary opportunity to own a breathtaking villa on 1.7 acres in Marbella, Costa Rica,...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:52:49.201Z",
+      "id": "3a57396e45ad"
+    },
+    {
+      "title": "24 Plaza Carlota  ~ Timeless Gem in Charming Beachfront...          4-Bedroom Townhome in Los Malinches of Hacienda Pinilla          Cabinas Lilou ~ Versatile 7-Suite Property with Owner’s Residence",
+      "price_text": "Price:     US$ 850 000.00      Price:     US$ 859 000.00      Price:     US$ 880 000.00",
+      "price_usd": 850000.00859,
+      "location": "Location:     Playa Danta      Location:     Hacienda-Pinilla      Location:     Playa Junquillal",
+      "url": "https://www.remax-oceansurf-cr.com/property/24-plaza-carlota",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/30-24-plaza-carlota.png?itok=k99IN_Ed",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Los-Malinche-23.jpeg?itok=cPqfF0xY",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/0-Cabinas-Loulou.jpg?itok=44RDIAll"
+      ],
+      "description": "Welcome to 24 Plaza Carlota, a stunning 2-bedroom, 2-bathroom condo offering 1,669 square feet of...          \n\t\nLos Malinches 23\nWelcome to an exceptional 4-bedroom, 4.5-bath residence in the exclusive enclave of Los...          Located just 650 meters from the beach in the heart of Playa Junquillal, this unique property offers a...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-03-30T18:52:50.952Z",
+      "id": "40e0e1c386d4"
     }
   ],
-  "last_updated": "2026-03-30T13:04:40.956Z",
+  "last_updated": "2026-03-30T18:54:20.752Z",
   "total_count": 402
 }
