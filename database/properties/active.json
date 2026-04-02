@@ -27077,8 +27077,80 @@
       "category": "residential",
       "scraped_at": "2026-04-01T18:53:18.838Z",
       "id": "194b90348901"
+    },
+    {
+      "title": "SELLER MOTIVATED! The Point 19 ~ Elegant 3-Bedroom Home with...          Boutique Duplex Living in Tamarindo Hills ~ Fully Furnished          Monte Perla 13 ~ Elegant Poolside Home Just Steps from Tamarindo...",
+      "price_text": "Price:     US$ 490 000.00      Price:     US$ 495 000.00      Price:     US$ 499 000.00",
+      "price_usd": 490000.00495,
+      "location": "Location:     Playa Avellanas      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/the-point-19",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/13-the-point-19.jpg?itok=V4yDv0F0",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/34-tamarindo-hills-8.png?itok=S46R2d7y",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-monte-perla-5-2026.png?itok=jovCVcCl"
+      ],
+      "description": "Welcome to The Point #19, a well-appointed and centrally located residence in the sought-after gated...          This prime Tamarindo Hills duplex is a  3-bedroom, 2-bathroom unit located in the boutique Tamarindo Hills...          Welcome to your ideal coastal retreat in Tamarindo—a vibrant beach town known for its laid-back lifestyle,...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-04-02T01:30:03.769Z",
+      "id": "0d37178efc11"
+    },
+    {
+      "title": "Casa Pura Chante ~ Beautiful Modern House Close to the Beach          Bocaraca 4 ~ Spacious 3-Bedroom Condo Steps from Tamarindo Beach          Numandi ~ Luxury Living Rooted in Sustainability",
+      "price_text": "Price:     US$ 649 000.00      Price:     US$ 659 000.00      Price:     US$ 669 000.00",
+      "price_usd": 649000.00659,
+      "location": "Location:     Playa Junquillal      Location:     Playa Tamarindo      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-pura-chante",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-pura-chante.png?itok=dvdZNXjr",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/26-bocaraca-3-bedroom-unit.png?itok=wQaLM5Uj",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5-numandi-new-renders-december-2025.jpg?itok=3WAoz0Ha"
+      ],
+      "description": "This beautiful brand new home is literally 102 yards from an idyllic, undiscovered beach in a community that...          This 3-bedroom, 3.5-bathroom condo is located on the first floor of the Bocaraca condominium, just a 220m (...          Starting from USD 670,000 | Financing Available\nNumandi Residences offers a rare opportunity to own a turnkey...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-04-02T01:30:05.755Z",
+      "id": "0540e9d12dcc"
+    },
+    {
+      "title": "Prime Tamarindo Investment Property with Rental Income Potential          Casa Mariposa ~ Luxurious Tropical Living in this Ocean View...          Palm House ~ Private Hillside Retreat Near Tamarindo",
+      "price_text": "Price:     US$ 699 000.00      Price:     US$ 699 000.00      Price:     US$ 699 900.00",
+      "price_usd": 699000.00699,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Negra      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/prime-tamarindo-commercial-property",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/23-prime-commercial-property-in-tamarindo.png?itok=jXSifLGj",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-mariposa-playa-negra.jpg?itok=RX1vYuPP",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/17-palm-house.jpg?itok=HHyw0gcT"
+      ],
+      "description": "Situated along a prominent road in the lively Tamarindo region, this adaptable property boasts high...          Finca Pura Jungla is a development with a story deeply rooted in environmental stewardship. Thirty years ago...          Tucked into the hills just outside Tamarindo, Palm House is a private tropical retreat set within a secluded...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-04-02T01:30:11.249Z",
+      "id": "3f7793ca8f17"
+    },
+    {
+      "title": "Panacea del Mar ~ Tropical Yoga Retreat with 7 Cabins and Ocean...          Bosques de Pinilla - A New Way of Living          Splendor 360º - Maximize Your Investment ~ Marina View Condo and...",
+      "price_text": "Price:     US$ 975 000.00      Price:     US$ 979 000.00      Price:     US$ 990 000.00",
+      "price_usd": 975000.00979,
+      "location": "Location:     Tamarindo Areas      Location:     Hacienda-Pinilla      Location:     Playa Flamingo",
+      "url": "https://www.remax-oceansurf-cr.com/property/panacea-del-mar-yoga-retreat",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-panacea-del-mar-2026.jpg?itok=-AjR0yhg",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Bosques%20de%20Pinilla-%20Sales%20booklet_Page_02.jpg?itok=-NhQT2KV",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/29a_360_El_Splendor_Flamingo_Costa_Rica_Condo_For_Sale_0.jpg?itok=eQp3BCuT"
+      ],
+      "description": "Spanning approximately 17,536 m² (4.3 acres), the property presents outstanding potential as both a boutique...          \nAt Bosques de Pinilla, you’ll find the perfect amenities for you and the family in the impeccably manicured...          Spectacular Views ✅ | Strong Rental Income Potential ✅ | Prime Location ✅ | Breathtaking Sunsets ✅\nThis...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-04-02T01:30:13.362Z",
+      "id": "31a5ea9c445a"
     }
   ],
-  "last_updated": "2026-04-01T18:55:33.155Z",
+  "last_updated": "2026-04-02T01:31:43.525Z",
   "total_count": 402
 }
