@@ -26822,8 +26822,23 @@
       "category": "residential",
       "scraped_at": "2026-04-04T06:51:07.013Z",
       "id": "582c7e633610"
+    },
+    {
+      "title": "Casa Nueve, Turnkey Luxury, Nosara Designer Home, Ocean and River Views\n                Single Family Homes, Nosara, Guanacaste",
+      "price_text": "$3,950,000",
+      "price_usd": 3950000,
+      "location": "Single Family Homes, Nosara, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-nosara/13763",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-06T07:20:31.127Z",
+      "id": "ccd46879be14"
     }
   ],
-  "last_updated": "2026-04-06T01:52:41.165Z",
+  "last_updated": "2026-04-06T07:24:31.565Z",
   "total_count": 402
 }
