@@ -26729,8 +26729,41 @@
       "category": "luxury",
       "scraped_at": "2026-04-08T01:47:08.664Z",
       "id": "ae1ba8497689"
+    },
+    {
+      "title": "Warehouse for sale in Zapote 24630\n                Commercial, Zapote, San Jose",
+      "price_text": "$1,400,000",
+      "price_usd": 1400000,
+      "location": "Commercial, Zapote, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/3-bed-commercial-for-sale-in-zapote/13156",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-04-08T07:09:42.398Z",
+      "id": "7a3d13d77e99"
+    },
+    {
+      "title": "Avemoana ~ 29 Unit Development in the Heart of Booming Playa...          7.1 hectares lot with amazing ocean views, within 10 min from...          Guest House Apartments ~ Impeccable Multi-Unit Property with...",
+      "price_text": "Price:     US$ 705 000.00      Price:     US$ 710 000.00      Price:     US$ 715 500.00",
+      "price_usd": 705000.0071,
+      "location": "Location:     Playa Avellanas      Location:     Tamarindo Areas      Location:     Playa Flamingo",
+      "url": "https://www.remax-oceansurf-cr.com/property/avemoana-playa-avellanas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/ENTRADA%20CONDOMINIO.jpg?itok=ezkEHU98",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Finca-Pinilla.JPG?itok=BdduRsO1",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-guest-house-apartments_0.jpeg?itok=GXc2Sz6v"
+      ],
+      "description": "Avemoana is a pristine gated community development project offering 29 unique homes strategically located...          A MUST SEE! 7.1 hectares ocean view lot. Long driveway leading to the beginning of the lot, just before...          This is an amazing opportunity to invest in the Flamingo Beach area, take advantage of the new marina, and...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-04-08T07:11:38.127Z",
+      "id": "d0904835f4ab"
     }
   ],
-  "last_updated": "2026-04-08T01:50:12.679Z",
+  "last_updated": "2026-04-08T07:13:08.363Z",
   "total_count": 402
 }
