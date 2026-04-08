@@ -26762,8 +26762,41 @@
       "category": "residential",
       "scraped_at": "2026-04-08T07:11:38.127Z",
       "id": "d0904835f4ab"
+    },
+    {
+      "title": "Buena Vista 8 Rental Unit Property for Sale in Manuel Antonio\n                Hotel / Leisure, Manuel Antonio, Puntarenas",
+      "price_text": "$1,570,000",
+      "price_usd": 1570000,
+      "location": "Hotel / Leisure, Manuel Antonio, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/11-bed-hotel-leisure-for-sale-in-manuel-antonio/1440",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-04-08T19:06:50.719Z",
+      "id": "68e30bfe23af"
+    },
+    {
+      "title": "PRICE REDUCTION! Casa Bettina ~ Luxury Living Steps from the...          Casa Vista Escondida ~ Pinnacle of Coastal Luxury          Rare Beachfront Lots in Playa Avellanas",
+      "price_text": "Price:     US$ 2 495 000.00      Price:     US$ 2 495 000.00      Price:     US$ 2 500 000.00",
+      "price_usd": 2495000.002495,
+      "location": "Location:     Hacienda-Pinilla      Location:     Playa Penca      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-bettina-los-almendros",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-benitta.jpg?itok=CrwJ8Yvm",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-vista-escondida.png?itok=o8pWcISl",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-avellanas-lot.jpeg?itok=tAqtJB33"
+      ],
+      "description": "Welcome to Casa Bettina – A Tropical Dream Home in Hacienda Pinilla\nExperience luxury redefined at Casa...          Introducing Casa Vista Escondida, an epitome of luxurious living nestled in the Pacific Heights enclave of...          Discover a rare opportunity to own two exceptional beachfront lots in the highly sought-after Playa Avellanas...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-04-08T19:08:06.877Z",
+      "id": "97596628ef9c"
     }
   ],
-  "last_updated": "2026-04-08T13:08:23.138Z",
+  "last_updated": "2026-04-08T19:09:24.708Z",
   "total_count": 402
 }
