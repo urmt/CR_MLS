@@ -26468,8 +26468,59 @@
       "category": "residential",
       "scraped_at": "2026-04-09T07:15:54.817Z",
       "id": "cbcfcd132bd3"
+    },
+    {
+      "title": "Casa Lumen | Furnished 4 Bedroom, 3 Bathroom Home for Rent in Grecia, Alajuela,\n                Single Family Homes, Grecia, Alajuela",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Single Family Homes, Grecia, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-single-family-homes-for-sale-in-grecia/14286",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006CDwiI/3iedqzteq/midres/DJI_0709.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-09T18:55:14.875Z",
+      "id": "f3166ac6c3ea"
+    },
+    {
+      "title": "Renovated 4-Bedroom Villa with Golf Views in Reserva Conchal          Casa Higueron ~ 4-Bedroom Luxury Home with 2-Bedroom Guest House...          Sanara 28 ~ Luxury Tropical Residence with Private Casita",
+      "price_text": "Price:     US$ 1 799 999.00      Price:     US$ 1 800 000.00      Price:     US$ 1 850 000.00",
+      "price_usd": 1799999.0018,
+      "location": "Location:     Reserva Conchal      Location:     Playa Tamarindo      Location:     Reserva Conchal",
+      "url": "https://www.remax-oceansurf-cr.com/property/villa-carao-11-reserva-conchal",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/52.-Villa-Carao-11.jpg?itok=L3hxr3Ma",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Casa-Higueron.jpg?itok=9nRbn2eJ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/imgi_6_Sanara-28-3.jpg?itok=U8pyDfnV"
+      ],
+      "description": "Located in the prestigious gated community of Reserva Conchal, Villa Carao #11 offers a refined living...          Located within the new luxury gated community of Tamarindo Park, this impressive residence is part of one of...          Welcome to Sanara 28, a refined tropical retreat located within the prestigious Reserva Conchal. Thoughtfully...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-04-09T18:56:22.244Z",
+      "id": "42c361950100"
+    },
+    {
+      "title": "PRICE REDUCTION! Charming 11-Suites Hotel with Ocean &...          Senderos Home 25E ~ Immaculate Piece of Real Estate - Phase 2          Casa de Golf ~ 4 Bedroom Estate in Luxury Golf Resort",
+      "price_text": "Price:     US$ 1 999 000.00      Price:     US$ 2 150 000.00      Price:     US$ 2 175 000.00",
+      "price_usd": 1999000.00215,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Reserva Conchal",
+      "url": "https://www.remax-oceansurf-cr.com/property/Eleven-Suites-Hotel-Tamarindo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Unknown.jpeg?itok=bivlWjXz",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-senderos-home-on-lot-25e.png?itok=-xeag2dI",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-de-golf-melina-2025.jpg?itok=M3ldLKX4"
+      ],
+      "description": "This Suite Hotel is one of the original bed & breakfasts in the renowned beach town of Tamarindo, Costa...          With expansive valley and mountain views surrounded by nature, this homesite is perfectly situated to inspire...          Welcome to your dream home! This stunning Mediterranean-style residence is a golfer's paradise, offering...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-04-09T18:56:28.213Z",
+      "id": "b2e3c0d09e51"
     }
   ],
-  "last_updated": "2026-04-09T13:08:46.169Z",
+  "last_updated": "2026-04-09T18:57:46.878Z",
   "total_count": 402
 }
