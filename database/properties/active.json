@@ -26315,8 +26315,38 @@
       "category": "land",
       "scraped_at": "2026-04-10T01:51:54.647Z",
       "id": "544d4dfc8694"
+    },
+    {
+      "title": "Cortez Amarillo 4 - A Showcase of Coastal Elegance and Modern Design\n                Single Family Homes, Playa Conchal, Guanacaste",
+      "price_text": "$8,100,000",
+      "price_usd": 8100000,
+      "location": "Single Family Homes, Playa Conchal, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-playa-conchal/14459",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-10T18:41:27.031Z",
+      "id": "53b646867c64"
+    },
+    {
+      "title": "Cortez Amarillo 4 - A Showcase of Coastal Elegance and Modern Design\n                Single Family Homes, Playa Conchal, Guanacaste",
+      "price_text": "$8,100,000",
+      "price_usd": 8100000,
+      "location": "Single Family Homes, Playa Conchal, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-playa-conchal/14459",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-10T18:43:36.033Z",
+      "id": "53b646867c64"
     }
   ],
-  "last_updated": "2026-04-10T12:56:52.645Z",
+  "last_updated": "2026-04-10T18:45:21.157Z",
   "total_count": 402
 }
