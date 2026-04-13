@@ -26111,8 +26111,23 @@
       "category": "luxury",
       "scraped_at": "2026-04-10T18:43:36.033Z",
       "id": "53b646867c64"
+    },
+    {
+      "title": "Villa Monticello: Fully Renovated Luxury 7-Bedroom Estate in Punta Leona\n                Single Family Homes, Punta Leona, Puntarenas",
+      "price_text": "$3,999,000",
+      "price_usd": 3999000,
+      "location": "Single Family Homes, Punta Leona, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-single-family-homes-for-sale-in-punta-leona/13803",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-13T13:06:10.733Z",
+      "id": "a03e38b75a82"
     }
   ],
-  "last_updated": "2026-04-13T07:55:22.575Z",
+  "last_updated": "2026-04-13T13:10:02.074Z",
   "total_count": 402
 }
