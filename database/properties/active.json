@@ -26111,8 +26111,23 @@
       "category": "luxury",
       "scraped_at": "2026-04-13T13:06:10.733Z",
       "id": "a03e38b75a82"
+    },
+    {
+      "title": "Finca Dreamland | 50-Acre Oceanview Retreat\n                Single Family Homes, Ostional, Guanacaste",
+      "price_text": "$7,000,000",
+      "price_usd": 7000000,
+      "location": "Single Family Homes, Ostional, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-ostional/13804",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005ks8G8/8sqsi0gc3/midres/2026_01_06B-37.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-04-14T01:52:45.637Z",
+      "id": "15c09263fde2"
     }
   ],
-  "last_updated": "2026-04-13T19:09:37.304Z",
+  "last_updated": "2026-04-14T01:54:43.544Z",
   "total_count": 402
 }
