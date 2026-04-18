@@ -1,81 +1,6 @@
 {
   "properties": [
     {
-      "title": "Nice house for comercial and recidencial",
-      "price_text": "₡150,000,000",
-      "price_usd": 300000,
-      "location": "hace 5 h4br404ft2Tibas Llorente La nacion",
-      "url": "https://costarica.craigslist.org/reo/d/nice-house-for-comercial-and-recidencial/7909324280.html",
-      "images": [
-        "https://images.craigslist.org/d/7909324280/00303_bDARmRinUEg_0jO0g4_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-01-18T01:11:38.147Z",
-      "id": "89d7f0ba528b"
-    },
-    {
-      "title": "Nice house for comercial and recidencial",
-      "price_text": "₡150,000,000",
-      "price_usd": 300000,
-      "location": "hace 5 h4br404ft2Tibas Llorente La nacion",
-      "url": "https://costarica.craigslist.org/reo/d/nice-house-for-comercial-and-recidencial/7909324280.html",
-      "images": [
-        "https://images.craigslist.org/d/7909324280/00303_bDARmRinUEg_0jO0g4_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-01-18T01:11:43.323Z",
-      "id": "89d7f0ba528b"
-    },
-    {
-      "title": "Nice house for comercial and recidencial",
-      "price_text": "₡150,000,000",
-      "price_usd": 300000,
-      "location": "hace 5 h4br404ft2Tibas Llorente La nacion",
-      "url": "https://costarica.craigslist.org/reo/d/nice-house-for-comercial-and-recidencial/7909324280.html",
-      "images": [
-        "https://images.craigslist.org/d/7909324280/00303_bDARmRinUEg_0jO0g4_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-01-18T01:11:48.433Z",
-      "id": "89d7f0ba528b"
-    },
-    {
-      "title": "Nice house for comercial and recidencial",
-      "price_text": "₡150,000,000",
-      "price_usd": 300000,
-      "location": "hace 5 h4br404ft2Tibas Llorente La nacion",
-      "url": "https://costarica.craigslist.org/reo/d/nice-house-for-comercial-and-recidencial/7909324280.html",
-      "images": [
-        "https://images.craigslist.org/d/7909324280/00303_bDARmRinUEg_0jO0g4_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-01-18T01:11:53.543Z",
-      "id": "89d7f0ba528b"
-    },
-    {
-      "title": "Nice house for comercial and recidencial",
-      "price_text": "₡150,000,000",
-      "price_usd": 300000,
-      "location": "hace 5 h4br404ft2Tibas Llorente La nacion",
-      "url": "https://costarica.craigslist.org/reo/d/nice-house-for-comercial-and-recidencial/7909324280.html",
-      "images": [
-        "https://images.craigslist.org/d/7909324280/00303_bDARmRinUEg_0jO0g4_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-01-18T01:11:58.652Z",
-      "id": "89d7f0ba528b"
-    },
-    {
       "title": "Reserva de Golf 49 ~ Elegant 4-Bedroom Villa with Luxury...          PRICE REDUCTION! Casa Bettina ~ Luxury Living Steps from the...          Senderos Home 23E ~ Three Story Estate with Unparalleled Views",
       "price_text": "Price:     US$ 2 495 000.00      Price:     US$ 2 495 000.00      Price:     US$ 2 550 000.00",
       "price_usd": 2495000.002495,
@@ -26280,6 +26205,6 @@
       "id": "e2c289826f9c"
     }
   ],
-  "last_updated": "2026-04-18T01:34:00.379Z",
+  "last_updated": "2026-04-18T01:34:33.367Z",
   "total_count": 402
 }
