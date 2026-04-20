@@ -26065,8 +26065,26 @@
       "category": "residential",
       "scraped_at": "2026-04-20T01:56:24.777Z",
       "id": "8b0b143821f9"
+    },
+    {
+      "title": "Las Crestas de Senderos Home 10F ~ Senderos Phase Three          Casa de Los Sueños ~ Over 700 Square Meters of Tropical Luxury...          Las Crestas de Senderos Home 12F ~ Senderos Phase Three",
+      "price_text": "Price:     US$ 4 150 000.00      Price:     US$ 4 250 000.00      Price:     US$ 4 900 000.00",
+      "price_usd": 4150000.00425,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/las-crestas-de-senderos-home-10f",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-10F-Senderos-Tamarindo_0.png?itok=jSdKWmsi",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-24-el-tesoro-de-tamarindo.png?itok=Dd18uzVN",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-12F-Senderos-Tamarindo.png?itok=X1rr_qxt"
+      ],
+      "description": "Delivery December 2024\nWith 270-degree views of ocean and jungle, the home at #12 Las Crestas boasts...          Nestled in Tamarindo's renown gated community of El Tesoro, this property is just 300 meters from the...          Award-winning designer Richard Muller and his team were tasked with creating an estate-like home on the...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-04-20T07:57:22.870Z",
+      "id": "0f92d8528cda"
     }
   ],
-  "last_updated": "2026-04-20T02:01:29.523Z",
+  "last_updated": "2026-04-20T07:58:37.560Z",
   "total_count": 402
 }
