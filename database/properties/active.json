@@ -24781,8 +24781,98 @@
       "category": "land",
       "scraped_at": "2026-04-20T18:57:48.910Z",
       "id": "6797b4326bb1"
+    },
+    {
+      "title": "Hermosa Casa en Bebedero de Escazú con vista a la ciudad",
+      "price_text": "₡1,064,900,000",
+      "price_usd": 2129800,
+      "location": "hace 4 h5br",
+      "url": "https://costarica.craigslist.org/reb/d/hermosa-casa-en-bebedero-de-escaz-con/7929171875.html",
+      "images": [
+        "https://images.craigslist.org/d/7929171875/00t0t_J8tzcW3OOY_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-04-21T19:00:18.385Z",
+      "id": "ede49639d77d"
+    },
+    {
+      "title": "Hermosa Casa en Bebedero de Escazú con vista a la ciudad",
+      "price_text": "₡1,064,900,000",
+      "price_usd": 2129800,
+      "location": "hace 4 h5br",
+      "url": "https://costarica.craigslist.org/reb/d/hermosa-casa-en-bebedero-de-escaz-con/7929171875.html",
+      "images": [
+        "https://images.craigslist.org/d/7929171875/00t0t_J8tzcW3OOY_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-04-21T19:00:23.162Z",
+      "id": "ede49639d77d"
+    },
+    {
+      "title": "Hermosa Casa en Bebedero de Escazú con vista a la ciudad",
+      "price_text": "₡1,064,900,000",
+      "price_usd": 2129800,
+      "location": "hace 4 h5br",
+      "url": "https://costarica.craigslist.org/reb/d/hermosa-casa-en-bebedero-de-escaz-con/7929171875.html",
+      "images": [
+        "https://images.craigslist.org/d/7929171875/00t0t_J8tzcW3OOY_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-04-21T19:00:27.908Z",
+      "id": "ede49639d77d"
+    },
+    {
+      "title": "Hermosa Casa en Bebedero de Escazú con vista a la ciudad",
+      "price_text": "₡1,064,900,000",
+      "price_usd": 2129800,
+      "location": "hace 4 h5br",
+      "url": "https://costarica.craigslist.org/reb/d/hermosa-casa-en-bebedero-de-escaz-con/7929171875.html",
+      "images": [
+        "https://images.craigslist.org/d/7929171875/00t0t_J8tzcW3OOY_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-04-21T19:00:32.801Z",
+      "id": "ede49639d77d"
+    },
+    {
+      "title": "Hermosa Casa en Bebedero de Escazú con vista a la ciudad",
+      "price_text": "₡1,064,900,000",
+      "price_usd": 2129800,
+      "location": "hace 4 h5br",
+      "url": "https://costarica.craigslist.org/reb/d/hermosa-casa-en-bebedero-de-escaz-con/7929171875.html",
+      "images": [
+        "https://images.craigslist.org/d/7929171875/00t0t_J8tzcW3OOY_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-04-21T19:00:37.539Z",
+      "id": "ede49639d77d"
+    },
+    {
+      "title": "Turnkey Boutique Hotel & Multi-Unit Investment in Tamarindo\n                Hotel / Leisure, Tamarindo, Guanacaste",
+      "price_text": "$3,950,000",
+      "price_usd": 3950000,
+      "location": "Hotel / Leisure, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/11-bed-hotel-leisure-for-sale-in-tamarindo/14579",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-04-21T19:02:18.729Z",
+      "id": "41ba0b053b06"
     }
   ],
-  "last_updated": "2026-04-21T13:11:15.277Z",
+  "last_updated": "2026-04-21T19:05:25.604Z",
   "total_count": 402
 }
