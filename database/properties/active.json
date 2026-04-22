@@ -24469,8 +24469,473 @@
       "category": "residential",
       "scraped_at": "2026-04-22T07:24:54.119Z",
       "id": "eb33e955546a"
+    },
+    {
+      "title": "V-Biagio - 150 m² Home on 8,800 m² Lot in Potrero – North of Tamarindo",
+      "price_text": "₡187,500,000",
+      "price_usd": 375000,
+      "location": "hace 2 h2br8800ft2Playa Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/biagio-home-on-8800-lot-in-potrero/7920816135.html",
+      "images": [
+        "https://images.craigslist.org/d/7920816135/00w0w_fxwF9Bp34ZQ_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-22T19:01:20.980Z",
+      "id": "f1246036b9bb"
+    },
+    {
+      "title": "V-Kaza Ouellet - Brand‑New Villa in Exclusive Community Near the beach",
+      "price_text": "₡174,500,000",
+      "price_usd": 349000,
+      "location": "hace 2 h2br289ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/kaza-ouellet-brandnew-villa-in/7920814087.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-04-22T19:01:21.080Z",
+      "id": "066e79c288b9"
+    },
+    {
+      "title": "V-Patrcik Ju - Charming 2‑Story Home Just 2 Minutes from Playa Grande",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 2 h2br473ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/patrcik-ju-charming-2story-home-just/7920812368.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-22T19:01:21.178Z",
+      "id": "1a50091ea215"
+    },
+    {
+      "title": "V-Calvino Ju - House + Apartment in Central Huacas –Walk to Everything",
+      "price_text": "₡124,500,000",
+      "price_usd": 249000,
+      "location": "hace 2 h4br380ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/calvino-ju-house-apartment-in-central/7920810692.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-04-22T19:01:21.290Z",
+      "id": "b01f178b82f8"
+    },
+    {
+      "title": "V-Boho Ju - New Boho‑Style Home with Pool in Santa Rosa",
+      "price_text": "₡169,500,000",
+      "price_usd": 339000,
+      "location": "hace 2 h3br600ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/boho-ju-new-bohostyle-home-with-pool-in/7920808112.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-22T19:01:21.370Z",
+      "id": "9ccae69f9d7d"
+    },
+    {
+      "title": "V-Biagio - 150 m² Home on 8,800 m² Lot in Potrero – North of Tamarindo",
+      "price_text": "₡187,500,000",
+      "price_usd": 375000,
+      "location": "hace 2 h2br8800ft2Playa Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/biagio-home-on-8800-lot-in-potrero/7920816135.html",
+      "images": [
+        "https://images.craigslist.org/d/7920816135/00w0w_fxwF9Bp34ZQ_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-22T19:01:26.742Z",
+      "id": "f1246036b9bb"
+    },
+    {
+      "title": "V-Kaza Ouellet - Brand‑New Villa in Exclusive Community Near the beach",
+      "price_text": "₡174,500,000",
+      "price_usd": 349000,
+      "location": "hace 2 h2br289ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/kaza-ouellet-brandnew-villa-in/7920814087.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-04-22T19:01:26.841Z",
+      "id": "066e79c288b9"
+    },
+    {
+      "title": "V-Patrcik Ju - Charming 2‑Story Home Just 2 Minutes from Playa Grande",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 2 h2br473ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/patrcik-ju-charming-2story-home-just/7920812368.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-22T19:01:26.937Z",
+      "id": "1a50091ea215"
+    },
+    {
+      "title": "V-Calvino Ju - House + Apartment in Central Huacas –Walk to Everything",
+      "price_text": "₡124,500,000",
+      "price_usd": 249000,
+      "location": "hace 2 h4br380ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/calvino-ju-house-apartment-in-central/7920810692.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-04-22T19:01:27.035Z",
+      "id": "b01f178b82f8"
+    },
+    {
+      "title": "V-Boho Ju - New Boho‑Style Home with Pool in Santa Rosa",
+      "price_text": "₡169,500,000",
+      "price_usd": 339000,
+      "location": "hace 2 h3br600ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/boho-ju-new-bohostyle-home-with-pool-in/7920808112.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-22T19:01:27.114Z",
+      "id": "9ccae69f9d7d"
+    },
+    {
+      "title": "V-Biagio - 150 m² Home on 8,800 m² Lot in Potrero – North of Tamarindo",
+      "price_text": "₡187,500,000",
+      "price_usd": 375000,
+      "location": "hace 2 h2br8800ft2Playa Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/biagio-home-on-8800-lot-in-potrero/7920816135.html",
+      "images": [
+        "https://images.craigslist.org/d/7920816135/00w0w_fxwF9Bp34ZQ_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-22T19:01:32.445Z",
+      "id": "f1246036b9bb"
+    },
+    {
+      "title": "V-Kaza Ouellet - Brand‑New Villa in Exclusive Community Near the beach",
+      "price_text": "₡174,500,000",
+      "price_usd": 349000,
+      "location": "hace 2 h2br289ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/kaza-ouellet-brandnew-villa-in/7920814087.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-04-22T19:01:32.543Z",
+      "id": "066e79c288b9"
+    },
+    {
+      "title": "V-Patrcik Ju - Charming 2‑Story Home Just 2 Minutes from Playa Grande",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 2 h2br473ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/patrcik-ju-charming-2story-home-just/7920812368.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-22T19:01:32.639Z",
+      "id": "1a50091ea215"
+    },
+    {
+      "title": "V-Calvino Ju - House + Apartment in Central Huacas –Walk to Everything",
+      "price_text": "₡124,500,000",
+      "price_usd": 249000,
+      "location": "hace 2 h4br380ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/calvino-ju-house-apartment-in-central/7920810692.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-04-22T19:01:32.737Z",
+      "id": "b01f178b82f8"
+    },
+    {
+      "title": "V-Boho Ju - New Boho‑Style Home with Pool in Santa Rosa",
+      "price_text": "₡169,500,000",
+      "price_usd": 339000,
+      "location": "hace 2 h3br600ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/boho-ju-new-bohostyle-home-with-pool-in/7920808112.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-22T19:01:32.814Z",
+      "id": "9ccae69f9d7d"
+    },
+    {
+      "title": "V-Biagio - 150 m² Home on 8,800 m² Lot in Potrero – North of Tamarindo",
+      "price_text": "₡187,500,000",
+      "price_usd": 375000,
+      "location": "hace 2 h2br8800ft2Playa Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/biagio-home-on-8800-lot-in-potrero/7920816135.html",
+      "images": [
+        "https://images.craigslist.org/d/7920816135/00w0w_fxwF9Bp34ZQ_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-22T19:01:38.144Z",
+      "id": "f1246036b9bb"
+    },
+    {
+      "title": "V-Kaza Ouellet - Brand‑New Villa in Exclusive Community Near the beach",
+      "price_text": "₡174,500,000",
+      "price_usd": 349000,
+      "location": "hace 2 h2br289ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/kaza-ouellet-brandnew-villa-in/7920814087.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-04-22T19:01:38.245Z",
+      "id": "066e79c288b9"
+    },
+    {
+      "title": "V-Patrcik Ju - Charming 2‑Story Home Just 2 Minutes from Playa Grande",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 2 h2br473ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/patrcik-ju-charming-2story-home-just/7920812368.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-22T19:01:38.343Z",
+      "id": "1a50091ea215"
+    },
+    {
+      "title": "V-Calvino Ju - House + Apartment in Central Huacas –Walk to Everything",
+      "price_text": "₡124,500,000",
+      "price_usd": 249000,
+      "location": "hace 2 h4br380ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/calvino-ju-house-apartment-in-central/7920810692.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-04-22T19:01:38.441Z",
+      "id": "b01f178b82f8"
+    },
+    {
+      "title": "V-Boho Ju - New Boho‑Style Home with Pool in Santa Rosa",
+      "price_text": "₡169,500,000",
+      "price_usd": 339000,
+      "location": "hace 2 h3br600ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/boho-ju-new-bohostyle-home-with-pool-in/7920808112.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-22T19:01:38.523Z",
+      "id": "9ccae69f9d7d"
+    },
+    {
+      "title": "V-Biagio - 150 m² Home on 8,800 m² Lot in Potrero – North of Tamarindo",
+      "price_text": "₡187,500,000",
+      "price_usd": 375000,
+      "location": "hace 2 h2br8800ft2Playa Potrero, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/biagio-home-on-8800-lot-in-potrero/7920816135.html",
+      "images": [
+        "https://images.craigslist.org/d/7920816135/00w0w_fxwF9Bp34ZQ_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-22T19:01:43.850Z",
+      "id": "f1246036b9bb"
+    },
+    {
+      "title": "V-Kaza Ouellet - Brand‑New Villa in Exclusive Community Near the beach",
+      "price_text": "₡174,500,000",
+      "price_usd": 349000,
+      "location": "hace 2 h2br289ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/kaza-ouellet-brandnew-villa-in/7920814087.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-04-22T19:01:43.949Z",
+      "id": "066e79c288b9"
+    },
+    {
+      "title": "V-Patrcik Ju - Charming 2‑Story Home Just 2 Minutes from Playa Grande",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 2 h2br473ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/patrcik-ju-charming-2story-home-just/7920812368.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-22T19:01:44.046Z",
+      "id": "1a50091ea215"
+    },
+    {
+      "title": "V-Calvino Ju - House + Apartment in Central Huacas –Walk to Everything",
+      "price_text": "₡124,500,000",
+      "price_usd": 249000,
+      "location": "hace 2 h4br380ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/calvino-ju-house-apartment-in-central/7920810692.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-04-22T19:01:44.145Z",
+      "id": "b01f178b82f8"
+    },
+    {
+      "title": "V-Boho Ju - New Boho‑Style Home with Pool in Santa Rosa",
+      "price_text": "₡169,500,000",
+      "price_usd": 339000,
+      "location": "hace 2 h3br600ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://costarica.craigslist.org/reb/d/boho-ju-new-bohostyle-home-with-pool-in/7920808112.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-22T19:01:44.223Z",
+      "id": "9ccae69f9d7d"
+    },
+    {
+      "title": "PRICE REDUCTION! La Oveja Surf House Restaurant          Acuario Smart Home and Glamping Dome          The Enclave D6 ~ Sophisticated Seaside Escape with Premium Living",
+      "price_text": "Price:     US$ 550 000.00      Price:     US$ 557 000.00      Price:     US$ 558 000.00",
+      "price_usd": 550000.00557,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Negra      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/la-oveja-restaurant",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/17-La-Oveja-Surf%20House.jpg?itok=Mqc_a2QV",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/6-acuario-home-and-dome.png?itok=BnMXxAvk",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Enclave-D6.jpg?itok=KhAOAM52"
+      ],
+      "description": "La Oveja Restaurant is a fully renovated and operating restaurant and bar in the heart of Tamarindo Beach....          Welcome to Acuario, an Immaculate Smart Home & Dome in Playa Negra!\nThis property seamlessly blends...          This custom-built 3-bedroom, 2.5-bath home offers the perfect blend of comfort, style, and thoughtful design—...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-04-22T19:04:40.705Z",
+      "id": "4bada6450a20"
+    },
+    {
+      "title": "Casa Motmot ~ Fully Furnished Home with Pool in Ideal Location          PRICE ADJUSTMENT! Luxury IBIS Condo – 2 Bedroom Residence with...          La Esquina 8 ~ Spacious Luxury Condo in Exclusive Langosta...",
+      "price_text": "Price:     US$ 565 000.00      Price:     US$ 579 000.00      Price:     US$ 589 000.00",
+      "price_usd": 565000.00579,
+      "location": "Location:     Playa Potrero      Location:     Playa Tamarindo      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-motmot-surfside",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-mot-mot-2025.jpg?itok=5jxCdELa",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Ibis-5-Playa-Tamarindo.jpg?itok=AalJK0FG",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-esquina-8-playa-langosta.png?itok=jeggVgBn"
+      ],
+      "description": "Casa Motmot is a spacious, fully furnished home with a pool and garage, situated in the heart of Surfside...          Experience elevated coastal living in this elegant 2-bedroom, 2-bath IBIS condo, ideally positioned across...          Located within the exclusive La Esquina condominium in Playa Langosta, this 3-bedroom, 2-bathroom residence...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-04-22T19:04:41.031Z",
+      "id": "aa1682db34d1"
+    },
+    {
+      "title": "PRICE REDUCTION! Casa Arboleda ~ Exceptional Multi-Unit...          Casa Tempisque ~ Tranquil Retreat in Matapalo with Pool &...          FIRESALE! Villa Marseille ~ Imposing 4 Bedroom Ocean View Estate...",
+      "price_text": "Price:     US$ 595 000.00      Price:     US$ 599 000.00      Price:     US$ 600 000.00",
+      "price_usd": 595000.00599,
+      "location": "Location:     Tamarindo Areas      Location:     Tamarindo Areas      Location:     Playa Potrero",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-arboleda-pinilla",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1_CasaArboleda.jpg?itok=eVkTetI0",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-4-bedroom-matapalo-home.png?itok=gykVVxAb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/VM-22.jpg?itok=p0u220A6"
+      ],
+      "description": "If you're seeking an exceptional investment property in the thriving region of Guanacaste, look no further...          Located in the tranquil Matapalo area, just minutes from the stunning beaches of Guanacaste, this property...          Located in the province of Guanacaste on the north Pacific coast of Costa Rica, the villa is situated on the...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-04-22T19:04:41.500Z",
+      "id": "3d6e539ee5d9"
+    },
+    {
+      "title": "Casa Chameleon Homes and Condos          El Tesoro 12 ~ Dramatic Ocean Views in Exclusive Gated Community...          Luxury 5-Bedroom Ocean View Residence Near Downtown Tamarindo",
+      "price_text": "Price:     US$ 1 200 000.00      Price:     US$ 1 275 000.00      Price:     US$ 1 290 000.00",
+      "price_usd": 1200000.001275,
+      "location": "Location:     Playa Danta      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-chameleon-condos-homes-playa-danta",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-chamaleon-condominiums.png?itok=6HQIDObB",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/el-tesoro-tamarindo-lot.jpg?itok=cRbaHPsF",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-de-la-perla-2025.png?itok=rqdrrk_M"
+      ],
+      "description": "​​​​​​Welcome to Casa Chameleon! New luxurious beachside properties are now available in Costa Rica, located...          \n\tEl Tesoro stands out as Tamarindo’s most prestigious gated community, perfectly situated in the vibrant...          Just minutes from Tamarindo’s center yet tucked into a private hillside, this 5-bedroom, 4.5-bath luxury...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-04-22T19:04:51.870Z",
+      "id": "8b3d18fa11df"
+    },
+    {
+      "title": "Casa Leona ~ Boutique Hospitality Estate in Tamarindo Beach          Las Crestas de Senderos Home 11F ~ Senderos Phase Three           Casa Alegria ~ Perfect Blend of Comfort, Luxury, and Style",
+      "price_text": "Price:     US$ 3 950 000.00      Price:     US$ 3 950 000.00      Price:     US$ 3 990 000.00",
+      "price_usd": 3950000.00395,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Playa Danta",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-leona-boutique-hospitality-estate",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1_CasaLeona-resized.jpg?itok=-LFOfYge",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-11F-Senderos-Tamarindo.png?itok=iGmBZX4u",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-2-paseo-miraflores.png?itok=ULC_BKbY"
+      ],
+      "description": "Casa Leona is an exceptional boutique hospitality estate offering a rare blend of charm, versatility, and...          Delivery December 2024\nThis modern hideaway was created by the amazing team at WR Architects with one thing...          Introducing Casa Alegria at 2 Paseo Miraflores in the enchanting Las Catalinas, a newly custom-built...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-04-22T19:05:00.513Z",
+      "id": "ef0c73fd28bf"
     }
   ],
-  "last_updated": "2026-04-22T13:12:52.903Z",
+  "last_updated": "2026-04-22T19:06:19.857Z",
   "total_count": 402
 }
