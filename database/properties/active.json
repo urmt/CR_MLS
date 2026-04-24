@@ -25579,8 +25579,23 @@
       "category": "residential",
       "scraped_at": "2026-04-24T01:54:54.165Z",
       "id": "aa270f155cf8"
+    },
+    {
+      "title": "Jardines Bianca Estate - Expansive Multi-Home Retreat on 5,000 m2\n                Single Family Homes, Samara, Guanacaste",
+      "price_text": "$3,900,000",
+      "price_usd": 3900000,
+      "location": "Single Family Homes, Samara, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/10-bed-single-family-homes-for-sale-in-samara/13885",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-24T07:51:18.002Z",
+      "id": "b537c7d69cf7"
     }
   ],
-  "last_updated": "2026-04-24T02:00:04.187Z",
+  "last_updated": "2026-04-24T07:55:12.776Z",
   "total_count": 402
 }
