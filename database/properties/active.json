@@ -25705,8 +25705,23 @@
       "category": "land",
       "scraped_at": "2026-04-24T18:42:32.188Z",
       "id": "bbdbee961fc5"
+    },
+    {
+      "title": "Commercial space for sale in Plaza del Sol ID26299 KE\n                Commercial, Curridabat, San Jose",
+      "price_text": "$1,200,000",
+      "price_usd": 1200000,
+      "location": "Commercial, Curridabat, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-curridabat/14611",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-04-25T01:47:07.304Z",
+      "id": "5d684b8959d5"
     }
   ],
-  "last_updated": "2026-04-24T18:44:28.748Z",
+  "last_updated": "2026-04-25T01:50:28.873Z",
   "total_count": 402
 }
