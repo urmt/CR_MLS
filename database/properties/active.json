@@ -25417,8 +25417,53 @@
       "category": "land",
       "scraped_at": "2026-04-27T08:11:41.890Z",
       "id": "eefa7085e164"
+    },
+    {
+      "title": "Villa Santorini | Panoramic Oceanview Estate in Las Catalinas\n                Single Family Homes, Playa Danta, Guanacaste",
+      "price_text": "$9,800,000",
+      "price_usd": 9800000,
+      "location": "Single Family Homes, Playa Danta, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-single-family-homes-for-sale-in-playa-danta/12700",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-27T19:06:28.283Z",
+      "id": "62a47f7894ac"
+    },
+    {
+      "title": "Villa Santorini | Panoramic Oceanview Estate in Las Catalinas\n                Single Family Homes, Playa Danta, Guanacaste",
+      "price_text": "$9,800,000",
+      "price_usd": 9800000,
+      "location": "Single Family Homes, Playa Danta, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-single-family-homes-for-sale-in-playa-danta/12700",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00004T2efp/7bqeatxmn/midres/VillaSantorini%2840of58%29.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-27T19:08:52.115Z",
+      "id": "62a47f7894ac"
+    },
+    {
+      "title": "1,176-Acre Farm in Guanacaste with Rivers, FONAFIFO Reserve, and Airbnb Homes\n                Land, Bagaces, Guanacaste",
+      "price_text": "$6,600,000",
+      "price_usd": 6600000,
+      "location": "Land, Bagaces, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/9-bed-land-for-sale-in-bagaces/14631",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-04-27T19:09:11.720Z",
+      "id": "73fd747b3aab"
     }
   ],
-  "last_updated": "2026-04-27T13:26:46.374Z",
+  "last_updated": "2026-04-27T19:11:05.971Z",
   "total_count": 402
 }
