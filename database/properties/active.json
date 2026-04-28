@@ -25357,8 +25357,182 @@
       "category": "land",
       "scraped_at": "2026-04-27T19:09:11.720Z",
       "id": "73fd747b3aab"
+    },
+    {
+      "title": "Villa Romantica - A Coastal Retreat with Direct Access to a Private Beach\n                Single Family Homes, Hacienda Pinilla, Guanacaste",
+      "price_text": "$5,700,000",
+      "price_usd": 5700000,
+      "location": "Single Family Homes, Hacienda Pinilla, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-single-family-homes-for-sale-in-hacienda-pinilla/13882",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005qoXK7/ohxxtina1/midres/Pinilla%20Golondrinas%20Lot%20%2354%20%2837%29.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-04-28T02:07:33.543Z",
+      "id": "dc4b0a0e8308"
+    },
+    {
+      "title": "Casa Hilltop | Tamarindo Park - Stunning Oceanview Hilltop Retreat\n                Single Family Homes, Tamarindo, Guanacaste",
+      "price_text": "$4,600,000",
+      "price_usd": 4600000,
+      "location": "Single Family Homes, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-single-family-homes-for-sale-in-tamarindo/13912",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-04-28T02:07:43.800Z",
+      "id": "deb78a1d20bf"
+    },
+    {
+      "title": "Bosque Seco Homesites ~ Gated, Utilities Installed, Ready to...          Lote Shane ~ Prime Coastal Lot in Matapalo          Tierra Pacifica 9 ~ Stunning Plot of Land in a Gated Community",
+      "price_text": "Price:     US$ 150 000.00      Price:     US$ 175 000.00      Price:     US$ 179 000.00",
+      "price_usd": 150000.00175,
+      "location": "Location:     Tamarindo Areas      Location:     Tamarindo Areas      Location:     Playa Junquillal",
+      "url": "https://www.remax-oceansurf-cr.com/property/bosque-seco-homesites-villareal",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-%20Bosque%20Seco%20Aerial%201-resized-resized.PNG?itok=N71UQSBI",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Hidden-Valley-Matapalo-Lot.JPG?itok=6TQezY3Q",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/tierra-pacifica-9_53641971622_o.jpg?itok=OddOwJbG"
+      ],
+      "description": "Discover a rare opportunity to own spacious, build-ready homesites in Bosque Seco, a private gated...          Discover the potential of this exceptional 5,275-square-meter plot of land located in the picturesque area of...          Tierra Pacifica is an ideal ecological gated community, located just a mile from the beach at Playa...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-04-28T02:10:07.503Z",
+      "id": "15193cac9661"
+    },
+    {
+      "title": "Avellanas From Above ~ Discover Pochote Hills          Charming Two-Story Tamarindo Condo Walking Distance to the Beach          Lote Tamarindo Hill ~ Perfect Plot of Land Only Minutes to...",
+      "price_text": "Price:     US$ 239 900.00      Price:     US$ 240 000.00      Price:     US$ 250 000.00",
+      "price_usd": 239900.0024,
+      "location": "Location:     Playa Avellanas      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/pochote-hills",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/7-pochotes-hills-2025.png?itok=ScL28xr8",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-los-suen%CC%83os-iii-13.png?itok=SEB5UR_x",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Lote-Tamarindo-Hill.jpg?itok=AwCPB47t"
+      ],
+      "description": "Pochote Hills is a new gated community of 41 lots in the hills of Playa Avellanas, Guanacaste. This exclusive...          Nestled within a boutique 16-unit condominium community in Tamarindo, Costa Rica, Los Sueños III, Unit #13...          Come visit this lot perched on the hillside of Tamarindo. Walking distance to the beach and all the...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-04-28T02:10:08.217Z",
+      "id": "45a817a6166a"
+    },
+    {
+      "title": "Loma Verde 14 ~ Beautiful 2-Bedroom Home in Gated Community Near...          Move-In Ready 2-Bedroom Condo Minutes from Tamarindo Beach          Escondido Lot 95 ~ Gated 1.29-Acre Homesite Minutes from...",
+      "price_text": "Price:     US$ 269 000.00      Price:     US$ 270 000.00      Price:     US$ 275 000.00",
+      "price_usd": 269000.0027,
+      "location": "Location:     Tamarindo Areas      Location:     Tamarindo Areas      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/loma-verde-14-2-bedroom-home",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Gated-Community-House-Tamarindo.jpg?itok=MfqUr5UE",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/10-Palmas-Entrance.jpg?itok=73vKH0gl",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/8-5230m2-rancho-villareal-lot.png?itok=MvYjLhGB"
+      ],
+      "description": "This charming two-bedroom, two-bath home is fully furnished and in excellent condition, offering one of the...          Fantastic condominium located in the Palmas de Tamarindo condominium community in Villareal. Located just a...          Situated inside the secure, gated community of Rancho Villareal, Escondido 95 spans an impressive 5,230.78 m²...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-04-28T02:10:09.272Z",
+      "id": "db6360d1321f"
+    },
+    {
+      "title": "Casa Tempisque ~ Tranquil Retreat in Matapalo with Pool &...          FIRESALE! Villa Marseille ~ Imposing 4 Bedroom Ocean View Estate...          Brisas del Mar 15 ~ Turnkey Beachfront Condo with Ocean Views",
+      "price_text": "Price:     US$ 599 000.00      Price:     US$ 600 000.00      Price:     US$ 620 000.00",
+      "price_usd": 599000.006,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Potrero      Location:     Playa Junquillal",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-tempisque-matapalo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-4-bedroom-matapalo-home.png?itok=gykVVxAb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/VM-22.jpg?itok=p0u220A6",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/4-las-brisas-15.png?itok=msM82Yba"
+      ],
+      "description": "Located in the tranquil Matapalo area, just minutes from the stunning beaches of Guanacaste, this property...          Located in the province of Guanacaste on the north Pacific coast of Costa Rica, the villa is situated on the...          Few lifestyles offer the tranquility and satisfaction of owning a true oceanfront condo in Costa Rica—just...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-04-28T02:10:16.377Z",
+      "id": "35dc410170ab"
+    },
+    {
+      "title": "Sunrise 39 ~ Ocean View Condo Steps from Tamarindo Beach          Tamarindo Village Prime Land with Ocean Views           THIS ONE HAS TO GO, SELLER RELOCATING! Cabinas Lilou ~ Versatile...",
+      "price_text": "Price:     US$ 624 000.00      Price:     US$ 625 000.00      Price:     US$ 639 000.00",
+      "price_usd": 624000.00625,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Playa Junquillal",
+      "url": "https://www.remax-oceansurf-cr.com/property/sunrise-39",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-sunrise-39.png?itok=aXSgfRsI",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-989m2-tamarindo-lot.png?itok=lRUEaPx-",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/0-Cabinas-Loulou.jpg?itok=44RDIAll"
+      ],
+      "description": "Welcome to Sunrise #39 in the heart of Tamarindo. Located just steps from the world-famous surf beach! This 2...          Looking for the perfect property to build your dream ocean view home or multiple units with great rental...          Located just 650 meters from the beach in the heart of Playa Junquillal, this unique property offers a...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-04-28T02:10:16.750Z",
+      "id": "f722f4232f1d"
+    },
+    {
+      "title": "Casa Pura Chante ~ Beautiful Modern House Close to the Beach          Bocaraca 4 ~ Spacious 3-Bedroom Condo Steps from Tamarindo Beach          Air Homes ~ Tamarindo's Newest Luxury Condominiums...",
+      "price_text": "Price:     US$ 649 000.00      Price:     US$ 659 000.00      Price:     US$ 675 000.00",
+      "price_usd": 649000.00659,
+      "location": "Location:     Playa Junquillal      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-pura-chante",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-pura-chante.png?itok=dvdZNXjr",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/26-bocaraca-3-bedroom-unit.png?itok=wQaLM5Uj",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/6-air-homes-cwp-2024.jpg?itok=hRXc3Wi7"
+      ],
+      "description": "This beautiful brand new home is literally 102 yards from an idyllic, undiscovered beach in a community that...          This 3-bedroom, 3.5-bathroom condo is located on the first floor of the Bocaraca condominium, just a 220m (...          Welcome to Air Homes – an exclusive collection of 26 luxury condos in Playa Tamarindo, Costa Rica. Situated...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-04-28T02:10:17.140Z",
+      "id": "e7c61908f278"
+    },
+    {
+      "title": "Casa Chameleon Homes and Condos          PRICE REDUCTION! Flamingo Marina Cove 606 ~ Ground-Floor...          El Tesoro 12 ~ Dramatic Ocean Views in Exclusive Gated Community...",
+      "price_text": "Price:     US$ 1 200 000.00      Price:     US$ 1 250 000.00      Price:     US$ 1 275 000.00",
+      "price_usd": 1200000.00125,
+      "location": "Location:     Playa Danta      Location:     Playa Flamingo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-chameleon-condos-homes-playa-danta",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-chamaleon-condominiums.png?itok=6HQIDObB",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/35-flamingo-3-bedroom-condo-exterior-1.jpg?itok=cBGKokH6",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/el-tesoro-tamarindo-lot.jpg?itok=cRbaHPsF"
+      ],
+      "description": "​​​​​​Welcome to Casa Chameleon! New luxurious beachside properties are now available in Costa Rica, located...          This fully remodeled, ground-floor beachfront condo sits directly on Flamingo Beach and only 45 seconds from...          \n\tEl Tesoro stands out as Tamarindo’s most prestigious gated community, perfectly situated in the vibrant...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-04-28T02:10:26.862Z",
+      "id": "183951cea0b9"
+    },
+    {
+      "title": "Renovated 4-Bedroom Villa with Golf Views in Reserva Conchal          Casa Mistral ~ Ocean Views & Jungle Serenity          Enclave 49 ~ Luxury Living with Direct Beach Access",
+      "price_text": "Price:     US$ 1 750 000.00      Price:     US$ 1 765 000.00      Price:     US$ 1 790 000.00",
+      "price_usd": 1750000.001765,
+      "location": "Location:     Reserva Conchal      Location:     Playa Penca      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/villa-carao-11-reserva-conchal",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/52.-Villa-Carao-11.jpg?itok=L3hxr3Ma",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.Casa-Mistral.jpg?itok=4LKbfGBR",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.-Enclave-49-house-exterior.jpg?itok=5Npke5qV"
+      ],
+      "description": "Located in the prestigious gated community of Reserva Conchal, Villa Carao #11 offers a refined living...          Experience the perfect blend of luxury and tranquility with this breathtaking ocean-view residence, completed...          Welcome to Enclave 49, a luxurious ocean-view home located in the exclusive San Francisco Point community of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-04-28T02:10:33.206Z",
+      "id": "8fc5b0f543dc"
     }
   ],
-  "last_updated": "2026-04-27T19:11:33.716Z",
+  "last_updated": "2026-04-28T02:11:54.624Z",
   "total_count": 402
 }
