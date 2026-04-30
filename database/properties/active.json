@@ -25504,8 +25504,62 @@
       "category": "land",
       "scraped_at": "2026-04-30T02:12:02.624Z",
       "id": "e76665c697a9"
+    },
+    {
+      "title": "Casa Feliz de La Josefina - Spacious Family Estate           Turn-Key Oceanview Condo Overlooking Playa Flamingo          Senderos Lot 9E ~ Perfect Ocean View Plot of Land in Exclusive...",
+      "price_text": "Price:     US$ 540 000.00      Price:     US$ 549 000.00      Price:     US$ 549 000.00",
+      "price_usd": 540000.00549,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Flamingo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-feliz-de-la-josefina",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Casa-Feliz-Garden-1%20%281%29.jpeg?itok=1N8RSt7p",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/11-punta-plata-513.png?itok=ROg5sfrP",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-senderos-lot-immo.png?itok=IsgPXhAB"
+      ],
+      "description": "Casa Feliz sits on 1.25 acres (5,060m2), in the calm, quiet, and secure neighborhood of La Josefina, where...          Discover the perfect blend of oceanfront serenity and modern sophistication at Punta Plata 513, a beautifully...          This Ocean View Lot spans 1201m2 and is situated within the prestigious gated community of Senderos, just 1km...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-04-30T19:10:43.335Z",
+      "id": "5b20f84145a9"
+    },
+    {
+      "title": "BEST PRICED 5 BEDROOM IN THE ENCLAVE! The Enclave C3 ~ Now...          Beachfront Living at Its Finest ~ Horizontes del Mar 206 | Playa...          PRICE REDUCTION AND OWNER'S FINANCING OFFERED FOR 10 YEARS...",
+      "price_text": "Price:     US$ 799 000.00      Price:     US$ 825 000.00      Price:     US$ 825 000.00",
+      "price_usd": 799000.00825,
+      "location": "Location:     Playa Avellanas      Location:     Playa Langosta      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/the-enclave-c3-playa-avellanas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Enclave-C3.png?itok=AQ3wGpGU",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Horizontes%20Del%20Mar%20206-Beachfront-Condo-Langosta.jpg?itok=Orcd7ouU",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/31-The-Enclave-B6.jpg?itok=rS1qmwT3"
+      ],
+      "description": "Discover the best-priced resale available in The Enclave at Avellanas, a luxurious gated community located...          Welcome to Horizontes del Mar 206, a beautifully appointed 1,500 sq ft beachfront condominium located in the...          Owner's financing available with 40% down, for a period of 10 years and at an interest rate of 8.5%. Please...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-04-30T19:10:53.785Z",
+      "id": "46621d7f0ebe"
+    },
+    {
+      "title": "Casa Vista Escondida ~ Pinnacle of Coastal Luxury          Hotel Curiol ~ Boutique Jungle Hotel with Expansion Potential in...          Beachfront Lots in Playa Avellanas",
+      "price_text": "Price:     US$ 2 495 000.00      Price:     US$ 2 499 999.00      Price:     US$ 2 500 000.00",
+      "price_usd": 2495000.002499999,
+      "location": "Location:     Playa Penca      Location:     Playa Potrero      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/vista-escondida-pacific-heights",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-vista-escondida.png?itok=o8pWcISl",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-hotel-curiol-2026.png?itok=2QX-E4Iw",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-avellanas-lot.jpg?itok=47jJ7-lH"
+      ],
+      "description": "Introducing Casa Vista Escondida, an epitome of luxurious living nestled in the Pacific Heights enclave of...          Hotel Curiol presents a rare boutique hospitality opportunity in Potrero, Costa Rica, where thoughtfully...          Discover a rare opportunity to own two exceptional beachfront lots in the highly sought-after Playa Avellanas...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-04-30T19:11:05.016Z",
+      "id": "fe9f2035f682"
     }
   ],
-  "last_updated": "2026-04-30T13:29:31.390Z",
+  "last_updated": "2026-04-30T19:12:26.402Z",
   "total_count": 402
 }
