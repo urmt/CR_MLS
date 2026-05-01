@@ -25396,8 +25396,26 @@
       "category": "land",
       "scraped_at": "2026-04-30T19:11:05.016Z",
       "id": "fe9f2035f682"
+    },
+    {
+      "title": "Pacific Estates Lot 2          Tamarindo Hills ~ Beautiful Residential Ocean View Community in...          Ready-to-Build 1024m² Lot with Water & Electricity Near...",
+      "price_text": "Price:     US$ 200 000.00      Price:     US$ 211 875.00      Price:     US$ 219 000.00",
+      "price_usd": 200000.00211875,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Tamarindo      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/pacific-estates-2",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Pacific-Estates.jpeg?itok=YHQe-RAv",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/0-Tamarindo-Hills.jpeg?itok=nUzG8NEB",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-1024m2-avellanas-lot.png?itok=DNJfOe4d"
+      ],
+      "description": "Welcome to your slice of heaven in Villarreal, Tamarindo! This tranquil gated neighborhood gives you a unique...          Tamarindo Hills is a development of residential and commercial lots in Playa Tamarindo, just 1/2 mile from...          Tranquil Setting Near Playa Avellanas\nLocated in a peaceful and serene neighborhood, this 1024m² lot is the...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-05-01T02:15:55.357Z",
+      "id": "585030ed00e0"
     }
   ],
-  "last_updated": "2026-04-30T19:12:56.663Z",
+  "last_updated": "2026-05-01T02:17:41.706Z",
   "total_count": 402
 }
