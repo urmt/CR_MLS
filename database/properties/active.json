@@ -1,81 +1,6 @@
 {
   "properties": [
     {
-      "title": "Casa en Venta – La Vereda, Playa Jacó",
-      "price_text": "₡94,761,000",
-      "price_usd": 189522,
-      "location": "hace 29 min2br102ft2Playa Jaco",
-      "url": "https://costarica.craigslist.org/reb/d/casa-en-venta-la-vereda-playa-jac/7912308437.html",
-      "images": [
-        "https://images.craigslist.org/d/7912308437/00404_hMrMXELetdf_0pO0jm_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-02-01T04:23:28.121Z",
-      "id": "cd080a5c598d"
-    },
-    {
-      "title": "Casa en Venta – La Vereda, Playa Jacó",
-      "price_text": "₡94,761,000",
-      "price_usd": 189522,
-      "location": "hace 29 min2br102ft2Playa Jaco",
-      "url": "https://costarica.craigslist.org/reb/d/casa-en-venta-la-vereda-playa-jac/7912308437.html",
-      "images": [
-        "https://images.craigslist.org/d/7912308437/00404_hMrMXELetdf_0pO0jm_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-02-01T04:23:32.982Z",
-      "id": "cd080a5c598d"
-    },
-    {
-      "title": "Casa en Venta – La Vereda, Playa Jacó",
-      "price_text": "₡94,761,000",
-      "price_usd": 189522,
-      "location": "hace 29 min2br102ft2Playa Jaco",
-      "url": "https://costarica.craigslist.org/reb/d/casa-en-venta-la-vereda-playa-jac/7912308437.html",
-      "images": [
-        "https://images.craigslist.org/d/7912308437/00404_hMrMXELetdf_0pO0jm_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-02-01T04:23:37.802Z",
-      "id": "cd080a5c598d"
-    },
-    {
-      "title": "Casa en Venta – La Vereda, Playa Jacó",
-      "price_text": "₡94,761,000",
-      "price_usd": 189522,
-      "location": "hace 29 min2br102ft2Playa Jaco",
-      "url": "https://costarica.craigslist.org/reb/d/casa-en-venta-la-vereda-playa-jac/7912308437.html",
-      "images": [
-        "https://images.craigslist.org/d/7912308437/00404_hMrMXELetdf_0pO0jm_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-02-01T04:23:42.624Z",
-      "id": "cd080a5c598d"
-    },
-    {
-      "title": "Casa en Venta – La Vereda, Playa Jacó",
-      "price_text": "₡94,761,000",
-      "price_usd": 189522,
-      "location": "hace 30 min2br102ft2Playa Jaco",
-      "url": "https://costarica.craigslist.org/reb/d/casa-en-venta-la-vereda-playa-jac/7912308437.html",
-      "images": [
-        "https://images.craigslist.org/d/7912308437/00404_hMrMXELetdf_0pO0jm_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-02-01T04:23:47.440Z",
-      "id": "90d85fba3d42"
-    },
-    {
       "title": "Casa Naim ~ Perfect Blend of Luxury and Tranquility within an...          Alta Mar 169 ~ Stunning Ocean View Lot in Renown Gated Community          Villas Puesta de Sol ~ Tamarindo's Newest Condominium...",
       "price_text": "Price:     US$ 795 000.00      Price:     US$ 798 000.00      Price:     US$ 825 000.00",
       "price_usd": 795000.00798,
@@ -25323,6 +25248,6 @@
       "id": "5319d087494f"
     }
   ],
-  "last_updated": "2026-05-02T02:05:32.078Z",
+  "last_updated": "2026-05-02T07:26:49.485Z",
   "total_count": 402
 }
