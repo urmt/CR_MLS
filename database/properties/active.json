@@ -25246,8 +25246,98 @@
       "category": "land",
       "scraped_at": "2026-05-01T19:01:00.235Z",
       "id": "5319d087494f"
+    },
+    {
+      "title": "Move-In Ready Modern Home – Fully Furnished",
+      "price_text": "₡55,000,000",
+      "price_usd": 110000,
+      "location": "hace 5 h2br1290ft2El Progreso, Upala",
+      "url": "https://costarica.craigslist.org/reo/d/move-in-ready-modern-home-fully/7931831989.html",
+      "images": [
+        "https://images.craigslist.org/d/7931831989/00F0F_6Hhq0xbWNXT_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-03T18:46:04.175Z",
+      "id": "9dffb4fd84ef"
+    },
+    {
+      "title": "Move-In Ready Modern Home – Fully Furnished",
+      "price_text": "₡55,000,000",
+      "price_usd": 110000,
+      "location": "hace 5 h2br1290ft2El Progreso, Upala",
+      "url": "https://costarica.craigslist.org/reo/d/move-in-ready-modern-home-fully/7931831989.html",
+      "images": [
+        "https://images.craigslist.org/d/7931831989/00F0F_6Hhq0xbWNXT_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-03T18:46:09.110Z",
+      "id": "9dffb4fd84ef"
+    },
+    {
+      "title": "Move-In Ready Modern Home – Fully Furnished",
+      "price_text": "₡55,000,000",
+      "price_usd": 110000,
+      "location": "hace 5 h2br1290ft2El Progreso, Upala",
+      "url": "https://costarica.craigslist.org/reo/d/move-in-ready-modern-home-fully/7931831989.html",
+      "images": [
+        "https://images.craigslist.org/d/7931831989/00F0F_6Hhq0xbWNXT_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-03T18:46:14.013Z",
+      "id": "9dffb4fd84ef"
+    },
+    {
+      "title": "Move-In Ready Modern Home – Fully Furnished",
+      "price_text": "₡55,000,000",
+      "price_usd": 110000,
+      "location": "hace 5 h2br1290ft2El Progreso, Upala",
+      "url": "https://costarica.craigslist.org/reo/d/move-in-ready-modern-home-fully/7931831989.html",
+      "images": [
+        "https://images.craigslist.org/d/7931831989/00F0F_6Hhq0xbWNXT_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-03T18:46:18.908Z",
+      "id": "9dffb4fd84ef"
+    },
+    {
+      "title": "Move-In Ready Modern Home – Fully Furnished",
+      "price_text": "₡55,000,000",
+      "price_usd": 110000,
+      "location": "hace 5 h2br1290ft2El Progreso, Upala",
+      "url": "https://costarica.craigslist.org/reo/d/move-in-ready-modern-home-fully/7931831989.html",
+      "images": [
+        "https://images.craigslist.org/d/7931831989/00F0F_6Hhq0xbWNXT_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-03T18:46:23.805Z",
+      "id": "9dffb4fd84ef"
+    },
+    {
+      "title": "Signature Two-Story Beachfront Penthouse - Crystal Sands 504 in Playa Langosta\n                Condo, Langosta, Guanacaste",
+      "price_text": "$4,100,000",
+      "price_usd": 4100000,
+      "location": "Condo, Langosta, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/3-bed-condo-for-sale-in-langosta/14697",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-03T18:47:08.883Z",
+      "id": "f890ad02e280"
     }
   ],
-  "last_updated": "2026-05-03T12:56:53.103Z",
+  "last_updated": "2026-05-03T18:51:12.821Z",
   "total_count": 402
 }
