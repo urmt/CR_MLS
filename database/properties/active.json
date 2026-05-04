@@ -25318,8 +25318,233 @@
       "category": "residential",
       "scraped_at": "2026-05-03T18:47:08.883Z",
       "id": "f890ad02e280"
+    },
+    {
+      "title": "Great opportunity to get land on the Chirripo Mountain",
+      "price_text": "₡38,000,000",
+      "price_usd": 76000,
+      "location": "hace 4 hHerradura",
+      "url": "https://costarica.craigslist.org/reo/d/great-opportunity-to-get-land-on-the/7931986172.html",
+      "images": [
+        "https://images.craigslist.org/d/7931986172/00H0H_2fyZEmK5VE1_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-04T08:19:37.831Z",
+      "id": "3ad173afe846"
+    },
+    {
+      "title": "ELEGANT & SECURE FURNISHED HOUSE FOR SALE IN SARCHI NORTE",
+      "price_text": "₡190",
+      "price_usd": 0,
+      "location": "hace 6 h3br1207ft2Sarchi Norte",
+      "url": "https://costarica.craigslist.org/reo/d/elegant-secure-furnished-house-for-sale/7931973975.html",
+      "images": [
+        "https://images.craigslist.org/d/7931973975/00b0b_7MFiK3WmusH_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-04T08:19:37.935Z",
+      "id": "8d7701d11320"
+    },
+    {
+      "title": "ELEGANT & FURNISHED HOUSE FOR SALE IN THE VALLEY",
+      "price_text": "₡190",
+      "price_usd": 0,
+      "location": "hace 7 h3br1207ft2Sarchi Norte",
+      "url": "https://costarica.craigslist.org/reo/d/elegant-furnished-house-for-sale-in-the/7931971405.html",
+      "images": [
+        "https://images.craigslist.org/d/7931971405/00E0E_aRqgvVlpPB_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-04T08:19:38.008Z",
+      "id": "c3403b7101d0"
+    },
+    {
+      "title": "Great opportunity to get land on the Chirripo Mountain",
+      "price_text": "₡38,000,000",
+      "price_usd": 76000,
+      "location": "hace 4 hHerradura",
+      "url": "https://costarica.craigslist.org/reo/d/great-opportunity-to-get-land-on-the/7931986172.html",
+      "images": [
+        "https://images.craigslist.org/d/7931986172/00H0H_2fyZEmK5VE1_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-04T08:19:43.463Z",
+      "id": "3ad173afe846"
+    },
+    {
+      "title": "ELEGANT & SECURE FURNISHED HOUSE FOR SALE IN SARCHI NORTE",
+      "price_text": "₡190",
+      "price_usd": 0,
+      "location": "hace 6 h3br1207ft2Sarchi Norte",
+      "url": "https://costarica.craigslist.org/reo/d/elegant-secure-furnished-house-for-sale/7931973975.html",
+      "images": [
+        "https://images.craigslist.org/d/7931973975/00b0b_7MFiK3WmusH_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-04T08:19:43.550Z",
+      "id": "8d7701d11320"
+    },
+    {
+      "title": "ELEGANT & FURNISHED HOUSE FOR SALE IN THE VALLEY",
+      "price_text": "₡190",
+      "price_usd": 0,
+      "location": "hace 7 h3br1207ft2Sarchi Norte",
+      "url": "https://costarica.craigslist.org/reo/d/elegant-furnished-house-for-sale-in-the/7931971405.html",
+      "images": [
+        "https://images.craigslist.org/d/7931971405/00E0E_aRqgvVlpPB_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-04T08:19:43.624Z",
+      "id": "c3403b7101d0"
+    },
+    {
+      "title": "Great opportunity to get land on the Chirripo Mountain",
+      "price_text": "₡38,000,000",
+      "price_usd": 76000,
+      "location": "hace 4 hHerradura",
+      "url": "https://costarica.craigslist.org/reo/d/great-opportunity-to-get-land-on-the/7931986172.html",
+      "images": [
+        "https://images.craigslist.org/d/7931986172/00H0H_2fyZEmK5VE1_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-04T08:19:48.841Z",
+      "id": "3ad173afe846"
+    },
+    {
+      "title": "ELEGANT & SECURE FURNISHED HOUSE FOR SALE IN SARCHI NORTE",
+      "price_text": "₡190",
+      "price_usd": 0,
+      "location": "hace 6 h3br1207ft2Sarchi Norte",
+      "url": "https://costarica.craigslist.org/reo/d/elegant-secure-furnished-house-for-sale/7931973975.html",
+      "images": [
+        "https://images.craigslist.org/d/7931973975/00b0b_7MFiK3WmusH_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-04T08:19:48.927Z",
+      "id": "8d7701d11320"
+    },
+    {
+      "title": "ELEGANT & FURNISHED HOUSE FOR SALE IN THE VALLEY",
+      "price_text": "₡190",
+      "price_usd": 0,
+      "location": "hace 7 h3br1207ft2Sarchi Norte",
+      "url": "https://costarica.craigslist.org/reo/d/elegant-furnished-house-for-sale-in-the/7931971405.html",
+      "images": [
+        "https://images.craigslist.org/d/7931971405/00E0E_aRqgvVlpPB_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-04T08:19:48.999Z",
+      "id": "c3403b7101d0"
+    },
+    {
+      "title": "Great opportunity to get land on the Chirripo Mountain",
+      "price_text": "₡38,000,000",
+      "price_usd": 76000,
+      "location": "hace 4 hHerradura",
+      "url": "https://costarica.craigslist.org/reo/d/great-opportunity-to-get-land-on-the/7931986172.html",
+      "images": [
+        "https://images.craigslist.org/d/7931986172/00H0H_2fyZEmK5VE1_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-04T08:19:54.214Z",
+      "id": "3ad173afe846"
+    },
+    {
+      "title": "ELEGANT & SECURE FURNISHED HOUSE FOR SALE IN SARCHI NORTE",
+      "price_text": "₡190",
+      "price_usd": 0,
+      "location": "hace 6 h3br1207ft2Sarchi Norte",
+      "url": "https://costarica.craigslist.org/reo/d/elegant-secure-furnished-house-for-sale/7931973975.html",
+      "images": [
+        "https://images.craigslist.org/d/7931973975/00b0b_7MFiK3WmusH_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-04T08:19:54.302Z",
+      "id": "8d7701d11320"
+    },
+    {
+      "title": "ELEGANT & FURNISHED HOUSE FOR SALE IN THE VALLEY",
+      "price_text": "₡190",
+      "price_usd": 0,
+      "location": "hace 7 h3br1207ft2Sarchi Norte",
+      "url": "https://costarica.craigslist.org/reo/d/elegant-furnished-house-for-sale-in-the/7931971405.html",
+      "images": [
+        "https://images.craigslist.org/d/7931971405/00E0E_aRqgvVlpPB_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-04T08:19:54.376Z",
+      "id": "c3403b7101d0"
+    },
+    {
+      "title": "Great opportunity to get land on the Chirripo Mountain",
+      "price_text": "₡38,000,000",
+      "price_usd": 76000,
+      "location": "hace 4 hHerradura",
+      "url": "https://costarica.craigslist.org/reo/d/great-opportunity-to-get-land-on-the/7931986172.html",
+      "images": [
+        "https://images.craigslist.org/d/7931986172/00H0H_2fyZEmK5VE1_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-04T08:19:59.592Z",
+      "id": "3ad173afe846"
+    },
+    {
+      "title": "ELEGANT & SECURE FURNISHED HOUSE FOR SALE IN SARCHI NORTE",
+      "price_text": "₡190",
+      "price_usd": 0,
+      "location": "hace 6 h3br1207ft2Sarchi Norte",
+      "url": "https://costarica.craigslist.org/reo/d/elegant-secure-furnished-house-for-sale/7931973975.html",
+      "images": [
+        "https://images.craigslist.org/d/7931973975/00b0b_7MFiK3WmusH_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-04T08:19:59.679Z",
+      "id": "8d7701d11320"
+    },
+    {
+      "title": "ELEGANT & FURNISHED HOUSE FOR SALE IN THE VALLEY",
+      "price_text": "₡190",
+      "price_usd": 0,
+      "location": "hace 7 h3br1207ft2Sarchi Norte",
+      "url": "https://costarica.craigslist.org/reo/d/elegant-furnished-house-for-sale-in-the/7931971405.html",
+      "images": [
+        "https://images.craigslist.org/d/7931971405/00E0E_aRqgvVlpPB_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-04T08:19:59.752Z",
+      "id": "c3403b7101d0"
     }
   ],
-  "last_updated": "2026-05-04T02:09:21.955Z",
+  "last_updated": "2026-05-04T08:24:54.486Z",
   "total_count": 402
 }
