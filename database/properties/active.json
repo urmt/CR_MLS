@@ -25501,8 +25501,26 @@
       "category": "land",
       "scraped_at": "2026-05-08T02:14:33.107Z",
       "id": "71a04e1aaa85"
+    },
+    {
+      "title": "Casa Sunset ~ Turnkey Elegance Meets Panoramic Views           Rancho Coco ~ Multi-Unit Ranch Residence with Residential and...          Casa Flor Del Mar ~ Balinese-Inspired Luxury Villa in the Heart...",
+      "price_text": "Price:     US$ 1 490 000.00      Price:     US$ 1 490 000.00      Price:     US$ 1 495 000.00",
+      "price_usd": 1490000.00149,
+      "location": "Location:     Playa Flamingo      Location:     Playa Negra      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-sunset",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-buddha.png?itok=JgeL050B",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Rancho_Coco_Drone_01_marker.jpg?itok=UjGNzKNq",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Casa-Avellanas.jpeg?itok=fNsWU2PS"
+      ],
+      "description": "Welcome to Casa Sunset, a lovely and renovated 4-bedroom, 4.5-bath home with an ocean view. The home has just...          Set amidst the serene landscapes of Playa Negra, Rancho Coco offers an enticing opportunity for lucrative...          Discover Your Dream Villa in Playa Avellanas, Costa Rica\nStep into luxury with this fully furnished, turnkey...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-05-08T19:09:23.000Z",
+      "id": "d3b5116076a8"
     }
   ],
-  "last_updated": "2026-05-08T13:17:37.358Z",
+  "last_updated": "2026-05-08T19:10:54.160Z",
   "total_count": 402
 }
