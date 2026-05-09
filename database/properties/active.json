@@ -25519,8 +25519,83 @@
       "category": "land",
       "scraped_at": "2026-05-08T19:09:23.000Z",
       "id": "d3b5116076a8"
+    },
+    {
+      "title": "HOUSE + 4 STUDIO APARTMENTS FOR SALE",
+      "price_text": "₡160,000,000",
+      "price_usd": 320000,
+      "location": "hace 4 h3br600ft2Tamarindo",
+      "url": "https://costarica.craigslist.org/reb/d/house-studio-apartments-for-sale/7933071499.html",
+      "images": [
+        "https://images.craigslist.org/d/7933071499/00202_FSAyTNzzaw_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-09T02:06:28.927Z",
+      "id": "c9e9e058804c"
+    },
+    {
+      "title": "HOUSE + 4 STUDIO APARTMENTS FOR SALE",
+      "price_text": "₡160,000,000",
+      "price_usd": 320000,
+      "location": "hace 4 h3br600ft2Tamarindo",
+      "url": "https://costarica.craigslist.org/reb/d/house-studio-apartments-for-sale/7933071499.html",
+      "images": [
+        "https://images.craigslist.org/d/7933071499/00202_FSAyTNzzaw_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-09T02:06:34.531Z",
+      "id": "c9e9e058804c"
+    },
+    {
+      "title": "HOUSE + 4 STUDIO APARTMENTS FOR SALE",
+      "price_text": "₡160,000,000",
+      "price_usd": 320000,
+      "location": "hace 4 h3br600ft2Tamarindo",
+      "url": "https://costarica.craigslist.org/reb/d/house-studio-apartments-for-sale/7933071499.html",
+      "images": [
+        "https://images.craigslist.org/d/7933071499/00202_FSAyTNzzaw_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-09T02:06:40.064Z",
+      "id": "c9e9e058804c"
+    },
+    {
+      "title": "HOUSE + 4 STUDIO APARTMENTS FOR SALE",
+      "price_text": "₡160,000,000",
+      "price_usd": 320000,
+      "location": "hace 4 h3br600ft2Tamarindo",
+      "url": "https://costarica.craigslist.org/reb/d/house-studio-apartments-for-sale/7933071499.html",
+      "images": [
+        "https://images.craigslist.org/d/7933071499/00202_FSAyTNzzaw_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-09T02:06:45.604Z",
+      "id": "c9e9e058804c"
+    },
+    {
+      "title": "HOUSE + 4 STUDIO APARTMENTS FOR SALE",
+      "price_text": "₡160,000,000",
+      "price_usd": 320000,
+      "location": "hace 4 h3br600ft2Tamarindo",
+      "url": "https://costarica.craigslist.org/reb/d/house-studio-apartments-for-sale/7933071499.html",
+      "images": [
+        "https://images.craigslist.org/d/7933071499/00202_FSAyTNzzaw_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-09T02:06:51.090Z",
+      "id": "c9e9e058804c"
     }
   ],
-  "last_updated": "2026-05-08T19:11:29.366Z",
+  "last_updated": "2026-05-09T02:11:19.109Z",
   "total_count": 402
 }
