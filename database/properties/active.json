@@ -1,81 +1,6 @@
 {
   "properties": [
     {
-      "title": "VENTA DE PROPIEDAD CON CASA + RESTAURANTE",
-      "price_text": "₡217,800,000",
-      "price_usd": 435600,
-      "location": "hace 3 h4br7000ft2Tarbaca de Aserri",
-      "url": "https://costarica.craigslist.org/reb/d/venta-de-propiedad-con-casa-restaurante/7914245460.html",
-      "images": [
-        "https://images.craigslist.org/d/7914245460/00A0A_7tzlGsXWmJ4_0uY0hq_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-02-10T18:56:07.005Z",
-      "id": "cfa8b4f062a6"
-    },
-    {
-      "title": "VENTA DE PROPIEDAD CON CASA + RESTAURANTE",
-      "price_text": "₡217,800,000",
-      "price_usd": 435600,
-      "location": "hace 3 h4br7000ft2Tarbaca de Aserri",
-      "url": "https://costarica.craigslist.org/reb/d/venta-de-propiedad-con-casa-restaurante/7914245460.html",
-      "images": [
-        "https://images.craigslist.org/d/7914245460/00A0A_7tzlGsXWmJ4_0uY0hq_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-02-10T18:56:11.884Z",
-      "id": "cfa8b4f062a6"
-    },
-    {
-      "title": "VENTA DE PROPIEDAD CON CASA + RESTAURANTE",
-      "price_text": "₡217,800,000",
-      "price_usd": 435600,
-      "location": "hace 3 h4br7000ft2Tarbaca de Aserri",
-      "url": "https://costarica.craigslist.org/reb/d/venta-de-propiedad-con-casa-restaurante/7914245460.html",
-      "images": [
-        "https://images.craigslist.org/d/7914245460/00A0A_7tzlGsXWmJ4_0uY0hq_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-02-10T18:56:16.718Z",
-      "id": "cfa8b4f062a6"
-    },
-    {
-      "title": "VENTA DE PROPIEDAD CON CASA + RESTAURANTE",
-      "price_text": "₡217,800,000",
-      "price_usd": 435600,
-      "location": "hace 3 h4br7000ft2Tarbaca de Aserri",
-      "url": "https://costarica.craigslist.org/reb/d/venta-de-propiedad-con-casa-restaurante/7914245460.html",
-      "images": [
-        "https://images.craigslist.org/d/7914245460/00A0A_7tzlGsXWmJ4_0uY0hq_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-02-10T18:56:21.556Z",
-      "id": "cfa8b4f062a6"
-    },
-    {
-      "title": "VENTA DE PROPIEDAD CON CASA + RESTAURANTE",
-      "price_text": "₡217,800,000",
-      "price_usd": 435600,
-      "location": "hace 3 h4br7000ft2Tarbaca de Aserri",
-      "url": "https://costarica.craigslist.org/reb/d/venta-de-propiedad-con-casa-restaurante/7914245460.html",
-      "images": [
-        "https://images.craigslist.org/d/7914245460/00A0A_7tzlGsXWmJ4_0uY0hq_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-02-10T18:56:26.389Z",
-      "id": "cfa8b4f062a6"
-    },
-    {
       "title": "PRICE REDUCTION! Dream Home and Business Location          Solar-Powered Multi-Residence Estate in Finca Panama          5,000m² Lot in Playa Avellanas - Prime Investment Opportunity",
       "price_text": "Price:     US$ 520 000.00      Price:     US$ 525 000.00      Price:     US$ 525 000.00",
       "price_usd": 520000.00525,
@@ -25779,6 +25704,6 @@
       "id": "a6e55245dcc2"
     }
   ],
-  "last_updated": "2026-05-11T19:33:58.881Z",
+  "last_updated": "2026-05-11T19:34:40.236Z",
   "total_count": 402
 }
