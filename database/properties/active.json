@@ -1,21 +1,6 @@
 {
   "properties": [
     {
-      "title": "Antemar Estate - Private Dual Beachfront Residence\n                Single Family Homes, Playa Flamingo, Guanacaste",
-      "price_text": "$5,870,000",
-      "price_usd": 5870000,
-      "location": "Single Family Homes, Playa Flamingo, Guanacaste",
-      "url": "https://www.coldwellbankercostarica.com/property/8-bed-single-family-homes-for-sale-in-playa-flamingo/14028",
-      "images": [
-        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000060abFh/2e32dke4e/midres/ecc98f26-5d52-4d10-8698-cab854cd46c0.jpg"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "land",
-      "scraped_at": "2026-02-11T18:53:36.089Z",
-      "id": "4e290aca6f75"
-    },
-    {
       "title": "PRICE REDUCTION! The Oaks 94 ~ Ground-Floor Condo with Custom...          Tama Hills 4 ~ Modern 2-Bedroom Condo for Sale in Playa Tamarindo          Finca La Antigua ~ 8.67 acres of tranquility within minutes of...",
       "price_text": "Price:     US$ 293 000.00      Price:     US$ 299 000.00      Price:     US$ 299 000.00",
       "price_usd": 293000.00299,
@@ -25836,6 +25821,6 @@
       "id": "92255a07b69b"
     }
   ],
-  "last_updated": "2026-05-12T14:05:05.457Z",
+  "last_updated": "2026-05-12T19:35:26.315Z",
   "total_count": 402
 }
