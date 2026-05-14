@@ -25732,8 +25732,53 @@
       "category": "residential",
       "scraped_at": "2026-05-13T14:10:03.625Z",
       "id": "b38a86f98ce9"
+    },
+    {
+      "title": "A Private Luxury Sanctuary Above the Pacific\n                Single Family Homes, Playa Grande, Guanacaste",
+      "price_text": "$3,954,000",
+      "price_usd": 3954000,
+      "location": "Single Family Homes, Playa Grande, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-playa-grande/14034",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-14T02:29:08.467Z",
+      "id": "03e7901eae92"
+    },
+    {
+      "title": "Hidden Gem Villa - Brand New & Fully Furnished\n                Single Family Homes, Uvita, Puntarenas",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Single Family Homes, Uvita, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/3-bed-single-family-homes-for-sale-in-uvita/14763",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006XjcG7/p09s8wfzm/midres/DJI_0916-HDR.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-14T02:30:31.120Z",
+      "id": "703814321600"
+    },
+    {
+      "title": "Private and Peaceful Home with Pool For Sale\n                Single Family Homes, Atenas, Alajuela",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Single Family Homes, Atenas, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/2-bed-single-family-homes-for-sale-in-atenas/14764",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006oPSkx/p6ijt24bo/midres/WhatsApp%20Image%202026-05-13%20at%2011.54.47%20AM%20%2820%29.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-14T02:30:31.300Z",
+      "id": "81c9fcd7f5ca"
     }
   ],
-  "last_updated": "2026-05-13T19:48:07.997Z",
+  "last_updated": "2026-05-14T02:32:57.455Z",
   "total_count": 402
 }
