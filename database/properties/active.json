@@ -25741,8 +25741,77 @@
       "category": "luxury",
       "scraped_at": "2026-05-14T02:30:31.300Z",
       "id": "81c9fcd7f5ca"
+    },
+    {
+      "title": "14-Room Boutique Hotel/Party Villa with Exceptional ROI\n                Hotel / Leisure, Jaco, Puntarenas",
+      "price_text": "$1,500,000",
+      "price_usd": 1500000,
+      "location": "Hotel / Leisure, Jaco, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/14-bed-hotel-leisure-for-sale-in-jaco/13321",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-15T02:29:32.887Z",
+      "id": "c2b5ecda2bcc"
+    },
+    {
+      "title": "Casa Orquidea ~ Hacienda Pinilla          BACK ON THE MARKET! Casa Higueron ~ 4-Bedroom Luxury Home with 2...          Sanara 28 ~ Luxury Tropical Residence with Private Casita",
+      "price_text": "Price:     US$ 1 795 000.00      Price:     US$ 1 800 000.00      Price:     US$ 1 850 000.00",
+      "price_usd": 1795000.0018,
+      "location": "Location:     Hacienda-Pinilla      Location:     Playa Tamarindo      Location:     Reserva Conchal",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-orquidea-las-golondrinas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-orquidea.png?itok=NHJkqC2d",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Casa-Higueron.jpg?itok=9nRbn2eJ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/imgi_6_Sanara-28-3.jpg?itok=U8pyDfnV"
+      ],
+      "description": "The lovely residence is set within a beautifully landscaped 2,014m2 (½ acre) site, complemented by mature...          Located within the new luxury gated community of Tamarindo Park, this impressive residence is part of one of...          Welcome to Sanara 28, a refined tropical retreat located within the prestigious Reserva Conchal. Thoughtfully...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-05-15T02:31:08.194Z",
+      "id": "4a3f567ad209"
+    },
+    {
+      "title": "Green Turtle Townhomes ~ Four-Unit Modern Investment Complex in...          La Mansion ~ Double Beachfront Mixed Use Property          Las Crestas de Senderos Home 15F ~ Senderos Phase Three",
+      "price_text": "Price:     US$ 1 900 000.00      Price:     US$ 1 900 000.00      Price:     US$ 1 900 000.00",
+      "price_usd": 1900000.0019,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Potrero      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/green-turtle-townhomes",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/47-green-turtle-townhomes-2025.png?itok=EvFVIFok",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/23-la-mansion-potrero-2026.jpg?itok=RsdLUd5x",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-senderos-15f.jpeg?itok=ol42YayH"
+      ],
+      "description": "Introducing Green Turtle Townhomes, a contemporary residential complex featuring four brand-new and fully...          La Mansion is a rare double beachfront property in the Surfside and Flamingo area of Guanacaste, Costa Rica,...          Delivery December 2024\n“The Green Valley” home was conceptualized by Richard Muller and his team with the...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-05-15T02:31:08.572Z",
+      "id": "d52befd30b2e"
+    },
+    {
+      "title": "Hotel Curiol ~ Boutique Jungle Hotel with Expansion Potential in...          Beachfront Lots in Playa Avellanas          TINAJAS - Income Producing Property with Expansion Plans",
+      "price_text": "Price:     US$ 2 499 999.00      Price:     US$ 2 500 000.00      Price:     US$ 2 500 000.00",
+      "price_usd": 2499999.0025,
+      "location": "Location:     Playa Potrero      Location:     Playa Avellanas      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/hotel-curiol-playa-potrero",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-hotel-curiol-2026.png?itok=2QX-E4Iw",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-avellanas-lot.jpg?itok=47jJ7-lH",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/DSCF5321_0.jpg?itok=f1G9u2s7"
+      ],
+      "description": "Hotel Curiol presents a rare boutique hospitality opportunity in Potrero, Costa Rica, where thoughtfully...          Discover a rare opportunity to own two exceptional beachfront lots in the highly sought-after Playa Avellanas...          An exceptional investment opportunity in a prime location! The owner of this project is retiring and offering...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-05-15T02:31:10.243Z",
+      "id": "16b6c9bd44fa"
     }
   ],
-  "last_updated": "2026-05-14T19:35:10.802Z",
+  "last_updated": "2026-05-15T02:32:27.579Z",
   "total_count": 402
 }
