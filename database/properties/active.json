@@ -25183,8 +25183,41 @@
       "category": "land",
       "scraped_at": "2026-05-19T02:36:14.294Z",
       "id": "5b09cb01f5a1"
+    },
+    {
+      "title": "359 Acre Farm with Ocean View Flat Lands, Sustainable Teak Wood, & Native Forest\n                Land, Cobano, Puntarenas",
+      "price_text": "$6,600,000",
+      "price_usd": 6600000,
+      "location": "Land, Cobano, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-cobano/14068",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-19T09:31:42.503Z",
+      "id": "47405221e8d0"
+    },
+    {
+      "title": "Lote Tamarindo Hill ~ Perfect Plot of Land Only Minutes to...          Cabo Velas 18 ~ Spacious 3 Bedroom 3 Bath Condo Near Playa...          Oaks 39 ~ Best Deal at The Oaks, Lowest Priced Condo Available",
+      "price_text": "Price:     US$ 250 000.00      Price:     US$ 254 000.00      Price:     US$ 257 000.00",
+      "price_usd": 250000.00254,
+      "location": "Location:     Playa Tamarindo      Location:     Tamarindo Areas      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/lote-tamarindo-hill",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Lote-Tamarindo-Hill.jpg?itok=AwCPB47t",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/23-Overhead_drone_Cabo_vida_18.jpeg?itok=yfFsRrUb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/19-Oaks_Tamarindo_Costa_Rica_94_For%20_Rent_For_Sale.jpg?itok=e_wmqU4N"
+      ],
+      "description": "Come visit this lot perched on the hillside of Tamarindo. Walking distance to the beach and all the...          This spacious 3-bedroom, 3-bathroom condo is ideally located near Playa Grande Beach and Conchal Beach. It’s...          Welcome to The Oaks Condominiums, where comfort and convenience come together in an ideal location just 10...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-05-19T09:31:51.272Z",
+      "id": "7e3ff7b5fd1a"
     }
   ],
-  "last_updated": "2026-05-19T02:39:14.149Z",
+  "last_updated": "2026-05-19T09:33:37.231Z",
   "total_count": 402
 }
