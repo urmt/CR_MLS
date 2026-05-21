@@ -25438,8 +25438,26 @@
       "category": "land",
       "scraped_at": "2026-05-21T14:48:50.307Z",
       "id": "3b23139b136b"
+    },
+    {
+      "title": "Playa Negra Jungle Sanctuary          HUGE DISCOUNT ON LOTS - MONTANA DEL MAR, GATED COMMUNITY!...          A Slice of Paradise in Bosque Pinilla ~ 1,000m2 Lot with Water...",
+      "price_text": "Price:     US$ 45 000.00      Price:     US$ 59 000.00      Price:     US$ 75 000.00",
+      "price_usd": 45000.0059,
+      "location": "Location:     Playa Negra      Location:     Tamarindo Areas      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/playa-negra-jungle-sanctuary",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-jungle-sanctuary-playa-negra.png?itok=3Tj3Tl8t",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/MDM%20entrance.png?itok=cESZA5KF",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-derrick-bosques-de-pinilla.jpeg?itok=cr1pgZzk"
+      ],
+      "description": "Nestled atop the picturesque hills overlooking Playa Negra, Jungle Sanctuary presents an unparalleled retreat...          From US$ 59,000 to US$ 109,000\nMany people dream of living in Guanacaste, close to the beach, surrounded by...          \n\tWelcome to your slice of paradise in Bosque Pinilla, San Jose De Pinilla, Guanacaste, Costa Rica! This...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-05-21T19:47:36.927Z",
+      "id": "d88ef705a2a4"
     }
   ],
-  "last_updated": "2026-05-21T14:51:14.285Z",
+  "last_updated": "2026-05-21T19:49:32.798Z",
   "total_count": 402
 }
