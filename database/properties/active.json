@@ -25567,8 +25567,77 @@
       "category": "residential",
       "scraped_at": "2026-05-20T20:03:27.644Z",
       "id": "57929282b0d4"
+    },
+    {
+      "title": "Luxurious Casa Belmer\n                Single Family Homes, Dominical, Puntarenas",
+      "price_text": "$4,700,000",
+      "price_usd": 4700000,
+      "location": "Single Family Homes, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/3-bed-single-family-homes-for-sale-in-dominical/3613",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-21T02:34:48.392Z",
+      "id": "74a87bdc748a"
+    },
+    {
+      "title": "Casa Crucero ~ Modern 4 Bedroom Home in Tamarindo's Newest...          Turnkey Ocean View Home with Recent Upgrades in Gated Community          Langostas Hidden Treasure: Casa Maya",
+      "price_text": "Price:     US$ 1 100 000.00      Price:     US$ 1 122 000.00      Price:     US$ 1 150 000.00",
+      "price_usd": 1100000.001122,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Grande      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-crucero-residencias-de-tamarindo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5%20-casa-crucero-verde.jpeg?itok=12V8KF2X",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/27-casa-salinas.png?itok=W3fPMEhl",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-maya.png?itok=TI_pNKOD"
+      ],
+      "description": "Casa Crucero Verde feels like being on a cruise ship overlooking the canopy and then touching the Pacific...          Located in the quiet hills of Playa Grande within the gated community of Las Ventanas, this upgraded 3-...          Casa Maya presents a unique investment opportunity for the discerning buyer. Situated on a prime 500-square-...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-05-21T02:37:30.291Z",
+      "id": "3db5cc0c0218"
+    },
+    {
+      "title": "El Tesoro 12 ~ Dramatic Ocean Views in Exclusive Gated Community...          Luxury 5-Bedroom Ocean View Residence Near Downtown Tamarindo          La Esquina - Commercial Center in the Heart of Avellanas Beach",
+      "price_text": "Price:     US$ 1 275 000.00      Price:     US$ 1 290 000.00      Price:     US$ 1 300 000.00",
+      "price_usd": 1275000.00129,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/el-tesoro-ocean-view-parcel",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/el-tesoro-tamarindo-lot.jpg?itok=cRbaHPsF",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-de-la-perla-2025.png?itok=rqdrrk_M",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-La-Esquina-de-Avellanas-1.jpg?itok=2HyiV65u"
+      ],
+      "description": "El Tesoro stands out as Tamarindo’s most prestigious gated community, perfectly situated in the vibrant...          Just minutes from Tamarindo’s center yet tucked into a private hillside, this 5-bedroom, 4.5-bath luxury...          Welcome to La Esquina! Meaning \"The Corner\" in Spanish, Plaza La Esquina is the vibrant and culturally...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-05-21T02:37:30.973Z",
+      "id": "a6b571ba4b97"
+    },
+    {
+      "title": "Tranquil Retreat B&B Boutique Hotel in Playa Grande          Villa Ballena ~ Pinnacle of Luxury Living Sitting on the Sands...          Tamarindo 360 -  Live the Dream with an Ocean View Condo in...",
+      "price_text": "Price:     US$ 2 195 000.00      Price:     US$ 2 195 000.00      Price:     US$ 2 200 000.00",
+      "price_usd": 2195000.002195,
+      "location": "Location:     Playa Grande      Location:     Playa Potrero      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/kinamira-hotel-and-spa",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/0-kinamira-suites.jpg?itok=pGj3-nP3",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/83-villa-ballena.jpg?itok=wBgX_qeH",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Tamarindo-360.jpg?itok=mcUvmD3Q"
+      ],
+      "description": "Discover this Hotel and Spa, just 3 km (1.8 miles) from the stunning Playa Grande beach. Nestled in a lush...          Villa Ballena, meaning \"Whale House\" in Spanish, lives up to its name with nearly 5000 square feet of...          LIVING WELL IS THE BEST INVESTMENT! Tamarindo 360 is a good investment in the quality of life but it is also...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-05-21T02:37:38.981Z",
+      "id": "dd54d4a565e8"
     }
   ],
-  "last_updated": "2026-05-20T20:09:06.262Z",
+  "last_updated": "2026-05-21T02:39:14.573Z",
   "total_count": 402
 }
