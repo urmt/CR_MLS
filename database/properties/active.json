@@ -25408,8 +25408,110 @@
       "category": "land",
       "scraped_at": "2026-05-21T19:47:36.927Z",
       "id": "d88ef705a2a4"
+    },
+    {
+      "title": "Prime 2.25 Hectare Beachfront Concession Estate in Playa Carmen\n                Single Family Homes, Santa Teresa, Puntarenas",
+      "price_text": "$18,000,000",
+      "price_usd": 18000000,
+      "location": "Single Family Homes, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-single-family-homes-for-sale-in-santa-teresa/14088",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000065Jmpz/zekw4qkcn/midres/Seawing%20pic%20-%201.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-22T02:36:24.252Z",
+      "id": "e4bc05c46829"
+    },
+    {
+      "title": "Prime 2.25 Hectare Beachfront Concession Estate in Playa Carmen\n                Single Family Homes, Santa Teresa, Puntarenas",
+      "price_text": "$18,000,000",
+      "price_usd": 18000000,
+      "location": "Single Family Homes, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-single-family-homes-for-sale-in-santa-teresa/14088",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-22T02:38:37.061Z",
+      "id": "e4bc05c46829"
+    },
+    {
+      "title": "Guest House Apartments ~ Impeccable Multi-Unit Property with...          Oceanview Villa in Marbella: Luxury and Income Potential          Modern Coastal Living in Tamarindo’s Oro del Sol Community",
+      "price_text": "Price:     US$ 715 500.00      Price:     US$ 729 000.00      Price:     US$ 749 000.00",
+      "price_usd": 715500.00729,
+      "location": "Location:     Playa Flamingo      Location:     Playa Marbella      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/guest-house-apartments-rental-income-potential",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-guest-house-apartments_0.jpeg?itok=GXc2Sz6v",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/29-5-bedroom-home-in-marbella.jpeg?itok=Nx8VdcDb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-oro-del-sol-23-2026.png?itok=YqNcRmcl"
+      ],
+      "description": "This is an amazing opportunity to invest in the Flamingo Beach area, take advantage of the new marina, and...          Discover an extraordinary opportunity to own a breathtaking villa on 1.7 acres in Marbella, Costa Rica,...          Oro del Sol 23 is a newly built residence set within the highly desirable Oro del Sol community in Tamarindo...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-05-22T02:39:28.190Z",
+      "id": "7cef43dae1f0"
+    },
+    {
+      "title": "Casa Avalon ~ Brand-New 3 Bedroom Home in Gated Community          La Vista Condos Residencial - Part of the Diria Family Complex          Casa Matapalo ~ Beautiful Multi-Home Property with Detached...",
+      "price_text": "Price:     US$ 769 000.00      Price:     US$ 779 000.00      Price:     US$ 780 000.00",
+      "price_usd": 769000.00779,
+      "location": "Location:     Playa Brasilito      Location:     Playa Tamarindo      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-avalon-catalina-cove",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/CA-3.jpg?itok=zErTPQsa",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5-general-pics-la-vista-tower-c-october-2025.jpg?itok=COapoWEz",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1_8.jpg?itok=Lv0iKPZe"
+      ],
+      "description": "Introducing Casa Avalon, the newest addition to Catalina Cove, a gated community nestled in Brasilito, Costa...          La Vista Condos Residencial is an exclusive gated condominium found at the top of the hills of Playa...          Welcome to your Guanacaste paradise!\nThis spectacular property is located only 7 minutes from multiple...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-05-22T02:39:29.131Z",
+      "id": "cc8565a577b8"
+    },
+    {
+      "title": "25 Paseo del Mar ~ Modern Townhome with Open Layout and Stunning...          Spacious Multi-Use Property with Lots of Potential!           The Ultimate Ocean View Residence Walking Distance to the Beach...",
+      "price_text": "Price:     US$ 1 950 000.00      Price:     US$ 1 975 000.00      Price:     US$ 1 990 000.00",
+      "price_usd": 1950000.001975,
+      "location": "Location:     Playa Danta      Location:     Playa Flamingo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/25-paseo-del-mar-las-catalinas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-25-paseo-del-mar.jpg?itok=HLD71j97",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-multi-use-flamingo-property-2022.jpg?itok=IjeOCwpI",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Tamarindo360-unit-204-ocean-views.jpg?itok=wgR4UR_D"
+      ],
+      "description": "This beautiful and comfortable beachfront home sits just across the plaza from the Beach Club. Perfectly...          Welcome to your dream tropical home in the heart of Flamingo Beach, Guanacaste! This exceptional property...          Perched above Tamarindo with breathtaking panoramic ocean views, this brand-new luxury condo offers one of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-05-22T02:39:45.337Z",
+      "id": "e830b8e8f7cd"
+    },
+    {
+      "title": "Ultimate Beachfront Elegance in this 3-Bedroom Retreat          Casa de Mar ~ 5 Bedroom Masterpiece in Low-Density Beachfront...          Casa Pacifica: Expansive Luxury Estate with Unmatched Views",
+      "price_text": "Price:     US$ 3 600 000.00      Price:     US$ 3 750 000.00      Price:     US$ 3 790 000.00",
+      "price_usd": 3600000.00375,
+      "location": "Location:     Playa Flamingo      Location:     Hacienda-Pinilla      Location:     Playa Flamingo",
+      "url": "https://www.remax-oceansurf-cr.com/property/the-palms-33",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-palms-33.jpg?itok=eAGVdaol",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-de-mar.png?itok=jp15e0_7",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-casa-pacifica.png?itok=V3Gq_Z-w"
+      ],
+      "description": "Discover the epitome of beachfront luxury at Palms #33, a premier titled property nestled in the heart of...          Casa de Mar is located in the exclusive gated community of Dulce Vida, which is part of the Hacienda Pinilla...          Welcome to Casa Pacifica, where luxury living meets breathtaking ocean views. Situated 500 feet above sea...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-05-22T02:39:47.510Z",
+      "id": "7f244b58b74b"
     }
   ],
-  "last_updated": "2026-05-21T19:50:04.196Z",
+  "last_updated": "2026-05-22T02:41:04.079Z",
   "total_count": 402
 }
