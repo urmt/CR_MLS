@@ -25510,8 +25510,23 @@
       "category": "land",
       "scraped_at": "2026-05-22T02:39:47.510Z",
       "id": "7f244b58b74b"
+    },
+    {
+      "title": "Luxury Boutique Hotel in Playa Negra\n                Hotel / Leisure, Puerto Viejo, Limón",
+      "price_text": "$1,900,000",
+      "price_usd": 1900000,
+      "location": "Hotel / Leisure, Puerto Viejo, Limón",
+      "url": "https://www.coldwellbankercostarica.com/property/10-bed-hotel-leisure-for-sale-in-puerto-viejo/14832",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006qrfYf/fxfywio5r/midres/WhatsApp%20Image%202026-05-20%20at%2006.59.14.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-22T08:53:09.639Z",
+      "id": "986ba8a502d3"
     }
   ],
-  "last_updated": "2026-05-22T02:41:34.363Z",
+  "last_updated": "2026-05-22T08:55:50.449Z",
   "total_count": 402
 }
