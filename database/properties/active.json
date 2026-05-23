@@ -25537,8 +25537,83 @@
       "category": "residential",
       "scraped_at": "2026-05-23T02:16:12.107Z",
       "id": "26541cae42e9"
+    },
+    {
+      "title": "JUST LISTED! Commercial Lot close to New Grecia MALL",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 5 hGrecia",
+      "url": "https://costarica.craigslist.org/reb/d/just-listed-commercial-lot-close-to-new/7935614298.html",
+      "images": [
+        "https://images.craigslist.org/d/7935614298/00G0G_2OjLvQYUw57_0h80fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-23T18:58:19.309Z",
+      "id": "ad9160f402e6"
+    },
+    {
+      "title": "JUST LISTED! Commercial Lot close to New Grecia MALL",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 5 hGrecia",
+      "url": "https://costarica.craigslist.org/reb/d/just-listed-commercial-lot-close-to-new/7935614298.html",
+      "images": [
+        "https://images.craigslist.org/d/7935614298/00G0G_2OjLvQYUw57_0h80fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-23T18:58:24.195Z",
+      "id": "ad9160f402e6"
+    },
+    {
+      "title": "JUST LISTED! Commercial Lot close to New Grecia MALL",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 5 hGrecia",
+      "url": "https://costarica.craigslist.org/reb/d/just-listed-commercial-lot-close-to-new/7935614298.html",
+      "images": [
+        "https://images.craigslist.org/d/7935614298/00G0G_2OjLvQYUw57_0h80fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-23T18:58:29.045Z",
+      "id": "ad9160f402e6"
+    },
+    {
+      "title": "JUST LISTED! Commercial Lot close to New Grecia MALL",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 5 hGrecia",
+      "url": "https://costarica.craigslist.org/reb/d/just-listed-commercial-lot-close-to-new/7935614298.html",
+      "images": [
+        "https://images.craigslist.org/d/7935614298/00G0G_2OjLvQYUw57_0h80fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-23T18:58:33.887Z",
+      "id": "ad9160f402e6"
+    },
+    {
+      "title": "JUST LISTED! Commercial Lot close to New Grecia MALL",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 5 hGrecia",
+      "url": "https://costarica.craigslist.org/reb/d/just-listed-commercial-lot-close-to-new/7935614298.html",
+      "images": [
+        "https://images.craigslist.org/d/7935614298/00G0G_2OjLvQYUw57_0h80fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-23T18:58:38.883Z",
+      "id": "ad9160f402e6"
     }
   ],
-  "last_updated": "2026-05-23T13:10:33.664Z",
+  "last_updated": "2026-05-23T19:02:56.654Z",
   "total_count": 402
 }
