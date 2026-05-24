@@ -21268,8 +21268,3644 @@
       "category": "land",
       "scraped_at": "2026-05-23T18:58:38.883Z",
       "id": "ad9160f402e6"
+    },
+    {
+      "title": "Investment Opportunity, Exquisitely Located Boutique Hotel for Sale!\n                Hotel / Leisure, La Garita, Alajuela",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Hotel / Leisure, La Garita, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/48-bed-hotel-leisure-for-sale-in-la-garita/6414",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o00000yWs6W/z2c5x3ciw/midres/Screen%20Shot%202022-07-21%20at%2020.07.21.png"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:04:30.752Z",
+      "id": "01fd61ff4a84"
+    },
+    {
+      "title": "Legacy Estate Property and Developers Dream\n                Land, Matapalo, Puntarenas",
+      "price_text": "$19,950,000",
+      "price_usd": 19950000,
+      "location": "Land, Matapalo, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-matapalo/849",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o00000yWqZd/dl1rprgsh/midres/Land-11.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:04:31.071Z",
+      "id": "22f2c97c9249"
+    },
+    {
+      "title": "Natura Luxury Estate\n                Single Family Homes, La Garita, Alajuela",
+      "price_text": "$16,000,000",
+      "price_usd": 16000000,
+      "location": "Single Family Homes, La Garita, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-la-garita/2784",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C0V00000v0WfE/cuyitg54m/midres/2.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:04:31.365Z",
+      "id": "03a863e56955"
+    },
+    {
+      "title": "680-Acre Titled Beachfront Luxury Estate - Golfo Dulce, Osa Peninsula\n                Single Family Homes, Golfito, Puntarenas",
+      "price_text": "$14,500,000",
+      "price_usd": 14500000,
+      "location": "Single Family Homes, Golfito, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/15-bed-single-family-homes-for-sale-in-golfito/11919",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00002BIv0l/nvagb63he/midres/ConeCat-15.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:04:31.545Z",
+      "id": "36d560d14b29"
+    },
+    {
+      "title": "Playa Grande Titled Beachfront Land\n                Land, Playa Grande, Guanacaste",
+      "price_text": "$12,795,000",
+      "price_usd": 12795000,
+      "location": "Land, Playa Grande, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-playa-grande/8561",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:04:31.713Z",
+      "id": "dccc81908cef"
+    },
+    {
+      "title": "Land for Sale in El Guarco Cartago $57.40Xm2  ID24627\n                Land, San Isidro, Cartago",
+      "price_text": "$12,221,000",
+      "price_usd": 12221000,
+      "location": "Land, San Isidro, Cartago",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-san-isidro/13155",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:04:31.850Z",
+      "id": "26734695060d"
+    },
+    {
+      "title": "Las Pavas Amazing Income Producing Cattle Farm with Luxury Villa\n                Single Family Homes, Abangares, Guanacaste",
+      "price_text": "$12,000,000",
+      "price_usd": 12000000,
+      "location": "Single Family Homes, Abangares, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-single-family-homes-for-sale-in-abangares/1936",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:04:32.028Z",
+      "id": "118b24ac55aa"
+    },
+    {
+      "title": "Prestigious Work of Beachfront Artistry\n                Single Family Homes, Hacienda Pinilla, Guanacaste",
+      "price_text": "$11,500,000",
+      "price_usd": 11500000,
+      "location": "Single Family Homes, Hacienda Pinilla, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-hacienda-pinilla/13451",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:04:32.182Z",
+      "id": "58b21121fb10"
+    },
+    {
+      "title": "125-Acre Coastal Escape - Playa Grande\n                Land, Playa Grande, Guanacaste",
+      "price_text": "$8,000,000",
+      "price_usd": 8000000,
+      "location": "Land, Playa Grande, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-playa-grande/13067",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00004tYVON/qwk27pulz/midres/Untitled.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:04:40.779Z",
+      "id": "1358423c05df"
+    },
+    {
+      "title": "Cantomar Ocean Club Lot #11\n                Single Family Homes, Playa Flamingo, Guanacaste",
+      "price_text": "$7,985,000",
+      "price_usd": 7985000,
+      "location": "Single Family Homes, Playa Flamingo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-playa-flamingo/12199",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00003mK6KJ/u3mxh6mg6/midres/Cantomar_Lot11_1_adj.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:04:41.061Z",
+      "id": "2e7dd84bdcfe"
+    },
+    {
+      "title": "The Only Luxury Beachfront villa in Malpais\n                Single Family Homes, Malpais, Puntarenas",
+      "price_text": "$7,960,000",
+      "price_usd": 7960000,
+      "location": "Single Family Homes, Malpais, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-malpais/9640",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00000jSm14/0y7gpvpba/midres/Copy%20of%20Nativu-37.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:04:41.207Z",
+      "id": "54a678a287fe"
+    },
+    {
+      "title": "Masterpiece of Luxury at Peninsula Papagayo\n                Single Family Homes, Papagayo Gulf, Guanacaste",
+      "price_text": "$7,500,000",
+      "price_usd": 7500000,
+      "location": "Single Family Homes, Papagayo Gulf, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-papagayo-gulf/12620",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00004HEMbA/0if9h9ky8/midres/1.%20Private%20Pool%20Area.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:04:41.364Z",
+      "id": "2aa07815873e"
+    },
+    {
+      "title": "Ultra-Luxury Coastal Estate with Iconic Whale’s Tail Views\n                Land, Uvita, Puntarenas",
+      "price_text": "$7,000,000",
+      "price_usd": 7000000,
+      "location": "Land, Uvita, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-uvita/12044",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:04:41.582Z",
+      "id": "a1106fb3fb56"
+    },
+    {
+      "title": "Casa SolAngelo, The Crown Jewel of Tulemar\n                Single Family Homes, Manuel Antonio, Puntarenas",
+      "price_text": "$6,900,000",
+      "price_usd": 6900000,
+      "location": "Single Family Homes, Manuel Antonio, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-single-family-homes-for-sale-in-manuel-antonio/12640",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:04:41.742Z",
+      "id": "d7f62898b359"
+    },
+    {
+      "title": "Ocean View Luxury Villa Corazon in Escaleras\n                Single Family Homes, Dominical, Puntarenas",
+      "price_text": "$6,500,000",
+      "price_usd": 6500000,
+      "location": "Single Family Homes, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-dominical/9369",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:04:42.085Z",
+      "id": "7688a8f68c7a"
+    },
+    {
+      "title": "Uvita Black House\n                Single Family Homes, Uvita, Puntarenas",
+      "price_text": "$6,500,000",
+      "price_usd": 6500000,
+      "location": "Single Family Homes, Uvita, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-single-family-homes-for-sale-in-uvita/12209",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:04:42.189Z",
+      "id": "4622aeb72842"
+    },
+    {
+      "title": "Santa Teresa Commercial lot and Beachfront Property\n                Single Family Homes, Santa Teresa, Puntarenas",
+      "price_text": "$6,500,000",
+      "price_usd": 6500000,
+      "location": "Single Family Homes, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-single-family-homes-for-sale-in-santa-teresa/2548",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:04:42.356Z",
+      "id": "63a8ec576b75"
+    },
+    {
+      "title": "Casa Oolipka, Spectacular Surf View Luxury Estate Home and Guest House\n                Single Family Homes, Playa Guiones, Guanacaste",
+      "price_text": "$6,490,000",
+      "price_usd": 6490000,
+      "location": "Single Family Homes, Playa Guiones, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/9-bed-single-family-homes-for-sale-in-playa-guiones/1425",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:04:42.628Z",
+      "id": "395c980504cf"
+    },
+    {
+      "title": "6 Bed Luxury Home with Jaw Dropping Views\n                Single Family Homes, Tamarindo, Guanacaste",
+      "price_text": "$6,450,000",
+      "price_usd": 6450000,
+      "location": "Single Family Homes, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-tamarindo/11104",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000028M5wH/q9h21d1u5/midres/26E-2-1.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:04:48.146Z",
+      "id": "c2375c1a61ae"
+    },
+    {
+      "title": "Chateau Montage The Epitome of Luxury\n                Single Family Homes, Dominical, Puntarenas",
+      "price_text": "$6,149,000",
+      "price_usd": 6149000,
+      "location": "Single Family Homes, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-single-family-homes-for-sale-in-dominical/9360",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o000013oosC/7szeycif1/midres/Sunset-8.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:04:48.397Z",
+      "id": "5d832026f683"
+    },
+    {
+      "title": "Casa Axis - Luxury Home with Ocean Views\n                Single Family Homes, Tamarindo, Guanacaste",
+      "price_text": "$5,990,000",
+      "price_usd": 5990000,
+      "location": "Single Family Homes, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-tamarindo/13068",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00004tYmZA/hbs1o30d7/midres/ad.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:04:48.691Z",
+      "id": "87d5339a705a"
+    },
+    {
+      "title": "King of the Mountain 7 Bed Luxury Home\n                Single Family Homes, Tamarindo, Guanacaste",
+      "price_text": "$5,990,000",
+      "price_usd": 5990000,
+      "location": "Single Family Homes, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-single-family-homes-for-sale-in-tamarindo/11105",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000028LaDm/awxtgytcx/midres/26E-2-8-1.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:04:48.836Z",
+      "id": "182da353f709"
+    },
+    {
+      "title": "27 Cartagena | One-of-a-Kind Luxury Beachfront Residence\n                Single Family Homes, Playa Danta, Guanacaste",
+      "price_text": "$5,900,000",
+      "price_usd": 5900000,
+      "location": "Single Family Homes, Playa Danta, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-single-family-homes-for-sale-in-playa-danta/14382",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:04:49.007Z",
+      "id": "9e098c5439b9"
+    },
+    {
+      "title": "Villa Cosara Development A Luxurious Sanctuary Amidst Costa Rica's Nature\n                Land, Uvita, Puntarenas",
+      "price_text": "$5,800,000",
+      "price_usd": 5800000,
+      "location": "Land, Uvita, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-uvita/10550",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:04:49.172Z",
+      "id": "921f4c536300"
+    },
+    {
+      "title": "Acqua Blu\n                Single Family Homes, Dominical, Puntarenas",
+      "price_text": "$5,690,000",
+      "price_usd": 5690000,
+      "location": "Single Family Homes, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-dominical/13483",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:04:49.418Z",
+      "id": "9839baf69c20"
+    },
+    {
+      "title": "Cantomar Ocean Club Lot #12\n                Single Family Homes, Playa Flamingo, Guanacaste",
+      "price_text": "$5,575,000",
+      "price_usd": 5575000,
+      "location": "Single Family Homes, Playa Flamingo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-single-family-homes-for-sale-in-playa-flamingo/12198",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:04:49.695Z",
+      "id": "015e1afd04cd"
+    },
+    {
+      "title": "Premier Luxury Estate in the Mountains of Perez Zeledon\n                Single Family Homes, Perez Zeledon, San Jose",
+      "price_text": "$5,500,000",
+      "price_usd": 5500000,
+      "location": "Single Family Homes, Perez Zeledon, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/19-bed-single-family-homes-for-sale-in-perez-zeledon/11127",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:04:49.901Z",
+      "id": "6986059959cf"
+    },
+    {
+      "title": "The Residence in Costa Rica A Luxury Pre-Construction Beachfront Estate\n                Single Family Homes, Dominical, Puntarenas",
+      "price_text": "$5,500,000",
+      "price_usd": 5500000,
+      "location": "Single Family Homes, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-dominical/11231",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:04:50.093Z",
+      "id": "c7e6ff3bfaf0"
+    },
+    {
+      "title": "Ocean View Luxury Villa Frazier at Los Suenos Resort\n                Single Family Homes, Los Suenos, Puntarenas",
+      "price_text": "$5,490,000",
+      "price_usd": 5490000,
+      "location": "Single Family Homes, Los Suenos, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-los-suenos/13342",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:04:50.258Z",
+      "id": "e1e8b57133c1"
+    },
+    {
+      "title": "Exclusive W Residences in Reserva Conchal\n                Single Family Homes, Playa Conchal, Guanacaste",
+      "price_text": "$5,450,000",
+      "price_usd": 5450000,
+      "location": "Single Family Homes, Playa Conchal, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-single-family-homes-for-sale-in-playa-conchal/11383",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00002i0r7X/a171m0djd/midres/Capturadepantalla2024-10-25103858.png"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:04:57.393Z",
+      "id": "02a3ce2b3274"
+    },
+    {
+      "title": "Casa Nya · The Pinnacle of Coastal Living in Costa Rica\n                Single Family Homes, Hacienda Pinilla, Guanacaste",
+      "price_text": "$5,300,000",
+      "price_usd": 5300000,
+      "location": "Single Family Homes, Hacienda Pinilla, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-hacienda-pinilla/13161",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000054IC5z/261i4mt5j/midres/250908VillaNyaAICONHaciendaPinilla-227-scaled-rbv1wcgxetirb2r9udzaugpwk091r46i9qkdqbrltc.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:04:57.581Z",
+      "id": "0de438a430c5"
+    },
+    {
+      "title": "Naia Retreat - Playa Hermosa, Santa Teresa\n                Single Family Homes, Playa Hermosa Santa Teresa, Puntarenas",
+      "price_text": "$5,000,000",
+      "price_usd": 5000000,
+      "location": "Single Family Homes, Playa Hermosa Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-playa-hermosa-santa-teresa/13374",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005NIF7H/aakk6d9tx/midres/naia-baja-127.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:04:57.759Z",
+      "id": "8baa7631e691"
+    },
+    {
+      "title": "5 Acres with 5 Houses and Room to Expand in Malpais\n                Single Family Homes, Malpais, Puntarenas",
+      "price_text": "$5,000,000",
+      "price_usd": 5000000,
+      "location": "Single Family Homes, Malpais, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/10-bed-single-family-homes-for-sale-in-malpais/5525",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o000011KPqb/2hehze1xv/midres/IMG_0064Web.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:04:57.917Z",
+      "id": "0031669ffd84"
+    },
+    {
+      "title": "Villa Gitano - Beachfront Luxury Coastal Estate BTC ACCEPTED\n                Single Family Homes, Playa Hermosa, Puntarenas",
+      "price_text": "$4,995,000",
+      "price_usd": 4995000,
+      "location": "Single Family Homes, Playa Hermosa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-playa-hermosa/11537",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000030nExr/o4t06dgv6/midres/1.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:04:58.095Z",
+      "id": "957e1d24cb2c"
+    },
+    {
+      "title": "Spectacular 5 Bedroom Estate with Breathtaking Views in Prime Escazu Location\n                Single Family Homes, Escazu, San Jose",
+      "price_text": "$4,941,000",
+      "price_usd": 4941000,
+      "location": "Single Family Homes, Escazu, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-escazu/9017",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:04:58.500Z",
+      "id": "9953c2186048"
+    },
+    {
+      "title": "Small Boutique Hotel For Sale in Santa Ana 00874\n                Hotel / Leisure, Santa Ana, San Jose",
+      "price_text": "$4,900,000",
+      "price_usd": 4900000,
+      "location": "Hotel / Leisure, Santa Ana, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/50-bed-hotel-leisure-for-sale-in-santa-ana/6413",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:04:58.649Z",
+      "id": "4fbb074b1ff5"
+    },
+    {
+      "title": "Dominical Luxury Villas with Unrivaled Pacific Ocean and White Water Views\n                Single Family Homes, Dominical, Puntarenas",
+      "price_text": "$4,800,000",
+      "price_usd": 4800000,
+      "location": "Single Family Homes, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-single-family-homes-for-sale-in-dominical/4701",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:04:58.848Z",
+      "id": "c6ced468a3d2"
+    },
+    {
+      "title": "Dominical Luxury Villas with Unrivaled Pacific Ocean and White Water Views\n                Hotel / Leisure, Dominical, Puntarenas",
+      "price_text": "$4,800,000",
+      "price_usd": 4800000,
+      "location": "Hotel / Leisure, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-hotel-leisure-for-sale-in-dominical/8104",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:04:59.037Z",
+      "id": "44199b194ea2"
+    },
+    {
+      "title": "Stunning Boho-Chic Ocean View Estate in K Section, Walk to the Beach in 5 min\n                Single Family Homes, Nosara, Guanacaste",
+      "price_text": "$4,790,000",
+      "price_usd": 4790000,
+      "location": "Single Family Homes, Nosara, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-single-family-homes-for-sale-in-nosara/11685",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:04:59.384Z",
+      "id": "e7605515e062"
+    },
+    {
+      "title": "Ocean View Villa and Guest Houses Walking Distance to Santa Teresa Beach\n                Single Family Homes, Santa Teresa, Puntarenas",
+      "price_text": "$4,500,000",
+      "price_usd": 4500000,
+      "location": "Single Family Homes, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-santa-teresa/2048",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:04:59.824Z",
+      "id": "8be0c69bbbf6"
+    },
+    {
+      "title": "Casa Chameleon Residences House # 1-Overlooking the Beach Town of Las Catalinas\n                Single Family Homes, Playa Danta, Guanacaste",
+      "price_text": "$4,500,000",
+      "price_usd": 4500000,
+      "location": "Single Family Homes, Playa Danta, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-playa-danta/4909",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o000013oqc8/emtkmibf7/midres/original%20%281%29.png"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:05:10.055Z",
+      "id": "0081979e244b"
+    },
+    {
+      "title": "Unique Ojochal Estate near the Beach\n                Commercial, Ojochal, Puntarenas",
+      "price_text": "$4,500,000",
+      "price_usd": 4500000,
+      "location": "Commercial, Ojochal, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-commercial-for-sale-in-ojochal/9427",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00000dVCgs/psohagfxw/midres/Copia%20de%20PrincipalIMG_8478-HDR-1b.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:10.169Z",
+      "id": "11bb535b5dce"
+    },
+    {
+      "title": "Luxury Villa Ocean View Haven\n                Single Family Homes, Santa Teresa, Puntarenas",
+      "price_text": "$4,500,000",
+      "price_usd": 4500000,
+      "location": "Single Family Homes, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-santa-teresa/11488",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00002WKmFE/t3pnbnor8/midres/Swimming%20pool%204.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:05:10.321Z",
+      "id": "95fc9aff3b5d"
+    },
+    {
+      "title": "Casa Todo Bien & Guest House, South Ridge Playa Flamingo\n                Single Family Homes, Playa Flamingo, Guanacaste",
+      "price_text": "$4,400,000",
+      "price_usd": 4400000,
+      "location": "Single Family Homes, Playa Flamingo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-playa-flamingo/11425",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00002lCSao/q1ajb88ze/midres/Casa%20Todo%20Bien%20-%201.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:05:10.656Z",
+      "id": "0182ed0aa31c"
+    },
+    {
+      "title": "Casa Visión - Luxury Estate with Sweeping Ocean Views\n                Single Family Homes, Playa Flamingo, Guanacaste",
+      "price_text": "$4,395,000",
+      "price_usd": 4395000,
+      "location": "Single Family Homes, Playa Flamingo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-single-family-homes-for-sale-in-playa-flamingo/13178",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000055MqOE/q1xuolutn/midres/Casa_Vision_Twilight_02.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:05:10.823Z",
+      "id": "81c9647a5b30"
+    },
+    {
+      "title": "El Palacete Flamingo - 7BR Luxury Home with Vast Ocean Views\n                Single Family Homes, Playa Flamingo, Guanacaste",
+      "price_text": "$4,395,000",
+      "price_usd": 4395000,
+      "location": "Single Family Homes, Playa Flamingo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-single-family-homes-for-sale-in-playa-flamingo/11954",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:05:11.002Z",
+      "id": "68b48a2d105c"
+    },
+    {
+      "title": "Casa Chameleon Residences | Villa 3 - Sophisticated Coastal Luxury in Las Catali\n                Single Family Homes, Playa Danta, Guanacaste",
+      "price_text": "$4,350,000",
+      "price_usd": 4350000,
+      "location": "Single Family Homes, Playa Danta, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-playa-danta/12738",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:05:11.209Z",
+      "id": "3c07e79aec43"
+    },
+    {
+      "title": "Casa Chameleon Residences House #2, Overlooking the Beach Town of Las Catalinas\n                Single Family Homes, Playa Danta, Guanacaste",
+      "price_text": "$4,250,000",
+      "price_usd": 4250000,
+      "location": "Single Family Homes, Playa Danta, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-playa-danta/4987",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:05:11.414Z",
+      "id": "f2f02a2d7ade"
+    },
+    {
+      "title": "Casa de Los Sueños Brand New Luxury Estate\n                Single Family Homes, Tamarindo, Guanacaste",
+      "price_text": "$4,250,000",
+      "price_usd": 4250000,
+      "location": "Single Family Homes, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-tamarindo/12735",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:05:11.561Z",
+      "id": "499933550ae3"
+    },
+    {
+      "title": "Ocean and Jungle View Luxury Home in Exclusive Community\n                Single Family Homes, Tamarindo, Guanacaste",
+      "price_text": "$4,150,000",
+      "price_usd": 4150000,
+      "location": "Single Family Homes, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-tamarindo/11106",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:05:11.738Z",
+      "id": "5d0c84337c56"
+    },
+    {
+      "title": "Casa Alegria - 2 Paseo Miraflores\n                Single Family Homes, Playa Danta, Guanacaste",
+      "price_text": "$3,990,000",
+      "price_usd": 3990000,
+      "location": "Single Family Homes, Playa Danta, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-playa-danta/11423",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:05:12.144Z",
+      "id": "59b9b9dc39c5"
+    },
+    {
+      "title": "Spectacular Dream Rancho for Sale\n                Commercial, Atenas, Alajuela",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Commercial, Atenas, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-commercial-for-sale-in-atenas/2030",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o00000yWrBn/k5rny96kj/midres/2fce60_d2f4b6a1c78c4f4e9ab5bb3870a66942_mv2.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:19.674Z",
+      "id": "2ddccb203e13"
+    },
+    {
+      "title": "Coffee Mill Las Marias\n                Commercial, Heredia, Heredia",
+      "price_text": "$23,250,000",
+      "price_usd": 23250000,
+      "location": "Commercial, Heredia, Heredia",
+      "url": "https://www.coldwellbankercostarica.com/property/42-bed-commercial-for-sale-in-heredia/5278",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o000011KP81/j6wjws0q7/midres/Drone-11.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:19.765Z",
+      "id": "e34b4e54ed41"
+    },
+    {
+      "title": "Incredible property development in San Jose. 14732\n                Commercial, La Uruca, San Jose",
+      "price_text": "$13,300,000",
+      "price_usd": 13300000,
+      "location": "Commercial, La Uruca, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/20-bed-commercial-for-sale-in-la-uruca/2822",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o00000yWouh/h77ugwiof/midres/1.png"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:19.906Z",
+      "id": "dae60b11dd24"
+    },
+    {
+      "title": "Eco-Community Development Project Near Atenas\n                Commercial, San Pablo, San Jose",
+      "price_text": "$8,800,000",
+      "price_usd": 8800000,
+      "location": "Commercial, San Pablo, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-commercial-for-sale-in-san-pablo/10273",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00001CHFVD/ucdlv9p3j/midres/Capture%20d%E2%80%99e%CC%81cran%202024-05-07%20a%CC%80%2011.18.00.png"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:20.044Z",
+      "id": "cb30d4725556"
+    },
+    {
+      "title": "Profitable Investment Opportunity in Costa Ballena\n                Commercial, Ojochal, Puntarenas",
+      "price_text": "$7,500,000",
+      "price_usd": 7500000,
+      "location": "Commercial, Ojochal, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-ojochal/4561",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o000013opii/fljvz1uch/midres/DJI_0132_edit%20%28Large%29.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:20.187Z",
+      "id": "5965e96d895d"
+    },
+    {
+      "title": "Bulding for sale in Curridabat CR ID Edificio en venta en Curridabat CR ID 18605\n                Commercial, Curridabat, San Jose",
+      "price_text": "$7,500,000",
+      "price_usd": 7500000,
+      "location": "Commercial, Curridabat, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/1-bed-commercial-for-sale-in-curridabat/497",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o000013ops8/mkw5406ua/midres/Foto%2001.JPG"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:20.375Z",
+      "id": "855477ca61db"
+    },
+    {
+      "title": "Cap Rate 6.97% Office for sale in a corporate center in Escazú.\n                Commercial, Escazu, San Jose",
+      "price_text": "$6,378,840",
+      "price_usd": 6378840,
+      "location": "Commercial, Escazu, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/1-bed-commercial-for-sale-in-escazu/4296",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "commercial",
+      "scraped_at": "2026-05-24T13:05:20.531Z",
+      "id": "97d01b01775c"
+    },
+    {
+      "title": "Three-story building plus a parking basement in Curridabat\n                Commercial, Curridabat, San Jose",
+      "price_text": "$5,200,000",
+      "price_usd": 5200000,
+      "location": "Commercial, Curridabat, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/25-bed-commercial-for-sale-in-curridabat/3974",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:20.687Z",
+      "id": "a0e3682a3397"
+    },
+    {
+      "title": "Profitability 12%, Commercial Building in San Jose 12918\n                Commercial, San Jose, San Jose",
+      "price_text": "$5,000,000",
+      "price_usd": 5000000,
+      "location": "Commercial, San Jose, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-san-jose/1580",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:20.837Z",
+      "id": "95aec7d855ac"
+    },
+    {
+      "title": "Building for sale in Heredia, Belén ID21088 MA\n                Commercial, Belen, Heredia",
+      "price_text": "$4,800,000",
+      "price_usd": 4800000,
+      "location": "Commercial, Belen, Heredia",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-belen/9976",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:20.972Z",
+      "id": "b3179a411cc6"
+    },
+    {
+      "title": "Office building with warehouse 16039\n                Commercial, Belen, Heredia",
+      "price_text": "$4,750,000",
+      "price_usd": 4750000,
+      "location": "Commercial, Belen, Heredia",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-belen/3462",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:05:21.084Z",
+      "id": "ab031719ce3d"
+    },
+    {
+      "title": "Unique Ojochal Estate near the Beach\n                Commercial, Ojochal, Puntarenas",
+      "price_text": "$4,500,000",
+      "price_usd": 4500000,
+      "location": "Commercial, Ojochal, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-commercial-for-sale-in-ojochal/9427",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:21.262Z",
+      "id": "11bb535b5dce"
+    },
+    {
+      "title": "Cap Rate 10.9% Building with Triple A Client in San José ID22159\n                Commercial, San Jose, San Jose",
+      "price_text": "$4,300,000",
+      "price_usd": 4300000,
+      "location": "Commercial, San Jose, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/1-bed-commercial-for-sale-in-san-jose/10923",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:21.425Z",
+      "id": "41a54c56d72c"
+    },
+    {
+      "title": "Cap Rate 6.6% Commercial Building, San José Centro\n                Commercial, San Jose, San Jose",
+      "price_text": "$4,000,000",
+      "price_usd": 4000000,
+      "location": "Commercial, San Jose, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/10-bed-commercial-for-sale-in-san-jose/1830",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:21.568Z",
+      "id": "48938efae7bf"
+    },
+    {
+      "title": "Cape rate 8% building for sale with AAA clients\n                Commercial, Escazu, San Jose",
+      "price_text": "$4,000,000",
+      "price_usd": 4000000,
+      "location": "Commercial, Escazu, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-commercial-for-sale-in-escazu/12241",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:21.703Z",
+      "id": "8ecfa15ead86"
+    },
+    {
+      "title": "*Titled Waterfront Investment* Medical Center, Poolside Hotel, and Fine Dining\n                Commercial, Puerto Limon, Limón",
+      "price_text": "$3,500,000",
+      "price_usd": 3500000,
+      "location": "Commercial, Puerto Limon, Limón",
+      "url": "https://www.coldwellbankercostarica.com/property/30-bed-commercial-for-sale-in-puerto-limon/12751",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:21.889Z",
+      "id": "6ae0b8abdc83"
+    },
+    {
+      "title": "Financially rewarding Restaurant and Well Maintained Property  For Sale\n                Commercial, Naranjo, Alajuela",
+      "price_text": "$2,999,000",
+      "price_usd": 2999000,
+      "location": "Commercial, Naranjo, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-commercial-for-sale-in-naranjo/11771",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00003JCg8m/bgb6u41d2/midres/IMG_7679.JPG"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:27.427Z",
+      "id": "6b7593b85a4c"
+    },
+    {
+      "title": "Beach Hotel in Playa Chiquita\n                Commercial, Puerto Viejo, Limón",
+      "price_text": "$2,950,000",
+      "price_usd": 2950000,
+      "location": "Commercial, Puerto Viejo, Limón",
+      "url": "https://www.coldwellbankercostarica.com/property/10-bed-commercial-for-sale-in-puerto-viejo/13073",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00004v0JS2/h2r4y1ktz/midres/01.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:27.532Z",
+      "id": "17401a61bad8"
+    },
+    {
+      "title": "Cafe de Playa\n                Commercial, Playas Del Coco, Guanacaste",
+      "price_text": "$2,950,000",
+      "price_usd": 2950000,
+      "location": "Commercial, Playas Del Coco, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-commercial-for-sale-in-playas-del-coco/10999",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00001yRZjZ/smxw9mkm1/midres/Cafe-De-Playa-Beachfront-Hotel-and-Restaurant.1.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:27.626Z",
+      "id": "18f89cbb799e"
+    },
+    {
+      "title": "Brand New Commercial Plaza and Hotel at the Entrance of Ojochal\n                Commercial, Ojochal, Puntarenas",
+      "price_text": "$2,900,000",
+      "price_usd": 2900000,
+      "location": "Commercial, Ojochal, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-commercial-for-sale-in-ojochal/4722",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o000010cXLi/mnvygolrc/midres/1_29343743-52ed-4751-8511-74405a115883.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:27.787Z",
+      "id": "246f8b185bfa"
+    },
+    {
+      "title": "Building with Excellent Location to Develop in Curridabat\n                Commercial, Curridabat, San Jose",
+      "price_text": "$2,850,000",
+      "price_usd": 2850000,
+      "location": "Commercial, Curridabat, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-curridabat/2437",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o000010sSTa/c4dq5xpon/midres/1.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:27.942Z",
+      "id": "16393dcbffa9"
+    },
+    {
+      "title": "Cap Rate 8.2% Building with 18 apartments in Sabana Norte\n                Commercial, La Sabana, San Jose",
+      "price_text": "$2,750,000",
+      "price_usd": 2750000,
+      "location": "Commercial, La Sabana, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/18-bed-commercial-for-sale-in-la-sabana/9595",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:05:28.163Z",
+      "id": "763d5fc7d998"
+    },
+    {
+      "title": "Profitability 8% Shopping center in Guadalupe ID 23416\n                Commercial, Guadalupe, San Jose",
+      "price_text": "$2,500,000",
+      "price_usd": 2500000,
+      "location": "Commercial, Guadalupe, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/10-bed-commercial-for-sale-in-guadalupe/12077",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:28.312Z",
+      "id": "2097a03c8f0b"
+    },
+    {
+      "title": "Commercial Building with 3 Floors, Large Warehouse and Ample Parking, San Jose\n                Commercial, San Jose, San Jose",
+      "price_text": "$2,500,000",
+      "price_usd": 2500000,
+      "location": "Commercial, San Jose, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-commercial-for-sale-in-san-jose/3138",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:05:28.495Z",
+      "id": "0048c83b99e0"
+    },
+    {
+      "title": "Edificio en Venta en San José Centro\n                Commercial, San Jose, San Jose",
+      "price_text": "$2,500,000",
+      "price_usd": 2500000,
+      "location": "Commercial, San Jose, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-commercial-for-sale-in-san-jose/4489",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:28.747Z",
+      "id": "de82247ebaa5"
+    },
+    {
+      "title": "Cap Rate 9% shopping center in Heredia ID21854\n                Commercial, Heredia, Heredia",
+      "price_text": "$2,475,500",
+      "price_usd": 2475500,
+      "location": "Commercial, Heredia, Heredia",
+      "url": "https://www.coldwellbankercostarica.com/property/16-bed-commercial-for-sale-in-heredia/10602",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:28.881Z",
+      "id": "1950ba8d7c3b"
+    },
+    {
+      "title": "Building in sale in Escazú, San Rafael ID21168 MA\n                Commercial, Escazu, San Jose",
+      "price_text": "$2,200,000",
+      "price_usd": 2200000,
+      "location": "Commercial, Escazu, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/1-bed-commercial-for-sale-in-escazu/10146",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:29.029Z",
+      "id": "905d19c260d5"
+    },
+    {
+      "title": "Edificio en venta en Curridabat\n                Commercial, Curridabat, San Jose",
+      "price_text": "$2,000,000",
+      "price_usd": 2000000,
+      "location": "Commercial, Curridabat, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/10-bed-commercial-for-sale-in-curridabat/4378",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:29.141Z",
+      "id": "aeb26bb949bc"
+    },
+    {
+      "title": "Office building for sale in front of the TEC in Cartago 14960\n                Commercial, Oriental, Cartago",
+      "price_text": "$2,000,000",
+      "price_usd": 2000000,
+      "location": "Commercial, Oriental, Cartago",
+      "url": "https://www.coldwellbankercostarica.com/property/18-bed-commercial-for-sale-in-oriental/5215",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "commercial",
+      "scraped_at": "2026-05-24T13:05:29.297Z",
+      "id": "a0102b52f229"
+    },
+    {
+      "title": "Winery in San Francisco de Dos Ríos.\n                Commercial, Dos Rios, San Jose",
+      "price_text": "$2,000,000",
+      "price_usd": 2000000,
+      "location": "Commercial, Dos Rios, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/3-bed-commercial-for-sale-in-dos-rios/6336",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o000010sSN8/syedug4vz/midres/1.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:34.933Z",
+      "id": "44dfd29a7f38"
+    },
+    {
+      "title": "Multi-Home Estate with Endless Possibilities Just 13 Minutes from the Airport\n                Commercial, Desamparados, Alajuela",
+      "price_text": "$1,990,000",
+      "price_usd": 1990000,
+      "location": "Commercial, Desamparados, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/21-bed-commercial-for-sale-in-desamparados/13199",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000056v0T2/zb0hf5zyg/midres/dji_fly_20250923_110624_0006_1759210541648_photo.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:35.118Z",
+      "id": "b017cabcc631"
+    },
+    {
+      "title": "Rare Commercial Centre downtown Tamarindo\n                Commercial, Tamarindo, Guanacaste",
+      "price_text": "$1,950,000",
+      "price_usd": 1950000,
+      "location": "Commercial, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-commercial-for-sale-in-tamarindo/9979",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00000wJIA0/e258o0dbb/midres/profitable-business-opportunity-downtown-tamarindo-1.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:35.251Z",
+      "id": "8fce225f843a"
+    },
+    {
+      "title": "3 Cabins, A restaurant, 3 Bed House - Multiple Plantels in The Heart of Ojochal\n                Commercial, Ojochal, Puntarenas",
+      "price_text": "$1,800,000",
+      "price_usd": 1800000,
+      "location": "Commercial, Ojochal, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-commercial-for-sale-in-ojochal/10738",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00001dlxwu/2gfuzrgot/midres/1%20%2810%29.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:05:35.561Z",
+      "id": "05e521b8fd5b"
+    },
+    {
+      "title": "8 Home Subdivision in Uvita, Costa Rica\n                Commercial, Uvita, Puntarenas",
+      "price_text": "$1,790,000",
+      "price_usd": 1790000,
+      "location": "Commercial, Uvita, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/19-bed-commercial-for-sale-in-uvita/850",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:35.677Z",
+      "id": "17d6eaac8f14"
+    },
+    {
+      "title": "Building for sale in Sabanilla 17944\n                Commercial, Montes de Oca, San Jose",
+      "price_text": "$1,750,000",
+      "price_usd": 1750000,
+      "location": "Commercial, Montes de Oca, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/10-bed-commercial-for-sale-in-montes-de-oca/3884",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:35.811Z",
+      "id": "7be9a0939af7"
+    },
+    {
+      "title": "Beachside Multiplex | Private Access to Hermosa Beach\n                Commercial, Playa Hermosa, Puntarenas",
+      "price_text": "$1,699,000",
+      "price_usd": 1699000,
+      "location": "Commercial, Playa Hermosa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/11-bed-commercial-for-sale-in-playa-hermosa/13456",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:35.968Z",
+      "id": "b13467affa23"
+    },
+    {
+      "title": "Building for sale in Los Yoses ID 21070 ML\n                Commercial, Los Yoses, San Jose",
+      "price_text": "$1,508,000",
+      "price_usd": 1508000,
+      "location": "Commercial, Los Yoses, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/20-bed-commercial-for-sale-in-los-yoses/9954",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:36.106Z",
+      "id": "732ab469d194"
+    },
+    {
+      "title": "Cap Rate 6.5% Building with Triple A Client in San José ID22160\n                Commercial, San Jose, San Jose",
+      "price_text": "$1,503,000",
+      "price_usd": 1503000,
+      "location": "Commercial, San Jose, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/1-bed-commercial-for-sale-in-san-jose/10924",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:36.266Z",
+      "id": "84f483d35902"
+    },
+    {
+      "title": "FOR SALE, Commercial, Independent House, 6 Rooms, 4 Bath, Rohrmoser Boulevard\n                Commercial, Rohrmoser, San Jose",
+      "price_text": "$1,500,000",
+      "price_usd": 1500000,
+      "location": "Commercial, Rohrmoser, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-commercial-for-sale-in-rohrmoser/9791",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:05:36.447Z",
+      "id": "49d766bacf61"
+    },
+    {
+      "title": "Cap Rate 8% Building for sale in Curridabat\n                Commercial, Curridabat, San Jose",
+      "price_text": "$1,500,000",
+      "price_usd": 1500000,
+      "location": "Commercial, Curridabat, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/15-bed-commercial-for-sale-in-curridabat/4966",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:36.583Z",
+      "id": "ca61de9193dc"
+    },
+    {
+      "title": "Unique Manuel Antonio Investment Property with Seven Residences\n                Commercial, Manuel Antonio, Puntarenas",
+      "price_text": "$1,449,000",
+      "price_usd": 1449000,
+      "location": "Commercial, Manuel Antonio, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/11-bed-commercial-for-sale-in-manuel-antonio/10284",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:36.753Z",
+      "id": "704183419def"
+    },
+    {
+      "title": "Oficina en venta en Lindora, Santa Ana\n                Commercial, Santa Ana, San Jose",
+      "price_text": "$1,382,250",
+      "price_usd": 1382250,
+      "location": "Commercial, Santa Ana, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/1-bed-commercial-for-sale-in-santa-ana/7403",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:36.938Z",
+      "id": "14ceeca9e8f8"
+    },
+    {
+      "title": "Love Nosara, Spectacular Boutique Profitable Business, 2 min Walk to the Beach\n                Commercial, Nosara, Guanacaste",
+      "price_text": "$1,375,000",
+      "price_usd": 1375000,
+      "location": "Commercial, Nosara, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/1-bed-commercial-for-sale-in-nosara/9945",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00000vjRby/h82mupxr6/midres/0R6A5590-HDR.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:44.967Z",
+      "id": "f3849c14f719"
+    },
+    {
+      "title": "Office Building, Restaurant or Meeting Room in Lindora Santa Ana 12593\n                Commercial, Santa Ana, San Jose",
+      "price_text": "$1,350,000",
+      "price_usd": 1350000,
+      "location": "Commercial, Santa Ana, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-commercial-for-sale-in-santa-ana/8016",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o000010sS5T/ehbewumxy/midres/1.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "commercial",
+      "scraped_at": "2026-05-24T13:05:45.140Z",
+      "id": "2ed2f6783aa2"
+    },
+    {
+      "title": "Houses for sale in Cartago 21288\n                Commercial, Oriental, Cartago",
+      "price_text": "$1,317,000",
+      "price_usd": 1317000,
+      "location": "Commercial, Oriental, Cartago",
+      "url": "https://www.coldwellbankercostarica.com/property/12-bed-commercial-for-sale-in-oriental/10188",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000018XvwL/1v8fnuu4a/midres/WhatsApp%20Image%202024-04-26%20at%2017.32.23.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:05:45.248Z",
+      "id": "c71328798ced"
+    },
+    {
+      "title": "Community Driven Avellanas Business Center\n                Commercial, Avellanas, Guanacaste",
+      "price_text": "$1,300,000",
+      "price_usd": 1300000,
+      "location": "Commercial, Avellanas, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-avellanas/10303",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00001IYp6C/ocx2i5irm/midres/10_angelosandonaa7305152angelosandonaa7305156.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:45.387Z",
+      "id": "e1f9875870b7"
+    },
+    {
+      "title": "Unique Compound Property Offering Lifestyle and Investment Opportunities\n                Commercial, Atenas, Alajuela",
+      "price_text": "$1,300,000",
+      "price_usd": 1300000,
+      "location": "Commercial, Atenas, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/11-bed-commercial-for-sale-in-atenas/10235",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00001F0Mp6/507lcq7az/midres/IMG_20240516_101758.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:45.560Z",
+      "id": "9e1fd820f0df"
+    },
+    {
+      "title": "Commercial building for sale in Moravia  15770\n                Commercial, Moravia, San Jose",
+      "price_text": "$1,275,000",
+      "price_usd": 1275000,
+      "location": "Commercial, Moravia, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/1-bed-commercial-for-sale-in-moravia/6069",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o00000yWrMj/6mg8omorj/midres/thumbnail_IMG-20220608-WA0039.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:45.697Z",
+      "id": "fa6b79b8cc3b"
+    },
+    {
+      "title": "Exceptional Clothing Business for Sale in the Heart of Tamarindo\n                Commercial, Tamarindo, Guanacaste",
+      "price_text": "$1,250,000",
+      "price_usd": 1250000,
+      "location": "Commercial, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-tamarindo/13046",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:45.866Z",
+      "id": "0c3f5e31c4d2"
+    },
+    {
+      "title": "Cap Rate 6% Building for sale in San Sebastián 15809\n                Commercial, San Jose, San Jose",
+      "price_text": "$1,166,000",
+      "price_usd": 1166000,
+      "location": "Commercial, San Jose, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/26-bed-commercial-for-sale-in-san-jose/804",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:46.127Z",
+      "id": "fe877e881c5a"
+    },
+    {
+      "title": "Farm with 6 houses and restaurant for investment  17917\n                Commercial, Desamparados, San Jose",
+      "price_text": "$1,156,000",
+      "price_usd": 1156000,
+      "location": "Commercial, Desamparados, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/15-bed-commercial-for-sale-in-desamparados/1511",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:05:46.306Z",
+      "id": "913cbf2737ea"
+    },
+    {
+      "title": "Warehouse for sale in Ochomogo Cartago 15141\n                Commercial, Tres Ríos, Cartago",
+      "price_text": "$1,150,000",
+      "price_usd": 1150000,
+      "location": "Commercial, Tres Ríos, Cartago",
+      "url": "https://www.coldwellbankercostarica.com/property/2-bed-commercial-for-sale-in-tres-rios/3602",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:05:46.452Z",
+      "id": "15805500bc04"
+    },
+    {
+      "title": "Office Building/Call Center for Sale and Rent, Escazú\n                Commercial, Escazu, San Jose",
+      "price_text": "$1,150,000",
+      "price_usd": 1150000,
+      "location": "Commercial, Escazu, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/25-bed-commercial-for-sale-in-escazu/10974",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "commercial",
+      "scraped_at": "2026-05-24T13:05:46.597Z",
+      "id": "f4c6c77438db"
+    },
+    {
+      "title": "Apartment and warehouse building for Sale in Curridabat 18828\n                Commercial, Curridabat, San Jose",
+      "price_text": "$1,100,000",
+      "price_usd": 1100000,
+      "location": "Commercial, Curridabat, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-commercial-for-sale-in-curridabat/2455",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:05:46.759Z",
+      "id": "511a8dac8f23"
+    },
+    {
+      "title": "Edificio en Venta en San Pedro Centro\n                Commercial, Montes de Oca, San Jose",
+      "price_text": "$1,095,000",
+      "price_usd": 1095000,
+      "location": "Commercial, Montes de Oca, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-commercial-for-sale-in-montes-de-oca/7659",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:46.896Z",
+      "id": "07d799273582"
+    },
+    {
+      "title": "Two-Storey Building in Montelimar in Goicochea\n                Commercial, Guadalupe, San Jose",
+      "price_text": "$1,050,000",
+      "price_usd": 1050000,
+      "location": "Commercial, Guadalupe, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/15-bed-commercial-for-sale-in-guadalupe/2782",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:47.034Z",
+      "id": "3aa36d7b49b0"
+    },
+    {
+      "title": "Prime Commercial Property on the main road in Playas del Coco - Just 1 Mile from\n                Commercial, Playas Del Coco, Guanacaste",
+      "price_text": "$1,000,000",
+      "price_usd": 1000000,
+      "location": "Commercial, Playas Del Coco, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-playas-del-coco/13107",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:47.236Z",
+      "id": "c76afd0c64eb"
+    },
+    {
+      "title": "Perfect Commercial Property in the Center of Santa Teresa!\n                Commercial, Santa Teresa, Puntarenas",
+      "price_text": "$1,000,000",
+      "price_usd": 1000000,
+      "location": "Commercial, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-commercial-for-sale-in-santa-teresa/5524",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o000011KQ9Z/0sb7qkeuw/midres/P%20area%20Gato%201.png"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:54.894Z",
+      "id": "5cf775007be4"
+    },
+    {
+      "title": "Profitability 12%, Two-Storey Building with Government Tenant in Rohrmoser 12895\n                Commercial, Rohrmoser, San Jose",
+      "price_text": "$1,000,000",
+      "price_usd": 1000000,
+      "location": "Commercial, Rohrmoser, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-commercial-for-sale-in-rohrmoser/8191",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o000010sSZx/zwempf8n8/midres/0dsc01996.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:55.258Z",
+      "id": "f772a5374b28"
+    },
+    {
+      "title": "Finca Montebox: A Sustainable Coffee Legacy in Costa Rica\n                Commercial, Perez Zeledon, San Jose",
+      "price_text": "$999,000",
+      "price_usd": 999000,
+      "location": "Commercial, Perez Zeledon, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-commercial-for-sale-in-perez-zeledon/11944",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00003YBiic/5040nwq1m/midres/dji_fly_20250226_105914%E2%80%AFAM_974_1740589178987_photo.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:55.437Z",
+      "id": "7cadbc8726e2"
+    },
+    {
+      "title": "The Beehive Mediterranean Restaurant and Bar Commercial Property\n                Commercial, Uvita, Puntarenas",
+      "price_text": "$998,000",
+      "price_usd": 998000,
+      "location": "Commercial, Uvita, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-uvita/10277",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:55.652Z",
+      "id": "a954da62c5db"
+    },
+    {
+      "title": "Ideal Commercial and Residential property on the River\n                Commercial, Ojochal, Puntarenas",
+      "price_text": "$995,000",
+      "price_usd": 995000,
+      "location": "Commercial, Ojochal, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-ojochal/11343",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:55.799Z",
+      "id": "66f47101bc1b"
+    },
+    {
+      "title": "School with large land for sale in San Rafael Abajo Desamparados\n                Commercial, San Rafael, San Jose",
+      "price_text": "$990,000",
+      "price_usd": 990000,
+      "location": "Commercial, San Rafael, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-commercial-for-sale-in-san-rafael/10472",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:05:56.084Z",
+      "id": "a772a8e83af8"
+    },
+    {
+      "title": "Cap Rate 7.45% Office with Triple A Client in Escazú\n                Commercial, Escazu, San Jose",
+      "price_text": "$933,800",
+      "price_usd": 933800,
+      "location": "Commercial, Escazu, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/1-bed-commercial-for-sale-in-escazu/4381",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "commercial",
+      "scraped_at": "2026-05-24T13:05:56.279Z",
+      "id": "90ec3320ba94"
+    },
+    {
+      "title": "Investment Opportunity, Exquisitely Located Boutique Hotel for Sale!\n                Hotel / Leisure, La Garita, Alajuela",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Hotel / Leisure, La Garita, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/48-bed-hotel-leisure-for-sale-in-la-garita/6414",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o00000yWs6W/z2c5x3ciw/midres/Screen%20Shot%202022-07-21%20at%2020.07.21.png"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:02.585Z",
+      "id": "01fd61ff4a84"
+    },
+    {
+      "title": "Costa Rican Gem: Exclusive Hotel Retreat in Liberia\n                Hotel / Leisure, Liberia, Guanacaste",
+      "price_text": "$31,000,000",
+      "price_usd": 31000000,
+      "location": "Hotel / Leisure, Liberia, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/64-bed-hotel-leisure-for-sale-in-liberia/9497",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00000es4Zs/oetwxa4j2/midres/20240123_142531.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:02.738Z",
+      "id": "e4a31df7f90d"
+    },
+    {
+      "title": "90 Hectare Jungle Oasis in the Mountains of Mal Pais\n                Hotel / Leisure, Puntarenas, Puntarenas",
+      "price_text": "$20,000,000",
+      "price_usd": 20000000,
+      "location": "Hotel / Leisure, Puntarenas, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-hotel-leisure-for-sale-in-puntarenas/998",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o000010sTo4/liavawr5s/midres/_DSC3284.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:02.897Z",
+      "id": "7a779f6e6a19"
+    },
+    {
+      "title": "Beachfront hotel for sale\n                Hotel / Leisure, Playa Potrero, Guanacaste",
+      "price_text": "$17,000,000",
+      "price_usd": 17000000,
+      "location": "Hotel / Leisure, Playa Potrero, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/30-bed-hotel-leisure-for-sale-in-playa-potrero/3913",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0Cd000000iXz22/p1abbjs7331s0k1t0fjqh1os9jig8/midres/Potrero4.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:03.012Z",
+      "id": "90229b571f93"
+    },
+    {
+      "title": "The Garden of Timelessness - 135-Acre Sanctuary Near Chirripó National Park\n                Hotel / Leisure, Perez Zeledon, San Jose",
+      "price_text": "$8,000,000",
+      "price_usd": 8000000,
+      "location": "Hotel / Leisure, Perez Zeledon, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/24-bed-hotel-leisure-for-sale-in-perez-zeledon/13393",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005OCaYq/lk8yc072v/midres/Montan%CC%83a%20azul%20-1.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:03.306Z",
+      "id": "da545614255e"
+    },
+    {
+      "title": "Great Opportunity for a Hotel Operation in Gatun Lake, Panama\n                Hotel / Leisure, Colon, Panama",
+      "price_text": "$7,500,000",
+      "price_usd": 7500000,
+      "location": "Hotel / Leisure, Colon, Panama",
+      "url": "https://www.coldwellbankercostarica.com/property/310-bed-hotel-leisure-for-sale-in-colon/3252",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:03.464Z",
+      "id": "095e29421dca"
+    },
+    {
+      "title": "Hermosa Falls Estates 112 Acre Development Opportunity\n                Hotel / Leisure, Jaco, Puntarenas",
+      "price_text": "$6,700,000",
+      "price_usd": 6700000,
+      "location": "Hotel / Leisure, Jaco, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/hotel-leisure-for-sale-in-jaco/9393",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:06:03.617Z",
+      "id": "86e46e1d83be"
+    },
+    {
+      "title": "Ultimate Eco Lodge Laguna Vista Surrounded by Natural Lagoon OSA\n                Hotel / Leisure, Cabo Matapalo, Puntarenas",
+      "price_text": "$6,125,000",
+      "price_usd": 6125000,
+      "location": "Hotel / Leisure, Cabo Matapalo, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/9-bed-hotel-leisure-for-sale-in-cabo-matapalo/3558",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:03.903Z",
+      "id": "796db55e6064"
+    },
+    {
+      "title": "Amazing jungle volcano hotel\n                Hotel / Leisure, Alajuela, Alajuela",
+      "price_text": "$5,900,000",
+      "price_usd": 5900000,
+      "location": "Hotel / Leisure, Alajuela, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/20-bed-hotel-leisure-for-sale-in-alajuela/6189",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:04.014Z",
+      "id": "1ef63ef37156"
+    },
+    {
+      "title": "Boutique Hotel Beachfront Development\n                Hotel / Leisure, Santa Teresa, Puntarenas",
+      "price_text": "$5,625,000",
+      "price_usd": 5625000,
+      "location": "Hotel / Leisure, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-hotel-leisure-for-sale-in-santa-teresa/3160",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:04.154Z",
+      "id": "e4788836b79a"
+    },
+    {
+      "title": "Beautiful Hotel with 46 Rooms in Operation in Santa Ana with Excellent Business\n                Hotel / Leisure, Santa Ana, San Jose",
+      "price_text": "$5,000,000",
+      "price_usd": 5000000,
+      "location": "Hotel / Leisure, Santa Ana, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/47-bed-hotel-leisure-for-sale-in-santa-ana/1170",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:04.345Z",
+      "id": "5dada3262302"
+    },
+    {
+      "title": "Corcovado Tent Camp\n                Hotel / Leisure, Drake Bay, Puntarenas",
+      "price_text": "$4,950,000",
+      "price_usd": 4950000,
+      "location": "Hotel / Leisure, Drake Bay, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/28-bed-hotel-leisure-for-sale-in-drake-bay/9297",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:04.448Z",
+      "id": "a1d61ad7d69f"
+    },
+    {
+      "title": "Self Sustaining Beachfront Opportunity North of Cabo Matapalo\n                Hotel / Leisure, Cabo Matapalo, Puntarenas",
+      "price_text": "$4,950,000",
+      "price_usd": 4950000,
+      "location": "Hotel / Leisure, Cabo Matapalo, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/18-bed-hotel-leisure-for-sale-in-cabo-matapalo/2801",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:04.624Z",
+      "id": "a1a29d165fdc"
+    },
+    {
+      "title": "Small Boutique Hotel For Sale in Santa Ana 00874\n                Hotel / Leisure, Santa Ana, San Jose",
+      "price_text": "$4,900,000",
+      "price_usd": 4900000,
+      "location": "Hotel / Leisure, Santa Ana, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/50-bed-hotel-leisure-for-sale-in-santa-ana/6413",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:04.781Z",
+      "id": "4fbb074b1ff5"
+    },
+    {
+      "title": "Dominical Luxury Villas with Unrivaled Pacific Ocean and White Water Views\n                Hotel / Leisure, Dominical, Puntarenas",
+      "price_text": "$4,800,000",
+      "price_usd": 4800000,
+      "location": "Hotel / Leisure, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-hotel-leisure-for-sale-in-dominical/8104",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0Cd000000OYhOM/s99ssxz3b/midres/Miles-Photography-180427-DJI_0776-IG.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:06:12.724Z",
+      "id": "44199b194ea2"
+    },
+    {
+      "title": "Nosara Beach Hostel\n                Hotel / Leisure, Playa Guiones, Guanacaste",
+      "price_text": "$4,700,000",
+      "price_usd": 4700000,
+      "location": "Hotel / Leisure, Playa Guiones, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-hotel-leisure-for-sale-in-playa-guiones/7846",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o00000yWpW9/mp0jnc2ly/midres/2e66822d-6bdf-401a-ba35-0dfcfa0e87d1.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:12.987Z",
+      "id": "40868bb5f776"
+    },
+    {
+      "title": "TAMBOR BAY BEACHFRONT HOTEL\n                Hotel / Leisure, Tambor, Puntarenas",
+      "price_text": "$4,200,000",
+      "price_usd": 4200000,
+      "location": "Hotel / Leisure, Tambor, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/19-bed-hotel-leisure-for-sale-in-tambor/7261",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o00000yWrcr/iu8cmdldh/midres/HOTEL%203.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:13.095Z",
+      "id": "c1cac2d01873"
+    },
+    {
+      "title": "Rosa Blanca Coffee Farm and Inn\n                Hotel / Leisure, Heredia, Heredia",
+      "price_text": "$4,000,000",
+      "price_usd": 4000000,
+      "location": "Hotel / Leisure, Heredia, Heredia",
+      "url": "https://www.coldwellbankercostarica.com/property/14-bed-hotel-leisure-for-sale-in-heredia/2188",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o00000yWqb5/l1snye53c/midres/finca-rosa-blanca-coffee-farm-5.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:13.208Z",
+      "id": "59603d736b73"
+    },
+    {
+      "title": "20 Room Bed & Breakfast Next to Los Suenos Resort\n                Hotel / Leisure, Herradura, Puntarenas",
+      "price_text": "$3,999,000",
+      "price_usd": 3999000,
+      "location": "Hotel / Leisure, Herradura, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/20-bed-hotel-leisure-for-sale-in-herradura/11466",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00002qqZxU/eujqgbzq8/midres/55c06483-b806-4797-9420-079098e227c4_converted.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:13.362Z",
+      "id": "6d946e9f647d"
+    },
+    {
+      "title": "Turnkey & Reputable Boutique Tropical Villas & Guest Retreat - Steps from Playa\n                Hotel / Leisure, Playa Hermosa Santa Teresa, Puntarenas",
+      "price_text": "$3,300,000",
+      "price_usd": 3300000,
+      "location": "Hotel / Leisure, Playa Hermosa Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/9-bed-hotel-leisure-for-sale-in-playa-hermosa-santa-teresa/13339",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:06:13.905Z",
+      "id": "bf72d9caf5be"
+    },
+    {
+      "title": "Sustainable Beach Resort located on the Osa Peninsula\n                Hotel / Leisure, Puerto Jimenez, Puntarenas",
+      "price_text": "$3,200,000",
+      "price_usd": 3200000,
+      "location": "Hotel / Leisure, Puerto Jimenez, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/50-bed-hotel-leisure-for-sale-in-puerto-jimenez/6987",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:14.075Z",
+      "id": "a9f840978590"
+    },
+    {
+      "title": "Investment or Retirement Opportunity with Income Potential in Uvita, Costa Rica\n                Hotel / Leisure, Uvita, Puntarenas",
+      "price_text": "$3,200,000",
+      "price_usd": 3200000,
+      "location": "Hotel / Leisure, Uvita, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/10-bed-hotel-leisure-for-sale-in-uvita/9178",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:14.307Z",
+      "id": "2635168d0237"
+    },
+    {
+      "title": "Top of the World Ocean Views - 200 Acre Farm - Ideal for Eco-Lodge or Nature Spa\n                Hotel / Leisure, Tambor, Puntarenas",
+      "price_text": "$3,200,000",
+      "price_usd": 3200000,
+      "location": "Hotel / Leisure, Tambor, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-hotel-leisure-for-sale-in-tambor/2268",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:14.513Z",
+      "id": "a288b8d39ee5"
+    },
+    {
+      "title": "Turnkey Hotel Walking Distance to Samara Beach\n                Hotel / Leisure, Samara, Guanacaste",
+      "price_text": "$3,000,000",
+      "price_usd": 3000000,
+      "location": "Hotel / Leisure, Samara, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/22-bed-hotel-leisure-for-sale-in-samara/5490",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:14.662Z",
+      "id": "3c9c1c08fe3c"
+    },
+    {
+      "title": "Eco Lodge for sale in Sarapiquí\n                Hotel / Leisure, Sarapiqui, Heredia",
+      "price_text": "$3,000,000",
+      "price_usd": 3000000,
+      "location": "Hotel / Leisure, Sarapiqui, Heredia",
+      "url": "https://www.coldwellbankercostarica.com/property/20-bed-hotel-leisure-for-sale-in-sarapiqui/11634",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:14.776Z",
+      "id": "c2f04df496e8"
+    },
+    {
+      "title": "14-Bedroom Oceanfront Hotel | Restaurant On-Site\n                Hotel / Leisure, Playa Hermosa, Puntarenas",
+      "price_text": "$3,000,000",
+      "price_usd": 3000000,
+      "location": "Hotel / Leisure, Playa Hermosa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/14-bed-hotel-leisure-for-sale-in-playa-hermosa/12719",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:14.933Z",
+      "id": "7018fad19c9e"
+    },
+    {
+      "title": "Charming 14 Room Hotel in Tamarindo\n                Hotel / Leisure, Tamarindo, Guanacaste",
+      "price_text": "$2,999,000",
+      "price_usd": 2999000,
+      "location": "Hotel / Leisure, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/14-bed-hotel-leisure-for-sale-in-tamarindo/13348",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005KV6kd/ltg9y1zzv/midres/SAN_3411.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:20.548Z",
+      "id": "6eaa6c4e708c"
+    },
+    {
+      "title": "Cocoon: Tropical Retreat with Ocean Views\n                Hotel / Leisure, Tamarindo, Guanacaste",
+      "price_text": "$2,990,000",
+      "price_usd": 2990000,
+      "location": "Hotel / Leisure, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/10-bed-hotel-leisure-for-sale-in-tamarindo/12188",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00003rMlxt/as40tbuan/midres/Costa-Rica-Luxury-Cocoon-00.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:20.692Z",
+      "id": "fe93fe1b594b"
+    },
+    {
+      "title": "Property near the Beach with Hotel or Private Home Potential\n                Hotel / Leisure, Ojochal, Puntarenas",
+      "price_text": "$2,990,000",
+      "price_usd": 2990000,
+      "location": "Hotel / Leisure, Ojochal, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-hotel-leisure-for-sale-in-ojochal/10219",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00001EDjdQ/mwr3so5hf/midres/Copia%20de%20PrincipalIMG_8478-HDR-1b.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:20.858Z",
+      "id": "49450ddf7a68"
+    },
+    {
+      "title": "Boutique hotel /retreat with Stunning Ocean Views Overlooking the Whale's Tail\n                Hotel / Leisure, Uvita, Puntarenas",
+      "price_text": "$2,989,000",
+      "price_usd": 2989000,
+      "location": "Hotel / Leisure, Uvita, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/20-bed-hotel-leisure-for-sale-in-uvita/1073",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C0V00000v1ZXP/mptxu715m/midres/VB-Pool-1.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:21.050Z",
+      "id": "3ea73e34dd0e"
+    },
+    {
+      "title": "Hotel for sale with 26 rooms in Puntarenas. Central Pacific\n                Hotel / Leisure, Tarcoles, Puntarenas",
+      "price_text": "$2,900,000",
+      "price_usd": 2900000,
+      "location": "Hotel / Leisure, Tarcoles, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/25-bed-hotel-leisure-for-sale-in-tarcoles/562",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o00000yWpZ3/191tajdde/midres/WhatsApp%20Image%202022-02-10%20at%205.15.34%20PM%20%281%29.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:21.219Z",
+      "id": "0ea3e36d9c08"
+    },
+    {
+      "title": "Blue Zone Resort\n                Hotel / Leisure, Avellanas, Guanacaste",
+      "price_text": "$2,900,000",
+      "price_usd": 2900000,
+      "location": "Hotel / Leisure, Avellanas, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/16-bed-hotel-leisure-for-sale-in-avellanas/7081",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:21.319Z",
+      "id": "ed5974f1617f"
+    },
+    {
+      "title": "Successful Lodge in Playa Avellanas\n                Hotel / Leisure, Avellanas, Guanacaste",
+      "price_text": "$2,900,000",
+      "price_usd": 2900000,
+      "location": "Hotel / Leisure, Avellanas, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/16-bed-hotel-leisure-for-sale-in-avellanas/10462",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:21.508Z",
+      "id": "91a2f45ce620"
+    },
+    {
+      "title": "Boutique Hotel for Sale in Santa Teresa, Costa Rica\n                Hotel / Leisure, Santa Teresa, Puntarenas",
+      "price_text": "$2,900,000",
+      "price_usd": 2900000,
+      "location": "Hotel / Leisure, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/20-bed-hotel-leisure-for-sale-in-santa-teresa/12781",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:21.691Z",
+      "id": "1a3268504ae2"
+    },
+    {
+      "title": "Boutique Hotel Overlooking the Pacific Ocean\n                Hotel / Leisure, Uvita, Puntarenas",
+      "price_text": "$2,860,000",
+      "price_usd": 2860000,
+      "location": "Hotel / Leisure, Uvita, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/13-bed-hotel-leisure-for-sale-in-uvita/8954",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:21.834Z",
+      "id": "2dde7a7315d0"
+    },
+    {
+      "title": "Santa Teresa Hilltop Ocean View Boutique Hotel\n                Hotel / Leisure, Santa Teresa, Puntarenas",
+      "price_text": "$2,800,000",
+      "price_usd": 2800000,
+      "location": "Hotel / Leisure, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/14-bed-hotel-leisure-for-sale-in-santa-teresa/11754",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:21.994Z",
+      "id": "63dcc7c4b99d"
+    },
+    {
+      "title": "Hotel for sale in San José\n                Hotel / Leisure, San Jose, San Jose",
+      "price_text": "$2,750,000",
+      "price_usd": 2750000,
+      "location": "Hotel / Leisure, San Jose, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/28-bed-hotel-leisure-for-sale-in-san-jose/7593",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:22.106Z",
+      "id": "8bbafb510f86"
+    },
+    {
+      "title": "Ocean Front Prime Hotel Site\n                Hotel / Leisure, Dominical, Puntarenas",
+      "price_text": "$2,700,000",
+      "price_usd": 2700000,
+      "location": "Hotel / Leisure, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-hotel-leisure-for-sale-in-dominical/8192",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:22.252Z",
+      "id": "cf1161b1563b"
+    },
+    {
+      "title": "Prime Investment Opportunity: Central Valley Hotel with Proven Success\n                Hotel / Leisure, Ciudad Cariari, Heredia",
+      "price_text": "$2,595,000",
+      "price_usd": 2595000,
+      "location": "Hotel / Leisure, Ciudad Cariari, Heredia",
+      "url": "https://www.coldwellbankercostarica.com/property/34-bed-hotel-leisure-for-sale-in-ciudad-cariari/8777",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:22.473Z",
+      "id": "3bbef5e48821"
+    },
+    {
+      "title": "Hotel Casa Buenavista\n                Hotel / Leisure, Playa Carrillo, Guanacaste",
+      "price_text": "$2,500,000",
+      "price_usd": 2500000,
+      "location": "Hotel / Leisure, Playa Carrillo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/10-bed-hotel-leisure-for-sale-in-playa-carrillo/12113",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:22.587Z",
+      "id": "684b5ea917c7"
+    },
+    {
+      "title": "Hotel Amavi - The Star of HGTV’s Betting on Paradise\n                Hotel / Leisure, Jaco, Puntarenas",
+      "price_text": "$2,500,000",
+      "price_usd": 2500000,
+      "location": "Hotel / Leisure, Jaco, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/9-bed-hotel-leisure-for-sale-in-jaco/12399",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:22.737Z",
+      "id": "84d19260b346"
+    },
+    {
+      "title": "Conveniently Located City Hotel\n                Hotel / Leisure, Ciudad Cariari, Heredia",
+      "price_text": "$2,500,000",
+      "price_usd": 2500000,
+      "location": "Hotel / Leisure, Ciudad Cariari, Heredia",
+      "url": "https://www.coldwellbankercostarica.com/property/34-bed-hotel-leisure-for-sale-in-ciudad-cariari/8103",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0Cd000000LgigK/p189bu86mv14on1u6u8rhurjosuo/midres/rates_pool.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:30.060Z",
+      "id": "a698e951dd95"
+    },
+    {
+      "title": "Finca Santa Elena:  4-Bed Home with 17 Casitas, Restaurant, Pool & Yoga Studio\n                Hotel / Leisure, Santa Cruz, Guanacaste",
+      "price_text": "$2,500,000",
+      "price_usd": 2500000,
+      "location": "Hotel / Leisure, Santa Cruz, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/21-bed-hotel-leisure-for-sale-in-santa-cruz/12994",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00004nJ1YH/c9flg1a4c/midres/DJI_20241219090800_0687_D-HDR-Edit.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:06:30.255Z",
+      "id": "6f60bbce86b1"
+    },
+    {
+      "title": "Internationally Acclaimed Rainforest Ecolodge\n                Hotel / Leisure, Golfito, Puntarenas",
+      "price_text": "$2,500,000",
+      "price_usd": 2500000,
+      "location": "Hotel / Leisure, Golfito, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/19-bed-hotel-leisure-for-sale-in-golfito/4312",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0Cd000000QhCty/foe0r5pie/midres/Aerial%20lodge%20small.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:30.414Z",
+      "id": "b57310fb2173"
+    },
+    {
+      "title": "Bonga House Hotel - Boutique Boho Retreat Just Steps from Tamarindo Beach\n                Hotel / Leisure, Tamarindo, Guanacaste",
+      "price_text": "$2,500,000",
+      "price_usd": 2500000,
+      "location": "Hotel / Leisure, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/9-bed-hotel-leisure-for-sale-in-tamarindo/12770",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00004abjXQ/tc8fhoic8/midres/1.1-Hotel-Bonga-House-Costa-Rica.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:30.602Z",
+      "id": "46b10f890ab3"
+    },
+    {
+      "title": "Income Producing Mango Tree Villas\n                Hotel / Leisure, Ojochal, Puntarenas",
+      "price_text": "$2,500,000",
+      "price_usd": 2500000,
+      "location": "Hotel / Leisure, Ojochal, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-hotel-leisure-for-sale-in-ojochal/4344",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o000013op7y/2remkyium/midres/Pics-79.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:06:30.880Z",
+      "id": "ab26b16eb5b6"
+    },
+    {
+      "title": "Tropical Jungle Retreat in Puerto Viejo’s Playa Negra\n                Hotel / Leisure, Puerto Viejo, Limón",
+      "price_text": "$2,400,000",
+      "price_usd": 2400000,
+      "location": "Hotel / Leisure, Puerto Viejo, Limón",
+      "url": "https://www.coldwellbankercostarica.com/property/13-bed-hotel-leisure-for-sale-in-puerto-viejo/13194",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:31.212Z",
+      "id": "7c1d9fac5772"
+    },
+    {
+      "title": "Exceptional Retreat Center on 62 Acre in Tinamastes\n                Hotel / Leisure, Dominical, Puntarenas",
+      "price_text": "$2,350,000",
+      "price_usd": 2350000,
+      "location": "Hotel / Leisure, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/16-bed-hotel-leisure-for-sale-in-dominical/2378",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:31.428Z",
+      "id": "fc583b8f440a"
+    },
+    {
+      "title": "Jungle Retreat Center on the Uvita River on 17 Acres\n                Hotel / Leisure, Uvita, Puntarenas",
+      "price_text": "$2,350,000",
+      "price_usd": 2350000,
+      "location": "Hotel / Leisure, Uvita, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/15-bed-hotel-leisure-for-sale-in-uvita/8044",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:31.582Z",
+      "id": "8c3f0cc055be"
+    },
+    {
+      "title": "Financing Available Direct Beach Front Access in Uvita, 3 Villas, 2 Casitas\n                Hotel / Leisure, Dominical, Puntarenas",
+      "price_text": "$2,300,000",
+      "price_usd": 2300000,
+      "location": "Hotel / Leisure, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/12-bed-hotel-leisure-for-sale-in-dominical/13480",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:31.796Z",
+      "id": "60d1aa0fa928"
+    },
+    {
+      "title": "Osa Waterfront Lodge For Sale\n                Hotel / Leisure, Golfito, Puntarenas",
+      "price_text": "$2,250,000",
+      "price_usd": 2250000,
+      "location": "Hotel / Leisure, Golfito, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/12-bed-hotel-leisure-for-sale-in-golfito/5628",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:31.929Z",
+      "id": "220f9d9e3d00"
+    },
+    {
+      "title": "Unique Ocean View Hotel in Playa Coyote, Nicoya Peninsula - Costa Rica\n                Hotel / Leisure, Playa Coyote, Guanacaste",
+      "price_text": "$2,150,000",
+      "price_usd": 2150000,
+      "location": "Hotel / Leisure, Playa Coyote, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/9-bed-hotel-leisure-for-sale-in-playa-coyote/12904",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:32.130Z",
+      "id": "dd16eb0d43ae"
+    },
+    {
+      "title": "A highly rated and high occupancy resort with a hotel, cabins and more\n                Hotel / Leisure, Uvita, Puntarenas",
+      "price_text": "$2,149,000",
+      "price_usd": 2149000,
+      "location": "Hotel / Leisure, Uvita, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/12-bed-hotel-leisure-for-sale-in-uvita/10805",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:32.320Z",
+      "id": "d1d02dc850d3"
+    },
+    {
+      "title": "Boutique Hotel for Sale Center of Tamarindo Great ROI\n                Hotel / Leisure, Tamarindo, Guanacaste",
+      "price_text": "$2,100,000",
+      "price_usd": 2100000,
+      "location": "Hotel / Leisure, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/13-bed-hotel-leisure-for-sale-in-tamarindo/3888",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o000013Bozb/0cd9krgwu/midres/AI-1.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:39.277Z",
+      "id": "ed31d7b185b8"
+    },
+    {
+      "title": "Iconic Investment Property in Playa Santa Teresa\n                Hotel / Leisure, Santa Teresa, Puntarenas",
+      "price_text": "$1,999,000",
+      "price_usd": 1999000,
+      "location": "Hotel / Leisure, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/12-bed-hotel-leisure-for-sale-in-santa-teresa/9541",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00000g3Chj/zo36p4fnz/midres/DSC02388.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:39.457Z",
+      "id": "e6eb5ee6a405"
+    },
+    {
+      "title": "Eco-Lodge with Premium Ocean Views\n                Hotel / Leisure, Samara, Guanacaste",
+      "price_text": "$1,950,000",
+      "price_usd": 1950000,
+      "location": "Hotel / Leisure, Samara, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/12-bed-hotel-leisure-for-sale-in-samara/12035",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00003f4Dad/e6efmsghl/midres/Las%20Estrellas%20de%20Samara-25.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:39.606Z",
+      "id": "d1e1e9d7531a"
+    },
+    {
+      "title": "Multi Home Opportunity 5 minutes from Tamarindo\n                Hotel / Leisure, Tamarindo, Guanacaste",
+      "price_text": "$1,899,000",
+      "price_usd": 1899000,
+      "location": "Hotel / Leisure, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/14-bed-hotel-leisure-for-sale-in-tamarindo/12191",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00003sWxBH/j5n9pjozj/midres/unique-multi-home-opportunity-tamarindo-1.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:06:39.914Z",
+      "id": "3a320a67ee9c"
+    },
+    {
+      "title": "Stunning Ocean View Property in Tres Rios Main Home And Boutique Hotel\n                Hotel / Leisure, Ojochal, Puntarenas",
+      "price_text": "$1,895,000",
+      "price_usd": 1895000,
+      "location": "Hotel / Leisure, Ojochal, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-hotel-leisure-for-sale-in-ojochal/3189",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o000013BqND/hrjrcvukf/midres/8123%20Ocean%20View%20Main%20Home%20And%20Boutique%20Hotel%20Tres%20Rios%2005.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:06:40.110Z",
+      "id": "578f7ff5e895"
+    },
+    {
+      "title": "Green Sanctuary Boutique Hotel in K-Section + 2 Bedroom House\n                Hotel / Leisure, Nosara, Guanacaste",
+      "price_text": "$1,850,000",
+      "price_usd": 1850000,
+      "location": "Hotel / Leisure, Nosara, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/10-bed-hotel-leisure-for-sale-in-nosara/9859",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:40.288Z",
+      "id": "c781e623dea1"
+    },
+    {
+      "title": "Hotel in Operation of San Jose de La Montaña in Barva de Heredia\n                Hotel / Leisure, Barva, Heredia",
+      "price_text": "$1,800,000",
+      "price_usd": 1800000,
+      "location": "Hotel / Leisure, Barva, Heredia",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-hotel-leisure-for-sale-in-barva/821",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:40.457Z",
+      "id": "557c24799812"
+    },
+    {
+      "title": "Naya Boutique Hotel Nosara, Jungle Oasis with Direct Beach Path Access\n                Hotel / Leisure, Nosara, Guanacaste",
+      "price_text": "$1,800,000",
+      "price_usd": 1800000,
+      "location": "Hotel / Leisure, Nosara, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-hotel-leisure-for-sale-in-nosara/10571",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:40.657Z",
+      "id": "718186ff1329"
+    },
+    {
+      "title": "Ecocoon Tree Villas Yoga & Spa\n                Hotel / Leisure, Santiago, Puntarenas",
+      "price_text": "$1,800,000",
+      "price_usd": 1800000,
+      "location": "Hotel / Leisure, Santiago, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/13-bed-hotel-leisure-for-sale-in-santiago/10386",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:06:40.775Z",
+      "id": "d8bb0f858592"
+    },
+    {
+      "title": "Tamarindo Azul in the Heart of Tamarindo\n                Hotel / Leisure, Tamarindo, Guanacaste",
+      "price_text": "$1,799,000",
+      "price_usd": 1799000,
+      "location": "Hotel / Leisure, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/10-bed-hotel-leisure-for-sale-in-tamarindo/7847",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:40.922Z",
+      "id": "5b431befbb52"
+    },
+    {
+      "title": "Gecko Verde - Perfect Jungle Hideaway Hotel Close To Beach & Town Amenities\n                Hotel / Leisure, Samara, Guanacaste",
+      "price_text": "$1,795,000",
+      "price_usd": 1795000,
+      "location": "Hotel / Leisure, Samara, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/12-bed-hotel-leisure-for-sale-in-samara/9562",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:41.113Z",
+      "id": "5b1fa39c37b2"
+    },
+    {
+      "title": "Family Compound with Whales Tail Views and Waterfalls\n                Hotel / Leisure, Uvita, Puntarenas",
+      "price_text": "$1,790,000",
+      "price_usd": 1790000,
+      "location": "Hotel / Leisure, Uvita, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-hotel-leisure-for-sale-in-uvita/999",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:41.278Z",
+      "id": "5c96093b865f"
+    },
+    {
+      "title": "Discover Eco Hotel & Chill House in Santa Teresa Beach\n                Hotel / Leisure, Santa Teresa, Puntarenas",
+      "price_text": "$1,750,000",
+      "price_usd": 1750000,
+      "location": "Hotel / Leisure, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-hotel-leisure-for-sale-in-santa-teresa/10482",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:41.454Z",
+      "id": "f471c18c3b48"
+    },
+    {
+      "title": "Dolce Vita - Ocean Front Titled Restaurant and BnB\n                Hotel / Leisure, Samara, Guanacaste",
+      "price_text": "$1,700,000",
+      "price_usd": 1700000,
+      "location": "Hotel / Leisure, Samara, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/14-bed-hotel-leisure-for-sale-in-samara/13214",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:41.617Z",
+      "id": "c7dacb3422b1"
+    },
+    {
+      "title": "Unique 7Bed Boutique Hotel in Tamarindo\n                Hotel / Leisure, Tamarindo, Guanacaste",
+      "price_text": "$1,650,000",
+      "price_usd": 1650000,
+      "location": "Hotel / Leisure, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-hotel-leisure-for-sale-in-tamarindo/11658",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:41.773Z",
+      "id": "2c78a662d017"
+    },
+    {
+      "title": "Investment Opportunity, Exquisitely Located Boutique Hotel for Sale!\n                Hotel / Leisure, La Garita, Alajuela",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Hotel / Leisure, La Garita, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/48-bed-hotel-leisure-for-sale-in-la-garita/6414",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o00000yWs6W/z2c5x3ciw/midres/Screen%20Shot%202022-07-21%20at%2020.07.21.png"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:47.360Z",
+      "id": "01fd61ff4a84"
+    },
+    {
+      "title": "Prime Investment Opportunity near Atenas\n                Land, Orotina, Alajuela",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Land, Orotina, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-orotina/12900",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00004i14hS/n4at9qsjx/midres/R_VM_7804.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:47.477Z",
+      "id": "96a9672ba7d3"
+    },
+    {
+      "title": "Premier Commercial Site in San Isidro de El General\n                Land, Perez Zeledon, San Jose",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Land, Perez Zeledon, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-perez-zeledon/3993",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C0V00000wQydp/txz6y1i0a/midres/PZ%20Commercial%20%286%20of%2012%29.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:47.631Z",
+      "id": "af04f59c0d06"
+    },
+    {
+      "title": "Spectacular Dream Rancho for Sale\n                Commercial, Atenas, Alajuela",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Commercial, Atenas, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-commercial-for-sale-in-atenas/2030",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:48.150Z",
+      "id": "2ddccb203e13"
+    },
+    {
+      "title": "Coffee Farms for Sale in Costa Rica’s Central Valley\n                Land, Alajuela, Alajuela",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Land, Alajuela, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-alajuela/13308",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:48.298Z",
+      "id": "2426d55d208b"
+    },
+    {
+      "title": "Costa Rican Gem: Exclusive Hotel Retreat in Liberia\n                Hotel / Leisure, Liberia, Guanacaste",
+      "price_text": "$31,000,000",
+      "price_usd": 31000000,
+      "location": "Hotel / Leisure, Liberia, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/64-bed-hotel-leisure-for-sale-in-liberia/9497",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:48.460Z",
+      "id": "e4a31df7f90d"
+    },
+    {
+      "title": "Punta Sabana: Ultimate Oceanfront Legacy - 755 Acres of Pristine Beaches\n                Land, Santa Cruz, Guanacaste",
+      "price_text": "$29,900,000",
+      "price_usd": 29900000,
+      "location": "Land, Santa Cruz, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-santa-cruz/12646",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:48.641Z",
+      "id": "74eee82c6759"
+    },
+    {
+      "title": "Coffee Mill Las Marias\n                Commercial, Heredia, Heredia",
+      "price_text": "$23,250,000",
+      "price_usd": 23250000,
+      "location": "Commercial, Heredia, Heredia",
+      "url": "https://www.coldwellbankercostarica.com/property/42-bed-commercial-for-sale-in-heredia/5278",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:48.738Z",
+      "id": "e34b4e54ed41"
+    },
+    {
+      "title": "Rancho Alto Land for Development\n                Land, Papagayo Gulf, Guanacaste",
+      "price_text": "$20,000,000",
+      "price_usd": 20000000,
+      "location": "Land, Papagayo Gulf, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-papagayo-gulf/3540",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:48.853Z",
+      "id": "031c0466bb75"
+    },
+    {
+      "title": "90 Hectare Jungle Oasis in the Mountains of Mal Pais\n                Hotel / Leisure, Puntarenas, Puntarenas",
+      "price_text": "$20,000,000",
+      "price_usd": 20000000,
+      "location": "Hotel / Leisure, Puntarenas, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-hotel-leisure-for-sale-in-puntarenas/998",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:06:49.021Z",
+      "id": "7a779f6e6a19"
+    },
+    {
+      "title": "Legacy Estate Property and Developers Dream\n                Land, Matapalo, Puntarenas",
+      "price_text": "$19,950,000",
+      "price_usd": 19950000,
+      "location": "Land, Matapalo, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-matapalo/849",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:49.165Z",
+      "id": "22f2c97c9249"
+    },
+    {
+      "title": "Land for sale in Cartago, La Unión 22174\n                Land, Tres Ríos, Cartago",
+      "price_text": "$19,431,000",
+      "price_usd": 19431000,
+      "location": "Land, Tres Ríos, Cartago",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-tres-rios/10935",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:49.283Z",
+      "id": "8af60b9f0e28"
+    },
+    {
+      "title": "Beachfront hotel for sale\n                Hotel / Leisure, Playa Potrero, Guanacaste",
+      "price_text": "$17,000,000",
+      "price_usd": 17000000,
+      "location": "Hotel / Leisure, Playa Potrero, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/30-bed-hotel-leisure-for-sale-in-playa-potrero/3913",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0Cd000000iXz22/p1abbjs7331s0k1t0fjqh1os9jig8/midres/Potrero4.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:55.263Z",
+      "id": "90229b571f93"
+    },
+    {
+      "title": "Natura Luxury Estate\n                Single Family Homes, La Garita, Alajuela",
+      "price_text": "$16,000,000",
+      "price_usd": 16000000,
+      "location": "Single Family Homes, La Garita, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-la-garita/2784",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C0V00000v0WfE/cuyitg54m/midres/2.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:06:55.396Z",
+      "id": "03a863e56955"
+    },
+    {
+      "title": "680-Acre Titled Beachfront Luxury Estate - Golfo Dulce, Osa Peninsula\n                Single Family Homes, Golfito, Puntarenas",
+      "price_text": "$14,500,000",
+      "price_usd": 14500000,
+      "location": "Single Family Homes, Golfito, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/15-bed-single-family-homes-for-sale-in-golfito/11919",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00002BIv0l/nvagb63he/midres/ConeCat-15.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:55.595Z",
+      "id": "36d560d14b29"
+    },
+    {
+      "title": "Titled Beach Front Property in Samara\n                Land, Samara, Guanacaste",
+      "price_text": "$14,000,000",
+      "price_usd": 14000000,
+      "location": "Land, Samara, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-samara/6767",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o00000yWpwl/xovwbml20/midres/PXL_20220322_221838978.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:55.766Z",
+      "id": "10607a5992a4"
+    },
+    {
+      "title": "Incredible property development in San Jose. 14732\n                Commercial, La Uruca, San Jose",
+      "price_text": "$13,300,000",
+      "price_usd": 13300000,
+      "location": "Commercial, La Uruca, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/20-bed-commercial-for-sale-in-la-uruca/2822",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:56.077Z",
+      "id": "dae60b11dd24"
+    },
+    {
+      "title": "Playa Grande Titled Beachfront Land\n                Land, Playa Grande, Guanacaste",
+      "price_text": "$12,795,000",
+      "price_usd": 12795000,
+      "location": "Land, Playa Grande, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-playa-grande/8561",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:56.195Z",
+      "id": "dccc81908cef"
+    },
+    {
+      "title": "Large Titled Beachfront Parcel - Inquire For Price\n                Land, Playa Grande, Guanacaste",
+      "price_text": "$12,795,000",
+      "price_usd": 12795000,
+      "location": "Land, Playa Grande, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-playa-grande/6819",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:56.347Z",
+      "id": "e115ba4b08e3"
+    },
+    {
+      "title": "Land for Sale in El Guarco Cartago $57.40Xm2  ID24627\n                Land, San Isidro, Cartago",
+      "price_text": "$12,221,000",
+      "price_usd": 12221000,
+      "location": "Land, San Isidro, Cartago",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-san-isidro/13155",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:56.497Z",
+      "id": "26734695060d"
+    },
+    {
+      "title": "Oceanview Paradise: Farm for Sale in Mal Pais Beach, Costa Rica\n                Land, Malpais, Puntarenas",
+      "price_text": "$12,000,000",
+      "price_usd": 12000000,
+      "location": "Land, Malpais, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-malpais/8756",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:56.671Z",
+      "id": "1729945ea533"
+    },
+    {
+      "title": "Las Pavas Amazing Income Producing Cattle Farm with Luxury Villa\n                Single Family Homes, Abangares, Guanacaste",
+      "price_text": "$12,000,000",
+      "price_usd": 12000000,
+      "location": "Single Family Homes, Abangares, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-single-family-homes-for-sale-in-abangares/1936",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:56.858Z",
+      "id": "118b24ac55aa"
+    },
+    {
+      "title": "Prestigious Work of Beachfront Artistry\n                Single Family Homes, Hacienda Pinilla, Guanacaste",
+      "price_text": "$11,500,000",
+      "price_usd": 11500000,
+      "location": "Single Family Homes, Hacienda Pinilla, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-hacienda-pinilla/13451",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:57.018Z",
+      "id": "58b21121fb10"
+    },
+    {
+      "title": "Casa Neptuno - Beachfront home in Hacendia Pinilla\n                Single Family Homes, Hacienda Pinilla, Guanacaste",
+      "price_text": "$10,500,000",
+      "price_usd": 10500000,
+      "location": "Single Family Homes, Hacienda Pinilla, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-hacienda-pinilla/12916",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:06:57.196Z",
+      "id": "ee2ca436ef4e"
+    },
+    {
+      "title": "Fully permitted project in Southern Zone Investment Opportunity Ballena Bay\n                Land, Uvita, Puntarenas",
+      "price_text": "$9,990,000",
+      "price_usd": 9990000,
+      "location": "Land, Uvita, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-uvita/11990",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00003cFfjQ/zwzskzqel/midres/PHOTO-2025-03-06-17-22-07%208.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:03.288Z",
+      "id": "d0c80fc1950f"
+    },
+    {
+      "title": "Beach Front San Juanillo Development with Approved Master Plan\n                Land, Nosara, Guanacaste",
+      "price_text": "$9,800,000",
+      "price_usd": 9800000,
+      "location": "Land, Nosara, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-nosara/2204",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o000013BoJe/bw25txhph/midres/DJI_0078.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:03.449Z",
+      "id": "adf62a8fb426"
+    },
+    {
+      "title": "Land for Industrial and Agricultural Use in Santa Rosa de Heredia 12442\n                Land, Santo Domingo, Heredia",
+      "price_text": "$9,477,700",
+      "price_usd": 9477700,
+      "location": "Land, Santo Domingo, Heredia",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-santo-domingo/3690",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o000010sRo8/s1etoi0k0/midres/4.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "commercial",
+      "scraped_at": "2026-05-24T13:07:03.811Z",
+      "id": "d53bf1b60b60"
+    },
+    {
+      "title": "Land of 37 hectares in Tacares, Grecia Alajuela, 18738\n                Land, Grecia, Alajuela",
+      "price_text": "$9,252,550",
+      "price_usd": 9252550,
+      "location": "Land, Grecia, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-grecia/3363",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:03.960Z",
+      "id": "43f632524965"
+    },
+    {
+      "title": "Mengibar, Grecia: Exceptional Real Estate Investment\n                Land, Grecia, Alajuela",
+      "price_text": "$9,252,549",
+      "price_usd": 9252549,
+      "location": "Land, Grecia, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-grecia/10652",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:04.107Z",
+      "id": "200b46a278c9"
+    },
+    {
+      "title": "High Density Land for Condominium Development in La Guácima de Alajuela 12905\n                Land, La Guacima, Alajuela",
+      "price_text": "$9,000,000",
+      "price_usd": 9000000,
+      "location": "Land, La Guacima, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-la-guacima/474",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:07:04.377Z",
+      "id": "e97f76e931d9"
+    },
+    {
+      "title": "Bahia Sirena, Amazing Ocean View\n                Land, Tambor, Puntarenas",
+      "price_text": "$9,000,000",
+      "price_usd": 9000000,
+      "location": "Land, Tambor, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-tambor/8180",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:04.483Z",
+      "id": "1bdbdbc40044"
+    },
+    {
+      "title": "Eco-Community Development Project Near Atenas\n                Commercial, San Pablo, San Jose",
+      "price_text": "$8,800,000",
+      "price_usd": 8800000,
+      "location": "Commercial, San Pablo, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-commercial-for-sale-in-san-pablo/10273",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:04.629Z",
+      "id": "cb30d4725556"
+    },
+    {
+      "title": "Land for Hotel, Office Building or Shopping Center in Escazú\n                Land, Escazu, San Jose",
+      "price_text": "$8,647,284",
+      "price_usd": 8647284,
+      "location": "Land, Escazu, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-escazu/3329",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "commercial",
+      "scraped_at": "2026-05-24T13:07:04.785Z",
+      "id": "f85956ec0cd7"
+    },
+    {
+      "title": "New Horizon - Incredible development with ocean views\n                Land, Playas Del Coco, Guanacaste",
+      "price_text": "$8,500,000",
+      "price_usd": 8500000,
+      "location": "Land, Playas Del Coco, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-playas-del-coco/6989",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:04.954Z",
+      "id": "fc752eecd7bc"
+    },
+    {
+      "title": "Land for Sale in San Jose Centro\n                Land, San Jose, San Jose",
+      "price_text": "$8,180,000",
+      "price_usd": 8180000,
+      "location": "Land, San Jose, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-san-jose/4704",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:05.184Z",
+      "id": "f7ac2cd4f78b"
+    },
+    {
+      "title": "125-Acre Coastal Escape - Playa Grande\n                Land, Playa Grande, Guanacaste",
+      "price_text": "$8,000,000",
+      "price_usd": 8000000,
+      "location": "Land, Playa Grande, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-playa-grande/13067",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00004tYVON/qwk27pulz/midres/Untitled.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:12.437Z",
+      "id": "1358423c05df"
+    },
+    {
+      "title": "Golden Investment in Santa Teresa Beach\n                Land, Santa Teresa, Puntarenas",
+      "price_text": "$8,000,000",
+      "price_usd": 8000000,
+      "location": "Land, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-santa-teresa/13103",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00004xVLai/armllofji/midres/WhatsApp%20Image%202025-09-06%20at%2014.12.17%20%281%29.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:12.588Z",
+      "id": "3bd4682cd4d2"
+    },
+    {
+      "title": "The Garden of Timelessness - 135-Acre Sanctuary Near Chirripó National Park\n                Hotel / Leisure, Perez Zeledon, San Jose",
+      "price_text": "$8,000,000",
+      "price_usd": 8000000,
+      "location": "Hotel / Leisure, Perez Zeledon, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/24-bed-hotel-leisure-for-sale-in-perez-zeledon/13393",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005OCaYq/lk8yc072v/midres/Montan%CC%83a%20azul%20-1.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:07:12.799Z",
+      "id": "da545614255e"
+    },
+    {
+      "title": "Cantomar Ocean Club Lot #11\n                Single Family Homes, Playa Flamingo, Guanacaste",
+      "price_text": "$7,985,000",
+      "price_usd": 7985000,
+      "location": "Single Family Homes, Playa Flamingo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-playa-flamingo/12199",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00003mK6KJ/u3mxh6mg6/midres/Cantomar_Lot11_1_adj.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:07:13.115Z",
+      "id": "2e7dd84bdcfe"
+    },
+    {
+      "title": "The Only Luxury Beachfront villa in Malpais\n                Single Family Homes, Malpais, Puntarenas",
+      "price_text": "$7,960,000",
+      "price_usd": 7960000,
+      "location": "Single Family Homes, Malpais, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-malpais/9640",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:13.282Z",
+      "id": "54a678a287fe"
+    },
+    {
+      "title": "Avellanas Development Parcel\n                Land, Avellanas, Guanacaste",
+      "price_text": "$7,900,000",
+      "price_usd": 7900000,
+      "location": "Land, Avellanas, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-avellanas/1937",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:13.387Z",
+      "id": "f9c70c9a7d19"
+    },
+    {
+      "title": "Land to Develop in Concepción de Tres Ríos\n                Land, Tres Ríos, Cartago",
+      "price_text": "$7,885,000",
+      "price_usd": 7885000,
+      "location": "Land, Tres Ríos, Cartago",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-tres-rios/3886",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:13.509Z",
+      "id": "5b37a4a32bb2"
+    },
+    {
+      "title": "Masterpiece of Luxury at Peninsula Papagayo\n                Single Family Homes, Papagayo Gulf, Guanacaste",
+      "price_text": "$7,500,000",
+      "price_usd": 7500000,
+      "location": "Single Family Homes, Papagayo Gulf, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-papagayo-gulf/12620",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:07:13.676Z",
+      "id": "2aa07815873e"
+    },
+    {
+      "title": "Casa Puma\n                Single Family Homes, Papagayo Gulf, Guanacaste",
+      "price_text": "$7,500,000",
+      "price_usd": 7500000,
+      "location": "Single Family Homes, Papagayo Gulf, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-papagayo-gulf/10388",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:07:13.781Z",
+      "id": "184f31cbcab7"
+    },
+    {
+      "title": "Great Opportunity for a Hotel Operation in Gatun Lake, Panama\n                Hotel / Leisure, Colon, Panama",
+      "price_text": "$7,500,000",
+      "price_usd": 7500000,
+      "location": "Hotel / Leisure, Colon, Panama",
+      "url": "https://www.coldwellbankercostarica.com/property/310-bed-hotel-leisure-for-sale-in-colon/3252",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:07:13.951Z",
+      "id": "095e29421dca"
+    },
+    {
+      "title": "Profitable Investment Opportunity in Costa Ballena\n                Commercial, Ojochal, Puntarenas",
+      "price_text": "$7,500,000",
+      "price_usd": 7500000,
+      "location": "Commercial, Ojochal, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-ojochal/4561",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:14.107Z",
+      "id": "5965e96d895d"
+    },
+    {
+      "title": "Bulding for sale in Curridabat CR ID Edificio en venta en Curridabat CR ID 18605\n                Commercial, Curridabat, San Jose",
+      "price_text": "$7,500,000",
+      "price_usd": 7500000,
+      "location": "Commercial, Curridabat, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/1-bed-commercial-for-sale-in-curridabat/497",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:14.312Z",
+      "id": "855477ca61db"
+    },
+    {
+      "title": "Top Investment Property in Monge, Grecia\n                Land, Grecia, Alajuela",
+      "price_text": "$7,213,150",
+      "price_usd": 7213150,
+      "location": "Land, Grecia, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-grecia/10653",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:14.505Z",
+      "id": "cec58af8e2f7"
+    },
+    {
+      "title": "Ultra-Luxury Coastal Estate with Iconic Whale’s Tail Views\n                Land, Uvita, Puntarenas",
+      "price_text": "$7,000,000",
+      "price_usd": 7000000,
+      "location": "Land, Uvita, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-uvita/12044",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00003A526s/bwqmoo2kn/midres/WouterDeLange-0065.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:20.113Z",
+      "id": "a1106fb3fb56"
+    },
+    {
+      "title": "Casa SolAngelo, The Crown Jewel of Tulemar\n                Single Family Homes, Manuel Antonio, Puntarenas",
+      "price_text": "$6,900,000",
+      "price_usd": 6900000,
+      "location": "Single Family Homes, Manuel Antonio, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-single-family-homes-for-sale-in-manuel-antonio/12640",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000043fcVR/lpryf7cm2/midres/5-Casa-SolAngelo-Tulemar-Coldwell-Banker-Vesta-Group.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:07:20.437Z",
+      "id": "d7f62898b359"
+    },
+    {
+      "title": "Iconic Developmental Parcel in Manuel Antonio\n                Land, Manuel Antonio, Puntarenas",
+      "price_text": "$6,800,000",
+      "price_usd": 6800000,
+      "location": "Land, Manuel Antonio, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-manuel-antonio/5993",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C0V00000v0npt/vo2k14phx/midres/Lot%20%284%20of%2017%29.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:20.683Z",
+      "id": "a44a193618c7"
+    },
+    {
+      "title": "‘Casa Vista Wow!’ Estate - The Best Ocean Views - 5.5 Acres - Over 14 Structures\n                Single Family Homes, Montezuma, Puntarenas",
+      "price_text": "$6,800,000",
+      "price_usd": 6800000,
+      "location": "Single Family Homes, Montezuma, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/14-bed-single-family-homes-for-sale-in-montezuma/12276",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:07:20.898Z",
+      "id": "1d40fb5e3592"
+    },
+    {
+      "title": "Hermosa Falls Estates 112 Acre Development Opportunity\n                Hotel / Leisure, Jaco, Puntarenas",
+      "price_text": "$6,700,000",
+      "price_usd": 6700000,
+      "location": "Hotel / Leisure, Jaco, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/hotel-leisure-for-sale-in-jaco/9393",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-24T13:07:21.120Z",
+      "id": "86e46e1d83be"
+    },
+    {
+      "title": "Large Commercial Lot in Zapote, San Jose\n                Land, Zapote, San Jose",
+      "price_text": "$6,600,500",
+      "price_usd": 6600500,
+      "location": "Land, Zapote, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-zapote/546",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:21.234Z",
+      "id": "f1fab7c2429e"
+    },
+    {
+      "title": "Developers Dream 195 Acres Surrounded by Amazing Views & Nature\n                Land, Tambor, Puntarenas",
+      "price_text": "$6,600,000",
+      "price_usd": 6600000,
+      "location": "Land, Tambor, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-tambor/4287",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:21.527Z",
+      "id": "bc284628958e"
+    },
+    {
+      "title": "Massive Land Opportunity in Grecia - Versatile Usage and Prime Location\n                Land, Grecia, Alajuela",
+      "price_text": "$6,500,000",
+      "price_usd": 6500000,
+      "location": "Land, Grecia, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-grecia/9498",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:21.870Z",
+      "id": "4fe7077aebb3"
+    },
+    {
+      "title": "Excellent Property to Develop\n                Land, Atenas, Alajuela",
+      "price_text": "$6,500,000",
+      "price_usd": 6500000,
+      "location": "Land, Atenas, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-atenas/8536",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-24T13:07:21.969Z",
+      "id": "25dbb11f3f26"
+    },
+    {
+      "title": "Flamingo Condominiums ~ Become Familiar with the Area          Potrero Condominiums ~ Become Familiar with the Area          Langosta Condominiums ~ Become Familiar with the Area",
+      "price_text": "Price:           Price:           Price:",
+      "price_usd": null,
+      "location": "Location:     Playa Flamingo      Location:     Playa Potrero      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/playa-flamingo-condominiums",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Flamingo%20Cove_0.jpg?itok=zd0IErOr",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Stef%20Surf%202_0.jpg?itok=MEbElNH1",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1%20-%20crystal-sands-503_0_0.jpg?itok=-wmHrfWC"
+      ],
+      "description": "This page is intended to give you an idea of which condo complexes are available in our little piece of...          This page is intended to give you an idea of which condo complexes are available in our little piece of...          This page is intended to give you an idea of which condo complexes are available in our little piece of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:07:27.949Z",
+      "id": "d73ca68ce80f"
+    },
+    {
+      "title": "Tamarindo Condominiums ~ Become Familiar with the Area          27 de Abril Land ~ Prime Land Opportunity with Main Road Frontage          Linderos Lot Bundle ~ Buy Individually or as a Package",
+      "price_text": "Price:           Price:     US$ 32 000.00      Price:     US$ 33 000.00",
+      "price_usd": 32000.0033,
+      "location": "Location:     Playa Tamarindo      Location:     Tamarindo Areas      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/tamarindo-condominiums",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Sunrise-condos.jpg?itok=ZuIn8z6q",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-27-abril-lots.JPG?itok=NCTRFUjD",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Lotes_Linderos_1.JPG?itok=2twCLhmY"
+      ],
+      "description": "This page is intended to give you an idea of which condo complexes are available in our little piece of...          Discover the perfect canvas for your dreams in the heart of the community of 27 de Abril. This enticing plot...          Exceptional Land Opportunity in Linderos – 3 Lots Available\nTake advantage of this unique opportunity to...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-05-24T13:07:28.266Z",
+      "id": "019b4db84c1d"
     }
   ],
-  "last_updated": "2026-05-24T08:24:44.977Z",
+  "last_updated": "2026-05-24T13:09:15.563Z",
   "total_count": 402
 }
