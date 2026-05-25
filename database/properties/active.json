@@ -24433,8 +24433,128 @@
       "category": "land",
       "scraped_at": "2026-05-25T02:42:49.094Z",
       "id": "552a7ba3b41e"
+    },
+    {
+      "title": "TERRENO PARA VENTA, CERCA DE PLAYA CORAZOLITO. 36-300",
+      "price_text": "₡36,000,000",
+      "price_usd": 72000,
+      "location": "hace 4 h605ft2GUANACASTE, NANDAYURE",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-cerca-de-playa/7932773436.html",
+      "images": [
+        "https://images.craigslist.org/d/7932773436/00A0A_8bf9fsawVFp_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-25T19:16:42.733Z",
+      "id": "18e1cc1d4d84"
+    },
+    {
+      "title": "TERRENO PARA VENTA, CERCA DE PLAYA CORAZOLITO. 36-300",
+      "price_text": "₡36,000,000",
+      "price_usd": 72000,
+      "location": "hace 4 h605ft2GUANACASTE, NANDAYURE",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-cerca-de-playa/7932773436.html",
+      "images": [
+        "https://images.craigslist.org/d/7932773436/00A0A_8bf9fsawVFp_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-25T19:16:47.795Z",
+      "id": "18e1cc1d4d84"
+    },
+    {
+      "title": "TERRENO PARA VENTA, CERCA DE PLAYA CORAZOLITO. 36-300",
+      "price_text": "₡36,000,000",
+      "price_usd": 72000,
+      "location": "hace 4 h605ft2GUANACASTE, NANDAYURE",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-cerca-de-playa/7932773436.html",
+      "images": [
+        "https://images.craigslist.org/d/7932773436/00A0A_8bf9fsawVFp_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-25T19:16:52.827Z",
+      "id": "18e1cc1d4d84"
+    },
+    {
+      "title": "TERRENO PARA VENTA, CERCA DE PLAYA CORAZOLITO. 36-300",
+      "price_text": "₡36,000,000",
+      "price_usd": 72000,
+      "location": "hace 4 h605ft2GUANACASTE, NANDAYURE",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-cerca-de-playa/7932773436.html",
+      "images": [
+        "https://images.craigslist.org/d/7932773436/00A0A_8bf9fsawVFp_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-25T19:16:57.848Z",
+      "id": "18e1cc1d4d84"
+    },
+    {
+      "title": "TERRENO PARA VENTA, CERCA DE PLAYA CORAZOLITO. 36-300",
+      "price_text": "₡36,000,000",
+      "price_usd": 72000,
+      "location": "hace 4 h605ft2GUANACASTE, NANDAYURE",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-cerca-de-playa/7932773436.html",
+      "images": [
+        "https://images.craigslist.org/d/7932773436/00A0A_8bf9fsawVFp_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-05-25T19:17:02.868Z",
+      "id": "18e1cc1d4d84"
+    },
+    {
+      "title": "Irie Jungle - Tropical Sanctuary in Playa Negra | Income-Producing Estate\n                Hotel / Leisure, Puerto Viejo, Limón",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Hotel / Leisure, Puerto Viejo, Limón",
+      "url": "https://www.coldwellbankercostarica.com/property/3-bed-hotel-leisure-for-sale-in-puerto-viejo/14851",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006sMrt7/l4rcr9vo7/midres/IMG_20260512_151839418_HDR.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-25T19:18:40.464Z",
+      "id": "5dcbd33038bd"
+    },
+    {
+      "title": "Retreat Center Yoga & Spa in Santa Teresa Beach\n                Hotel / Leisure, Santiago, Puntarenas",
+      "price_text": "$1,800,000",
+      "price_usd": 1800000,
+      "location": "Hotel / Leisure, Santiago, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/13-bed-hotel-leisure-for-sale-in-santiago/10386",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-25T19:19:19.179Z",
+      "id": "c5e93f7b1f6d"
+    },
+    {
+      "title": "Irie Jungle - Tropical Sanctuary in Playa Negra | Income-Producing Estate\n                Hotel / Leisure, Puerto Viejo, Limón",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Hotel / Leisure, Puerto Viejo, Limón",
+      "url": "https://www.coldwellbankercostarica.com/property/3-bed-hotel-leisure-for-sale-in-puerto-viejo/14851",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006sMrt7/l4rcr9vo7/midres/IMG_20260512_151839418_HDR.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-25T19:19:26.462Z",
+      "id": "5dcbd33038bd"
     }
   ],
-  "last_updated": "2026-05-25T14:42:49.511Z",
+  "last_updated": "2026-05-25T19:21:31.374Z",
   "total_count": 402
 }
