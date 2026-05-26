@@ -24553,8 +24553,161 @@
       "category": "luxury",
       "scraped_at": "2026-05-25T19:19:26.462Z",
       "id": "5dcbd33038bd"
+    },
+    {
+      "title": "Beachfront Luxury Mixed Use Multi-Unit Residence\n                Hotel / Leisure, Samara, Guanacaste",
+      "price_text": "$2,999,999",
+      "price_usd": 2999999,
+      "location": "Hotel / Leisure, Samara, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-hotel-leisure-for-sale-in-samara/14784",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006o75WN/0z96rtus5/midres/jpg%20%2810%29.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-26T02:31:58.799Z",
+      "id": "a1c282c8f3fa"
+    },
+    {
+      "title": "Lot in Bahía Culebra - Papagayo Area Investment Opportunity\n                Land, Culebra, Guanacaste",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Land, Culebra, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-culebra/14862",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006tQuqL/ohx28pvge/midres/7.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-26T02:32:28.557Z",
+      "id": "e0c93a271c23"
+    },
+    {
+      "title": "Beautiful Manzanillo Land with Well and Residential Potential\n                Land, Manzanillo, Puntarenas",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Land, Manzanillo, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-manzanillo/14864",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006tSqHc/2tjgr93p2/midres/Copy%20of%20TACR-10.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-26T02:32:28.738Z",
+      "id": "46cc5c9789e7"
+    },
+    {
+      "title": "Beachfront Living at Its Finest ~ Horizontes del Mar 206 | Playa...          The Enclave B9 ~ 5-Bedroom Designer Villa with Pool Views          PRICE REDUCTION AND OWNER'S FINANCING OFFERED FOR 10 YEARS...",
+      "price_text": "Price:     US$ 825 000.00      Price:     US$ 825 000.00      Price:     US$ 825 000.00",
+      "price_usd": 825000.00825,
+      "location": "Location:     Playa Langosta      Location:     Playa Avellanas      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/horizontes-del-mar-206-playa-langosta",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Horizontes%20Del%20Mar%20206-Beachfront-Condo-Langosta.jpg?itok=Orcd7ouU",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/42-enclave-B8-2025.png?itok=ESJK1LH7",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/31-The-Enclave-B6.jpg?itok=rS1qmwT3"
+      ],
+      "description": "Welcome to Horizontes del Mar 206, a beautifully appointed 1,500 sq ft beachfront condominium located in the...          Experience the perfect union of contemporary design and natural beauty at The Enclave at Avellanas, a gated...          Owner's financing available with 40% down, for a period of 10 years and at an interest rate of 8.5%. Please...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-05-26T02:33:32.221Z",
+      "id": "8320d3835966"
+    },
+    {
+      "title": "Villas Puesta de Sol ~ Tamarindo's Newest Condominium...          Multi-Unit Property with Pool and Owner’s Home in Playa Avellanas          24 Plaza Carlota  ~ Timeless Gem in Charming Beachfront...",
+      "price_text": "Price:     US$ 825 000.00      Price:     US$ 850 000.00      Price:     US$ 850 000.00",
+      "price_usd": 825000.0085,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Avellanas      Location:     Playa Danta",
+      "url": "https://www.remax-oceansurf-cr.com/property/villas-puesta-de-sol",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Screenshot%202026-02-26%20at%209.29.53%E2%80%AFAM.png?itok=dsw6X-_W",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-playa-avellanas-compound.png?itok=SOgmydnB",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/30-24-plaza-carlota.png?itok=k99IN_Ed"
+      ],
+      "description": "Welcome to “Villas Puesta del Sol” or “The Sunset Villas” – Tamarindo’s newest addition to the luxury market...          Located just 800 meters from Playa Avellanas, this multi-unit property offers a practical opportunity for...          Welcome to 24 Plaza Carlota, a stunning 2-bedroom, 2-bathroom condo offering 1,669 square feet of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-05-26T02:33:32.575Z",
+      "id": "3247b253dcfb"
+    },
+    {
+      "title": "Prime Beachfront Lot in Playa Grande          Tranquil Retreat B&B Boutique Hotel in Playa Grande          TAMARINDO 360º Penthouse ~ Two-Level Ocean View with Private...",
+      "price_text": "Price:     US$ 2 175 000.00      Price:     US$ 2 195 000.00      Price:     US$ 2 200 000.00",
+      "price_usd": 2175000.002195,
+      "location": "Location:     Playa Grande      Location:     Playa Grande      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/playa-grande-titled-beachfront-lot-rare-opportunity",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-playa-grande-beachfront-lot.jpg?itok=tmNE9jy7",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/0-kinamira-suites.jpg?itok=pGj3-nP3",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/00%20Tama%20360%20PH%20Unit%20301.jpg?itok=UH-aNpPv"
+      ],
+      "description": "Exceptional Investment Opportunity for Nature Lovers and Surfers!\n\tThis rare Playa Grande beachfront lot ...          Discover this Hotel and Spa, just 3 km (1.8 miles) from the stunning Playa Grande beach. Nestled in a lush...          Set atop the hills of Tamarindo, this spectacular brand-new penthouse redefines luxury coastal living with...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-05-26T02:33:41.704Z",
+      "id": "85eb4a245bd2"
+    },
+    {
+      "title": "Beachfront Lots in Playa Avellanas          TINAJAS - Income Producing Property with Expansion Plans          Las Crestas de Senderos Home 13F ~ Senderos Phase Three",
+      "price_text": "Price:     US$ 2 500 000.00      Price:     US$ 2 500 000.00      Price:     US$ 2 660 000.00",
+      "price_usd": 2500000.0025,
+      "location": "Location:     Playa Avellanas      Location:     Tamarindo Areas      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/rare-beachfront-lots-playa-avellanas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-avellanas-lot.jpg?itok=47jJ7-lH",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/DSCF5321_0.jpg?itok=f1G9u2s7",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-13F-Senderos-Tamarindo.png?itok=BBMbfdu4"
+      ],
+      "description": "Discover a rare opportunity to own two exceptional beachfront lots in the highly sought-after Playa Avellanas...          An exceptional investment opportunity in a prime location! The owner of this project is retiring and offering...          Delivery December 2024\nOnce again, the team at WR Architects has created a spectacular design for the...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-05-26T02:33:42.426Z",
+      "id": "1004a5bb6d68"
+    },
+    {
+      "title": "Ultimate Beachfront Elegance in this 3-Bedroom Retreat          Las Crestas de Senderos Home 11F ~ Senderos Phase Three          Casa de Mar ~ 5 Bedroom Masterpiece in Low-Density Beachfront...",
+      "price_text": "Price:     US$ 3 600 000.00      Price:     US$ 3 700 000.00      Price:     US$ 3 750 000.00",
+      "price_usd": 3600000.0037,
+      "location": "Location:     Playa Flamingo      Location:     Playa Tamarindo      Location:     Hacienda-Pinilla",
+      "url": "https://www.remax-oceansurf-cr.com/property/the-palms-33",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-palms-33.jpg?itok=eAGVdaol",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-11F-Senderos-Tamarindo.png?itok=iGmBZX4u",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-de-mar.png?itok=jp15e0_7"
+      ],
+      "description": "Discover the epitome of beachfront luxury at Palms #33, a premier titled property nestled in the heart of...          Delivery December 2024\nThis modern hideaway was created by the amazing team at WR Architects with one thing...          Casa de Mar is located in the exclusive gated community of Dulce Vida, which is part of the Hacienda Pinilla...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-05-26T02:33:42.969Z",
+      "id": "d9cfd3ef180a"
+    },
+    {
+      "title": "Casa Pacifica: Expansive Luxury Estate with Unmatched Views          Casa Leona ~ Boutique Hospitality Estate in Tamarindo Beach           Casa Alegria ~ Perfect Blend of Comfort, Luxury, and Style",
+      "price_text": "Price:     US$ 3 790 000.00      Price:     US$ 3 950 000.00      Price:     US$ 3 990 000.00",
+      "price_usd": 3790000.00395,
+      "location": "Location:     Playa Flamingo      Location:     Playa Tamarindo      Location:     Playa Danta",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-pacifica-mar-vista",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-casa-pacifica.png?itok=V3Gq_Z-w",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1_CasaLeona-resized.jpg?itok=-LFOfYge",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-2-paseo-miraflores.png?itok=ULC_BKbY"
+      ],
+      "description": "Welcome to Casa Pacifica, where luxury living meets breathtaking ocean views. Situated 500 feet above sea...          Casa Leona is an exceptional boutique hospitality estate offering a rare blend of charm, versatility, and...          Introducing Casa Alegria at 2 Paseo Miraflores in the enchanting Las Catalinas, a newly custom-built...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-05-26T02:33:43.346Z",
+      "id": "372ef8a11808"
     }
   ],
-  "last_updated": "2026-05-25T19:22:08.242Z",
+  "last_updated": "2026-05-26T02:34:42.938Z",
   "total_count": 402
 }
