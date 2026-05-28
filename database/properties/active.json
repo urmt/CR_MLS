@@ -24851,8 +24851,23 @@
       "category": "luxury",
       "scraped_at": "2026-05-28T02:29:49.013Z",
       "id": "e44a80a407df"
+    },
+    {
+      "title": "Casa Ladera Costa Rica Luxury Estate\n                Single Family Homes, Dominical, Puntarenas",
+      "price_text": "$4,950,000",
+      "price_usd": 4950000,
+      "location": "Single Family Homes, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-dominical/12346",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-05-28T20:08:14.506Z",
+      "id": "21c56e6112ec"
     }
   ],
-  "last_updated": "2026-05-28T15:37:09.481Z",
+  "last_updated": "2026-05-28T20:12:37.524Z",
   "total_count": 402
 }
