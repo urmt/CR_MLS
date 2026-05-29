@@ -24686,8 +24686,80 @@
       "category": "luxury",
       "scraped_at": "2026-05-28T20:08:14.506Z",
       "id": "21c56e6112ec"
+    },
+    {
+      "title": "Versatile Playa Potrero Home with Two Pools & Guest Suite          Casa Feliz de La Josefina - Spacious Family Estate           Senderos Lot 9E ~ Perfect Ocean View Plot of Land in Exclusive...",
+      "price_text": "Price:     US$ 539 000.00      Price:     US$ 540 000.00      Price:     US$ 549 000.00",
+      "price_usd": 539000.0054,
+      "location": "Location:     Playa Potrero      Location:     Tamarindo Areas      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-grateful-surfside",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-grateful.png?itok=AQHKgslt",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Casa-Feliz-Garden-1%20%281%29.jpeg?itok=1N8RSt7p",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-senderos-lot-immo.png?itok=IsgPXhAB"
+      ],
+      "description": "Welcome to Casa Grateful, a stunning property offering either 3 or 4 bedrooms (depending on how it's divided...          Casa Feliz sits on 1.25 acres (5,060m2), in the calm, quiet, and secure neighborhood of La Josefina, where...          This Ocean View Lot spans 1201m2 and is situated within the prestigious gated community of Senderos, just 1km...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-05-29T02:34:14.431Z",
+      "id": "9f0c1724dffb"
+    },
+    {
+      "title": "PRICE REDUCTION! La Oveja Surf House Restaurant          The Enclave D6 ~ Sophisticated Seaside Escape with Premium Living          Casa Motmot ~ Fully Furnished Home with Pool in Ideal Location",
+      "price_text": "Price:     US$ 550 000.00      Price:     US$ 558 000.00      Price:     US$ 565 000.00",
+      "price_usd": 550000.00558,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Avellanas      Location:     Playa Potrero",
+      "url": "https://www.remax-oceansurf-cr.com/property/la-oveja-restaurant",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/17-La-Oveja-Surf%20House.jpg?itok=Mqc_a2QV",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Enclave-D6.jpg?itok=KhAOAM52",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-mot-mot-2025.jpg?itok=5jxCdELa"
+      ],
+      "description": "La Oveja Restaurant is a fully renovated and operating restaurant and bar in the heart of Tamarindo Beach....          This custom-built 3-bedroom, 2.5-bath home offers the perfect blend of comfort, style, and thoughtful design—...          Casa Motmot is a spacious, fully furnished home with a pool and garage, situated in the heart of Surfside...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-05-29T02:34:14.811Z",
+      "id": "9ab1e664e765"
+    },
+    {
+      "title": "Sunrise 23 ~ Ocean View Condo in Prime Tamarindo Location          PRICE REDUCTION! Casa Arboleda ~ Exceptional Multi-Unit...          Casa Tempisque ~ Tranquil Retreat in Matapalo with Pool &...",
+      "price_text": "Price:     US$ 595 000.00      Price:     US$ 595 000.00      Price:     US$ 599 000.00",
+      "price_usd": 595000.00595,
+      "location": "Location:     Playa Tamarindo      Location:     Tamarindo Areas      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/sunrise-23-playa-tamarindo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/19-sunrise-23_0.png?itok=DDENRwAm",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1_CasaArboleda.jpg?itok=eVkTetI0",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-4-bedroom-matapalo-home.png?itok=gykVVxAb"
+      ],
+      "description": "This third-floor condominium in the popular Sunrise complex offers an unbeatable location just steps from...          If you're seeking an exceptional investment property in the thriving region of Guanacaste, look no further...          Located in the tranquil Matapalo area, just minutes from the stunning beaches of Guanacaste, this property...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-05-29T02:34:15.358Z",
+      "id": "57704bdb1a8d"
+    },
+    {
+      "title": "Casa Conchal: Modern Luxury Near Puerto Viejo Beach          Invest in Paradise: Mono Luxe Suites Condotel with Ocean Views          Malinche Condo 113B ~ Cozy 2 Bedroom Unit in Reserva Conchal...",
+      "price_text": "Price:     US$ 749 000.00      Price:     US$ 759 000.00      Price:     US$ 759 000.00",
+      "price_usd": 749000.00759,
+      "location": "Location:     Playa Piratas      Location:     Playa Tamarindo      Location:     Reserva Conchal",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-conchal",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/34-casa-conchal.png?itok=yQndvknn",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/10-mono-luxe-suites.png?itok=52kaEraA",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5_0.jpg?itok=W0T2lnvy"
+      ],
+      "description": "Welcome to Casa Conchal, a brand-new modern home in the gated community of Montanas de Conchal, Guanacaste,...          Discover the epitome of luxury and exceptional investment potential at the exclusive Mono Luxe Suites...          Reserva Conchal 2 bedroom condo for sale, located on the ground floor, no steps, and with direct access to...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-05-29T02:34:17.001Z",
+      "id": "cf70ba3c8600"
     }
   ],
-  "last_updated": "2026-05-28T20:13:13.491Z",
+  "last_updated": "2026-05-29T02:36:07.255Z",
   "total_count": 402
 }
