@@ -24833,8 +24833,44 @@
       "category": "residential",
       "scraped_at": "2026-05-29T20:10:19.069Z",
       "id": "867cb473be2b"
+    },
+    {
+      "title": "PRICE ADJUSTMENT! Luxury IBIS Condo – 2 Bedroom Residence with...          La Esquina 8 ~ Spacious Luxury Condo in Exclusive Langosta...          Spacious 2-Bedroom Oceanview Condo in Playa Langosta",
+      "price_text": "Price:     US$ 579 000.00      Price:     US$ 589 000.00      Price:     US$ 589 000.00",
+      "price_usd": 579000.00589,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Langosta      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/luxury-ibis-condo-2-bedroom-residence-estuary-views-tamarindo-costa-rica",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Ibis-5-Playa-Tamarindo.jpg?itok=AalJK0FG",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-esquina-8-playa-langosta.png?itok=jeggVgBn",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-1-naxos-19-2026.png?itok=RWoso2Qh"
+      ],
+      "description": "Experience elevated coastal living in this elegant 2-bedroom, 2-bath IBIS condo, ideally positioned across...          Located within the exclusive La Esquina condominium in Playa Langosta, this 3-bedroom, 2-bathroom residence...          Welcome to Naxos #19, a beautifully remodeled and fully furnished 2-bedroom, 2-bathroom ocean view condo...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-05-30T02:18:13.569Z",
+      "id": "379e13fe4cff"
+    },
+    {
+      "title": "Malinche Condo 113B ~ Cozy 2 Bedroom Unit in Reserva Conchal...          Ocean and Mountain Views Finca ~ With a Little River           Casa Avalon ~ Brand-New 3 Bedroom Home in Gated Community",
+      "price_text": "Price:     US$ 759 000.00      Price:     US$ 769 000.00      Price:     US$ 769 000.00",
+      "price_usd": 759000.00769,
+      "location": "Location:     Reserva Conchal      Location:     Tamarindo Areas      Location:     Playa Brasilito",
+      "url": "https://www.remax-oceansurf-cr.com/property/malinche-condo-113b",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5_0.jpg?itok=W0T2lnvy",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Finca-Vista-Cana.JPG?itok=Kpg44YeL",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/CA-3.jpg?itok=zErTPQsa"
+      ],
+      "description": "Reserva Conchal 2 bedroom condo for sale, located on the ground floor, no steps, and with direct access to...          This is one of the best ocean and mountain view property for sale in the area. It is located in Canafistula,...          Introducing Casa Avalon, the newest addition to Catalina Cove, a gated community nestled in Brasilito, Costa...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-05-30T02:18:15.557Z",
+      "id": "45c477c313e7"
     }
   ],
-  "last_updated": "2026-05-29T20:15:57.515Z",
+  "last_updated": "2026-05-30T02:20:00.220Z",
   "total_count": 402
 }
