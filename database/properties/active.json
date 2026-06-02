@@ -24800,8 +24800,44 @@
       "category": "land",
       "scraped_at": "2026-06-02T02:51:04.218Z",
       "id": "9c046071dfbf"
+    },
+    {
+      "title": "Rare Opportunity: The Lowest-Priced Villa in Hacienda Pinilla          Panacea del Mar ~ Tropical Yoga Retreat with 7 Cabins and Ocean...          Bosques de Pinilla - A New Way of Living",
+      "price_text": "Price:     US$ 924 000.00      Price:     US$ 975 000.00      Price:     US$ 979 000.00",
+      "price_usd": 924000.00975,
+      "location": "Location:     Hacienda-Pinilla      Location:     Tamarindo Areas      Location:     Hacienda-Pinilla",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-nibbana-reserva-de-golf",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-nibbana-hacienda-pinilla-reserva-de-golf-%233.jpg?itok=H4oXvJkO",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-panacea-del-mar-2026.jpg?itok=-AjR0yhg",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Bosques%20de%20Pinilla-%20Sales%20booklet_Page_02.jpg?itok=-NhQT2KV"
+      ],
+      "description": "Positioned within the prestigious Reserva de Golf enclave of Hacienda Pinilla, Casa Nibbana is a...          Spanning approximately 17,536 m² (4.3 acres), the property presents outstanding potential as both a boutique...          \nAt Bosques de Pinilla, you’ll find the perfect amenities for you and the family in the impeccably manicured...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-06-02T20:40:49.903Z",
+      "id": "1ef3bd4a372f"
+    },
+    {
+      "title": "Splendor 360º - Maximize Your Investment ~ Marina View Condo and...          Turnkey 4-Plex Investment in Surfside ~ Steps from Flamingo Beach          La Perla 3-4 ~ Panoramic Ocean Views Over Playa Grande and...",
+      "price_text": "Price:     US$ 990 000.00      Price:     US$ 995 000.00      Price:     US$ 1 075 000.00",
+      "price_usd": 990000.00995,
+      "location": "Location:     Playa Flamingo      Location:     Playa Potrero      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/360-splendor-101-playa-flamingo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/29a_360_El_Splendor_Flamingo_Costa_Rica_Condo_For_Sale_0.jpg?itok=eQp3BCuT",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/24-surfside-fourplex-pool.jpg?itok=W2vFGMJT",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-perla-tamarindo-3-4.jpg?itok=5z_14Dbs"
+      ],
+      "description": "Spectacular Views ✅ | Strong Rental Income Potential ✅ | Prime Location ✅ | Breathtaking Sunsets ✅\nThis...          This rare opportunity includes four separate condos in a recently completed (2024) development, located just...          Welcome to La Perla Tamarindo 134 - an incredible ocean-view condo offering breathtaking panoramas of Playa...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-06-02T20:40:50.280Z",
+      "id": "3945a49a14a4"
     }
   ],
-  "last_updated": "2026-06-02T16:11:51.620Z",
+  "last_updated": "2026-06-02T20:42:24.177Z",
   "total_count": 402
 }
