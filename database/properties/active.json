@@ -24800,8 +24800,26 @@
       "category": "land",
       "scraped_at": "2026-06-01T21:27:04.135Z",
       "id": "9d0eb9a60c67"
+    },
+    {
+      "title": "Introducing Baulas Sunset Community ~ A Lifestyle Rooted in...          NEW RESALE! Corner Lot with Mountain and Valley Views - Montana...          San Antonio Estates ~ Ocean-View Homesites in an Exclusive...",
+      "price_text": "Price:     US$ 130 000.00      Price:     US$ 149 000.00      Price:     US$ 149 000.00",
+      "price_usd": 130000.00149,
+      "location": "Location:     Tamarindo Areas      Location:     Tamarindo Areas      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/baulas-sunset-community",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5-cielo-condominium.png?itok=FvdWkYg1",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Montana-del-Mar.jpg?itok=-dNr6zc7",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-san-antonio-estates-2026.jpg.png?itok=0TQRUmyk"
+      ],
+      "description": "Welcome to Baulas Sunset Community – a visionary new development in the heart of Huacas, Guanacaste.\nCrafted...          This prime resale lot in Montana del Mar is positioned on a desirable corner location, the property benefits...          San Antonio Estates is a private gated residential community offering exceptional ocean-view homesites in one...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-06-02T02:51:04.218Z",
+      "id": "9c046071dfbf"
     }
   ],
-  "last_updated": "2026-06-01T21:29:09.250Z",
+  "last_updated": "2026-06-02T02:52:49.059Z",
   "total_count": 402
 }
