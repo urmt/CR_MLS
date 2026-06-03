@@ -24818,8 +24818,98 @@
       "category": "residential",
       "scraped_at": "2026-06-02T20:40:50.280Z",
       "id": "3945a49a14a4"
+    },
+    {
+      "title": "Casa Feliz de La Josefina - Spacious Family Estate           Senderos Lot 9E ~ Perfect Ocean View Plot of Land in Exclusive...          PRICE REDUCTION! La Oveja Surf House Restaurant",
+      "price_text": "Price:     US$ 540 000.00      Price:     US$ 549 000.00      Price:     US$ 550 000.00",
+      "price_usd": 540000.00549,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-feliz-de-la-josefina",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Casa-Feliz-Garden-1%20%281%29.jpeg?itok=1N8RSt7p",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-senderos-lot-immo.png?itok=IsgPXhAB",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/17-La-Oveja-Surf%20House.jpg?itok=Mqc_a2QV"
+      ],
+      "description": "Casa Feliz sits on 1.25 acres (5,060m2), in the calm, quiet, and secure neighborhood of La Josefina, where...          This Ocean View Lot spans 1201m2 and is situated within the prestigious gated community of Senderos, just 1km...          La Oveja Restaurant is a fully renovated and operating restaurant and bar in the heart of Tamarindo Beach....",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-06-03T02:59:41.908Z",
+      "id": "679e743d3dda"
+    },
+    {
+      "title": "La Esquina 8 ~ Spacious Luxury Condo in Exclusive Langosta...          Spacious 2-Bedroom Oceanview Condo in Playa Langosta          Casa Plumeria ~ Gated Community Home 7 minutes from Playa...",
+      "price_text": "Price:     US$ 589 000.00      Price:     US$ 589 000.00      Price:     US$ 589 000.00",
+      "price_usd": 589000.00589,
+      "location": "Location:     Playa Langosta      Location:     Playa Langosta      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/la-esquina-8-playa-langosta",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-esquina-8-playa-langosta.png?itok=jeggVgBn",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-1-naxos-19-2026.png?itok=RWoso2Qh",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-plumeria-better-lighting.png?itok=Uq9vmmYx"
+      ],
+      "description": "Located within the exclusive La Esquina condominium in Playa Langosta, this 3-bedroom, 2-bathroom residence...          Welcome to Naxos #19, a beautifully remodeled and fully furnished 2-bedroom, 2-bathroom ocean view condo...          Welcome to Casa Plumeria — a refined and fully furnished villa that perfectly blends modern comfort with the...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-06-03T02:59:42.322Z",
+      "id": "9691a91ec86f"
+    },
+    {
+      "title": "Villa Tanamara-Classic French Colonial          Rare Opportunity: The Lowest-Priced Villa in Hacienda Pinilla          Panacea del Mar ~ Tropical Yoga Retreat with 7 Cabins and Ocean...",
+      "price_text": "Price:     US$ 900 000.00      Price:     US$ 924 000.00      Price:     US$ 975 000.00",
+      "price_usd": 900000.00924,
+      "location": "Location:     Tamarindo Areas      Location:     Hacienda-Pinilla      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/villa-tanamara-classic-french-colonial",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/photos/exposio_0009_14.jpg?itok=Xd7jXtHY",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-nibbana-hacienda-pinilla-reserva-de-golf-%233.jpg?itok=H4oXvJkO",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-panacea-del-mar-2026.jpg?itok=-AjR0yhg"
+      ],
+      "description": "WELCOME TO VILLA TANAMARA, your dream house in Costa Rica. Get it all with Villa Tanamara, the house with the...          \n\tPositioned within the prestigious Reserva de Golf enclave of Hacienda Pinilla, Casa Nibbana is a...          Spanning approximately 17,536 m² (4.3 acres), the property presents outstanding potential as both a boutique...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-06-03T02:59:50.302Z",
+      "id": "5e60ac8586a6"
+    },
+    {
+      "title": "Half Acre of Beachfront Bliss in Tamarindo          Casa Las Brisas ~ 5 Bedroom Ocean View Estate in Flamingo Beach          Casa Hall ~ Modern Tropical Living with Walkable Beach Access",
+      "price_text": "Price:     US$ 2 950 000.00      Price:     US$ 2 950 000.00      Price:     US$ 3 295 000.00",
+      "price_usd": 2950000.00295,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Flamingo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/tamarindo-beachfront-lot",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-lot-next-to-chiringuito.jpg?itok=OJ2aw1-L",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-las-brisas.jpeg?itok=4NDOcz_A",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-hall-2026.png?itok=zkhdqI-V"
+      ],
+      "description": "This beachfront property, just steps from Tamarindo's hub, is surrounded by international dining options,...          Casa Las Brisas is an extraordinary property with stunning ocean views extending from the Bay of Potrero and...          Tucked inside a boutique gated community just moments from the shoreline of Playa Tamarindo, Casa Hall offers...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-06-03T02:59:59.929Z",
+      "id": "e1fce8faf152"
+    },
+    {
+      "title": "Casa Alegria ~ Perfect Blend of Comfort, Luxury, and Style           Casa del Atardecer ~ Luxury Ocean View Estate in Senderos          Last Remaining Beachfront Lot in Tamarindo ~ A Rare Opportunity",
+      "price_text": "Price:     US$ 3 990 000.00      Price:     US$ 3 995 000.00      Price:     US$ 4 000 000.00",
+      "price_usd": 3990000.003995,
+      "location": "Location:     Playa Danta      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-alegria-paseo-miraflores",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-2-paseo-miraflores.png?itok=ULC_BKbY",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/14-casa-sunset-senderos-2026.jpg?itok=jUv-Eimr",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Beachfront-Lot-Tamarindo.jpg?itok=LNYaL86e"
+      ],
+      "description": "Introducing Casa Alegria at 2 Paseo Miraflores in the enchanting Las Catalinas, a newly custom-built...          Perched on a hillside in the exclusive gated community of Senderos in Playa Tamarindo, this exceptional...          Positioned directly on the golden sands of Tamarindo Beach, this exceptional 1,203m² titled beachfront...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-06-03T03:00:00.631Z",
+      "id": "cae5d9498a0f"
     }
   ],
-  "last_updated": "2026-06-02T20:43:01.502Z",
+  "last_updated": "2026-06-03T03:01:48.002Z",
   "total_count": 402
 }
