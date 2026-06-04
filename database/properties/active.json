@@ -24932,8 +24932,98 @@
       "category": "land",
       "scraped_at": "2026-06-03T16:24:42.911Z",
       "id": "ffdb09d94a5e"
+    },
+    {
+      "title": "CASA EN VENTA EN B° VASCONIA, SAN JOSÉ. 33-171",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 4 h3br320ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/casa-en-venta-en-vasconia-san-jos/7938628079.html",
+      "images": [
+        "https://images.craigslist.org/d/7938628079/00M0M_fFBNO859MFs_0hw0nm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-04T02:50:49.659Z",
+      "id": "f911e124f238"
+    },
+    {
+      "title": "CASA EN VENTA EN B° VASCONIA, SAN JOSÉ. 33-171",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 4 h3br320ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/casa-en-venta-en-vasconia-san-jos/7938628079.html",
+      "images": [
+        "https://images.craigslist.org/d/7938628079/00M0M_fFBNO859MFs_0hw0nm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-04T02:50:54.635Z",
+      "id": "f911e124f238"
+    },
+    {
+      "title": "CASA EN VENTA EN B° VASCONIA, SAN JOSÉ. 33-171",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 4 h3br320ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/casa-en-venta-en-vasconia-san-jos/7938628079.html",
+      "images": [
+        "https://images.craigslist.org/d/7938628079/00M0M_fFBNO859MFs_0hw0nm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-04T02:50:59.563Z",
+      "id": "f911e124f238"
+    },
+    {
+      "title": "CASA EN VENTA EN B° VASCONIA, SAN JOSÉ. 33-171",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 4 h3br320ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/casa-en-venta-en-vasconia-san-jos/7938628079.html",
+      "images": [
+        "https://images.craigslist.org/d/7938628079/00M0M_fFBNO859MFs_0hw0nm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-04T02:51:04.500Z",
+      "id": "f911e124f238"
+    },
+    {
+      "title": "CASA EN VENTA EN B° VASCONIA, SAN JOSÉ. 33-171",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 4 h3br320ft2HEREDIA",
+      "url": "https://costarica.craigslist.org/reo/d/casa-en-venta-en-vasconia-san-jos/7938628079.html",
+      "images": [
+        "https://images.craigslist.org/d/7938628079/00M0M_fFBNO859MFs_0hw0nm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-04T02:51:09.587Z",
+      "id": "f911e124f238"
+    },
+    {
+      "title": "Casa Avalon\n                Single Family Homes, Punta Leona, Puntarenas",
+      "price_text": "$4,050,000",
+      "price_usd": 4050000,
+      "location": "Single Family Homes, Punta Leona, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-single-family-homes-for-sale-in-punta-leona/14189",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-06-04T02:52:02.902Z",
+      "id": "1d0ab757dbe3"
     }
   ],
-  "last_updated": "2026-06-03T20:54:14.783Z",
+  "last_updated": "2026-06-04T02:56:57.871Z",
   "total_count": 402
 }
