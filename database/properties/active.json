@@ -25693,8 +25693,182 @@
       "category": "residential",
       "scraped_at": "2026-06-06T19:07:45.178Z",
       "id": "614f01ce3e1c"
+    },
+    {
+      "title": "Casa en venta en San Francisco de II Ríos",
+      "price_text": "₡86,000,000",
+      "price_usd": 172000,
+      "location": "hace 5 h2br144ft2",
+      "url": "https://costarica.craigslist.org/reb/d/casa-en-venta-en-san-francisco-de-ii-ros/7939684919.html",
+      "images": [
+        "https://images.craigslist.org/d/7939684919/00O0O_7Etf2aq7Hva_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-09T02:14:45.605Z",
+      "id": "a4705cbfe342"
+    },
+    {
+      "title": "Casa en venta en San Francisco de II Ríos",
+      "price_text": "₡86,000,000",
+      "price_usd": 172000,
+      "location": "hace 5 h2br144ft2",
+      "url": "https://costarica.craigslist.org/reb/d/casa-en-venta-en-san-francisco-de-ii-ros/7939684919.html",
+      "images": [
+        "https://images.craigslist.org/d/7939684919/00O0O_7Etf2aq7Hva_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-09T02:14:50.639Z",
+      "id": "a4705cbfe342"
+    },
+    {
+      "title": "Casa en venta en San Francisco de II Ríos",
+      "price_text": "₡86,000,000",
+      "price_usd": 172000,
+      "location": "hace 5 h2br144ft2",
+      "url": "https://costarica.craigslist.org/reb/d/casa-en-venta-en-san-francisco-de-ii-ros/7939684919.html",
+      "images": [
+        "https://images.craigslist.org/d/7939684919/00O0O_7Etf2aq7Hva_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-09T02:14:55.621Z",
+      "id": "a4705cbfe342"
+    },
+    {
+      "title": "Casa en venta en San Francisco de II Ríos",
+      "price_text": "₡86,000,000",
+      "price_usd": 172000,
+      "location": "hace 5 h2br144ft2",
+      "url": "https://costarica.craigslist.org/reb/d/casa-en-venta-en-san-francisco-de-ii-ros/7939684919.html",
+      "images": [
+        "https://images.craigslist.org/d/7939684919/00O0O_7Etf2aq7Hva_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-09T02:15:00.739Z",
+      "id": "a4705cbfe342"
+    },
+    {
+      "title": "Casa en venta en San Francisco de II Ríos",
+      "price_text": "₡86,000,000",
+      "price_usd": 172000,
+      "location": "hace 5 h2br144ft2",
+      "url": "https://costarica.craigslist.org/reb/d/casa-en-venta-en-san-francisco-de-ii-ros/7939684919.html",
+      "images": [
+        "https://images.craigslist.org/d/7939684919/00O0O_7Etf2aq7Hva_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-09T02:15:05.703Z",
+      "id": "a4705cbfe342"
+    },
+    {
+      "title": "Incredible Brand New Ocean View Luxury Home\n                Single Family Homes, Tamarindo, Guanacaste",
+      "price_text": "$3,950,000",
+      "price_usd": 3950000,
+      "location": "Single Family Homes, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-tamarindo/4545",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-06-09T02:15:56.980Z",
+      "id": "6a868e473349"
+    },
+    {
+      "title": "Boutique Hotel in Tamarindo, Just 175m From the Beach\n                Hotel / Leisure, Tamarindo, Guanacaste",
+      "price_text": "$2,500,000",
+      "price_usd": 2500000,
+      "location": "Hotel / Leisure, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/9-bed-hotel-leisure-for-sale-in-tamarindo/14053",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005fIkgn/u5vhw3mf4/midres/42.-Hotel-Bonga-House-Costa-Rica.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-06-09T02:17:26.512Z",
+      "id": "ed05fd866ae9"
+    },
+    {
+      "title": "Boutique Hotel with Pool and Commercial Growth Potential in Santa Teresa\n                Hotel / Leisure, Santa Teresa, Puntarenas",
+      "price_text": "$1,850,000",
+      "price_usd": 1850000,
+      "location": "Hotel / Leisure, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/9-bed-hotel-leisure-for-sale-in-santa-teresa/14948",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006yZX4m/rfy8noegh/midres/portada.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-06-09T02:17:35.655Z",
+      "id": "132c6c5970cf"
+    },
+    {
+      "title": "Ocean View 79 hectares finca - La Puerta del Sol          Tamarindo Park ~ New Luxury Gated Community          25 Paseo del Mar ~ Modern Townhome with Open Layout and Stunning...",
+      "price_text": "Price:     US$ 1 580 000.00      Price:     US$ 1 690 000.00      Price:     US$ 1 699 000.00",
+      "price_usd": 1580000.00169,
+      "location": "Location:     Playa Junquillal      Location:     Playa Tamarindo      Location:     Playa Danta",
+      "url": "https://www.remax-oceansurf-cr.com/property/ocean-view-79-hectares-finca-la-puerta-del-sol",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Finca-la-puerta-del-sol.jpg?itok=oFtWBET_",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/8-lot-24-%26-25.png?itok=cWJVtYrB",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-25-paseo-del-mar.jpg?itok=HLD71j97"
+      ],
+      "description": "Beautiful property of 79 hectares with stunning views of valleys and the ocean, in La Puerta del Sol. The...          Tamarindo Park is proud to bring a unique Costa Rican gated community to the desirable Tamarindo area of...          This beautiful and comfortable beachfront home sits just across the plaza from the Beach Club. Perfectly...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-06-09T02:18:45.134Z",
+      "id": "c54354842935"
+    },
+    {
+      "title": "Renovated 4-Bedroom Villa with Golf Views in Reserva Conchal          Casa Mistral ~ Ocean Views & Jungle Serenity          PRICE REDUCTION! Prime Development Opportunity ~ 18 Lots on 10.3...",
+      "price_text": "Price:     US$ 1 750 000.00      Price:     US$ 1 765 000.00      Price:     US$ 1 790 000.00",
+      "price_usd": 1750000.001765,
+      "location": "Location:     Reserva Conchal      Location:     Playa Penca      Location:     Playa Negra",
+      "url": "https://www.remax-oceansurf-cr.com/property/villa-carao-11-reserva-conchal",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/52.-Villa-Carao-11.jpg?itok=L3hxr3Ma",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.Casa-Mistral.jpg?itok=4LKbfGBR",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-prime-development-opportunity-playa-negra.jpg?itok=5SxrZgZR"
+      ],
+      "description": "Located in the prestigious gated community of Reserva Conchal, Villa Carao #11 offers a refined living...          Experience the perfect blend of luxury and tranquility with this breathtaking ocean-view residence, completed...          Introducing a prime 10.3-hectare development opportunity in Playa Negra, Guanacaste. This peaceful coastal...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-06-09T02:18:45.519Z",
+      "id": "802d21ceefc7"
+    },
+    {
+      "title": "BACK ON THE MARKET! Casa Higueron ~ 4-Bedroom Luxury Home with 2...          Enclave 49 ~ Luxury Living with Direct Beach Access          Las Crestas de Senderos Home 15F ~ Senderos Phase Three",
+      "price_text": "Price:     US$ 1 800 000.00      Price:     US$ 1 800 000.00      Price:     US$ 1 900 000.00",
+      "price_usd": 1800000.0018,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Langosta      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-higueron-tamarindo-park-56",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Casa-Higueron.jpg?itok=9nRbn2eJ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.-Enclave-49-house-exterior.jpg?itok=5Npke5qV",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-senderos-15f.jpeg?itok=ol42YayH"
+      ],
+      "description": "Located within the new luxury gated community of Tamarindo Park, this impressive residence is part of one of...          Welcome to Enclave 49, a luxurious ocean-view home located in the exclusive San Francisco Point community of...          Delivery December 2024\n“The Green Valley” home was conceptualized by Richard Muller and his team with the...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-06-09T02:18:45.915Z",
+      "id": "de4f40b04850"
     }
   ],
-  "last_updated": "2026-06-08T20:10:37.770Z",
+  "last_updated": "2026-06-09T02:20:09.235Z",
   "total_count": 402
 }
