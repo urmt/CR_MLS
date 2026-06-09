@@ -25513,8 +25513,98 @@
       "category": "land",
       "scraped_at": "2026-06-09T02:18:45.915Z",
       "id": "de4f40b04850"
+    },
+    {
+      "title": "Luxurious Coffee Estate for Sale in the Mountains of Alajuela\n                Single Family Homes, San Isidro, Alajuela",
+      "price_text": "$4,980,000",
+      "price_usd": 4980000,
+      "location": "Single Family Homes, San Isidro, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/3-bed-single-family-homes-for-sale-in-san-isidro/13585",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005Z8rGb/ucpgzx3ew/midres/Copia%20de%20Los%20Cedros-8.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-06-09T14:30:43.255Z",
+      "id": "a45cf47c1b63"
+    },
+    {
+      "title": "Commercial Gem at Ojochal\n                Commercial, Ojochal, Puntarenas",
+      "price_text": "$989,000",
+      "price_usd": 989000,
+      "location": "Commercial, Ojochal, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-ojochal/10610",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-06-09T14:31:39.368Z",
+      "id": "b8673728cbc5"
+    },
+    {
+      "title": "Quepos Arco Iris Castle\n                Commercial, Quepos, Puntarenas",
+      "price_text": "$985,000",
+      "price_usd": 985000,
+      "location": "Commercial, Quepos, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/3-bed-commercial-for-sale-in-quepos/6403",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-06-09T14:31:39.469Z",
+      "id": "3afae7350eb5"
+    },
+    {
+      "title": "Building for sale in Uruca\n                Commercial, La Uruca, San Jose",
+      "price_text": "$950,000",
+      "price_usd": 950000,
+      "location": "Commercial, La Uruca, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/15-bed-commercial-for-sale-in-la-uruca/6961",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-06-09T14:31:39.576Z",
+      "id": "608f9afb78ce"
+    },
+    {
+      "title": "Exclusive Santa Teresa’s Top ATV Rental Business\n                Commercial, Santa Teresa, Puntarenas",
+      "price_text": "$900,000",
+      "price_usd": 900000,
+      "location": "Commercial, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-santa-teresa/10268",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-06-09T14:31:39.838Z",
+      "id": "6eddb155cf75"
+    },
+    {
+      "title": "Epic Tamarindo, Exclusive Luxury Investment with 18 Villas and Suites\n                Hotel / Leisure, Tamarindo, Guanacaste",
+      "price_text": "$3,375,000",
+      "price_usd": 3375000,
+      "location": "Hotel / Leisure, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/12-bed-hotel-leisure-for-sale-in-tamarindo/13562",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-06-09T14:31:56.961Z",
+      "id": "c4f8b14214ac"
     }
   ],
-  "last_updated": "2026-06-09T09:31:42.987Z",
+  "last_updated": "2026-06-09T14:34:51.156Z",
   "total_count": 402
 }
