@@ -1,21 +1,6 @@
 {
   "properties": [
     {
-      "title": "Casa Fantastica Luxury Mountain and Ocean View Villa\n                Single Family Homes, Manuel Antonio, Puntarenas",
-      "price_text": "$5,500,000",
-      "price_usd": 5500000,
-      "location": "Single Family Homes, Manuel Antonio, Puntarenas",
-      "url": "https://www.coldwellbankercostarica.com/property/10-bed-single-family-homes-for-sale-in-manuel-antonio/13617",
-      "images": [
-        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "luxury",
-      "scraped_at": "2026-03-13T06:41:59.993Z",
-      "id": "10b7cb2a9784"
-    },
-    {
       "title": "House for sale San Jose, near Plaza Viquez 226 sq. mtrs.",
       "price_text": "₡83,000,000",
       "price_usd": 166000,
@@ -24127,6 +24112,6 @@
       "id": "9f8bc709b9b7"
     }
   ],
-  "last_updated": "2026-06-11T10:14:35.696Z",
+  "last_updated": "2026-06-11T10:15:09.076Z",
   "total_count": 402
 }

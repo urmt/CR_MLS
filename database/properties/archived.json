@@ -41666,7 +41666,24 @@
       "id": "741b88adee6a",
       "archived_at": "2026-06-11T02:53:35.935Z",
       "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "Casa Fantastica Luxury Mountain and Ocean View Villa\n                Single Family Homes, Manuel Antonio, Puntarenas",
+      "price_text": "$5,500,000",
+      "price_usd": 5500000,
+      "location": "Single Family Homes, Manuel Antonio, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/10-bed-single-family-homes-for-sale-in-manuel-antonio/13617",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-03-13T06:41:59.993Z",
+      "id": "10b7cb2a9784",
+      "archived_at": "2026-06-11T10:15:09.074Z",
+      "archive_reason": "90_day_auto_purge"
     }
   ],
-  "last_updated": "2026-06-11T02:53:35.957Z"
+  "last_updated": "2026-06-11T10:15:09.097Z"
 }
