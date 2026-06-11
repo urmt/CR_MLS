@@ -24035,8 +24035,98 @@
       "category": "residential",
       "scraped_at": "2026-06-11T02:48:19.293Z",
       "id": "65c2efb7d6a5"
+    },
+    {
+      "title": "BLUE CREEK VILLA - Smart Home in Paradise",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 5 h3br2000ft2Tilaran",
+      "url": "https://costarica.craigslist.org/reb/d/blue-creek-villa-smart-home-in-paradise/7940200722.html",
+      "images": [
+        "https://images.craigslist.org/d/7940200722/00r0r_2WOAIulXcvT_0uq0i9_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-06-11T10:09:02.217Z",
+      "id": "b920a43c1e6d"
+    },
+    {
+      "title": "BLUE CREEK VILLA - Smart Home in Paradise",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 5 h3br2000ft2Tilaran",
+      "url": "https://costarica.craigslist.org/reb/d/blue-creek-villa-smart-home-in-paradise/7940200722.html",
+      "images": [
+        "https://images.craigslist.org/d/7940200722/00r0r_2WOAIulXcvT_0uq0i9_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-06-11T10:09:07.290Z",
+      "id": "b920a43c1e6d"
+    },
+    {
+      "title": "BLUE CREEK VILLA - Smart Home in Paradise",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 5 h3br2000ft2Tilaran",
+      "url": "https://costarica.craigslist.org/reb/d/blue-creek-villa-smart-home-in-paradise/7940200722.html",
+      "images": [
+        "https://images.craigslist.org/d/7940200722/00r0r_2WOAIulXcvT_0uq0i9_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-06-11T10:09:12.315Z",
+      "id": "b920a43c1e6d"
+    },
+    {
+      "title": "BLUE CREEK VILLA - Smart Home in Paradise",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 5 h3br2000ft2Tilaran",
+      "url": "https://costarica.craigslist.org/reb/d/blue-creek-villa-smart-home-in-paradise/7940200722.html",
+      "images": [
+        "https://images.craigslist.org/d/7940200722/00r0r_2WOAIulXcvT_0uq0i9_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-06-11T10:09:17.507Z",
+      "id": "b920a43c1e6d"
+    },
+    {
+      "title": "BLUE CREEK VILLA - Smart Home in Paradise",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 5 h3br2000ft2Tilaran",
+      "url": "https://costarica.craigslist.org/reb/d/blue-creek-villa-smart-home-in-paradise/7940200722.html",
+      "images": [
+        "https://images.craigslist.org/d/7940200722/00r0r_2WOAIulXcvT_0uq0i9_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-06-11T10:09:22.532Z",
+      "id": "b920a43c1e6d"
+    },
+    {
+      "title": "Ocean View Boutique Hotel Near Cahuita\n                Hotel / Leisure, Cahuita, Limón",
+      "price_text": "$1,800,000",
+      "price_usd": 1800000,
+      "location": "Hotel / Leisure, Cahuita, Limón",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-hotel-leisure-for-sale-in-cahuita/14964",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-11T10:11:37.772Z",
+      "id": "9f8bc709b9b7"
     }
   ],
-  "last_updated": "2026-06-11T02:53:35.936Z",
+  "last_updated": "2026-06-11T10:14:35.696Z",
   "total_count": 402
 }
