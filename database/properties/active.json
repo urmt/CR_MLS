@@ -24275,8 +24275,98 @@
       "category": "luxury",
       "scraped_at": "2026-06-12T02:44:51.820Z",
       "id": "e4c121db9b02"
+    },
+    {
+      "title": "Beautiful home in condominium, Santo Domingo de Heredia 1,770 sq. mtrs",
+      "price_text": "₡250,000,000",
+      "price_usd": 500000,
+      "location": "hace 4 h4br1770ft2Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-home-in-condominium-santo/7936516167.html",
+      "images": [
+        "https://images.craigslist.org/d/7936516167/00Y0Y_dpbyM8FWIcO_0kE09H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-12T14:38:38.396Z",
+      "id": "82abc324c730"
+    },
+    {
+      "title": "Beautiful home in condominium, Santo Domingo de Heredia 1,770 sq. mtrs",
+      "price_text": "₡250,000,000",
+      "price_usd": 500000,
+      "location": "hace 4 h4br1770ft2Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-home-in-condominium-santo/7936516167.html",
+      "images": [
+        "https://images.craigslist.org/d/7936516167/00Y0Y_dpbyM8FWIcO_0kE09H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-12T14:38:43.680Z",
+      "id": "82abc324c730"
+    },
+    {
+      "title": "Beautiful home in condominium, Santo Domingo de Heredia 1,770 sq. mtrs",
+      "price_text": "₡250,000,000",
+      "price_usd": 500000,
+      "location": "hace 4 h4br1770ft2Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-home-in-condominium-santo/7936516167.html",
+      "images": [
+        "https://images.craigslist.org/d/7936516167/00Y0Y_dpbyM8FWIcO_0kE09H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-12T14:38:48.907Z",
+      "id": "82abc324c730"
+    },
+    {
+      "title": "Beautiful home in condominium, Santo Domingo de Heredia 1,770 sq. mtrs",
+      "price_text": "₡250,000,000",
+      "price_usd": 500000,
+      "location": "hace 4 h4br1770ft2Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-home-in-condominium-santo/7936516167.html",
+      "images": [
+        "https://images.craigslist.org/d/7936516167/00Y0Y_dpbyM8FWIcO_0kE09H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-12T14:38:53.980Z",
+      "id": "82abc324c730"
+    },
+    {
+      "title": "Beautiful home in condominium, Santo Domingo de Heredia 1,770 sq. mtrs",
+      "price_text": "₡250,000,000",
+      "price_usd": 500000,
+      "location": "hace 4 h4br1770ft2Santo Domingo de Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/beautiful-home-in-condominium-santo/7936516167.html",
+      "images": [
+        "https://images.craigslist.org/d/7936516167/00Y0Y_dpbyM8FWIcO_0kE09H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-12T14:38:59.197Z",
+      "id": "82abc324c730"
+    },
+    {
+      "title": "Oceanfront Four Properties in one with 43 Bedrooms\n                Single Family Homes, Jaco, Puntarenas",
+      "price_text": "$6,500,000",
+      "price_usd": 6500000,
+      "location": "Single Family Homes, Jaco, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/43-bed-single-family-homes-for-sale-in-jaco/10898",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-06-12T14:41:46.620Z",
+      "id": "aa16510e7560"
     }
   ],
-  "last_updated": "2026-06-12T10:04:07.285Z",
+  "last_updated": "2026-06-12T14:43:34.091Z",
   "total_count": 402
 }
