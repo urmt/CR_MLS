@@ -24458,8 +24458,83 @@
       "category": "luxury",
       "scraped_at": "2026-06-13T19:10:56.600Z",
       "id": "952d5741ac37"
+    },
+    {
+      "title": "1,224 square meters residential lot",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 41 min1224ft2Liberia",
+      "url": "https://costarica.craigslist.org/reo/d/1224-square-meters-residential-lot/7931662514.html",
+      "images": [
+        "https://images.craigslist.org/d/7931662514/00O0O_e9ZJ9tWXoVa_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-06-14T06:26:17.774Z",
+      "id": "610980990d70"
+    },
+    {
+      "title": "1,224 square meters residential lot",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 41 min1224ft2Liberia",
+      "url": "https://costarica.craigslist.org/reo/d/1224-square-meters-residential-lot/7931662514.html",
+      "images": [
+        "https://images.craigslist.org/d/7931662514/00O0O_e9ZJ9tWXoVa_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-06-14T06:26:22.890Z",
+      "id": "610980990d70"
+    },
+    {
+      "title": "1,224 square meters residential lot",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 41 min1224ft2Liberia",
+      "url": "https://costarica.craigslist.org/reo/d/1224-square-meters-residential-lot/7931662514.html",
+      "images": [
+        "https://images.craigslist.org/d/7931662514/00O0O_e9ZJ9tWXoVa_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-06-14T06:26:28.103Z",
+      "id": "610980990d70"
+    },
+    {
+      "title": "1,224 square meters residential lot",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 41 min1224ft2Liberia",
+      "url": "https://costarica.craigslist.org/reo/d/1224-square-meters-residential-lot/7931662514.html",
+      "images": [
+        "https://images.craigslist.org/d/7931662514/00O0O_e9ZJ9tWXoVa_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-06-14T06:26:33.308Z",
+      "id": "610980990d70"
+    },
+    {
+      "title": "1,224 square meters residential lot",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 41 min1224ft2Liberia",
+      "url": "https://costarica.craigslist.org/reo/d/1224-square-meters-residential-lot/7931662514.html",
+      "images": [
+        "https://images.craigslist.org/d/7931662514/00O0O_e9ZJ9tWXoVa_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-06-14T06:26:38.517Z",
+      "id": "610980990d70"
     }
   ],
-  "last_updated": "2026-06-14T02:54:34.849Z",
+  "last_updated": "2026-06-14T06:32:27.494Z",
   "total_count": 402
 }
