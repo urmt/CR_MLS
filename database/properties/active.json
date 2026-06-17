@@ -23317,8 +23317,98 @@
       "category": "residential",
       "scraped_at": "2026-06-16T20:44:38.125Z",
       "id": "0f1d18092ba5"
+    },
+    {
+      "title": "Malinche Condo 113B ~ Cozy 2 Bedroom Unit in Reserva Conchal...          Ocean and Mountain Views Finca ~ With a Little River           La Vista Condos Residencial - Part of the Diria Family Complex",
+      "price_text": "Price:     US$ 759 000.00      Price:     US$ 769 000.00      Price:     US$ 779 000.00",
+      "price_usd": 759000.00769,
+      "location": "Location:     Reserva Conchal      Location:     Tamarindo Areas      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/malinche-condo-113b",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5_0.jpg?itok=W0T2lnvy",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Finca-Vista-Cana.JPG?itok=Kpg44YeL",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5-general-pics-la-vista-tower-c-october-2025.jpg?itok=COapoWEz"
+      ],
+      "description": "Reserva Conchal 2 bedroom condo for sale, located on the ground floor, no steps, and with direct access to...          This is one of the best ocean and mountain view property for sale in the area. It is located in Canafistula,...          La Vista Condos Residencial is an exclusive gated condominium found at the top of the hills of Playa...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-06-17T02:54:51.670Z",
+      "id": "242f8c2e89e3"
+    },
+    {
+      "title": "PRICE REDUCTION! Finca Los Tres Leches ~ Development Opportunity          Beachfront Living at Its Finest ~ Horizontes del Mar 206 | Playa...          The Enclave B9 ~ 5-Bedroom Designer Villa with Pool Views",
+      "price_text": "Price:     US$ 800 000.00      Price:     US$ 825 000.00      Price:     US$ 825 000.00",
+      "price_usd": 800000.00825,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Langosta      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/finca-tres-leches-santa-rosa",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1_Finca_Tres_Leches_0.jpeg?itok=ANtNnTFj",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Horizontes%20Del%20Mar%20206-Beachfront-Condo-Langosta.jpg?itok=Orcd7ouU",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/42-enclave-B8-2025.png?itok=ESJK1LH7"
+      ],
+      "description": "Development opportunity! Amazing piece of land located in Santa Rosa, just 6 miles away from the stunning...          Welcome to Horizontes del Mar 206, a beautifully appointed 1,500 sq ft beachfront condominium located in the...          Experience the perfect union of contemporary design and natural beauty at The Enclave at Avellanas, a gated...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-06-17T02:54:52.166Z",
+      "id": "bd446d51b18f"
+    },
+    {
+      "title": "PRICE REDUCTION! La Perla 5-4 ~ Exceptional Ocean View Property...          Sanara Phase II: Luxury Meets Sustainability in Reserva Conchal          Mensajeros Compound ~ Multi-Home Property with Development...",
+      "price_text": "Price:     US$ 1 099 000.00      Price:     US$ 1 170 500.00      Price:     US$ 1 200 000.00",
+      "price_usd": 1099000.0011705,
+      "location": "Location:     Playa Tamarindo      Location:     Reserva Conchal      Location:     Playa Potrero",
+      "url": "https://www.remax-oceansurf-cr.com/property/la-perla-5-4-playa-tamarindo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-LaPerla-54-Terrace.jpg?itok=oWFYQVhX",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/18-sanara-phase-ii-pictures.jpg?itok=49tVtOVH",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Propriedades-Mensajeros.jpg?itok=8B4UNE9Q"
+      ],
+      "description": "La Perla 5-4 is a fantastic ocean-view property located a short walk to the beach and town. The three-bedroom...          Sanara Phase II at Reserva Conchal: A Sustainable Luxury Community\nWelcome to Sanara Phase II, an exclusive...          Discover a rare investment opportunity encompassing five titled lots within a single 36,426 m² compound....",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-06-17T02:54:53.238Z",
+      "id": "850cf23813bb"
+    },
+    {
+      "title": "Tamarindo Park ~ New Luxury Gated Community          25 Paseo del Mar ~ Modern Townhome with Open Layout and Stunning...          Renovated 4-Bedroom Villa with Golf Views in Reserva Conchal",
+      "price_text": "Price:     US$ 1 690 000.00      Price:     US$ 1 699 000.00      Price:     US$ 1 750 000.00",
+      "price_usd": 1690000.001699,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Danta      Location:     Reserva Conchal",
+      "url": "https://www.remax-oceansurf-cr.com/property/tamarindo-park-new-luxury-gated-community",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/8-lot-24-%26-25.png?itok=cWJVtYrB",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-25-paseo-del-mar.jpg?itok=HLD71j97",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/52.-Villa-Carao-11.jpg?itok=L3hxr3Ma"
+      ],
+      "description": "Tamarindo Park is proud to bring a unique Costa Rican gated community to the desirable Tamarindo area of...          This beautiful and comfortable beachfront home sits just across the plaza from the Beach Club. Perfectly...          Located in the prestigious gated community of Reserva Conchal, Villa Carao #11 offers a refined living...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-06-17T02:54:53.921Z",
+      "id": "71db9d3a05ea"
+    },
+    {
+      "title": "Las Crestas de Senderos Home 10F ~ Senderos Phase Three          The Arc of The Sun ~ Experience the Pinnacle of Luxury in this 6...          Casa Skygarden ~ Jaw-Dropping Sunset Views Year-Round",
+      "price_text": "Price:     US$ 4 150 000.00      Price:     US$ 5 990 000.00      Price:     US$ 6 450 000.00",
+      "price_usd": 4150000.00599,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/las-crestas-de-senderos-home-10f",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-10F-Senderos-Tamarindo_0.png?itok=jSdKWmsi",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/4-the-arc-of-the-sun.png?itok=xm00gAq9",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-skygarden_0.png?itok=IUI6Dg1y"
+      ],
+      "description": "Delivery December 2024\nWith 270-degree views of ocean and jungle, the home at #12 Las Crestas boasts...          Senderos Product Development worked with the Inverse architectural team to create a home that lines up east...          Designed for seamless indoor-outdoor living, the great room and terraces offer ideal spaces for gatherings....",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-06-17T02:55:01.477Z",
+      "id": "4a399f25f46e"
     }
   ],
-  "last_updated": "2026-06-16T20:47:03.928Z",
+  "last_updated": "2026-06-17T02:56:16.616Z",
   "total_count": 402
 }
