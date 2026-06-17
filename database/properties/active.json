@@ -23314,8 +23314,26 @@
       "category": "luxury",
       "scraped_at": "2026-06-17T14:57:42.099Z",
       "id": "ea9bda128d63"
+    },
+    {
+      "title": "The Arc of The Sun ~ Experience the Pinnacle of Luxury in this 6...          Casa Skygarden ~ Jaw-Dropping Sunset Views Year-Round          Casa de Luz ~ 7 Bedroom Beachfront Estate on the White Sands of...",
+      "price_text": "Price:     US$ 5 990 000.00      Price:     US$ 6 450 000.00      Price:     US$ 6 495 000.00",
+      "price_usd": 5990000.00645,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/senderos-home-26e-1",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/4-the-arc-of-the-sun.png?itok=xm00gAq9",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-skygarden_0.png?itok=IUI6Dg1y",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/21-Casa%20de%20Luz.png?itok=IM2Xh6YR"
+      ],
+      "description": "Senderos Product Development worked with the Inverse architectural team to create a home that lines up east...          Designed for seamless indoor-outdoor living, the great room and terraces offer ideal spaces for gatherings....          \n\tPerfect secluded location on Langosta Beach. This is one of the largest beachfront estate in the area, Casa...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-06-17T20:05:43.391Z",
+      "id": "ad483a015a20"
     }
   ],
-  "last_updated": "2026-06-17T15:00:19.996Z",
+  "last_updated": "2026-06-17T20:07:08.842Z",
   "total_count": 402
 }
