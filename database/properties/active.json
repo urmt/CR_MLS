@@ -22885,8 +22885,887 @@
       "category": "residential",
       "scraped_at": "2026-06-19T03:32:04.346Z",
       "id": "868cf2543ef1"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-294",
+      "price_text": "₡97,000,000",
+      "price_usd": 194000,
+      "location": "hace 1 h3brSAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-montes-de-oca/7942018314.html",
+      "images": [
+        "https://images.craigslist.org/d/7942018314/00a0a_iaXQpUKSqp9_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:36.194Z",
+      "id": "2b3d9d0ead93"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ESCALANTE. 31-264-19",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 2 h1brSAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-escalante/7942011067.html",
+      "images": [
+        "https://images.craigslist.org/d/7942011067/00P0P_brWLoqBzaDB_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:36.386Z",
+      "id": "e1cdf3c660ca"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, DENT. 31-050",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 2 h3br125ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7942010184.html",
+      "images": [
+        "https://images.craigslist.org/d/7942010184/00f0f_aC3b2FhrEAU_07K0ak_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:36.478Z",
+      "id": "cc9049367d2b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN YOSES SAN PEDRO. 31-270-60",
+      "price_text": "₡102,000,000",
+      "price_usd": 204000,
+      "location": "hace 2 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-yoses-san/7942008921.html",
+      "images": [
+        "https://images.craigslist.org/d/7942008921/00c0c_9SSQaSCSz4m_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:36.563Z",
+      "id": "d89859b3c5f8"
+    },
+    {
+      "title": "PENTHOUSE PARA VENTA, EN BARRIO ESCALANTE. 31-242-19",
+      "price_text": "₡203,000,000",
+      "price_usd": 406000,
+      "location": "hace 2 h3br180ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/penthouse-para-venta-en-barrio/7942007624.html",
+      "images": [
+        "https://images.craigslist.org/d/7942007624/01313_jT1Y0xTMGew_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:36.646Z",
+      "id": "5bb6206b1442"
+    },
+    {
+      "title": "APARTAMENTO PARA LA VENTA, EN SAN RAFAEL MONTES DE OCA. 31-227-33",
+      "price_text": "₡93,000,000",
+      "price_usd": 186000,
+      "location": "hace 3 h3br134ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-la-venta-en-san-rafael/7941996936.html",
+      "images": [
+        "https://images.craigslist.org/d/7941996936/00a0a_iaXQpUKSqp9_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:36.752Z",
+      "id": "2ec11e1b42f4"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡161,000,000",
+      "price_usd": 322000,
+      "location": "hace 3 h380000ft2PUNTARENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-puntarenas/7938988084.html",
+      "images": [
+        "https://images.craigslist.org/d/7938988084/00N0N_gmnFsEvih85_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:36.890Z",
+      "id": "c7dd742501f1"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡111,000,000",
+      "price_usd": 222000,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-carrizal/7938986376.html",
+      "images": [
+        "https://images.craigslist.org/d/7938986376/00z0z_gfn6C6drP20_0fu0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:36.968Z",
+      "id": "2f75cc765d51"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡276,000,000",
+      "price_usd": 552000,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-sabana-larga/7938983390.html",
+      "images": [
+        "https://images.craigslist.org/d/7938983390/00u0u_l6oQ32wptKL_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:37.059Z",
+      "id": "78e9bcbac501"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 3 h66117ft2CARTAGO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-cartago/7938980488.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:37.129Z",
+      "id": "fc42565b7092"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡67,000,000",
+      "price_usd": 134000,
+      "location": "hace 3 h500ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/rancho-para-venta-en-atenas/7938981435.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:37.190Z",
+      "id": "eb46b5c4fbfd"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-294",
+      "price_text": "₡97,000,000",
+      "price_usd": 194000,
+      "location": "hace 1 h3brSAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-montes-de-oca/7942018314.html",
+      "images": [
+        "https://images.craigslist.org/d/7942018314/00a0a_iaXQpUKSqp9_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:42.316Z",
+      "id": "2b3d9d0ead93"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ESCALANTE. 31-264-19",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 2 h1brSAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-escalante/7942011067.html",
+      "images": [
+        "https://images.craigslist.org/d/7942011067/00P0P_brWLoqBzaDB_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:42.498Z",
+      "id": "e1cdf3c660ca"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, DENT. 31-050",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 2 h3br125ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7942010184.html",
+      "images": [
+        "https://images.craigslist.org/d/7942010184/00f0f_aC3b2FhrEAU_07K0ak_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:42.589Z",
+      "id": "cc9049367d2b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN YOSES SAN PEDRO. 31-270-60",
+      "price_text": "₡102,000,000",
+      "price_usd": 204000,
+      "location": "hace 2 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-yoses-san/7942008921.html",
+      "images": [
+        "https://images.craigslist.org/d/7942008921/00c0c_9SSQaSCSz4m_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:42.675Z",
+      "id": "d89859b3c5f8"
+    },
+    {
+      "title": "PENTHOUSE PARA VENTA, EN BARRIO ESCALANTE. 31-242-19",
+      "price_text": "₡203,000,000",
+      "price_usd": 406000,
+      "location": "hace 2 h3br180ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/penthouse-para-venta-en-barrio/7942007624.html",
+      "images": [
+        "https://images.craigslist.org/d/7942007624/01313_jT1Y0xTMGew_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:42.761Z",
+      "id": "5bb6206b1442"
+    },
+    {
+      "title": "APARTAMENTO PARA LA VENTA, EN SAN RAFAEL MONTES DE OCA. 31-227-33",
+      "price_text": "₡93,000,000",
+      "price_usd": 186000,
+      "location": "hace 3 h3br134ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-la-venta-en-san-rafael/7941996936.html",
+      "images": [
+        "https://images.craigslist.org/d/7941996936/00a0a_iaXQpUKSqp9_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:42.866Z",
+      "id": "2ec11e1b42f4"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡161,000,000",
+      "price_usd": 322000,
+      "location": "hace 3 h380000ft2PUNTARENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-puntarenas/7938988084.html",
+      "images": [
+        "https://images.craigslist.org/d/7938988084/00N0N_gmnFsEvih85_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:43.002Z",
+      "id": "c7dd742501f1"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡111,000,000",
+      "price_usd": 222000,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-carrizal/7938986376.html",
+      "images": [
+        "https://images.craigslist.org/d/7938986376/00z0z_gfn6C6drP20_0fu0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:43.069Z",
+      "id": "2f75cc765d51"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡276,000,000",
+      "price_usd": 552000,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-sabana-larga/7938983390.html",
+      "images": [
+        "https://images.craigslist.org/d/7938983390/00u0u_l6oQ32wptKL_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:43.157Z",
+      "id": "78e9bcbac501"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 3 h66117ft2CARTAGO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-cartago/7938980488.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:43.227Z",
+      "id": "fc42565b7092"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡67,000,000",
+      "price_usd": 134000,
+      "location": "hace 3 h500ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/rancho-para-venta-en-atenas/7938981435.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:43.292Z",
+      "id": "eb46b5c4fbfd"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-294",
+      "price_text": "₡97,000,000",
+      "price_usd": 194000,
+      "location": "hace 1 h3brSAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-montes-de-oca/7942018314.html",
+      "images": [
+        "https://images.craigslist.org/d/7942018314/00a0a_iaXQpUKSqp9_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:48.490Z",
+      "id": "2b3d9d0ead93"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ESCALANTE. 31-264-19",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 2 h1brSAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-escalante/7942011067.html",
+      "images": [
+        "https://images.craigslist.org/d/7942011067/00P0P_brWLoqBzaDB_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:48.671Z",
+      "id": "e1cdf3c660ca"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, DENT. 31-050",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 2 h3br125ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7942010184.html",
+      "images": [
+        "https://images.craigslist.org/d/7942010184/00f0f_aC3b2FhrEAU_07K0ak_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:48.762Z",
+      "id": "cc9049367d2b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN YOSES SAN PEDRO. 31-270-60",
+      "price_text": "₡102,000,000",
+      "price_usd": 204000,
+      "location": "hace 2 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-yoses-san/7942008921.html",
+      "images": [
+        "https://images.craigslist.org/d/7942008921/00c0c_9SSQaSCSz4m_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:48.850Z",
+      "id": "d89859b3c5f8"
+    },
+    {
+      "title": "PENTHOUSE PARA VENTA, EN BARRIO ESCALANTE. 31-242-19",
+      "price_text": "₡203,000,000",
+      "price_usd": 406000,
+      "location": "hace 2 h3br180ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/penthouse-para-venta-en-barrio/7942007624.html",
+      "images": [
+        "https://images.craigslist.org/d/7942007624/01313_jT1Y0xTMGew_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:48.936Z",
+      "id": "5bb6206b1442"
+    },
+    {
+      "title": "APARTAMENTO PARA LA VENTA, EN SAN RAFAEL MONTES DE OCA. 31-227-33",
+      "price_text": "₡93,000,000",
+      "price_usd": 186000,
+      "location": "hace 3 h3br134ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-la-venta-en-san-rafael/7941996936.html",
+      "images": [
+        "https://images.craigslist.org/d/7941996936/00a0a_iaXQpUKSqp9_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:49.039Z",
+      "id": "2ec11e1b42f4"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡161,000,000",
+      "price_usd": 322000,
+      "location": "hace 3 h380000ft2PUNTARENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-puntarenas/7938988084.html",
+      "images": [
+        "https://images.craigslist.org/d/7938988084/00N0N_gmnFsEvih85_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:49.180Z",
+      "id": "c7dd742501f1"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡111,000,000",
+      "price_usd": 222000,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-carrizal/7938986376.html",
+      "images": [
+        "https://images.craigslist.org/d/7938986376/00z0z_gfn6C6drP20_0fu0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:49.247Z",
+      "id": "2f75cc765d51"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡276,000,000",
+      "price_usd": 552000,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-sabana-larga/7938983390.html",
+      "images": [
+        "https://images.craigslist.org/d/7938983390/00u0u_l6oQ32wptKL_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:49.334Z",
+      "id": "78e9bcbac501"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 3 h66117ft2CARTAGO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-cartago/7938980488.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:49.402Z",
+      "id": "fc42565b7092"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡67,000,000",
+      "price_usd": 134000,
+      "location": "hace 3 h500ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/rancho-para-venta-en-atenas/7938981435.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:49.464Z",
+      "id": "eb46b5c4fbfd"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-294",
+      "price_text": "₡97,000,000",
+      "price_usd": 194000,
+      "location": "hace 1 h3brSAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-montes-de-oca/7942018314.html",
+      "images": [
+        "https://images.craigslist.org/d/7942018314/00a0a_iaXQpUKSqp9_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:54.684Z",
+      "id": "2b3d9d0ead93"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ESCALANTE. 31-264-19",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 2 h1brSAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-escalante/7942011067.html",
+      "images": [
+        "https://images.craigslist.org/d/7942011067/00P0P_brWLoqBzaDB_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:54.872Z",
+      "id": "e1cdf3c660ca"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, DENT. 31-050",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 2 h3br125ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7942010184.html",
+      "images": [
+        "https://images.craigslist.org/d/7942010184/00f0f_aC3b2FhrEAU_07K0ak_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:54.965Z",
+      "id": "cc9049367d2b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN YOSES SAN PEDRO. 31-270-60",
+      "price_text": "₡102,000,000",
+      "price_usd": 204000,
+      "location": "hace 2 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-yoses-san/7942008921.html",
+      "images": [
+        "https://images.craigslist.org/d/7942008921/00c0c_9SSQaSCSz4m_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:55.052Z",
+      "id": "d89859b3c5f8"
+    },
+    {
+      "title": "PENTHOUSE PARA VENTA, EN BARRIO ESCALANTE. 31-242-19",
+      "price_text": "₡203,000,000",
+      "price_usd": 406000,
+      "location": "hace 2 h3br180ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/penthouse-para-venta-en-barrio/7942007624.html",
+      "images": [
+        "https://images.craigslist.org/d/7942007624/01313_jT1Y0xTMGew_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:55.136Z",
+      "id": "5bb6206b1442"
+    },
+    {
+      "title": "APARTAMENTO PARA LA VENTA, EN SAN RAFAEL MONTES DE OCA. 31-227-33",
+      "price_text": "₡93,000,000",
+      "price_usd": 186000,
+      "location": "hace 3 h3br134ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-la-venta-en-san-rafael/7941996936.html",
+      "images": [
+        "https://images.craigslist.org/d/7941996936/00a0a_iaXQpUKSqp9_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:55.241Z",
+      "id": "2ec11e1b42f4"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡161,000,000",
+      "price_usd": 322000,
+      "location": "hace 3 h380000ft2PUNTARENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-puntarenas/7938988084.html",
+      "images": [
+        "https://images.craigslist.org/d/7938988084/00N0N_gmnFsEvih85_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:55.381Z",
+      "id": "c7dd742501f1"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡111,000,000",
+      "price_usd": 222000,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-carrizal/7938986376.html",
+      "images": [
+        "https://images.craigslist.org/d/7938986376/00z0z_gfn6C6drP20_0fu0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:55.449Z",
+      "id": "2f75cc765d51"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡276,000,000",
+      "price_usd": 552000,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-sabana-larga/7938983390.html",
+      "images": [
+        "https://images.craigslist.org/d/7938983390/00u0u_l6oQ32wptKL_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:55.541Z",
+      "id": "78e9bcbac501"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 3 h66117ft2CARTAGO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-cartago/7938980488.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:55.610Z",
+      "id": "fc42565b7092"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡67,000,000",
+      "price_usd": 134000,
+      "location": "hace 3 h500ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/rancho-para-venta-en-atenas/7938981435.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:27:55.671Z",
+      "id": "eb46b5c4fbfd"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-294",
+      "price_text": "₡97,000,000",
+      "price_usd": 194000,
+      "location": "hace 1 h3brSAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-montes-de-oca/7942018314.html",
+      "images": [
+        "https://images.craigslist.org/d/7942018314/00a0a_iaXQpUKSqp9_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:28:00.719Z",
+      "id": "2b3d9d0ead93"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN ESCALANTE. 31-264-19",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 2 h1brSAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-escalante/7942011067.html",
+      "images": [
+        "https://images.craigslist.org/d/7942011067/00P0P_brWLoqBzaDB_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:28:00.903Z",
+      "id": "e1cdf3c660ca"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN BARRIO ESCALANTE, DENT. 31-050",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 2 h3br125ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-barrio/7942010184.html",
+      "images": [
+        "https://images.craigslist.org/d/7942010184/00f0f_aC3b2FhrEAU_07K0ak_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:28:00.996Z",
+      "id": "cc9049367d2b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN YOSES SAN PEDRO. 31-270-60",
+      "price_text": "₡102,000,000",
+      "price_usd": 204000,
+      "location": "hace 2 h2brSAN JOSE, MONTES DE OCA, SAN PEDRO",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-venta-en-yoses-san/7942008921.html",
+      "images": [
+        "https://images.craigslist.org/d/7942008921/00c0c_9SSQaSCSz4m_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:28:01.080Z",
+      "id": "d89859b3c5f8"
+    },
+    {
+      "title": "PENTHOUSE PARA VENTA, EN BARRIO ESCALANTE. 31-242-19",
+      "price_text": "₡203,000,000",
+      "price_usd": 406000,
+      "location": "hace 2 h3br180ft2SAN JOSE, BARRIO ESCALANTE",
+      "url": "https://costarica.craigslist.org/reo/d/penthouse-para-venta-en-barrio/7942007624.html",
+      "images": [
+        "https://images.craigslist.org/d/7942007624/01313_jT1Y0xTMGew_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:28:01.164Z",
+      "id": "5bb6206b1442"
+    },
+    {
+      "title": "APARTAMENTO PARA LA VENTA, EN SAN RAFAEL MONTES DE OCA. 31-227-33",
+      "price_text": "₡93,000,000",
+      "price_usd": 186000,
+      "location": "hace 3 h3br134ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://costarica.craigslist.org/reo/d/apartamento-para-la-venta-en-san-rafael/7941996936.html",
+      "images": [
+        "https://images.craigslist.org/d/7941996936/00a0a_iaXQpUKSqp9_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:28:01.268Z",
+      "id": "2ec11e1b42f4"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡161,000,000",
+      "price_usd": 322000,
+      "location": "hace 3 h380000ft2PUNTARENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-puntarenas/7938988084.html",
+      "images": [
+        "https://images.craigslist.org/d/7938988084/00N0N_gmnFsEvih85_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:28:01.406Z",
+      "id": "c7dd742501f1"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡111,000,000",
+      "price_usd": 222000,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-carrizal/7938986376.html",
+      "images": [
+        "https://images.craigslist.org/d/7938986376/00z0z_gfn6C6drP20_0fu0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:28:01.473Z",
+      "id": "2f75cc765d51"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡276,000,000",
+      "price_usd": 552000,
+      "location": "hace 3 h30000ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-sabana-larga/7938983390.html",
+      "images": [
+        "https://images.craigslist.org/d/7938983390/00u0u_l6oQ32wptKL_0ak07K_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:28:01.563Z",
+      "id": "78e9bcbac501"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡115,000,000",
+      "price_usd": 230000,
+      "location": "hace 3 h66117ft2CARTAGO",
+      "url": "https://costarica.craigslist.org/reo/d/terreno-para-venta-en-cartago/7938980488.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:28:01.632Z",
+      "id": "fc42565b7092"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡67,000,000",
+      "price_usd": 134000,
+      "location": "hace 3 h500ft2ALAJUELA, ATENAS",
+      "url": "https://costarica.craigslist.org/reo/d/rancho-para-venta-en-atenas/7938981435.html",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-19T19:28:01.693Z",
+      "id": "eb46b5c4fbfd"
+    },
+    {
+      "title": "Private Estate in Black Stallion ~ 9,214m² | Casa Ma Vie La          Langosta Beach Lots by the Diria          BEST PRICED 5 BEDROOM IN THE ENCLAVE! The Enclave C3 ~ Now...",
+      "price_text": "Price:     US$ 795 000.00      Price:     US$ 795 000.00      Price:     US$ 799 000.00",
+      "price_usd": 795000.00795,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Langosta      Location:     Playa Avellanas",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-ma-vie-la-black-stallion",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Casa-Ma-Vie-La.jpg?itok=sQV04fuX",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/0-Langosta-beach-lots.JPG?itok=8DIwo6ub",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Enclave-C3.png?itok=AQ3wGpGU"
+      ],
+      "description": "Nestled within the peaceful residential community of Black Stallion, just 10 minutes from Tamarindo and...          Diria Resort is introducing a limited collection of 11 exceptional residential lots in the prestigious beach...          Discover the best-priced resale available in The Enclave at Avellanas, a luxurious gated community located...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-06-19T19:33:48.241Z",
+      "id": "4dca0df596fd"
+    },
+    {
+      "title": "Casa Zoul ~ 4 Bedroom Pre-construction Beauty on Lot 9B          Ocean View 79 hectares finca - La Puerta del Sol          Tamarindo Park ~ New Luxury Gated Community",
+      "price_text": "Price:     US$ 1 350 000.00      Price:     US$ 1 580 000.00      Price:     US$ 1 690 000.00",
+      "price_usd": 1350000.00158,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Junquillal      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-zoul-senderos-de-tamarindo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-zoul_0.png?itok=XW8byrCW",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Finca-la-puerta-del-sol.jpg?itok=oFtWBET_",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/8-lot-24-%26-25.png?itok=cWJVtYrB"
+      ],
+      "description": "Luckily, Senderos is one of the most opulent private communities in Tamarindo, and its location is very close...          Beautiful property of 79 hectares with stunning views of valleys and the ocean, in La Puerta del Sol. The...          Tamarindo Park is proud to bring a unique Costa Rican gated community to the desirable Tamarindo area of...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-06-19T19:33:50.337Z",
+      "id": "184443ff9aa8"
+    },
+    {
+      "title": "25 Paseo del Mar ~ Modern Townhome with Open Layout and Stunning...          Experience the Ultimate Beachfront Lifestyle in Tamarindo          Renovated 4-Bedroom Villa with Golf Views in Reserva Conchal",
+      "price_text": "Price:     US$ 1 699 000.00      Price:     US$ 1 700 000.00      Price:     US$ 1 750 000.00",
+      "price_usd": 1699000.0017,
+      "location": "Location:     Playa Danta      Location:     Playa Langosta      Location:     Reserva Conchal",
+      "url": "https://www.remax-oceansurf-cr.com/property/25-paseo-del-mar-las-catalinas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-25-paseo-del-mar.jpg?itok=HLD71j97",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-mono-luxe-beachfront-residences.png?itok=2HqoMpV6",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/52.-Villa-Carao-11.jpg?itok=L3hxr3Ma"
+      ],
+      "description": "This beautiful and comfortable beachfront home sits just across the plaza from the Beach Club. Perfectly...          Sunset Beachfront Luxury Villas - Experience the pinnacle of coastal luxury in Tamarindo/Langosta!\nInvest in...          Located in the prestigious gated community of Reserva Conchal, Villa Carao #11 offers a refined living...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-06-19T19:33:50.732Z",
+      "id": "096f81570f1b"
     }
   ],
-  "last_updated": "2026-06-19T14:51:43.968Z",
+  "last_updated": "2026-06-19T19:35:16.924Z",
   "total_count": 402
 }
