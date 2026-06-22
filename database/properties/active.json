@@ -23314,8 +23314,23 @@
       "category": "luxury",
       "scraped_at": "2026-06-22T11:40:49.382Z",
       "id": "423a9c7fde58"
+    },
+    {
+      "title": "Boutique Hotel & Retreat Center Near Atenas\n                Commercial, Atenas, Alajuela",
+      "price_text": "$1,295,000",
+      "price_usd": 1295000,
+      "location": "Commercial, Atenas, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/13-bed-commercial-for-sale-in-atenas/15029",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000072WDS6/f4sylz2gq/midres/IMG_20260617_093109.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-06-22T16:41:25.792Z",
+      "id": "8be16ca2f6a8"
     }
   ],
-  "last_updated": "2026-06-22T11:43:56.767Z",
+  "last_updated": "2026-06-22T16:45:18.664Z",
   "total_count": 402
 }
