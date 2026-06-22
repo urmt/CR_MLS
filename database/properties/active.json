@@ -23329,8 +23329,44 @@
       "category": "land",
       "scraped_at": "2026-06-22T16:41:25.792Z",
       "id": "8be16ca2f6a8"
+    },
+    {
+      "title": "4-Bedroom Townhome in Los Malinches of Hacienda Pinilla          Rare Opportunity: The Lowest-Priced Villa in Hacienda Pinilla          Panacea del Mar ~ Tropical Yoga Retreat with 7 Cabins and Ocean...",
+      "price_text": "Price:     US$ 859 000.00      Price:     US$ 924 000.00      Price:     US$ 975 000.00",
+      "price_usd": 859000.00924,
+      "location": "Location:     Hacienda-Pinilla      Location:     Hacienda-Pinilla      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/los-malinches-23-hacienda-pinilla",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Los-Malinche-23.jpeg?itok=cPqfF0xY",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-nibbana-hacienda-pinilla-reserva-de-golf-%233.jpg?itok=H4oXvJkO",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-panacea-del-mar-2026.jpg?itok=-AjR0yhg"
+      ],
+      "description": "Los Malinches 23\nWelcome to an exceptional 4-bedroom, 4.5-bath residence in the exclusive enclave of Los...          \n\tPositioned within the prestigious Reserva de Golf enclave of Hacienda Pinilla, Casa Nibbana is a...          Spanning approximately 17,536 m² (4.3 acres), the property presents outstanding potential as both a boutique...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-06-22T20:39:09.459Z",
+      "id": "ea4b25dbf722"
+    },
+    {
+      "title": "Experience the Ultimate Beachfront Lifestyle in Tamarindo          Renovated 4-Bedroom Villa with Golf Views in Reserva Conchal          Casa Mistral ~ Ocean Views & Jungle Serenity",
+      "price_text": "Price:     US$ 1 700 000.00      Price:     US$ 1 750 000.00      Price:     US$ 1 765 000.00",
+      "price_usd": 1700000.00175,
+      "location": "Location:     Playa Langosta      Location:     Reserva Conchal      Location:     Playa Penca",
+      "url": "https://www.remax-oceansurf-cr.com/property/sunset-beachfront-luxury-villas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-mono-luxe-beachfront-residences.png?itok=2HqoMpV6",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/52.-Villa-Carao-11.jpg?itok=L3hxr3Ma",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.Casa-Mistral.jpg?itok=4LKbfGBR"
+      ],
+      "description": "Sunset Beachfront Luxury Villas - Experience the pinnacle of coastal luxury in Tamarindo/Langosta!\nInvest in...          Located in the prestigious gated community of Reserva Conchal, Villa Carao #11 offers a refined living...          Experience the perfect blend of luxury and tranquility with this breathtaking ocean-view residence, completed...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-06-22T20:39:10.871Z",
+      "id": "0f5f733197e9"
     }
   ],
-  "last_updated": "2026-06-22T16:45:52.829Z",
+  "last_updated": "2026-06-22T20:40:45.276Z",
   "total_count": 402
 }
