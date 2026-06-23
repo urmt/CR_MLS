@@ -23440,8 +23440,83 @@
       "category": "residential",
       "scraped_at": "2026-06-23T02:30:35.793Z",
       "id": "330f43c6a3b8"
+    },
+    {
+      "title": "Venta de casa",
+      "price_text": "₡125",
+      "price_usd": 0,
+      "location": "hace 5 h533ft2San pedro, Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/venta-de-casa/7942726418.html",
+      "images": [
+        "https://images.craigslist.org/d/7942726418/00X0X_lNELUSlPodJ_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-23T09:24:01.409Z",
+      "id": "eb15b3357c17"
+    },
+    {
+      "title": "Venta de casa",
+      "price_text": "₡125",
+      "price_usd": 0,
+      "location": "hace 5 h533ft2San pedro, Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/venta-de-casa/7942726418.html",
+      "images": [
+        "https://images.craigslist.org/d/7942726418/00X0X_lNELUSlPodJ_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-23T09:24:07.049Z",
+      "id": "eb15b3357c17"
+    },
+    {
+      "title": "Venta de casa",
+      "price_text": "₡125",
+      "price_usd": 0,
+      "location": "hace 5 h533ft2San pedro, Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/venta-de-casa/7942726418.html",
+      "images": [
+        "https://images.craigslist.org/d/7942726418/00X0X_lNELUSlPodJ_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-23T09:24:12.438Z",
+      "id": "eb15b3357c17"
+    },
+    {
+      "title": "Venta de casa",
+      "price_text": "₡125",
+      "price_usd": 0,
+      "location": "hace 5 h533ft2San pedro, Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/venta-de-casa/7942726418.html",
+      "images": [
+        "https://images.craigslist.org/d/7942726418/00X0X_lNELUSlPodJ_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-23T09:24:18.001Z",
+      "id": "eb15b3357c17"
+    },
+    {
+      "title": "Venta de casa",
+      "price_text": "₡125",
+      "price_usd": 0,
+      "location": "hace 5 h533ft2San pedro, Heredia",
+      "url": "https://costarica.craigslist.org/reb/d/venta-de-casa/7942726418.html",
+      "images": [
+        "https://images.craigslist.org/d/7942726418/00X0X_lNELUSlPodJ_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-23T09:24:23.569Z",
+      "id": "eb15b3357c17"
     }
   ],
-  "last_updated": "2026-06-23T02:36:28.430Z",
+  "last_updated": "2026-06-23T09:30:17.263Z",
   "total_count": 402
 }
