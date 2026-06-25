@@ -22825,8 +22825,23 @@
       "category": "residential",
       "scraped_at": "2026-06-25T02:36:52.568Z",
       "id": "b93c49886f23"
+    },
+    {
+      "title": "A Unique Hospitality Vision in Costa Rica's Blue Zone\n                Hotel / Leisure, Samara, Guanacaste",
+      "price_text": "$1,775,000",
+      "price_usd": 1775000,
+      "location": "Hotel / Leisure, Samara, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/20-bed-hotel-leisure-for-sale-in-samara/15075",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-25T19:49:42.007Z",
+      "id": "6093ae2fe87c"
     }
   ],
-  "last_updated": "2026-06-25T14:13:01.369Z",
+  "last_updated": "2026-06-25T19:52:25.463Z",
   "total_count": 402
 }
