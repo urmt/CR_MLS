@@ -21730,8 +21730,233 @@
       "category": "residential",
       "scraped_at": "2026-06-26T19:29:29.973Z",
       "id": "3fa78834e9d4"
+    },
+    {
+      "title": "Lotes Residenciales de 1.500 m² en Ciudad Colón | ₡82.000000c/u",
+      "price_text": "₡82,000,000",
+      "price_usd": 164000,
+      "location": "hace 2 h1500ft2San José",
+      "url": "https://www.craigslist.org/view/d/lotes-residenciales-de-1500-en-ciudad/xgZR3PpnmZuuwjNFGMzn2F?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7943579008/00e0e_b2WUCjUXhsM_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-27T02:28:24.893Z",
+      "id": "49184d94d62d"
+    },
+    {
+      "title": "Lote Residencial en Venta en Ciudad Colón",
+      "price_text": "₡33,000,000",
+      "price_usd": 66000,
+      "location": "hace 2 h307ft2San José",
+      "url": "https://www.craigslist.org/view/d/lote-residencial-en-venta-en-ciudad-coln/3CxFSDtZTuJjvWXgDyjLxc?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7943577663/01414_kbpjo2DwoxM_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-27T02:28:24.957Z",
+      "id": "7a6140ba97c6"
+    },
+    {
+      "title": "CAN'T SELL?  LET'STRADE! -- A SPORTSMAN'S PARADISE",
+      "price_text": "₡160,000,000",
+      "price_usd": 320000,
+      "location": "hace 6 h20234ft2",
+      "url": "https://www.craigslist.org/view/d/cant-sell-letstrade-sportsmans-paradise/6ULXMW6npBxFEStoXxDB6e?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7934111072/00B0B_cRUqlpWbDVq_0tf0f7_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-27T02:28:25.032Z",
+      "id": "378741a79888"
+    },
+    {
+      "title": "Lotes Residenciales de 1.500 m² en Ciudad Colón | ₡82.000000c/u",
+      "price_text": "₡82,000,000",
+      "price_usd": 164000,
+      "location": "hace 2 h1500ft2San José",
+      "url": "https://www.craigslist.org/view/d/lotes-residenciales-de-1500-en-ciudad/xgZR3PpnmZuuwjNFGMzn2F?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7943579008/00e0e_b2WUCjUXhsM_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-27T02:28:30.066Z",
+      "id": "49184d94d62d"
+    },
+    {
+      "title": "Lote Residencial en Venta en Ciudad Colón",
+      "price_text": "₡33,000,000",
+      "price_usd": 66000,
+      "location": "hace 2 h307ft2San José",
+      "url": "https://www.craigslist.org/view/d/lote-residencial-en-venta-en-ciudad-coln/3CxFSDtZTuJjvWXgDyjLxc?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7943577663/01414_kbpjo2DwoxM_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-27T02:28:30.132Z",
+      "id": "7a6140ba97c6"
+    },
+    {
+      "title": "CAN'T SELL?  LET'STRADE! -- A SPORTSMAN'S PARADISE",
+      "price_text": "₡160,000,000",
+      "price_usd": 320000,
+      "location": "hace 6 h20234ft2",
+      "url": "https://www.craigslist.org/view/d/cant-sell-letstrade-sportsmans-paradise/6ULXMW6npBxFEStoXxDB6e?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7934111072/00B0B_cRUqlpWbDVq_0tf0f7_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-27T02:28:30.213Z",
+      "id": "378741a79888"
+    },
+    {
+      "title": "Lotes Residenciales de 1.500 m² en Ciudad Colón | ₡82.000000c/u",
+      "price_text": "₡82,000,000",
+      "price_usd": 164000,
+      "location": "hace 2 h1500ft2San José",
+      "url": "https://www.craigslist.org/view/d/lotes-residenciales-de-1500-en-ciudad/xgZR3PpnmZuuwjNFGMzn2F?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7943579008/00e0e_b2WUCjUXhsM_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-27T02:28:35.038Z",
+      "id": "49184d94d62d"
+    },
+    {
+      "title": "Lote Residencial en Venta en Ciudad Colón",
+      "price_text": "₡33,000,000",
+      "price_usd": 66000,
+      "location": "hace 2 h307ft2San José",
+      "url": "https://www.craigslist.org/view/d/lote-residencial-en-venta-en-ciudad-coln/3CxFSDtZTuJjvWXgDyjLxc?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7943577663/01414_kbpjo2DwoxM_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-27T02:28:35.101Z",
+      "id": "7a6140ba97c6"
+    },
+    {
+      "title": "CAN'T SELL?  LET'STRADE! -- A SPORTSMAN'S PARADISE",
+      "price_text": "₡160,000,000",
+      "price_usd": 320000,
+      "location": "hace 6 h20234ft2",
+      "url": "https://www.craigslist.org/view/d/cant-sell-letstrade-sportsmans-paradise/6ULXMW6npBxFEStoXxDB6e?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7934111072/00B0B_cRUqlpWbDVq_0tf0f7_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-27T02:28:35.177Z",
+      "id": "378741a79888"
+    },
+    {
+      "title": "Lotes Residenciales de 1.500 m² en Ciudad Colón | ₡82.000000c/u",
+      "price_text": "₡82,000,000",
+      "price_usd": 164000,
+      "location": "hace 2 h1500ft2San José",
+      "url": "https://www.craigslist.org/view/d/lotes-residenciales-de-1500-en-ciudad/xgZR3PpnmZuuwjNFGMzn2F?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7943579008/00e0e_b2WUCjUXhsM_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-27T02:28:40.145Z",
+      "id": "49184d94d62d"
+    },
+    {
+      "title": "Lote Residencial en Venta en Ciudad Colón",
+      "price_text": "₡33,000,000",
+      "price_usd": 66000,
+      "location": "hace 2 h307ft2San José",
+      "url": "https://www.craigslist.org/view/d/lote-residencial-en-venta-en-ciudad-coln/3CxFSDtZTuJjvWXgDyjLxc?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7943577663/01414_kbpjo2DwoxM_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-27T02:28:40.208Z",
+      "id": "7a6140ba97c6"
+    },
+    {
+      "title": "CAN'T SELL?  LET'STRADE! -- A SPORTSMAN'S PARADISE",
+      "price_text": "₡160,000,000",
+      "price_usd": 320000,
+      "location": "hace 6 h20234ft2",
+      "url": "https://www.craigslist.org/view/d/cant-sell-letstrade-sportsmans-paradise/6ULXMW6npBxFEStoXxDB6e?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7934111072/00B0B_cRUqlpWbDVq_0tf0f7_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-27T02:28:40.283Z",
+      "id": "378741a79888"
+    },
+    {
+      "title": "Lotes Residenciales de 1.500 m² en Ciudad Colón | ₡82.000000c/u",
+      "price_text": "₡82,000,000",
+      "price_usd": 164000,
+      "location": "hace 2 h1500ft2San José",
+      "url": "https://www.craigslist.org/view/d/lotes-residenciales-de-1500-en-ciudad/xgZR3PpnmZuuwjNFGMzn2F?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7943579008/00e0e_b2WUCjUXhsM_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-27T02:28:45.242Z",
+      "id": "49184d94d62d"
+    },
+    {
+      "title": "Lote Residencial en Venta en Ciudad Colón",
+      "price_text": "₡33,000,000",
+      "price_usd": 66000,
+      "location": "hace 2 h307ft2San José",
+      "url": "https://www.craigslist.org/view/d/lote-residencial-en-venta-en-ciudad-coln/3CxFSDtZTuJjvWXgDyjLxc?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7943577663/01414_kbpjo2DwoxM_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-27T02:28:45.305Z",
+      "id": "7a6140ba97c6"
+    },
+    {
+      "title": "CAN'T SELL?  LET'STRADE! -- A SPORTSMAN'S PARADISE",
+      "price_text": "₡160,000,000",
+      "price_usd": 320000,
+      "location": "hace 6 h20234ft2",
+      "url": "https://www.craigslist.org/view/d/cant-sell-letstrade-sportsmans-paradise/6ULXMW6npBxFEStoXxDB6e?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7934111072/00B0B_cRUqlpWbDVq_0tf0f7_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-27T02:28:45.379Z",
+      "id": "378741a79888"
     }
   ],
-  "last_updated": "2026-06-26T19:35:18.010Z",
+  "last_updated": "2026-06-27T02:34:09.319Z",
   "total_count": 402
 }
