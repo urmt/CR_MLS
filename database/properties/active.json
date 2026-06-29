@@ -21247,8 +21247,83 @@
       "category": "residential",
       "scraped_at": "2026-06-28T19:05:01.935Z",
       "id": "cd12a851db63"
+    },
+    {
+      "title": "Casa para restaurar con finca en venta en San Carlos, Alajuela",
+      "price_text": "₡125,000,000",
+      "price_usd": 250000,
+      "location": "hace 5 h5brVenecia, San Carlos, Alajuela",
+      "url": "https://www.craigslist.org/view/d/casa-para-restaurar-con-finca-en-venta/jAM9oAmRyKh8D9fw6Ss5Sx?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7943933770/01515_3G23IIudBSa_0kE09j_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-29T02:41:25.248Z",
+      "id": "4812d61f8341"
+    },
+    {
+      "title": "Casa para restaurar con finca en venta en San Carlos, Alajuela",
+      "price_text": "₡125,000,000",
+      "price_usd": 250000,
+      "location": "hace 5 h5brVenecia, San Carlos, Alajuela",
+      "url": "https://www.craigslist.org/view/d/casa-para-restaurar-con-finca-en-venta/jAM9oAmRyKh8D9fw6Ss5Sx?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7943933770/01515_3G23IIudBSa_0kE09j_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-29T02:41:30.306Z",
+      "id": "4812d61f8341"
+    },
+    {
+      "title": "Casa para restaurar con finca en venta en San Carlos, Alajuela",
+      "price_text": "₡125,000,000",
+      "price_usd": 250000,
+      "location": "hace 5 h5brVenecia, San Carlos, Alajuela",
+      "url": "https://www.craigslist.org/view/d/casa-para-restaurar-con-finca-en-venta/jAM9oAmRyKh8D9fw6Ss5Sx?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7943933770/01515_3G23IIudBSa_0kE09j_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-29T02:41:35.297Z",
+      "id": "4812d61f8341"
+    },
+    {
+      "title": "Casa para restaurar con finca en venta en San Carlos, Alajuela",
+      "price_text": "₡125,000,000",
+      "price_usd": 250000,
+      "location": "hace 5 h5brVenecia, San Carlos, Alajuela",
+      "url": "https://www.craigslist.org/view/d/casa-para-restaurar-con-finca-en-venta/jAM9oAmRyKh8D9fw6Ss5Sx?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7943933770/01515_3G23IIudBSa_0kE09j_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-29T02:41:40.124Z",
+      "id": "4812d61f8341"
+    },
+    {
+      "title": "Casa para restaurar con finca en venta en San Carlos, Alajuela",
+      "price_text": "₡125,000,000",
+      "price_usd": 250000,
+      "location": "hace 5 h5brVenecia, San Carlos, Alajuela",
+      "url": "https://www.craigslist.org/view/d/casa-para-restaurar-con-finca-en-venta/jAM9oAmRyKh8D9fw6Ss5Sx?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7943933770/01515_3G23IIudBSa_0kE09j_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-29T02:41:45.149Z",
+      "id": "4812d61f8341"
     }
   ],
-  "last_updated": "2026-06-28T19:10:18.053Z",
+  "last_updated": "2026-06-29T02:46:38.013Z",
   "total_count": 402
 }
