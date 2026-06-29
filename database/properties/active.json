@@ -21472,8 +21472,83 @@
       "category": "residential",
       "scraped_at": "2026-06-29T10:25:37.289Z",
       "id": "6446c5d94207"
+    },
+    {
+      "title": "CASA CON APARTAMENTO PARA VENTA, EN GUADALUPE. 33-038",
+      "price_text": "₡167,000,000",
+      "price_usd": 334000,
+      "location": "hace 1 h7br350ft2SAN JOSE, GOICOECHEA, GUADALUPE",
+      "url": "https://www.craigslist.org/view/d/casa-con-apartamento-para-venta-en/eYf84z2DjMT9YmCqv1Ks98?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-29T15:32:23.867Z",
+      "id": "0f50aff8d83b"
+    },
+    {
+      "title": "CASA CON APARTAMENTO PARA VENTA, EN GUADALUPE. 33-038",
+      "price_text": "₡167,000,000",
+      "price_usd": 334000,
+      "location": "hace 1 h7br350ft2SAN JOSE, GOICOECHEA, GUADALUPE",
+      "url": "https://www.craigslist.org/view/d/casa-con-apartamento-para-venta-en/eYf84z2DjMT9YmCqv1Ks98?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-29T15:32:29.719Z",
+      "id": "0f50aff8d83b"
+    },
+    {
+      "title": "CASA CON APARTAMENTO PARA VENTA, EN GUADALUPE. 33-038",
+      "price_text": "₡167,000,000",
+      "price_usd": 334000,
+      "location": "hace 1 h7br350ft2SAN JOSE, GOICOECHEA, GUADALUPE",
+      "url": "https://www.craigslist.org/view/d/casa-con-apartamento-para-venta-en/eYf84z2DjMT9YmCqv1Ks98?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-29T15:32:35.480Z",
+      "id": "0f50aff8d83b"
+    },
+    {
+      "title": "CASA CON APARTAMENTO PARA VENTA, EN GUADALUPE. 33-038",
+      "price_text": "₡167,000,000",
+      "price_usd": 334000,
+      "location": "hace 1 h7br350ft2SAN JOSE, GOICOECHEA, GUADALUPE",
+      "url": "https://www.craigslist.org/view/d/casa-con-apartamento-para-venta-en/eYf84z2DjMT9YmCqv1Ks98?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-29T15:32:41.247Z",
+      "id": "0f50aff8d83b"
+    },
+    {
+      "title": "CASA CON APARTAMENTO PARA VENTA, EN GUADALUPE. 33-038",
+      "price_text": "₡167,000,000",
+      "price_usd": 334000,
+      "location": "hace 1 h7br350ft2SAN JOSE, GOICOECHEA, GUADALUPE",
+      "url": "https://www.craigslist.org/view/d/casa-con-apartamento-para-venta-en/eYf84z2DjMT9YmCqv1Ks98?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-29T15:32:47.012Z",
+      "id": "0f50aff8d83b"
     }
   ],
-  "last_updated": "2026-06-29T10:31:04.158Z",
+  "last_updated": "2026-06-29T15:39:41.972Z",
   "total_count": 402
 }
