@@ -21450,8 +21450,83 @@
       "category": "residential",
       "scraped_at": "2026-06-30T02:39:49.907Z",
       "id": "0b5bd3b6b207"
+    },
+    {
+      "title": "Beautiful land for sale, Concepcion de Heredia 3,500 sq. mtrs.",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 11 min3500ft2Concepcion de San Rafael de Heredia",
+      "url": "https://www.craigslist.org/view/d/beautiful-land-for-sale-concepcion-de/nfPHBczS7AvPZpqhdEx2Ft?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7944243042/00l0l_cpYM1tKhfBH_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-06-30T13:59:52.376Z",
+      "id": "d0d53e012245"
+    },
+    {
+      "title": "Beautiful land for sale, Concepcion de Heredia 3,500 sq. mtrs.",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 12 min3500ft2Concepcion de San Rafael de Heredia",
+      "url": "https://www.craigslist.org/view/d/beautiful-land-for-sale-concepcion-de/nfPHBczS7AvPZpqhdEx2Ft?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7944243042/00l0l_cpYM1tKhfBH_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-06-30T13:59:57.862Z",
+      "id": "472b02e4ce69"
+    },
+    {
+      "title": "Beautiful land for sale, Concepcion de Heredia 3,500 sq. mtrs.",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 12 min3500ft2Concepcion de San Rafael de Heredia",
+      "url": "https://www.craigslist.org/view/d/beautiful-land-for-sale-concepcion-de/nfPHBczS7AvPZpqhdEx2Ft?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7944243042/00l0l_cpYM1tKhfBH_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-06-30T14:00:03.098Z",
+      "id": "472b02e4ce69"
+    },
+    {
+      "title": "Beautiful land for sale, Concepcion de Heredia 3,500 sq. mtrs.",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 12 min3500ft2Concepcion de San Rafael de Heredia",
+      "url": "https://www.craigslist.org/view/d/beautiful-land-for-sale-concepcion-de/nfPHBczS7AvPZpqhdEx2Ft?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7944243042/00l0l_cpYM1tKhfBH_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-06-30T14:00:08.329Z",
+      "id": "472b02e4ce69"
+    },
+    {
+      "title": "Beautiful land for sale, Concepcion de Heredia 3,500 sq. mtrs.",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 12 min3500ft2Concepcion de San Rafael de Heredia",
+      "url": "https://www.craigslist.org/view/d/beautiful-land-for-sale-concepcion-de/nfPHBczS7AvPZpqhdEx2Ft?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7944243042/00l0l_cpYM1tKhfBH_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-06-30T14:00:13.725Z",
+      "id": "472b02e4ce69"
     }
   ],
-  "last_updated": "2026-06-30T09:04:09.988Z",
+  "last_updated": "2026-06-30T14:05:59.642Z",
   "total_count": 402
 }
