@@ -21367,8 +21367,91 @@
       "category": "residential",
       "scraped_at": "2026-06-29T15:32:47.012Z",
       "id": "0f50aff8d83b"
+    },
+    {
+      "title": "Gaia Hotel & Reserve: Prime Five-Star Investment Opportunity in Costa Rica\n                Hotel / Leisure, Manuel Antonio, Puntarenas",
+      "price_text": "$10,000,000",
+      "price_usd": 10000000,
+      "location": "Hotel / Leisure, Manuel Antonio, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/24-bed-hotel-leisure-for-sale-in-manuel-antonio/14383",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000063sQJ1/lpzamlvzj/midres/DJI_0010.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-30T02:38:01.600Z",
+      "id": "b3c5df0b711e"
+    },
+    {
+      "title": "Gaia Hotel & Reserve: Prime Five-Star Investment Opportunity in Costa Rica\n                Hotel / Leisure, Manuel Antonio, Puntarenas",
+      "price_text": "$10,000,000",
+      "price_usd": 10000000,
+      "location": "Hotel / Leisure, Manuel Antonio, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/24-bed-hotel-leisure-for-sale-in-manuel-antonio/14383",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000063sQJ1/lpzamlvzj/midres/DJI_0010.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-06-30T02:39:07.419Z",
+      "id": "b3c5df0b711e"
+    },
+    {
+      "title": "Senderos Home 25E ~ Immaculate Piece of Real Estate - Phase 2          Prime Beachfront Lot in Playa Grande          Hacienda Rancho Las Colinas ~ Luxury, Peace and Views Combined",
+      "price_text": "Price:     US$ 2 150 000.00      Price:     US$ 2 175 000.00      Price:     US$ 2 180 000.00",
+      "price_usd": 2150000.002175,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Grande      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/senderos-home-25e-functional-design",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-senderos-home-on-lot-25e.png?itok=-xeag2dI",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-playa-grande-beachfront-lot.jpg?itok=tmNE9jy7",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Hacienda-RLC.jpg?itok=SNL0pGTi"
+      ],
+      "description": "With expansive valley and mountain views surrounded by nature, this homesite is perfectly situated to inspire...          Exceptional Investment Opportunity for Nature Lovers and Surfers!\n\tThis rare Playa Grande beachfront lot ...          \nHacienda Rancho Las Colinas is a stunning ocean and mountain view residence in the hills of Matapalo, a few...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-06-30T02:39:43.072Z",
+      "id": "381e035402d1"
+    },
+    {
+      "title": "Las Crestas de Senderos Home 10F ~ Senderos Phase Three          The Arc of The Sun ~ Experience the Pinnacle of Luxury in this 6...          Casa de Luz ~ 7 Bedroom Beachfront Estate on the White Sands of...",
+      "price_text": "Price:     US$ 4 150 000.00      Price:     US$ 5 990 000.00      Price:     US$ 5 995 000.00",
+      "price_usd": 4150000.00599,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/las-crestas-de-senderos-home-10f",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-10F-Senderos-Tamarindo_0.png?itok=jSdKWmsi",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/4-the-arc-of-the-sun.png?itok=xm00gAq9",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/21-Casa%20de%20Luz.png?itok=IM2Xh6YR"
+      ],
+      "description": "Delivery December 2024\nWith 270-degree views of ocean and jungle, the home at #12 Las Crestas boasts...          Senderos Product Development worked with the Inverse architectural team to create a home that lines up east...          \n\tPerfect secluded location on Langosta Beach. This is one of the largest beachfront estate in the area, Casa...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-06-30T02:39:49.730Z",
+      "id": "4f8ef689f7d8"
+    },
+    {
+      "title": "Casa Skygarden ~ Jaw-Dropping Sunset Views Year-Round          PRICE REDUCTION! 5 Bedroom Incredible Ocean View House Reserva...",
+      "price_text": "Price:     US$ 6 450 000.00      Price:     US$ 7 700 000.00",
+      "price_usd": 6450000.0077,
+      "location": "Location:     Playa Tamarindo      Location:     Reserva Conchal",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-skygarden",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-skygarden_0.png?itok=IUI6Dg1y",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Reserva-Conchal-Ocean-View-House-21.jpg?itok=Qed8abJQ"
+      ],
+      "description": "Designed for seamless indoor-outdoor living, the great room and terraces offer ideal spaces for gatherings....          Discover the ultimate trifecta: Location, Privacy, and Spectacular Views! This stunning five-bedroom, five-...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-06-30T02:39:49.907Z",
+      "id": "0b5bd3b6b207"
     }
   ],
-  "last_updated": "2026-06-29T19:51:24.736Z",
+  "last_updated": "2026-06-30T02:41:01.507Z",
   "total_count": 402
 }
