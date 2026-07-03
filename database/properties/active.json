@@ -21438,8 +21438,23 @@
       "category": "residential",
       "scraped_at": "2026-07-03T08:51:12.988Z",
       "id": "4bf4cdb4e553"
+    },
+    {
+      "title": "Turnkey Boutique Hotel & Resort Investment in Herradura, Costa Rica\n                Hotel / Leisure, Herradura, Puntarenas",
+      "price_text": "$3,200,000",
+      "price_usd": 3200000,
+      "location": "Hotel / Leisure, Herradura, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/28-bed-hotel-leisure-for-sale-in-herradura/15115",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-03T13:47:37.540Z",
+      "id": "47a7d8f63b6d"
     }
   ],
-  "last_updated": "2026-07-03T08:57:29.172Z",
+  "last_updated": "2026-07-03T13:50:32.216Z",
   "total_count": 402
 }
