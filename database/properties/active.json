@@ -1,21 +1,6 @@
 {
   "properties": [
     {
-      "title": "Casa Nueve, Turnkey Luxury, Nosara Designer Home, Ocean and River Views\n                Single Family Homes, Nosara, Guanacaste",
-      "price_text": "$3,950,000",
-      "price_usd": 3950000,
-      "location": "Single Family Homes, Nosara, Guanacaste",
-      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-nosara/13763",
-      "images": [
-        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "luxury",
-      "scraped_at": "2026-04-06T07:20:31.127Z",
-      "id": "ccd46879be14"
-    },
-    {
       "title": "SECURE FURNISHED HOUSE FOR SALE IN \"SARCHI \"",
       "price_text": "₡220",
       "price_usd": 0,
@@ -21713,6 +21698,6 @@
       "id": "1f6c1e72d1f5"
     }
   ],
-  "last_updated": "2026-07-05T06:02:15.779Z",
+  "last_updated": "2026-07-05T08:48:27.673Z",
   "total_count": 402
 }
