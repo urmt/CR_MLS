@@ -21672,8 +21672,38 @@
       "category": "land",
       "scraped_at": "2026-07-06T02:28:22.935Z",
       "id": "a44d73c26818"
+    },
+    {
+      "title": "Architectural Luxury Residence in Playa Hermosa\n                Single Family Homes, Cobano, Puntarenas",
+      "price_text": "$4,500,000",
+      "price_usd": 4500000,
+      "location": "Single Family Homes, Cobano, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-cobano/14955",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-06T15:15:32.567Z",
+      "id": "3a276245acd7"
+    },
+    {
+      "title": "Turnkey Restaurant & Event Venue with Pool, Jungle Views & Expansion Potential\n                Commercial, Manzanillo, Puntarenas",
+      "price_text": "$1,200,000",
+      "price_usd": 1200000,
+      "location": "Commercial, Manzanillo, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/2-bed-commercial-for-sale-in-manzanillo/15124",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-06T15:16:33.554Z",
+      "id": "ee0ad58adde1"
     }
   ],
-  "last_updated": "2026-07-06T10:04:10.158Z",
+  "last_updated": "2026-07-06T15:20:44.330Z",
   "total_count": 402
 }
