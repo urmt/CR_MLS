@@ -21636,8 +21636,44 @@
       "category": "luxury",
       "scraped_at": "2026-07-05T13:13:41.537Z",
       "id": "ccd46879be14"
+    },
+    {
+      "title": "Prime Beachfront Lot in Playa Grande          Hacienda Rancho Las Colinas ~ Luxury, Peace and Views Combined          Tranquil Retreat B&B Boutique Hotel in Playa Grande",
+      "price_text": "Price:     US$ 2 175 000.00      Price:     US$ 2 180 000.00      Price:     US$ 2 195 000.00",
+      "price_usd": 2175000.00218,
+      "location": "Location:     Playa Grande      Location:     Tamarindo Areas      Location:     Playa Grande",
+      "url": "https://www.remax-oceansurf-cr.com/property/playa-grande-titled-beachfront-lot-rare-opportunity",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-playa-grande-beachfront-lot.jpg?itok=tmNE9jy7",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Hacienda-RLC.jpg?itok=SNL0pGTi",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/0-kinamira-suites.jpg?itok=pGj3-nP3"
+      ],
+      "description": "Exceptional Investment Opportunity for Nature Lovers and Surfers!\n\tThis rare Playa Grande beachfront lot ...          \nHacienda Rancho Las Colinas is a stunning ocean and mountain view residence in the hills of Matapalo, a few...          Discover this Hotel and Spa, just 3 km (1.8 miles) from the stunning Playa Grande beach. Nestled in a lush...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-07-06T02:28:16.491Z",
+      "id": "562c17330072"
+    },
+    {
+      "title": "The Arc of The Sun ~ Experience the Pinnacle of Luxury in this 6...          Casa de Luz ~ 7 Bedroom Beachfront Estate on the White Sands of...          Casa Skygarden ~ Jaw-Dropping Sunset Views Year-Round",
+      "price_text": "Price:     US$ 5 990 000.00      Price:     US$ 5 995 000.00      Price:     US$ 6 450 000.00",
+      "price_usd": 5990000.005995,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Langosta      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/senderos-home-26e-1",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/4-the-arc-of-the-sun.png?itok=xm00gAq9",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/21-Casa%20de%20Luz.png?itok=IM2Xh6YR",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-skygarden_0.png?itok=IUI6Dg1y"
+      ],
+      "description": "Senderos Product Development worked with the Inverse architectural team to create a home that lines up east...          \n\tPerfect secluded location on Langosta Beach. This is one of the largest beachfront estate in the area, Casa...          Designed for seamless indoor-outdoor living, the great room and terraces offer ideal spaces for gatherings....",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-07-06T02:28:22.935Z",
+      "id": "a44d73c26818"
     }
   ],
-  "last_updated": "2026-07-05T19:09:48.418Z",
+  "last_updated": "2026-07-06T02:29:36.915Z",
   "total_count": 402
 }
