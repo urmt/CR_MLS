@@ -102823,6 +102823,126 @@
       "url": "https://immocostarica.com/for-sale/apartments-condos?page=5",
       "error": "Navigation timeout of 15000 ms exceeded",
       "timestamp": "2026-07-07T09:34:24.744Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 1,
+      "url": "https://immocostarica.com/for-sale/luxury-home",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home",
+      "timestamp": "2026-07-07T14:15:35.366Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=2",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-07-07T14:15:50.367Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=3",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-07-07T14:16:05.383Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=4",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-07-07T14:16:20.395Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=5",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-07-07T14:16:35.410Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 1,
+      "url": "https://immocostarica.com/for-sale/houses-villas",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-07-07T14:16:50.414Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=2",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-07-07T14:17:05.430Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=3",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-07-07T14:17:20.445Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=4",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-07-07T14:17:35.446Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=5",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-07-07T14:17:50.460Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 1,
+      "url": "https://immocostarica.com/for-sale/apartments-condos",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-07-07T14:18:05.472Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=2",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-07-07T14:18:20.488Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=3",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-07-07T14:18:35.488Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=4",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-07-07T14:18:50.501Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=5",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-07-07T14:19:05.507Z"
     }
   ]
 }
