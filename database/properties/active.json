@@ -21975,8 +21975,1316 @@
       "category": "residential",
       "scraped_at": "2026-07-07T19:47:37.977Z",
       "id": "31dec2ff584a"
+    },
+    {
+      "title": "House for Sale – Surfside Villa Multifamily Property, Playa Hermosa",
+      "price_text": "₡342,650,000",
+      "price_usd": 685300,
+      "location": "hace 2 h5br3500ft2Playa Hermosa, Jaco, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-surfside-villa/5w3XbDXSDrB9QLziMmZ94x?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945762990/00w0w_4KZjUzZWCKn_0cz0bN_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:39.895Z",
+      "id": "722366f71fe9"
+    },
+    {
+      "title": "House for Sale in Guachipelín, Escazú, San José, Costa Rica",
+      "price_text": "₡96,000,000",
+      "price_usd": 192000,
+      "location": "hace 3 h2br120ft2Escazu, San Jose",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-in-guachipeln-escaz-san/4P9rw9vV8rUZYVy2gQ6Fz8?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945759191/00W0W_fuFY9M1x6vF_0hd0cU_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:39.980Z",
+      "id": "2bc377d26884"
+    },
+    {
+      "title": "V-Eva Ju - European-Style House with Pool and Spectacular Views",
+      "price_text": "₡328,950,000",
+      "price_usd": 657900,
+      "location": "hace 3 h3br5057ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/eva-ju-european-style-house-with-pool/1u838bEAMN7UXKa3AK3QDW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945757725/00303_6juiLEzuBGO_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:40.099Z",
+      "id": "62af912e4124"
+    },
+    {
+      "title": "A-Naxos Ju - 2 bedroom, 2 bathroom condominium in Playa Langosta",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 3 h2br151ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/naxos-ju-bedroom-bathroom-condominium/auQEVRRsCrjLzaTeRwDj97?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945757140/00k0k_hiHi8f7urmL_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:40.192Z",
+      "id": "0d79f2d02962"
+    },
+    {
+      "title": "V- Coco. 857 m² container house on a plot with expansion potential",
+      "price_text": "₡97,500,000",
+      "price_usd": 195000,
+      "location": "hace 3 h1br857ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/coco-857-container-house-on-plot-with/6ioQ3h2xjZ5EXGY6EnGrba?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945756679/00z0z_aA031ou7qkY_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:40.286Z",
+      "id": "ffa3cbe23ebb"
+    },
+    {
+      "title": "V-Stella Ju - House and Land with Commercial and Residential Potential",
+      "price_text": "₡199,000,000",
+      "price_usd": 398000,
+      "location": "hace 3 h3br2000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/stella-ju-house-and-land-with/5CxEKQ6JFGY736rJWn9hUq?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945756394/00t0t_h7vNyknRVKI_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:40.386Z",
+      "id": "7fa4ccc07b8d"
+    },
+    {
+      "title": "T-Lorena Vini - Lot for sale in Lorena, Guanacaste, Costa Rica",
+      "price_text": "₡62,500,000",
+      "price_usd": 125000,
+      "location": "hace 3 h5000ft2Lorena, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/lorena-vini-lot-for-sale-in-lorena/k5EZ4DWqMLfmUFKFwToiv4?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945755886/00D0D_5qcZz34Z4PF_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:40.473Z",
+      "id": "de5f68170d29"
+    },
+    {
+      "title": "V-Xinia San Pedro - 5900m² Mountain View Property with 3-Bedroom House",
+      "price_text": "₡110,450,000",
+      "price_usd": 220900,
+      "location": "hace 3 h3brSan Pedro, Santa Cruz, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xinia-san-pedro-mountain-view-property/jsKrEaRvbxu1Xkv2ShPCgi?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945755561/00j0j_5jRfY1x9p3u_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:40.570Z",
+      "id": "ab755746890c"
+    },
+    {
+      "title": "V-Noily Ju - Luxury Home with Apartments, Pool, and Gym",
+      "price_text": "₡449,500,000",
+      "price_usd": 899000,
+      "location": "hace 3 h7br1703ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/noily-ju-luxury-home-with-apartments/uEexFSyMP3Am61c6UT1Nmw?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945755160/00Z0Z_7Sjf1swu2Rm_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:40.646Z",
+      "id": "63e7444c14a6"
+    },
+    {
+      "title": "V- Moses. Dream Home in Black Stallion with Ocean Views and Nature",
+      "price_text": "₡246,000,000",
+      "price_usd": 492000,
+      "location": "hace 4 h2br5000ft2",
+      "url": "https://www.craigslist.org/view/d/moses-dream-home-in-black-stallion-with/9ygWa2eRRLkKGvwH3Lb13h?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945749914/00r0r_kS8k5kXvlAc_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-08T01:53:40.740Z",
+      "id": "454132e5cd92"
+    },
+    {
+      "title": "T-Gus PG - Prime Lot Steps from Playa Grande – With Approved Building",
+      "price_text": "₡105,000,000",
+      "price_usd": 210000,
+      "location": "hace 4 h713ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/gus-pg-prime-lot-steps-from-playa/fwgn9MZRxRXc9zp44zuhSe?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945748683/00G0G_kwxuXv39MWo_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:40.836Z",
+      "id": "d9eb37abd3ad"
+    },
+    {
+      "title": "T-Xavier - 13 Hectares Investment Land with Ocean & Mountain Views",
+      "price_text": "₡69,500,000",
+      "price_usd": 139000,
+      "location": "hace 4 h130000ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xavier-13-hectares-investment-land-with/jhF6dzAiVKVLurPkf3MCT4?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945748244/00Z0Z_e6GNFUsKmcE_0co0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-08T01:53:40.928Z",
+      "id": "99ff7440ca3a"
+    },
+    {
+      "title": "T-David Marseille - Scenic Ocean & Mountain View Lot Near Flamingo",
+      "price_text": "₡97,395,000",
+      "price_usd": 194790,
+      "location": "hace 4 h12595ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/david-marseille-scenic-ocean-mountain/bmBrjja4jDAVGo4eWv45gM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945747954/00W0W_fYQpqnb7IDL_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:41.021Z",
+      "id": "8d79050ed3da"
+    },
+    {
+      "title": "T-Maks - Strategic Lot in the Heart of Tamarindo",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 4 h465ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/maks-strategic-lot-in-the-heart-of/fqevziAVyL7EXbWguo7HWi?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7936647600/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:41.089Z",
+      "id": "320b9f28fc0b"
+    },
+    {
+      "title": "V- Gran Vista. Luxury Villa with Ocean Views in Corona del Cabo 2",
+      "price_text": "₡502,475,000",
+      "price_usd": 1004950,
+      "location": "hace 4 h4br6672ft2",
+      "url": "https://www.craigslist.org/view/d/gran-vista-luxury-villa-with-ocean/1RB6jTjL4JZetPcB5Mc6Xc?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-08T01:53:41.217Z",
+      "id": "33fcae0adcf7"
+    },
+    {
+      "title": "V-Apartamentos Tony -Investment Property with 4Income-Generating Units",
+      "price_text": "₡152,490,000",
+      "price_usd": 304980,
+      "location": "hace 4 h8br268ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/apartamentos-tony-investment-property/oHUKugfGXyPZyoTFxaQYes?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:41.408Z",
+      "id": "b6284a0d2980"
+    },
+    {
+      "title": "House for Sale – Surfside Villa Multifamily Property, Playa Hermosa",
+      "price_text": "₡342,650,000",
+      "price_usd": 685300,
+      "location": "hace 2 h5br3500ft2Playa Hermosa, Jaco, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-surfside-villa/5w3XbDXSDrB9QLziMmZ94x?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945762990/00w0w_4KZjUzZWCKn_0cz0bN_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:46.186Z",
+      "id": "722366f71fe9"
+    },
+    {
+      "title": "House for Sale in Guachipelín, Escazú, San José, Costa Rica",
+      "price_text": "₡96,000,000",
+      "price_usd": 192000,
+      "location": "hace 3 h2br120ft2Escazu, San Jose",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-in-guachipeln-escaz-san/4P9rw9vV8rUZYVy2gQ6Fz8?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945759191/00W0W_fuFY9M1x6vF_0hd0cU_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:46.270Z",
+      "id": "2bc377d26884"
+    },
+    {
+      "title": "V-Eva Ju - European-Style House with Pool and Spectacular Views",
+      "price_text": "₡328,950,000",
+      "price_usd": 657900,
+      "location": "hace 3 h3br5057ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/eva-ju-european-style-house-with-pool/1u838bEAMN7UXKa3AK3QDW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945757725/00303_6juiLEzuBGO_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:46.358Z",
+      "id": "62af912e4124"
+    },
+    {
+      "title": "A-Naxos Ju - 2 bedroom, 2 bathroom condominium in Playa Langosta",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 3 h2br151ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/naxos-ju-bedroom-bathroom-condominium/auQEVRRsCrjLzaTeRwDj97?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945757140/00k0k_hiHi8f7urmL_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:46.448Z",
+      "id": "0d79f2d02962"
+    },
+    {
+      "title": "V- Coco. 857 m² container house on a plot with expansion potential",
+      "price_text": "₡97,500,000",
+      "price_usd": 195000,
+      "location": "hace 3 h1br857ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/coco-857-container-house-on-plot-with/6ioQ3h2xjZ5EXGY6EnGrba?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945756679/00z0z_aA031ou7qkY_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:46.541Z",
+      "id": "ffa3cbe23ebb"
+    },
+    {
+      "title": "V-Stella Ju - House and Land with Commercial and Residential Potential",
+      "price_text": "₡199,000,000",
+      "price_usd": 398000,
+      "location": "hace 3 h3br2000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/stella-ju-house-and-land-with/5CxEKQ6JFGY736rJWn9hUq?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945756394/00t0t_h7vNyknRVKI_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:46.639Z",
+      "id": "7fa4ccc07b8d"
+    },
+    {
+      "title": "T-Lorena Vini - Lot for sale in Lorena, Guanacaste, Costa Rica",
+      "price_text": "₡62,500,000",
+      "price_usd": 125000,
+      "location": "hace 3 h5000ft2Lorena, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/lorena-vini-lot-for-sale-in-lorena/k5EZ4DWqMLfmUFKFwToiv4?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945755886/00D0D_5qcZz34Z4PF_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:46.725Z",
+      "id": "de5f68170d29"
+    },
+    {
+      "title": "V-Xinia San Pedro - 5900m² Mountain View Property with 3-Bedroom House",
+      "price_text": "₡110,450,000",
+      "price_usd": 220900,
+      "location": "hace 3 h3brSan Pedro, Santa Cruz, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xinia-san-pedro-mountain-view-property/jsKrEaRvbxu1Xkv2ShPCgi?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945755561/00j0j_5jRfY1x9p3u_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:46.822Z",
+      "id": "ab755746890c"
+    },
+    {
+      "title": "V-Noily Ju - Luxury Home with Apartments, Pool, and Gym",
+      "price_text": "₡449,500,000",
+      "price_usd": 899000,
+      "location": "hace 3 h7br1703ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/noily-ju-luxury-home-with-apartments/uEexFSyMP3Am61c6UT1Nmw?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945755160/00Z0Z_7Sjf1swu2Rm_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:46.900Z",
+      "id": "63e7444c14a6"
+    },
+    {
+      "title": "V- Moses. Dream Home in Black Stallion with Ocean Views and Nature",
+      "price_text": "₡246,000,000",
+      "price_usd": 492000,
+      "location": "hace 4 h2br5000ft2",
+      "url": "https://www.craigslist.org/view/d/moses-dream-home-in-black-stallion-with/9ygWa2eRRLkKGvwH3Lb13h?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945749914/00r0r_kS8k5kXvlAc_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-08T01:53:46.994Z",
+      "id": "454132e5cd92"
+    },
+    {
+      "title": "T-Gus PG - Prime Lot Steps from Playa Grande – With Approved Building",
+      "price_text": "₡105,000,000",
+      "price_usd": 210000,
+      "location": "hace 4 h713ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/gus-pg-prime-lot-steps-from-playa/fwgn9MZRxRXc9zp44zuhSe?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945748683/00G0G_kwxuXv39MWo_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:47.090Z",
+      "id": "d9eb37abd3ad"
+    },
+    {
+      "title": "T-Xavier - 13 Hectares Investment Land with Ocean & Mountain Views",
+      "price_text": "₡69,500,000",
+      "price_usd": 139000,
+      "location": "hace 4 h130000ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xavier-13-hectares-investment-land-with/jhF6dzAiVKVLurPkf3MCT4?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945748244/00Z0Z_e6GNFUsKmcE_0co0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-08T01:53:47.183Z",
+      "id": "99ff7440ca3a"
+    },
+    {
+      "title": "T-David Marseille - Scenic Ocean & Mountain View Lot Near Flamingo",
+      "price_text": "₡97,395,000",
+      "price_usd": 194790,
+      "location": "hace 4 h12595ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/david-marseille-scenic-ocean-mountain/bmBrjja4jDAVGo4eWv45gM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945747954/00W0W_fYQpqnb7IDL_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:47.277Z",
+      "id": "8d79050ed3da"
+    },
+    {
+      "title": "T-Maks - Strategic Lot in the Heart of Tamarindo",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 4 h465ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/maks-strategic-lot-in-the-heart-of/fqevziAVyL7EXbWguo7HWi?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7936647600/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:47.343Z",
+      "id": "320b9f28fc0b"
+    },
+    {
+      "title": "V- Gran Vista. Luxury Villa with Ocean Views in Corona del Cabo 2",
+      "price_text": "₡502,475,000",
+      "price_usd": 1004950,
+      "location": "hace 4 h4br6672ft2",
+      "url": "https://www.craigslist.org/view/d/gran-vista-luxury-villa-with-ocean/1RB6jTjL4JZetPcB5Mc6Xc?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-08T01:53:47.471Z",
+      "id": "33fcae0adcf7"
+    },
+    {
+      "title": "V-Apartamentos Tony -Investment Property with 4Income-Generating Units",
+      "price_text": "₡152,490,000",
+      "price_usd": 304980,
+      "location": "hace 4 h8br268ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/apartamentos-tony-investment-property/oHUKugfGXyPZyoTFxaQYes?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:47.663Z",
+      "id": "b6284a0d2980"
+    },
+    {
+      "title": "House for Sale – Surfside Villa Multifamily Property, Playa Hermosa",
+      "price_text": "₡342,650,000",
+      "price_usd": 685300,
+      "location": "hace 2 h5br3500ft2Playa Hermosa, Jaco, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-surfside-villa/5w3XbDXSDrB9QLziMmZ94x?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945762990/00w0w_4KZjUzZWCKn_0cz0bN_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:52.561Z",
+      "id": "722366f71fe9"
+    },
+    {
+      "title": "House for Sale in Guachipelín, Escazú, San José, Costa Rica",
+      "price_text": "₡96,000,000",
+      "price_usd": 192000,
+      "location": "hace 3 h2br120ft2Escazu, San Jose",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-in-guachipeln-escaz-san/4P9rw9vV8rUZYVy2gQ6Fz8?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945759191/00W0W_fuFY9M1x6vF_0hd0cU_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:52.643Z",
+      "id": "2bc377d26884"
+    },
+    {
+      "title": "V-Eva Ju - European-Style House with Pool and Spectacular Views",
+      "price_text": "₡328,950,000",
+      "price_usd": 657900,
+      "location": "hace 3 h3br5057ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/eva-ju-european-style-house-with-pool/1u838bEAMN7UXKa3AK3QDW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945757725/00303_6juiLEzuBGO_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:52.730Z",
+      "id": "62af912e4124"
+    },
+    {
+      "title": "A-Naxos Ju - 2 bedroom, 2 bathroom condominium in Playa Langosta",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 3 h2br151ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/naxos-ju-bedroom-bathroom-condominium/auQEVRRsCrjLzaTeRwDj97?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945757140/00k0k_hiHi8f7urmL_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:52.819Z",
+      "id": "0d79f2d02962"
+    },
+    {
+      "title": "V- Coco. 857 m² container house on a plot with expansion potential",
+      "price_text": "₡97,500,000",
+      "price_usd": 195000,
+      "location": "hace 3 h1br857ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/coco-857-container-house-on-plot-with/6ioQ3h2xjZ5EXGY6EnGrba?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945756679/00z0z_aA031ou7qkY_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:52.911Z",
+      "id": "ffa3cbe23ebb"
+    },
+    {
+      "title": "V-Stella Ju - House and Land with Commercial and Residential Potential",
+      "price_text": "₡199,000,000",
+      "price_usd": 398000,
+      "location": "hace 3 h3br2000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/stella-ju-house-and-land-with/5CxEKQ6JFGY736rJWn9hUq?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945756394/00t0t_h7vNyknRVKI_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:53.010Z",
+      "id": "7fa4ccc07b8d"
+    },
+    {
+      "title": "T-Lorena Vini - Lot for sale in Lorena, Guanacaste, Costa Rica",
+      "price_text": "₡62,500,000",
+      "price_usd": 125000,
+      "location": "hace 3 h5000ft2Lorena, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/lorena-vini-lot-for-sale-in-lorena/k5EZ4DWqMLfmUFKFwToiv4?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945755886/00D0D_5qcZz34Z4PF_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:53.097Z",
+      "id": "de5f68170d29"
+    },
+    {
+      "title": "V-Xinia San Pedro - 5900m² Mountain View Property with 3-Bedroom House",
+      "price_text": "₡110,450,000",
+      "price_usd": 220900,
+      "location": "hace 3 h3brSan Pedro, Santa Cruz, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xinia-san-pedro-mountain-view-property/jsKrEaRvbxu1Xkv2ShPCgi?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945755561/00j0j_5jRfY1x9p3u_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:53.196Z",
+      "id": "ab755746890c"
+    },
+    {
+      "title": "V-Noily Ju - Luxury Home with Apartments, Pool, and Gym",
+      "price_text": "₡449,500,000",
+      "price_usd": 899000,
+      "location": "hace 3 h7br1703ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/noily-ju-luxury-home-with-apartments/uEexFSyMP3Am61c6UT1Nmw?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945755160/00Z0Z_7Sjf1swu2Rm_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:53.274Z",
+      "id": "63e7444c14a6"
+    },
+    {
+      "title": "V- Moses. Dream Home in Black Stallion with Ocean Views and Nature",
+      "price_text": "₡246,000,000",
+      "price_usd": 492000,
+      "location": "hace 4 h2br5000ft2",
+      "url": "https://www.craigslist.org/view/d/moses-dream-home-in-black-stallion-with/9ygWa2eRRLkKGvwH3Lb13h?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945749914/00r0r_kS8k5kXvlAc_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-08T01:53:53.366Z",
+      "id": "454132e5cd92"
+    },
+    {
+      "title": "T-Gus PG - Prime Lot Steps from Playa Grande – With Approved Building",
+      "price_text": "₡105,000,000",
+      "price_usd": 210000,
+      "location": "hace 4 h713ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/gus-pg-prime-lot-steps-from-playa/fwgn9MZRxRXc9zp44zuhSe?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945748683/00G0G_kwxuXv39MWo_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:53.461Z",
+      "id": "d9eb37abd3ad"
+    },
+    {
+      "title": "T-Xavier - 13 Hectares Investment Land with Ocean & Mountain Views",
+      "price_text": "₡69,500,000",
+      "price_usd": 139000,
+      "location": "hace 4 h130000ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xavier-13-hectares-investment-land-with/jhF6dzAiVKVLurPkf3MCT4?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945748244/00Z0Z_e6GNFUsKmcE_0co0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-08T01:53:53.552Z",
+      "id": "99ff7440ca3a"
+    },
+    {
+      "title": "T-David Marseille - Scenic Ocean & Mountain View Lot Near Flamingo",
+      "price_text": "₡97,395,000",
+      "price_usd": 194790,
+      "location": "hace 4 h12595ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/david-marseille-scenic-ocean-mountain/bmBrjja4jDAVGo4eWv45gM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945747954/00W0W_fYQpqnb7IDL_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:53.645Z",
+      "id": "8d79050ed3da"
+    },
+    {
+      "title": "T-Maks - Strategic Lot in the Heart of Tamarindo",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 4 h465ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/maks-strategic-lot-in-the-heart-of/fqevziAVyL7EXbWguo7HWi?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7936647600/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:53.711Z",
+      "id": "320b9f28fc0b"
+    },
+    {
+      "title": "V- Gran Vista. Luxury Villa with Ocean Views in Corona del Cabo 2",
+      "price_text": "₡502,475,000",
+      "price_usd": 1004950,
+      "location": "hace 4 h4br6672ft2",
+      "url": "https://www.craigslist.org/view/d/gran-vista-luxury-villa-with-ocean/1RB6jTjL4JZetPcB5Mc6Xc?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-08T01:53:53.838Z",
+      "id": "33fcae0adcf7"
+    },
+    {
+      "title": "V-Apartamentos Tony -Investment Property with 4Income-Generating Units",
+      "price_text": "₡152,490,000",
+      "price_usd": 304980,
+      "location": "hace 4 h8br268ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/apartamentos-tony-investment-property/oHUKugfGXyPZyoTFxaQYes?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:54.029Z",
+      "id": "b6284a0d2980"
+    },
+    {
+      "title": "House for Sale – Surfside Villa Multifamily Property, Playa Hermosa",
+      "price_text": "₡342,650,000",
+      "price_usd": 685300,
+      "location": "hace 2 h5br3500ft2Playa Hermosa, Jaco, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-surfside-villa/5w3XbDXSDrB9QLziMmZ94x?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945762990/00w0w_4KZjUzZWCKn_0cz0bN_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:58.930Z",
+      "id": "722366f71fe9"
+    },
+    {
+      "title": "House for Sale in Guachipelín, Escazú, San José, Costa Rica",
+      "price_text": "₡96,000,000",
+      "price_usd": 192000,
+      "location": "hace 3 h2br120ft2Escazu, San Jose",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-in-guachipeln-escaz-san/4P9rw9vV8rUZYVy2gQ6Fz8?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945759191/00W0W_fuFY9M1x6vF_0hd0cU_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:59.012Z",
+      "id": "2bc377d26884"
+    },
+    {
+      "title": "V-Eva Ju - European-Style House with Pool and Spectacular Views",
+      "price_text": "₡328,950,000",
+      "price_usd": 657900,
+      "location": "hace 3 h3br5057ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/eva-ju-european-style-house-with-pool/1u838bEAMN7UXKa3AK3QDW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945757725/00303_6juiLEzuBGO_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:59.101Z",
+      "id": "62af912e4124"
+    },
+    {
+      "title": "A-Naxos Ju - 2 bedroom, 2 bathroom condominium in Playa Langosta",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 3 h2br151ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/naxos-ju-bedroom-bathroom-condominium/auQEVRRsCrjLzaTeRwDj97?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945757140/00k0k_hiHi8f7urmL_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:59.204Z",
+      "id": "0d79f2d02962"
+    },
+    {
+      "title": "V- Coco. 857 m² container house on a plot with expansion potential",
+      "price_text": "₡97,500,000",
+      "price_usd": 195000,
+      "location": "hace 3 h1br857ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/coco-857-container-house-on-plot-with/6ioQ3h2xjZ5EXGY6EnGrba?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945756679/00z0z_aA031ou7qkY_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:59.296Z",
+      "id": "ffa3cbe23ebb"
+    },
+    {
+      "title": "V-Stella Ju - House and Land with Commercial and Residential Potential",
+      "price_text": "₡199,000,000",
+      "price_usd": 398000,
+      "location": "hace 3 h3br2000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/stella-ju-house-and-land-with/5CxEKQ6JFGY736rJWn9hUq?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945756394/00t0t_h7vNyknRVKI_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:59.394Z",
+      "id": "7fa4ccc07b8d"
+    },
+    {
+      "title": "T-Lorena Vini - Lot for sale in Lorena, Guanacaste, Costa Rica",
+      "price_text": "₡62,500,000",
+      "price_usd": 125000,
+      "location": "hace 3 h5000ft2Lorena, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/lorena-vini-lot-for-sale-in-lorena/k5EZ4DWqMLfmUFKFwToiv4?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945755886/00D0D_5qcZz34Z4PF_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:59.480Z",
+      "id": "de5f68170d29"
+    },
+    {
+      "title": "V-Xinia San Pedro - 5900m² Mountain View Property with 3-Bedroom House",
+      "price_text": "₡110,450,000",
+      "price_usd": 220900,
+      "location": "hace 3 h3brSan Pedro, Santa Cruz, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xinia-san-pedro-mountain-view-property/jsKrEaRvbxu1Xkv2ShPCgi?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945755561/00j0j_5jRfY1x9p3u_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:59.579Z",
+      "id": "ab755746890c"
+    },
+    {
+      "title": "V-Noily Ju - Luxury Home with Apartments, Pool, and Gym",
+      "price_text": "₡449,500,000",
+      "price_usd": 899000,
+      "location": "hace 3 h7br1703ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/noily-ju-luxury-home-with-apartments/uEexFSyMP3Am61c6UT1Nmw?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945755160/00Z0Z_7Sjf1swu2Rm_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:59.655Z",
+      "id": "63e7444c14a6"
+    },
+    {
+      "title": "V- Moses. Dream Home in Black Stallion with Ocean Views and Nature",
+      "price_text": "₡246,000,000",
+      "price_usd": 492000,
+      "location": "hace 4 h2br5000ft2",
+      "url": "https://www.craigslist.org/view/d/moses-dream-home-in-black-stallion-with/9ygWa2eRRLkKGvwH3Lb13h?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945749914/00r0r_kS8k5kXvlAc_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-08T01:53:59.748Z",
+      "id": "454132e5cd92"
+    },
+    {
+      "title": "T-Gus PG - Prime Lot Steps from Playa Grande – With Approved Building",
+      "price_text": "₡105,000,000",
+      "price_usd": 210000,
+      "location": "hace 4 h713ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/gus-pg-prime-lot-steps-from-playa/fwgn9MZRxRXc9zp44zuhSe?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945748683/00G0G_kwxuXv39MWo_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:53:59.843Z",
+      "id": "d9eb37abd3ad"
+    },
+    {
+      "title": "T-Xavier - 13 Hectares Investment Land with Ocean & Mountain Views",
+      "price_text": "₡69,500,000",
+      "price_usd": 139000,
+      "location": "hace 4 h130000ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xavier-13-hectares-investment-land-with/jhF6dzAiVKVLurPkf3MCT4?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945748244/00Z0Z_e6GNFUsKmcE_0co0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-08T01:53:59.934Z",
+      "id": "99ff7440ca3a"
+    },
+    {
+      "title": "T-David Marseille - Scenic Ocean & Mountain View Lot Near Flamingo",
+      "price_text": "₡97,395,000",
+      "price_usd": 194790,
+      "location": "hace 4 h12595ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/david-marseille-scenic-ocean-mountain/bmBrjja4jDAVGo4eWv45gM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945747954/00W0W_fYQpqnb7IDL_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:54:00.027Z",
+      "id": "8d79050ed3da"
+    },
+    {
+      "title": "T-Maks - Strategic Lot in the Heart of Tamarindo",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 4 h465ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/maks-strategic-lot-in-the-heart-of/fqevziAVyL7EXbWguo7HWi?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7936647600/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:54:00.095Z",
+      "id": "320b9f28fc0b"
+    },
+    {
+      "title": "V- Gran Vista. Luxury Villa with Ocean Views in Corona del Cabo 2",
+      "price_text": "₡502,475,000",
+      "price_usd": 1004950,
+      "location": "hace 4 h4br6672ft2",
+      "url": "https://www.craigslist.org/view/d/gran-vista-luxury-villa-with-ocean/1RB6jTjL4JZetPcB5Mc6Xc?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-08T01:54:00.226Z",
+      "id": "33fcae0adcf7"
+    },
+    {
+      "title": "V-Apartamentos Tony -Investment Property with 4Income-Generating Units",
+      "price_text": "₡152,490,000",
+      "price_usd": 304980,
+      "location": "hace 4 h8br268ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/apartamentos-tony-investment-property/oHUKugfGXyPZyoTFxaQYes?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:54:00.416Z",
+      "id": "b6284a0d2980"
+    },
+    {
+      "title": "House for Sale – Surfside Villa Multifamily Property, Playa Hermosa",
+      "price_text": "₡342,650,000",
+      "price_usd": 685300,
+      "location": "hace 2 h5br3500ft2Playa Hermosa, Jaco, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-surfside-villa/5w3XbDXSDrB9QLziMmZ94x?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945762990/00w0w_4KZjUzZWCKn_0cz0bN_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:54:05.154Z",
+      "id": "722366f71fe9"
+    },
+    {
+      "title": "House for Sale in Guachipelín, Escazú, San José, Costa Rica",
+      "price_text": "₡96,000,000",
+      "price_usd": 192000,
+      "location": "hace 3 h2br120ft2Escazu, San Jose",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-in-guachipeln-escaz-san/4P9rw9vV8rUZYVy2gQ6Fz8?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945759191/00W0W_fuFY9M1x6vF_0hd0cU_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:54:05.237Z",
+      "id": "2bc377d26884"
+    },
+    {
+      "title": "V-Eva Ju - European-Style House with Pool and Spectacular Views",
+      "price_text": "₡328,950,000",
+      "price_usd": 657900,
+      "location": "hace 3 h3br5057ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/eva-ju-european-style-house-with-pool/1u838bEAMN7UXKa3AK3QDW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945757725/00303_6juiLEzuBGO_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:54:05.325Z",
+      "id": "62af912e4124"
+    },
+    {
+      "title": "A-Naxos Ju - 2 bedroom, 2 bathroom condominium in Playa Langosta",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 3 h2br151ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/naxos-ju-bedroom-bathroom-condominium/auQEVRRsCrjLzaTeRwDj97?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945757140/00k0k_hiHi8f7urmL_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:54:05.414Z",
+      "id": "0d79f2d02962"
+    },
+    {
+      "title": "V- Coco. 857 m² container house on a plot with expansion potential",
+      "price_text": "₡97,500,000",
+      "price_usd": 195000,
+      "location": "hace 3 h1br857ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/coco-857-container-house-on-plot-with/6ioQ3h2xjZ5EXGY6EnGrba?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945756679/00z0z_aA031ou7qkY_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:54:05.507Z",
+      "id": "ffa3cbe23ebb"
+    },
+    {
+      "title": "V-Stella Ju - House and Land with Commercial and Residential Potential",
+      "price_text": "₡199,000,000",
+      "price_usd": 398000,
+      "location": "hace 3 h3br2000ft2Linderos, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/stella-ju-house-and-land-with/5CxEKQ6JFGY736rJWn9hUq?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945756394/00t0t_h7vNyknRVKI_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:54:05.605Z",
+      "id": "7fa4ccc07b8d"
+    },
+    {
+      "title": "T-Lorena Vini - Lot for sale in Lorena, Guanacaste, Costa Rica",
+      "price_text": "₡62,500,000",
+      "price_usd": 125000,
+      "location": "hace 3 h5000ft2Lorena, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/lorena-vini-lot-for-sale-in-lorena/k5EZ4DWqMLfmUFKFwToiv4?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945755886/00D0D_5qcZz34Z4PF_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:54:05.692Z",
+      "id": "de5f68170d29"
+    },
+    {
+      "title": "V-Xinia San Pedro - 5900m² Mountain View Property with 3-Bedroom House",
+      "price_text": "₡110,450,000",
+      "price_usd": 220900,
+      "location": "hace 3 h3brSan Pedro, Santa Cruz, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xinia-san-pedro-mountain-view-property/jsKrEaRvbxu1Xkv2ShPCgi?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945755561/00j0j_5jRfY1x9p3u_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:54:05.790Z",
+      "id": "ab755746890c"
+    },
+    {
+      "title": "V-Noily Ju - Luxury Home with Apartments, Pool, and Gym",
+      "price_text": "₡449,500,000",
+      "price_usd": 899000,
+      "location": "hace 3 h7br1703ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/noily-ju-luxury-home-with-apartments/uEexFSyMP3Am61c6UT1Nmw?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945755160/00Z0Z_7Sjf1swu2Rm_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:54:05.865Z",
+      "id": "63e7444c14a6"
+    },
+    {
+      "title": "V- Moses. Dream Home in Black Stallion with Ocean Views and Nature",
+      "price_text": "₡246,000,000",
+      "price_usd": 492000,
+      "location": "hace 4 h2br5000ft2",
+      "url": "https://www.craigslist.org/view/d/moses-dream-home-in-black-stallion-with/9ygWa2eRRLkKGvwH3Lb13h?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945749914/00r0r_kS8k5kXvlAc_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-08T01:54:05.959Z",
+      "id": "454132e5cd92"
+    },
+    {
+      "title": "T-Gus PG - Prime Lot Steps from Playa Grande – With Approved Building",
+      "price_text": "₡105,000,000",
+      "price_usd": 210000,
+      "location": "hace 4 h713ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/gus-pg-prime-lot-steps-from-playa/fwgn9MZRxRXc9zp44zuhSe?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945748683/00G0G_kwxuXv39MWo_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:54:06.060Z",
+      "id": "d9eb37abd3ad"
+    },
+    {
+      "title": "T-Xavier - 13 Hectares Investment Land with Ocean & Mountain Views",
+      "price_text": "₡69,500,000",
+      "price_usd": 139000,
+      "location": "hace 4 h130000ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xavier-13-hectares-investment-land-with/jhF6dzAiVKVLurPkf3MCT4?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945748244/00Z0Z_e6GNFUsKmcE_0co0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-08T01:54:06.156Z",
+      "id": "99ff7440ca3a"
+    },
+    {
+      "title": "T-David Marseille - Scenic Ocean & Mountain View Lot Near Flamingo",
+      "price_text": "₡97,395,000",
+      "price_usd": 194790,
+      "location": "hace 4 h12595ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/david-marseille-scenic-ocean-mountain/bmBrjja4jDAVGo4eWv45gM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945747954/00W0W_fYQpqnb7IDL_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:54:06.250Z",
+      "id": "8d79050ed3da"
+    },
+    {
+      "title": "T-Maks - Strategic Lot in the Heart of Tamarindo",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 4 h465ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/maks-strategic-lot-in-the-heart-of/fqevziAVyL7EXbWguo7HWi?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7936647600/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:54:06.317Z",
+      "id": "320b9f28fc0b"
+    },
+    {
+      "title": "V- Gran Vista. Luxury Villa with Ocean Views in Corona del Cabo 2",
+      "price_text": "₡502,475,000",
+      "price_usd": 1004950,
+      "location": "hace 4 h4br6672ft2",
+      "url": "https://www.craigslist.org/view/d/gran-vista-luxury-villa-with-ocean/1RB6jTjL4JZetPcB5Mc6Xc?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-08T01:54:06.444Z",
+      "id": "33fcae0adcf7"
+    },
+    {
+      "title": "V-Apartamentos Tony -Investment Property with 4Income-Generating Units",
+      "price_text": "₡152,490,000",
+      "price_usd": 304980,
+      "location": "hace 4 h8br268ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/apartamentos-tony-investment-property/oHUKugfGXyPZyoTFxaQYes?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:54:06.635Z",
+      "id": "b6284a0d2980"
+    },
+    {
+      "title": "Palmas de Tamarindo 304G ~ Charming 3 Bedroom Condo          Palmas de Tamarindo - Phase 2          Tama Hills 4 ~ Modern 2-Bedroom Condo for Sale in Playa Tamarindo",
+      "price_text": "Price:     US$ 297 000.00      Price:     US$ 297 357.00      Price:     US$ 299 000.00",
+      "price_usd": 297000.00297357,
+      "location": "Location:     Tamarindo Areas      Location:     Tamarindo Areas      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/palmas-de-tamarindo-304g",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Palmas-de-Tamarindo-304G.jpg?itok=C9xcxv_E",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-SECOND%20PHASE%20RENDERS.jpg?itok=_8aaWgpv",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Tama-Hills-4.jpg?itok=OqxnSK1w"
+      ],
+      "description": "Discover comfortable coastal living just 5 minutes from the vibrant beach town of Tamarindo in this charming...          Fantastic Opportunity to Invest in Costa Rica: Brand-New Condos Available!\nDiscover the perfect blend of...          Discover relaxed coastal living in this beautifully designed 2-bedroom, 1-bathroom condo located in the heart...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:57:42.743Z",
+      "id": "077eb0da0b53"
+    },
+    {
+      "title": "REDUCED TO SELL FAST! 21B Prime Lot for Sale in Senderos,...          Finca La Antigua ~ 8.67 acres of tranquility within minutes of...          Senderos Tamarindo ~ Las Crestas, Las Verandas, and Estancia del...",
+      "price_text": "Price:     US$ 299 000.00      Price:     US$ 299 000.00      Price:     US$ 320 000.00",
+      "price_usd": 299000.00299,
+      "location": "Location:     Playa Tamarindo      Location:     Tamarindo Areas      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/senderos-lot-21b",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Senderos-21B-Tamarindo.JPG?itok=QflGyI-Z",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1.finca-antigua-santa-rosa.JPG?itok=PwtUPDHu",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/lascrestas-map-01.jpg?itok=_XfXL1fU"
+      ],
+      "description": "If you are looking for an opportunity to buy a lot in this famous gated community, this is the one! Priced to...          Finca La Antigua is a magic piece of land that has been kept antique and natural! This open land is perfect...          An idyllic sanctuary awaits you at Las Crestas as well as in Las Verandas, offering a tranquil escape from...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-07-08T01:57:43.077Z",
+      "id": "924b9645b573"
+    },
+    {
+      "title": "Turnkey Condo for Sale in Gated Community near Tamarindo           Jacarandas Townhomes - In the Gated Community of Rancho Villa...          Tama Hills 6 ~ Modern 2-Bedroom Condo for Sale in Playa Tamarindo",
+      "price_text": "Price:     US$ 329 000.00      Price:     US$ 330 000.00      Price:     US$ 335 000.00",
+      "price_usd": 329000.0033,
+      "location": "Location:     Tamarindo Areas      Location:     Tamarindo Areas      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/palmas-de-tamarindo-301g",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/4-palmas-301g-2025.png?itok=6qyNSeiW",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/18-jacarandas-2023.png?itok=BW0Otuj-",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Tamarindo-Hills%20.jpg?itok=_BnCmCIi"
+      ],
+      "description": "Discover this beautifully renovated 3BR/2BA top-floor condo just minutes from Tamarindo Beach. Offering 915...          Welcome to  Rancho Villa Real, a luxurious and exclusive gated community, 7 7-minute drive to the famous...          Experience easy coastal living in this thoughtfully designed 2-bedroom, 1-bathroom condo ideally located in...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:57:43.406Z",
+      "id": "732c84b2b722"
+    },
+    {
+      "title": "Modern Coastal Living in Tamarindo’s Oro del Sol Community          Pacific Park 703 ~ Jaw-Dropping Views from the Best Located...          Invest in Paradise: Mono Luxe Suites Condotel with Ocean Views",
+      "price_text": "Price:     US$ 749 000.00      Price:     US$ 749 000.00      Price:     US$ 759 000.00",
+      "price_usd": 749000.00749,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/oro-del-sol-23",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-oro-del-sol-23-2026.png?itok=YqNcRmcl",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-pacific-park-703.jpg?itok=wqzIbgTQ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/10-mono-luxe-suites.png?itok=52kaEraA"
+      ],
+      "description": "Oro del Sol 23 is a newly built residence set within the highly desirable Oro del Sol community in Tamarindo...          Welcome to Pacific Park 703, where luxury meets convenience in the heart of Tamarindo, Guanacaste. Step into...          Discover the epitome of luxury and exceptional investment potential at the exclusive Mono Luxe Suites...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:57:49.197Z",
+      "id": "0930628e4109"
+    },
+    {
+      "title": "Ocean and Mountain Views Finca ~ With a Little River           La Vista Condos Residencial - Part of the Diria Family Complex          Private Estate in Black Stallion ~ 9,214m² | Casa Ma Vie La",
+      "price_text": "Price:     US$ 769 000.00      Price:     US$ 779 000.00      Price:     US$ 795 000.00",
+      "price_usd": 769000.00779,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Tamarindo      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/finca-vista-canafistula-ocean-mountain-views",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Finca-Vista-Cana.JPG?itok=Kpg44YeL",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5-general-pics-la-vista-tower-c-october-2025.jpg?itok=COapoWEz",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Casa-Ma-Vie-La.jpg?itok=sQV04fuX"
+      ],
+      "description": "This is one of the best ocean and mountain view property for sale in the area. It is located in Canafistula,...          La Vista Condos Residencial is an exclusive gated condominium found at the top of the hills of Playa...          \n\n\t\tNestled within the peaceful residential community of Black Stallion, just 10 minutes from Tamarindo and...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:57:49.509Z",
+      "id": "c1736b1729aa"
+    },
+    {
+      "title": "Prime Development Land on the Main Road to Tamarindo          La Perla 3-4 ~ Panoramic Ocean Views Over Playa Grande and...          La Perla 4-3 ~ Elegant Ocean-View Retreat in Vibrant Tamarindo",
+      "price_text": "Price:     US$ 1 000 000.00      Price:     US$ 1 075 000.00      Price:     US$ 1 099 000.00",
+      "price_usd": 1000000.001075,
+      "location": "Location:     Tamarindo Areas      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/prime-development-tamarindo-main-road",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-FincaVillarreal-Drone-resized.png?itok=GyJ8Ta1z",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-perla-tamarindo-3-4.jpg?itok=5z_14Dbs",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-la-perla-4-3.jpg?itok=qdRaqXzi"
+      ],
+      "description": "Prime development land located in Villarreal, one of the fastest-growing areas near Tamarindo. The property...          Welcome to La Perla Tamarindo 134 - an incredible ocean-view condo offering breathtaking panoramas of Playa...          Experience the best of Costa Rican coastal living with La Perla Tamarindo 143 - a rare opportunity to own a...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-07-08T01:57:50.867Z",
+      "id": "032e7cd986de"
     }
   ],
-  "last_updated": "2026-07-07T19:50:10.298Z",
+  "last_updated": "2026-07-08T01:59:14.175Z",
   "total_count": 402
 }
