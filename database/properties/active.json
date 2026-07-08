@@ -23100,8 +23100,83 @@
       "category": "residential",
       "scraped_at": "2026-07-08T01:57:50.867Z",
       "id": "032e7cd986de"
+    },
+    {
+      "title": "House Costa Rica Santa Ana",
+      "price_text": "₡335,000,000",
+      "price_usd": 670000,
+      "location": "hace 13 min5br7000ft2Santa Ana",
+      "url": "https://www.craigslist.org/view/d/house-costa-rica-santa-ana/h1KEevG4HF85MBNovxhkiZ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945919866/00606_7NhDtpRO1L7_0gw0oM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T19:10:11.382Z",
+      "id": "a0c3b5a0f085"
+    },
+    {
+      "title": "House Costa Rica Santa Ana",
+      "price_text": "₡335,000,000",
+      "price_usd": 670000,
+      "location": "hace 13 min5br7000ft2Santa Ana",
+      "url": "https://www.craigslist.org/view/d/house-costa-rica-santa-ana/h1KEevG4HF85MBNovxhkiZ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945919866/00606_7NhDtpRO1L7_0gw0oM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T19:10:16.425Z",
+      "id": "a0c3b5a0f085"
+    },
+    {
+      "title": "House Costa Rica Santa Ana",
+      "price_text": "₡335,000,000",
+      "price_usd": 670000,
+      "location": "hace 13 min5br7000ft2Santa Ana",
+      "url": "https://www.craigslist.org/view/d/house-costa-rica-santa-ana/h1KEevG4HF85MBNovxhkiZ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945919866/00606_7NhDtpRO1L7_0gw0oM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T19:10:21.415Z",
+      "id": "a0c3b5a0f085"
+    },
+    {
+      "title": "House Costa Rica Santa Ana",
+      "price_text": "₡335,000,000",
+      "price_usd": 670000,
+      "location": "hace 13 min5br7000ft2Santa Ana",
+      "url": "https://www.craigslist.org/view/d/house-costa-rica-santa-ana/h1KEevG4HF85MBNovxhkiZ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945919866/00606_7NhDtpRO1L7_0gw0oM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T19:10:26.387Z",
+      "id": "a0c3b5a0f085"
+    },
+    {
+      "title": "House Costa Rica Santa Ana",
+      "price_text": "₡335,000,000",
+      "price_usd": 670000,
+      "location": "hace 13 min5br7000ft2Santa Ana",
+      "url": "https://www.craigslist.org/view/d/house-costa-rica-santa-ana/h1KEevG4HF85MBNovxhkiZ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945919866/00606_7NhDtpRO1L7_0gw0oM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-08T19:10:31.369Z",
+      "id": "a0c3b5a0f085"
     }
   ],
-  "last_updated": "2026-07-08T13:50:35.786Z",
+  "last_updated": "2026-07-08T19:15:18.333Z",
   "total_count": 402
 }
