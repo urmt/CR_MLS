@@ -23124,8 +23124,941 @@
       "category": "residential",
       "scraped_at": "2026-07-08T19:10:31.369Z",
       "id": "a0c3b5a0f085"
+    },
+    {
+      "title": "V- Finca Hermosa. Prestigious Investment in a Safe Environment",
+      "price_text": "₡379,925,000",
+      "price_usd": 759850,
+      "location": "hace 6 h3br8500ft2Finca Panamá",
+      "url": "https://www.craigslist.org/view/d/finca-hermosa-prestigious-investment-in/3yG8YmkdyJNjsBWLHHyH16?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945939410/00L0L_idXrEHZtLTd_0uY0kB_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:00.557Z",
+      "id": "16d33b2a67b9"
+    },
+    {
+      "title": "V- Angelos. Nine‑unit apartment complex for sale, featuring a pool",
+      "price_text": "₡363,545,000",
+      "price_usd": 727090,
+      "location": "hace 6 h8br1000ft2",
+      "url": "https://www.craigslist.org/view/d/angelos-nineunit-apartment-complex-for/dU4XzLUeRax12VMEux9RAb?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945936946/00808_lwSCXb2doMO_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:00.661Z",
+      "id": "61c85abf1a21"
+    },
+    {
+      "title": "V-Paola -Profitable Apartments in El Llano near Playa Grande and Tama",
+      "price_text": "₡114,995,000",
+      "price_usd": 229990,
+      "location": "hace 6 h5br424ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/paola-profitable-apartments-in-el-llano/npC1CnQdfHnUn1V8uB2zRL?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945935824/00404_es5KIHAQr4Y_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:00.765Z",
+      "id": "e0a8a1743074"
+    },
+    {
+      "title": "V- Karin. Bed & Breakfast Project in Cañafístula: Unique Opportunity",
+      "price_text": "₡234,090,000",
+      "price_usd": 468180,
+      "location": "hace 6 h4br5000ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karin-bed-breakfast-project-in/6xaN5NUn9umjPUb13uwRjm?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945934617/01414_7YVffsuAEuS_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:00.865Z",
+      "id": "ca521b5ee4ca"
+    },
+    {
+      "title": "V-Sonia.Villa with Pool and Jacuzzi Near Tamarindo: Perfect Investment",
+      "price_text": "₡149,995,000",
+      "price_usd": 299990,
+      "location": "hace 6 h3br1008ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/soniavilla-with-pool-and-jacuzzi-near/wa84y34svKiUM81Dp6YKGM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945933058/01616_ipkg19W9lz1_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-09T02:07:00.970Z",
+      "id": "5bcdbfb66873"
+    },
+    {
+      "title": "V- Vini. Prime investment opportunity in Tamarindo!",
+      "price_text": "₡349,995,000",
+      "price_usd": 699990,
+      "location": "hace 6 h8br488ft2",
+      "url": "https://www.craigslist.org/view/d/vini-prime-investment-opportunity-in/nUUpFMf6btgkdwNVzBuKCa?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945932656/01212_9gTLBK484by_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:01.043Z",
+      "id": "c6c2bc3331ed"
+    },
+    {
+      "title": "T- Rodrigo. Residential Lot in La Garita –  Near Tamarindo!",
+      "price_text": "₡30,000,000",
+      "price_usd": 60000,
+      "location": "hace 6 h318ft2Garita, Tamarindo",
+      "url": "https://www.craigslist.org/view/d/rodrigo-residential-lot-in-la-garita/fLBjjP7RfYJtvdiR8KVBu8?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945930978/01414_i3s4aC24AsU_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-09T02:07:01.130Z",
+      "id": "591081ab10bf"
+    },
+    {
+      "title": "T- Sandra. Flat 1,000 m² lot in La Garita Nueva",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "hace 7 h1000ft2",
+      "url": "https://www.craigslist.org/view/d/sandra-flat-1000-lot-in-la-garita-nueva/eUsViFp8WTQCQNsJRsp2HQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945929876/00a0a_dZgMLjhpXUw_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:01.209Z",
+      "id": "fe1bc5acb008"
+    },
+    {
+      "title": "Ocean View Lot in Playa Negra – Ideal for Residence or Investment",
+      "price_text": "₡72,345,000",
+      "price_usd": 144690,
+      "location": "hace 7 h5027ft2Playa Negra, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/ocean-view-lot-in-playa-negra-ideal-for/hWBRTCFB4btAoUvbzDwiJu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945929639/00m0m_A9IVOIDSH0_0uY0ne_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:01.307Z",
+      "id": "b47289292dd0"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 7 h1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/finca-panama-ju-strategic-commercial/pw77NkjYg3uFMq4WBeJhMx?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945929085/00d0d_hA7LxocImbI_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-09T02:07:01.405Z",
+      "id": "a589e4c58c89"
+    },
+    {
+      "title": "T-Lote 3 Chocuaco - Lot in Surfside, 300 meters from Flamingo-Potrero",
+      "price_text": "₡99,995,000",
+      "price_usd": 199990,
+      "location": "hace 7 h404ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/lote-chocuaco-lot-in-surfside-300/jJimB7kuF56b7L43P1uNqt?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945928679/00202_1zQqYaiGHGx_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:01.507Z",
+      "id": "d71fe61664c8"
+    },
+    {
+      "title": "T-Karma PG - Building Lot Near Playa Grande – North of Tamarindo",
+      "price_text": "₡124,500,000",
+      "price_usd": 249000,
+      "location": "hace 7 h2579ft2Playa Grande, Cabo Velas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karma-pg-building-lot-near-playa-grande/rQDuXStiof2Jz4ga2n2kha?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:01.624Z",
+      "id": "14d538d86ba7"
+    },
+    {
+      "title": "V- Finca Hermosa. Prestigious Investment in a Safe Environment",
+      "price_text": "₡379,925,000",
+      "price_usd": 759850,
+      "location": "hace 6 h3br8500ft2Finca Panamá",
+      "url": "https://www.craigslist.org/view/d/finca-hermosa-prestigious-investment-in/3yG8YmkdyJNjsBWLHHyH16?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945939410/00L0L_idXrEHZtLTd_0uY0kB_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:06.523Z",
+      "id": "16d33b2a67b9"
+    },
+    {
+      "title": "V- Angelos. Nine‑unit apartment complex for sale, featuring a pool",
+      "price_text": "₡363,545,000",
+      "price_usd": 727090,
+      "location": "hace 6 h8br1000ft2",
+      "url": "https://www.craigslist.org/view/d/angelos-nineunit-apartment-complex-for/dU4XzLUeRax12VMEux9RAb?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945936946/00808_lwSCXb2doMO_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:06.620Z",
+      "id": "61c85abf1a21"
+    },
+    {
+      "title": "V-Paola -Profitable Apartments in El Llano near Playa Grande and Tama",
+      "price_text": "₡114,995,000",
+      "price_usd": 229990,
+      "location": "hace 6 h5br424ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/paola-profitable-apartments-in-el-llano/npC1CnQdfHnUn1V8uB2zRL?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945935824/00404_es5KIHAQr4Y_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:06.721Z",
+      "id": "e0a8a1743074"
+    },
+    {
+      "title": "V- Karin. Bed & Breakfast Project in Cañafístula: Unique Opportunity",
+      "price_text": "₡234,090,000",
+      "price_usd": 468180,
+      "location": "hace 6 h4br5000ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karin-bed-breakfast-project-in/6xaN5NUn9umjPUb13uwRjm?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945934617/01414_7YVffsuAEuS_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:06.819Z",
+      "id": "ca521b5ee4ca"
+    },
+    {
+      "title": "V-Sonia.Villa with Pool and Jacuzzi Near Tamarindo: Perfect Investment",
+      "price_text": "₡149,995,000",
+      "price_usd": 299990,
+      "location": "hace 6 h3br1008ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/soniavilla-with-pool-and-jacuzzi-near/wa84y34svKiUM81Dp6YKGM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945933058/01616_ipkg19W9lz1_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-09T02:07:06.922Z",
+      "id": "5bcdbfb66873"
+    },
+    {
+      "title": "V- Vini. Prime investment opportunity in Tamarindo!",
+      "price_text": "₡349,995,000",
+      "price_usd": 699990,
+      "location": "hace 6 h8br488ft2",
+      "url": "https://www.craigslist.org/view/d/vini-prime-investment-opportunity-in/nUUpFMf6btgkdwNVzBuKCa?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945932656/01212_9gTLBK484by_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:06.995Z",
+      "id": "c6c2bc3331ed"
+    },
+    {
+      "title": "T- Rodrigo. Residential Lot in La Garita –  Near Tamarindo!",
+      "price_text": "₡30,000,000",
+      "price_usd": 60000,
+      "location": "hace 6 h318ft2Garita, Tamarindo",
+      "url": "https://www.craigslist.org/view/d/rodrigo-residential-lot-in-la-garita/fLBjjP7RfYJtvdiR8KVBu8?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945930978/01414_i3s4aC24AsU_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-09T02:07:07.083Z",
+      "id": "591081ab10bf"
+    },
+    {
+      "title": "T- Sandra. Flat 1,000 m² lot in La Garita Nueva",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "hace 7 h1000ft2",
+      "url": "https://www.craigslist.org/view/d/sandra-flat-1000-lot-in-la-garita-nueva/eUsViFp8WTQCQNsJRsp2HQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945929876/00a0a_dZgMLjhpXUw_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:07.151Z",
+      "id": "fe1bc5acb008"
+    },
+    {
+      "title": "Ocean View Lot in Playa Negra – Ideal for Residence or Investment",
+      "price_text": "₡72,345,000",
+      "price_usd": 144690,
+      "location": "hace 7 h5027ft2Playa Negra, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/ocean-view-lot-in-playa-negra-ideal-for/hWBRTCFB4btAoUvbzDwiJu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945929639/00m0m_A9IVOIDSH0_0uY0ne_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:07.248Z",
+      "id": "b47289292dd0"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 7 h1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/finca-panama-ju-strategic-commercial/pw77NkjYg3uFMq4WBeJhMx?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945929085/00d0d_hA7LxocImbI_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-09T02:07:07.346Z",
+      "id": "a589e4c58c89"
+    },
+    {
+      "title": "T-Lote 3 Chocuaco - Lot in Surfside, 300 meters from Flamingo-Potrero",
+      "price_text": "₡99,995,000",
+      "price_usd": 199990,
+      "location": "hace 7 h404ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/lote-chocuaco-lot-in-surfside-300/jJimB7kuF56b7L43P1uNqt?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945928679/00202_1zQqYaiGHGx_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:07.446Z",
+      "id": "d71fe61664c8"
+    },
+    {
+      "title": "T-Karma PG - Building Lot Near Playa Grande – North of Tamarindo",
+      "price_text": "₡124,500,000",
+      "price_usd": 249000,
+      "location": "hace 7 h2579ft2Playa Grande, Cabo Velas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karma-pg-building-lot-near-playa-grande/rQDuXStiof2Jz4ga2n2kha?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:07.561Z",
+      "id": "14d538d86ba7"
+    },
+    {
+      "title": "V- Finca Hermosa. Prestigious Investment in a Safe Environment",
+      "price_text": "₡379,925,000",
+      "price_usd": 759850,
+      "location": "hace 6 h3br8500ft2Finca Panamá",
+      "url": "https://www.craigslist.org/view/d/finca-hermosa-prestigious-investment-in/3yG8YmkdyJNjsBWLHHyH16?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945939410/00L0L_idXrEHZtLTd_0uY0kB_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:12.455Z",
+      "id": "16d33b2a67b9"
+    },
+    {
+      "title": "V- Angelos. Nine‑unit apartment complex for sale, featuring a pool",
+      "price_text": "₡363,545,000",
+      "price_usd": 727090,
+      "location": "hace 6 h8br1000ft2",
+      "url": "https://www.craigslist.org/view/d/angelos-nineunit-apartment-complex-for/dU4XzLUeRax12VMEux9RAb?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945936946/00808_lwSCXb2doMO_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:12.552Z",
+      "id": "61c85abf1a21"
+    },
+    {
+      "title": "V-Paola -Profitable Apartments in El Llano near Playa Grande and Tama",
+      "price_text": "₡114,995,000",
+      "price_usd": 229990,
+      "location": "hace 6 h5br424ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/paola-profitable-apartments-in-el-llano/npC1CnQdfHnUn1V8uB2zRL?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945935824/00404_es5KIHAQr4Y_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:12.653Z",
+      "id": "e0a8a1743074"
+    },
+    {
+      "title": "V- Karin. Bed & Breakfast Project in Cañafístula: Unique Opportunity",
+      "price_text": "₡234,090,000",
+      "price_usd": 468180,
+      "location": "hace 6 h4br5000ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karin-bed-breakfast-project-in/6xaN5NUn9umjPUb13uwRjm?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945934617/01414_7YVffsuAEuS_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:12.751Z",
+      "id": "ca521b5ee4ca"
+    },
+    {
+      "title": "V-Sonia.Villa with Pool and Jacuzzi Near Tamarindo: Perfect Investment",
+      "price_text": "₡149,995,000",
+      "price_usd": 299990,
+      "location": "hace 6 h3br1008ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/soniavilla-with-pool-and-jacuzzi-near/wa84y34svKiUM81Dp6YKGM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945933058/01616_ipkg19W9lz1_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-09T02:07:12.854Z",
+      "id": "5bcdbfb66873"
+    },
+    {
+      "title": "V- Vini. Prime investment opportunity in Tamarindo!",
+      "price_text": "₡349,995,000",
+      "price_usd": 699990,
+      "location": "hace 6 h8br488ft2",
+      "url": "https://www.craigslist.org/view/d/vini-prime-investment-opportunity-in/nUUpFMf6btgkdwNVzBuKCa?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945932656/01212_9gTLBK484by_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:12.929Z",
+      "id": "c6c2bc3331ed"
+    },
+    {
+      "title": "T- Rodrigo. Residential Lot in La Garita –  Near Tamarindo!",
+      "price_text": "₡30,000,000",
+      "price_usd": 60000,
+      "location": "hace 6 h318ft2Garita, Tamarindo",
+      "url": "https://www.craigslist.org/view/d/rodrigo-residential-lot-in-la-garita/fLBjjP7RfYJtvdiR8KVBu8?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945930978/01414_i3s4aC24AsU_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-09T02:07:13.016Z",
+      "id": "591081ab10bf"
+    },
+    {
+      "title": "T- Sandra. Flat 1,000 m² lot in La Garita Nueva",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "hace 7 h1000ft2",
+      "url": "https://www.craigslist.org/view/d/sandra-flat-1000-lot-in-la-garita-nueva/eUsViFp8WTQCQNsJRsp2HQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945929876/00a0a_dZgMLjhpXUw_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:13.085Z",
+      "id": "fe1bc5acb008"
+    },
+    {
+      "title": "Ocean View Lot in Playa Negra – Ideal for Residence or Investment",
+      "price_text": "₡72,345,000",
+      "price_usd": 144690,
+      "location": "hace 7 h5027ft2Playa Negra, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/ocean-view-lot-in-playa-negra-ideal-for/hWBRTCFB4btAoUvbzDwiJu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945929639/00m0m_A9IVOIDSH0_0uY0ne_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:13.181Z",
+      "id": "b47289292dd0"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 7 h1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/finca-panama-ju-strategic-commercial/pw77NkjYg3uFMq4WBeJhMx?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945929085/00d0d_hA7LxocImbI_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-09T02:07:13.279Z",
+      "id": "a589e4c58c89"
+    },
+    {
+      "title": "T-Lote 3 Chocuaco - Lot in Surfside, 300 meters from Flamingo-Potrero",
+      "price_text": "₡99,995,000",
+      "price_usd": 199990,
+      "location": "hace 7 h404ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/lote-chocuaco-lot-in-surfside-300/jJimB7kuF56b7L43P1uNqt?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945928679/00202_1zQqYaiGHGx_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:13.383Z",
+      "id": "d71fe61664c8"
+    },
+    {
+      "title": "T-Karma PG - Building Lot Near Playa Grande – North of Tamarindo",
+      "price_text": "₡124,500,000",
+      "price_usd": 249000,
+      "location": "hace 7 h2579ft2Playa Grande, Cabo Velas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karma-pg-building-lot-near-playa-grande/rQDuXStiof2Jz4ga2n2kha?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:13.501Z",
+      "id": "14d538d86ba7"
+    },
+    {
+      "title": "V- Finca Hermosa. Prestigious Investment in a Safe Environment",
+      "price_text": "₡379,925,000",
+      "price_usd": 759850,
+      "location": "hace 6 h3br8500ft2Finca Panamá",
+      "url": "https://www.craigslist.org/view/d/finca-hermosa-prestigious-investment-in/3yG8YmkdyJNjsBWLHHyH16?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945939410/00L0L_idXrEHZtLTd_0uY0kB_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:18.366Z",
+      "id": "16d33b2a67b9"
+    },
+    {
+      "title": "V- Angelos. Nine‑unit apartment complex for sale, featuring a pool",
+      "price_text": "₡363,545,000",
+      "price_usd": 727090,
+      "location": "hace 6 h8br1000ft2",
+      "url": "https://www.craigslist.org/view/d/angelos-nineunit-apartment-complex-for/dU4XzLUeRax12VMEux9RAb?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945936946/00808_lwSCXb2doMO_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:18.468Z",
+      "id": "61c85abf1a21"
+    },
+    {
+      "title": "V-Paola -Profitable Apartments in El Llano near Playa Grande and Tama",
+      "price_text": "₡114,995,000",
+      "price_usd": 229990,
+      "location": "hace 6 h5br424ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/paola-profitable-apartments-in-el-llano/npC1CnQdfHnUn1V8uB2zRL?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945935824/00404_es5KIHAQr4Y_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:18.571Z",
+      "id": "e0a8a1743074"
+    },
+    {
+      "title": "V- Karin. Bed & Breakfast Project in Cañafístula: Unique Opportunity",
+      "price_text": "₡234,090,000",
+      "price_usd": 468180,
+      "location": "hace 6 h4br5000ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karin-bed-breakfast-project-in/6xaN5NUn9umjPUb13uwRjm?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945934617/01414_7YVffsuAEuS_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:18.672Z",
+      "id": "ca521b5ee4ca"
+    },
+    {
+      "title": "V-Sonia.Villa with Pool and Jacuzzi Near Tamarindo: Perfect Investment",
+      "price_text": "₡149,995,000",
+      "price_usd": 299990,
+      "location": "hace 6 h3br1008ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/soniavilla-with-pool-and-jacuzzi-near/wa84y34svKiUM81Dp6YKGM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945933058/01616_ipkg19W9lz1_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-09T02:07:18.778Z",
+      "id": "5bcdbfb66873"
+    },
+    {
+      "title": "V- Vini. Prime investment opportunity in Tamarindo!",
+      "price_text": "₡349,995,000",
+      "price_usd": 699990,
+      "location": "hace 6 h8br488ft2",
+      "url": "https://www.craigslist.org/view/d/vini-prime-investment-opportunity-in/nUUpFMf6btgkdwNVzBuKCa?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945932656/01212_9gTLBK484by_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:18.853Z",
+      "id": "c6c2bc3331ed"
+    },
+    {
+      "title": "T- Rodrigo. Residential Lot in La Garita –  Near Tamarindo!",
+      "price_text": "₡30,000,000",
+      "price_usd": 60000,
+      "location": "hace 6 h318ft2Garita, Tamarindo",
+      "url": "https://www.craigslist.org/view/d/rodrigo-residential-lot-in-la-garita/fLBjjP7RfYJtvdiR8KVBu8?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945930978/01414_i3s4aC24AsU_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-09T02:07:18.942Z",
+      "id": "591081ab10bf"
+    },
+    {
+      "title": "T- Sandra. Flat 1,000 m² lot in La Garita Nueva",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "hace 7 h1000ft2",
+      "url": "https://www.craigslist.org/view/d/sandra-flat-1000-lot-in-la-garita-nueva/eUsViFp8WTQCQNsJRsp2HQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945929876/00a0a_dZgMLjhpXUw_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:19.012Z",
+      "id": "fe1bc5acb008"
+    },
+    {
+      "title": "Ocean View Lot in Playa Negra – Ideal for Residence or Investment",
+      "price_text": "₡72,345,000",
+      "price_usd": 144690,
+      "location": "hace 7 h5027ft2Playa Negra, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/ocean-view-lot-in-playa-negra-ideal-for/hWBRTCFB4btAoUvbzDwiJu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945929639/00m0m_A9IVOIDSH0_0uY0ne_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:19.112Z",
+      "id": "b47289292dd0"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 7 h1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/finca-panama-ju-strategic-commercial/pw77NkjYg3uFMq4WBeJhMx?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945929085/00d0d_hA7LxocImbI_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-09T02:07:19.213Z",
+      "id": "a589e4c58c89"
+    },
+    {
+      "title": "T-Lote 3 Chocuaco - Lot in Surfside, 300 meters from Flamingo-Potrero",
+      "price_text": "₡99,995,000",
+      "price_usd": 199990,
+      "location": "hace 7 h404ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/lote-chocuaco-lot-in-surfside-300/jJimB7kuF56b7L43P1uNqt?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945928679/00202_1zQqYaiGHGx_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:19.315Z",
+      "id": "d71fe61664c8"
+    },
+    {
+      "title": "T-Karma PG - Building Lot Near Playa Grande – North of Tamarindo",
+      "price_text": "₡124,500,000",
+      "price_usd": 249000,
+      "location": "hace 7 h2579ft2Playa Grande, Cabo Velas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karma-pg-building-lot-near-playa-grande/rQDuXStiof2Jz4ga2n2kha?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:19.435Z",
+      "id": "14d538d86ba7"
+    },
+    {
+      "title": "V- Finca Hermosa. Prestigious Investment in a Safe Environment",
+      "price_text": "₡379,925,000",
+      "price_usd": 759850,
+      "location": "hace 6 h3br8500ft2Finca Panamá",
+      "url": "https://www.craigslist.org/view/d/finca-hermosa-prestigious-investment-in/3yG8YmkdyJNjsBWLHHyH16?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945939410/00L0L_idXrEHZtLTd_0uY0kB_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:24.300Z",
+      "id": "16d33b2a67b9"
+    },
+    {
+      "title": "V- Angelos. Nine‑unit apartment complex for sale, featuring a pool",
+      "price_text": "₡363,545,000",
+      "price_usd": 727090,
+      "location": "hace 6 h8br1000ft2",
+      "url": "https://www.craigslist.org/view/d/angelos-nineunit-apartment-complex-for/dU4XzLUeRax12VMEux9RAb?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945936946/00808_lwSCXb2doMO_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:24.399Z",
+      "id": "61c85abf1a21"
+    },
+    {
+      "title": "V-Paola -Profitable Apartments in El Llano near Playa Grande and Tama",
+      "price_text": "₡114,995,000",
+      "price_usd": 229990,
+      "location": "hace 6 h5br424ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/paola-profitable-apartments-in-el-llano/npC1CnQdfHnUn1V8uB2zRL?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945935824/00404_es5KIHAQr4Y_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:24.502Z",
+      "id": "e0a8a1743074"
+    },
+    {
+      "title": "V- Karin. Bed & Breakfast Project in Cañafístula: Unique Opportunity",
+      "price_text": "₡234,090,000",
+      "price_usd": 468180,
+      "location": "hace 6 h4br5000ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karin-bed-breakfast-project-in/6xaN5NUn9umjPUb13uwRjm?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945934617/01414_7YVffsuAEuS_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:24.603Z",
+      "id": "ca521b5ee4ca"
+    },
+    {
+      "title": "V-Sonia.Villa with Pool and Jacuzzi Near Tamarindo: Perfect Investment",
+      "price_text": "₡149,995,000",
+      "price_usd": 299990,
+      "location": "hace 6 h3br1008ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/soniavilla-with-pool-and-jacuzzi-near/wa84y34svKiUM81Dp6YKGM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945933058/01616_ipkg19W9lz1_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-09T02:07:24.709Z",
+      "id": "5bcdbfb66873"
+    },
+    {
+      "title": "V- Vini. Prime investment opportunity in Tamarindo!",
+      "price_text": "₡349,995,000",
+      "price_usd": 699990,
+      "location": "hace 6 h8br488ft2",
+      "url": "https://www.craigslist.org/view/d/vini-prime-investment-opportunity-in/nUUpFMf6btgkdwNVzBuKCa?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945932656/01212_9gTLBK484by_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:24.785Z",
+      "id": "c6c2bc3331ed"
+    },
+    {
+      "title": "T- Rodrigo. Residential Lot in La Garita –  Near Tamarindo!",
+      "price_text": "₡30,000,000",
+      "price_usd": 60000,
+      "location": "hace 6 h318ft2Garita, Tamarindo",
+      "url": "https://www.craigslist.org/view/d/rodrigo-residential-lot-in-la-garita/fLBjjP7RfYJtvdiR8KVBu8?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945930978/01414_i3s4aC24AsU_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-09T02:07:24.873Z",
+      "id": "591081ab10bf"
+    },
+    {
+      "title": "T- Sandra. Flat 1,000 m² lot in La Garita Nueva",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "hace 7 h1000ft2",
+      "url": "https://www.craigslist.org/view/d/sandra-flat-1000-lot-in-la-garita-nueva/eUsViFp8WTQCQNsJRsp2HQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945929876/00a0a_dZgMLjhpXUw_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:24.942Z",
+      "id": "fe1bc5acb008"
+    },
+    {
+      "title": "Ocean View Lot in Playa Negra – Ideal for Residence or Investment",
+      "price_text": "₡72,345,000",
+      "price_usd": 144690,
+      "location": "hace 7 h5027ft2Playa Negra, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/ocean-view-lot-in-playa-negra-ideal-for/hWBRTCFB4btAoUvbzDwiJu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945929639/00m0m_A9IVOIDSH0_0uY0ne_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:25.040Z",
+      "id": "b47289292dd0"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 7 h1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/finca-panama-ju-strategic-commercial/pw77NkjYg3uFMq4WBeJhMx?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945929085/00d0d_hA7LxocImbI_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-09T02:07:25.140Z",
+      "id": "a589e4c58c89"
+    },
+    {
+      "title": "T-Lote 3 Chocuaco - Lot in Surfside, 300 meters from Flamingo-Potrero",
+      "price_text": "₡99,995,000",
+      "price_usd": 199990,
+      "location": "hace 7 h404ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/lote-chocuaco-lot-in-surfside-300/jJimB7kuF56b7L43P1uNqt?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945928679/00202_1zQqYaiGHGx_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:25.244Z",
+      "id": "d71fe61664c8"
+    },
+    {
+      "title": "T-Karma PG - Building Lot Near Playa Grande – North of Tamarindo",
+      "price_text": "₡124,500,000",
+      "price_usd": 249000,
+      "location": "hace 7 h2579ft2Playa Grande, Cabo Velas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karma-pg-building-lot-near-playa-grande/rQDuXStiof2Jz4ga2n2kha?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-09T02:07:25.366Z",
+      "id": "14d538d86ba7"
+    },
+    {
+      "title": "Turnkey Commercial Opportunity in the Heart of Dominical - Home to La Junta Rest\n                Commercial, Dominical, Puntarenas",
+      "price_text": "$995,000",
+      "price_usd": 995000,
+      "location": "Commercial, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-commercial-for-sale-in-dominical/15142",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-09T02:09:00.362Z",
+      "id": "fa163ecafa3f"
+    },
+    {
+      "title": "Numandi ~ Luxury Living Rooted in Sustainability          Multi-Unit Property with Pool and Owner’s Home in Playa Avellanas          4-Bedroom Townhome in Los Malinches of Hacienda Pinilla",
+      "price_text": "Price:     US$ 842 000.00      Price:     US$ 850 000.00      Price:     US$ 859 000.00",
+      "price_usd": 842000.0085,
+      "location": "Location:     Playa Avellanas      Location:     Playa Avellanas      Location:     Hacienda-Pinilla",
+      "url": "https://www.remax-oceansurf-cr.com/property/numandi-playa-avellanas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5-numandi-home-80-2026.jpg?itok=PDhl05S_",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-playa-avellanas-compound.png?itok=SOgmydnB",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Los-Malinche-23.jpeg?itok=cPqfF0xY"
+      ],
+      "description": "Starting from USD 842,000\nNumandi Residences offers a rare opportunity to own a turnkey home in one of Costa...          Located just 800 meters from Playa Avellanas, this multi-unit property offers a practical opportunity for...          \n\t\nLos Malinches 23\nWelcome to an exceptional 4-bedroom, 4.5-bath residence in the exclusive enclave of Los...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-07-09T02:10:59.061Z",
+      "id": "53f0c45392ad"
     }
   ],
-  "last_updated": "2026-07-08T19:15:55.973Z",
+  "last_updated": "2026-07-09T02:12:36.245Z",
   "total_count": 402
 }
