@@ -1,21 +1,6 @@
 {
   "properties": [
     {
-      "title": "Villa Monticello: Fully Renovated Luxury 7-Bedroom Estate in Punta Leona\n                Single Family Homes, Punta Leona, Puntarenas",
-      "price_text": "$3,999,000",
-      "price_usd": 3999000,
-      "location": "Single Family Homes, Punta Leona, Puntarenas",
-      "url": "https://www.coldwellbankercostarica.com/property/7-bed-single-family-homes-for-sale-in-punta-leona/13803",
-      "images": [
-        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "luxury",
-      "scraped_at": "2026-04-13T13:06:10.733Z",
-      "id": "a03e38b75a82"
-    },
-    {
       "title": "Finca Dreamland | 50-Acre Oceanview Retreat\n                Single Family Homes, Ostional, Guanacaste",
       "price_text": "$7,000,000",
       "price_usd": 7000000,
@@ -24623,6 +24608,6 @@
       "id": "bb2cad26702e"
     }
   ],
-  "last_updated": "2026-07-12T08:07:38.631Z",
+  "last_updated": "2026-07-12T13:06:53.029Z",
   "total_count": 402
 }
