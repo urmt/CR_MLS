@@ -1,21 +1,6 @@
 {
   "properties": [
     {
-      "title": "Turnkey Boutique Hotel in the Heart of Santa Teresa\n                Commercial, Santa Teresa, Puntarenas",
-      "price_text": "$1,200,000",
-      "price_usd": 1200000,
-      "location": "Commercial, Santa Teresa, Puntarenas",
-      "url": "https://www.coldwellbankercostarica.com/property/8-bed-commercial-for-sale-in-santa-teresa/13811",
-      "images": [
-        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "land",
-      "scraped_at": "2026-04-14T13:07:48.696Z",
-      "id": "84baaf0b3388"
-    },
-    {
       "title": "House in Heredia with Views – Small Gated Community, Ideal for Remote",
       "price_text": "₡155,000,000",
       "price_usd": 310000,
@@ -24623,6 +24608,6 @@
       "id": "15c09263fde2"
     }
   ],
-  "last_updated": "2026-07-13T08:59:32.069Z",
+  "last_updated": "2026-07-13T14:17:04.054Z",
   "total_count": 402
 }
