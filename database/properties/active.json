@@ -24762,8 +24762,38 @@
       "category": "land",
       "scraped_at": "2026-07-14T01:48:00.739Z",
       "id": "9980cc9884d6"
+    },
+    {
+      "title": "Prime Oceanview Development Site with Hospitality & Residential Potential\n                Hotel / Leisure, Dominical, Puntarenas",
+      "price_text": "$6,250,000",
+      "price_usd": 6250000,
+      "location": "Hotel / Leisure, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/12-bed-hotel-leisure-for-sale-in-dominical/11015",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-14T07:49:48.169Z",
+      "id": "2e14968f4b34"
+    },
+    {
+      "title": "Prime Oceanview Development Site with Hospitality & Residential Potential\n                Hotel / Leisure, Dominical, Puntarenas",
+      "price_text": "$6,250,000",
+      "price_usd": 6250000,
+      "location": "Hotel / Leisure, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/12-bed-hotel-leisure-for-sale-in-dominical/11015",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-14T07:51:11.604Z",
+      "id": "2e14968f4b34"
     }
   ],
-  "last_updated": "2026-07-14T01:51:30.462Z",
+  "last_updated": "2026-07-14T07:56:02.219Z",
   "total_count": 402
 }
