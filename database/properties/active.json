@@ -1,21 +1,6 @@
 {
   "properties": [
     {
-      "title": "Cap rate 10% shopping center in Escazú\n                Commercial, Escazu, San Jose",
-      "price_text": "$2,800,000",
-      "price_usd": 2800000,
-      "location": "Commercial, Escazu, San Jose",
-      "url": "https://www.coldwellbankercostarica.com/property/14-bed-commercial-for-sale-in-escazu/13822",
-      "images": [
-        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "land",
-      "scraped_at": "2026-04-16T07:22:12.981Z",
-      "id": "9fff557917fb"
-    },
-    {
       "title": "Ocean View Lot, Highlands between Sam/Nos",
       "price_text": "₡81,000,000",
       "price_usd": 162000,
@@ -24704,6 +24689,6 @@
       "id": "78d7c29e7ff8"
     }
   ],
-  "last_updated": "2026-07-15T01:46:16.272Z",
+  "last_updated": "2026-07-15T07:58:12.771Z",
   "total_count": 402
 }
