@@ -1,81 +1,6 @@
 {
   "properties": [
     {
-      "title": "0.72 ACRES – 3 Bedroom Fully Furnished Ocean View Luxury Home!!!",
-      "price_text": "₡9,950,000",
-      "price_usd": 19900,
-      "location": "hace 4 hOJOCHAL",
-      "url": "https://costarica.craigslist.org/reb/d/072-acres-bedroom-fully-furnished-ocean/7928425965.html",
-      "images": [
-        "https://images.craigslist.org/d/7928425965/00G0G_grTnwjPIXl8_0pO0jm_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "luxury",
-      "scraped_at": "2026-04-18T01:28:55.758Z",
-      "id": "e2c289826f9c"
-    },
-    {
-      "title": "0.72 ACRES – 3 Bedroom Fully Furnished Ocean View Luxury Home!!!",
-      "price_text": "₡9,950,000",
-      "price_usd": 19900,
-      "location": "hace 4 hOJOCHAL",
-      "url": "https://costarica.craigslist.org/reb/d/072-acres-bedroom-fully-furnished-ocean/7928425965.html",
-      "images": [
-        "https://images.craigslist.org/d/7928425965/00G0G_grTnwjPIXl8_0pO0jm_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "luxury",
-      "scraped_at": "2026-04-18T01:29:01.033Z",
-      "id": "e2c289826f9c"
-    },
-    {
-      "title": "0.72 ACRES – 3 Bedroom Fully Furnished Ocean View Luxury Home!!!",
-      "price_text": "₡9,950,000",
-      "price_usd": 19900,
-      "location": "hace 4 hOJOCHAL",
-      "url": "https://costarica.craigslist.org/reb/d/072-acres-bedroom-fully-furnished-ocean/7928425965.html",
-      "images": [
-        "https://images.craigslist.org/d/7928425965/00G0G_grTnwjPIXl8_0pO0jm_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "luxury",
-      "scraped_at": "2026-04-18T01:29:06.278Z",
-      "id": "e2c289826f9c"
-    },
-    {
-      "title": "0.72 ACRES – 3 Bedroom Fully Furnished Ocean View Luxury Home!!!",
-      "price_text": "₡9,950,000",
-      "price_usd": 19900,
-      "location": "hace 4 hOJOCHAL",
-      "url": "https://costarica.craigslist.org/reb/d/072-acres-bedroom-fully-furnished-ocean/7928425965.html",
-      "images": [
-        "https://images.craigslist.org/d/7928425965/00G0G_grTnwjPIXl8_0pO0jm_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "luxury",
-      "scraped_at": "2026-04-18T01:29:11.516Z",
-      "id": "e2c289826f9c"
-    },
-    {
-      "title": "0.72 ACRES – 3 Bedroom Fully Furnished Ocean View Luxury Home!!!",
-      "price_text": "₡9,950,000",
-      "price_usd": 19900,
-      "location": "hace 4 hOJOCHAL",
-      "url": "https://costarica.craigslist.org/reb/d/072-acres-bedroom-fully-furnished-ocean/7928425965.html",
-      "images": [
-        "https://images.craigslist.org/d/7928425965/00G0G_grTnwjPIXl8_0pO0jm_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "luxury",
-      "scraped_at": "2026-04-18T01:29:16.902Z",
-      "id": "e2c289826f9c"
-    },
-    {
       "title": "Diamante Verde Finca",
       "price_text": "₡225,000,000",
       "price_usd": 450000,
@@ -24062,6 +23987,6 @@
       "id": "6394a6a9bab9"
     }
   ],
-  "last_updated": "2026-07-17T01:59:23.011Z",
+  "last_updated": "2026-07-17T02:00:00.501Z",
   "total_count": 402
 }
