@@ -24027,8 +24027,41 @@
       "category": "residential",
       "scraped_at": "2026-07-16T18:58:20.717Z",
       "id": "742a2540f6e1"
+    },
+    {
+      "title": "Land for Sale El Jobo La Cruz Guanacaste Costa Rica RA 27102\n                Land, Junquillal, Guanacaste",
+      "price_text": "$14,500,000",
+      "price_usd": 14500000,
+      "location": "Land, Junquillal, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-junquillal/15207",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00007CvGcs/slv0ey55z/midres/WhatsApp%20Image%202026-07-16%20at%2011.57.07%20AM%20%282%29.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-17T01:57:11.943Z",
+      "id": "4b84a629fedf"
+    },
+    {
+      "title": "Cabo Velas 18 ~ Spacious 3 Bedroom 3 Bath Condo Near Playa...          Oaks 39 ~ Best Deal at The Oaks, Lowest Priced Condo Available          Villa Verde II-45 ~ Living in a Prime Location",
+      "price_text": "Price:     US$ 254 000.00      Price:     US$ 257 000.00      Price:     US$ 259 000.00",
+      "price_usd": 254000.00257,
+      "location": "Location:     Tamarindo Areas      Location:     Tamarindo Areas      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/cabo-velas-18",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/23-Overhead_drone_Cabo_vida_18.jpeg?itok=yfFsRrUb",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/19-Oaks_Tamarindo_Costa_Rica_94_For%20_Rent_For_Sale.jpg?itok=e_wmqU4N",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Villa-Verde-II-45-Playa-Tamarindo.jpg?itok=LdGZJyfD"
+      ],
+      "description": "This spacious 3-bedroom, 3-bathroom condo is ideally located near Playa Grande Beach and Conchal Beach. It’s...          Welcome to The Oaks Condominiums, where comfort and convenience come together in an ideal location just 10...          This well-established condominium complex is known for its unbeatable location while remaining one of the...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-07-17T01:57:49.418Z",
+      "id": "6394a6a9bab9"
     }
   ],
-  "last_updated": "2026-07-16T19:03:42.879Z",
+  "last_updated": "2026-07-17T01:59:23.011Z",
   "total_count": 402
 }
