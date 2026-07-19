@@ -24210,8 +24210,83 @@
       "category": "land",
       "scraped_at": "2026-07-19T01:53:10.013Z",
       "id": "3dfe70ba18d2"
+    },
+    {
+      "title": "Diamante Verde Finca",
+      "price_text": "₡225,000,000",
+      "price_usd": 450000,
+      "location": "hace 5 h2br600ft2Southern zone Tinamaste",
+      "url": "https://www.craigslist.org/view/d/diamante-verde-finca/mqo7KkAJmcPvnB4jG48cR4?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7948085516/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-19T05:13:40.806Z",
+      "id": "5adb877dd2cc"
+    },
+    {
+      "title": "Diamante Verde Finca",
+      "price_text": "₡225,000,000",
+      "price_usd": 450000,
+      "location": "hace 5 h2br600ft2Southern zone Tinamaste",
+      "url": "https://www.craigslist.org/view/d/diamante-verde-finca/mqo7KkAJmcPvnB4jG48cR4?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7948085516/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-19T05:13:46.010Z",
+      "id": "5adb877dd2cc"
+    },
+    {
+      "title": "Diamante Verde Finca",
+      "price_text": "₡225,000,000",
+      "price_usd": 450000,
+      "location": "hace 5 h2br600ft2Southern zone Tinamaste",
+      "url": "https://www.craigslist.org/view/d/diamante-verde-finca/mqo7KkAJmcPvnB4jG48cR4?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7948085516/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-19T05:13:51.164Z",
+      "id": "5adb877dd2cc"
+    },
+    {
+      "title": "Diamante Verde Finca",
+      "price_text": "₡225,000,000",
+      "price_usd": 450000,
+      "location": "hace 5 h2br600ft2Southern zone Tinamaste",
+      "url": "https://www.craigslist.org/view/d/diamante-verde-finca/mqo7KkAJmcPvnB4jG48cR4?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7948085516/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-19T05:13:56.488Z",
+      "id": "5adb877dd2cc"
+    },
+    {
+      "title": "Diamante Verde Finca",
+      "price_text": "₡225,000,000",
+      "price_usd": 450000,
+      "location": "hace 5 h2br600ft2Southern zone Tinamaste",
+      "url": "https://www.craigslist.org/view/d/diamante-verde-finca/mqo7KkAJmcPvnB4jG48cR4?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7948085516/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-19T05:14:01.789Z",
+      "id": "5adb877dd2cc"
     }
   ],
-  "last_updated": "2026-07-19T01:58:21.394Z",
+  "last_updated": "2026-07-19T05:19:00.605Z",
   "total_count": 402
 }
