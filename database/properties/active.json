@@ -23994,8 +23994,610 @@
       "category": "luxury",
       "scraped_at": "2026-07-20T02:10:35.008Z",
       "id": "1d7413b74659"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN TIBAS. 33-296",
+      "price_text": "₡124,000,000",
+      "price_usd": 248000,
+      "location": "hace 1 h238ft2SAN JOSE, TIBAS",
+      "url": "https://www.craigslist.org/view/d/propiedad-en-venta-en-tibas/51rLgDgvtCWqxnFcpzVGnB?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948382777/00A0A_4RQkdfxlFuD_0kE0gv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:10.453Z",
+      "id": "1d614045b750"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA A LA ZONA FRANCA. 31-285-78-AP65M-100M",
+      "price_text": "₡68,000,000",
+      "price_usd": 136000,
+      "location": "hace 2 h2br64ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/bQ2Zig3yGmvJQq2DSK6Tmp?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948361971/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:10.592Z",
+      "id": "d6d7e8b33d2f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA LA ZONA FRANCA. 31-285-78-AP46M",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "hace 2 h1br47ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/v6CDvTYLuacaaq9yBcdmah?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948360648/00O0O_lSKefuUHHGR_0gw0ao_300x300.jpg",
+        "https://images.craigslist.org/d/7948360648/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:10.686Z",
+      "id": "3557840c666b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA A LA ZONA FRANCA. 31-285-78-AP57M",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 3 h1br57ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/kbgi2fXNSQgoa45223bRDu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948353764/00O0O_lSKefuUHHGR_0gw0ao_300x300.jpg",
+        "https://images.craigslist.org/d/7948353764/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:10.773Z",
+      "id": "756d04d8d957"
+    },
+    {
+      "title": "A- Vero. Smart Living in 18 m²: Modern Compact Apartment Near  Beaches",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 3 h1br18ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/vero-smart-living-in-18-modern-compact/jgxpQbczxsgYsuJVWjXRZo?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7940719880/00b0b_gDw3XYHdtry_0kE0fu_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:10.877Z",
+      "id": "f6adfbe7dd66"
+    },
+    {
+      "title": "V-Rancho Ca -2-Bedroom House with Pool and Large Lot –Close to Beaches",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 3 h3br1615ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/rancho-ca-bedroom-house-with-pool-and/tweXaBz4JDWGpLQx8mPcQS?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7940720658/00X0X_24WMoA2d64d_0x20m2_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:11.002Z",
+      "id": "17eca7efd6c3"
+    },
+    {
+      "title": "V- Kaza.  Modern tropical villas designed by renowned architects",
+      "price_text": "₡127,354,500",
+      "price_usd": 254709,
+      "location": "hace 3 h1br78ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/kaza-modern-tropical-villas-designed-by/i2zUoYyMmfwdSLUtcdUUpn?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-20T19:27:11.169Z",
+      "id": "e290544a7829"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA A LA ZONA FRANCA. 31-285-78-AP68M",
+      "price_text": "₡73,000,000",
+      "price_usd": 146000,
+      "location": "hace 3 h2br69ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/kxbpJU2BA9i7qYhK83Pagu?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:11.342Z",
+      "id": "41d96a06a6bd"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN TIBAS. 33-296",
+      "price_text": "₡124,000,000",
+      "price_usd": 248000,
+      "location": "hace 1 h238ft2SAN JOSE, TIBAS",
+      "url": "https://www.craigslist.org/view/d/propiedad-en-venta-en-tibas/51rLgDgvtCWqxnFcpzVGnB?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948382777/00A0A_4RQkdfxlFuD_0kE0gv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:16.551Z",
+      "id": "1d614045b750"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA A LA ZONA FRANCA. 31-285-78-AP65M-100M",
+      "price_text": "₡68,000,000",
+      "price_usd": 136000,
+      "location": "hace 2 h2br64ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/bQ2Zig3yGmvJQq2DSK6Tmp?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948361971/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:16.699Z",
+      "id": "d6d7e8b33d2f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA LA ZONA FRANCA. 31-285-78-AP46M",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "hace 2 h1br47ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/v6CDvTYLuacaaq9yBcdmah?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948360648/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:16.783Z",
+      "id": "3557840c666b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA A LA ZONA FRANCA. 31-285-78-AP57M",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 3 h1br57ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/kbgi2fXNSQgoa45223bRDu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948353764/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:16.870Z",
+      "id": "756d04d8d957"
+    },
+    {
+      "title": "A- Vero. Smart Living in 18 m²: Modern Compact Apartment Near  Beaches",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 3 h1br18ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/vero-smart-living-in-18-modern-compact/jgxpQbczxsgYsuJVWjXRZo?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7940719880/00b0b_gDw3XYHdtry_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:16.972Z",
+      "id": "f6adfbe7dd66"
+    },
+    {
+      "title": "V-Rancho Ca -2-Bedroom House with Pool and Large Lot –Close to Beaches",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 3 h3br1615ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/rancho-ca-bedroom-house-with-pool-and/tweXaBz4JDWGpLQx8mPcQS?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7940720658/00X0X_24WMoA2d64d_0x20m2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:17.075Z",
+      "id": "17eca7efd6c3"
+    },
+    {
+      "title": "V- Kaza.  Modern tropical villas designed by renowned architects",
+      "price_text": "₡127,354,500",
+      "price_usd": 254709,
+      "location": "hace 3 h1br78ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/kaza-modern-tropical-villas-designed-by/i2zUoYyMmfwdSLUtcdUUpn?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-20T19:27:17.239Z",
+      "id": "e290544a7829"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA A LA ZONA FRANCA. 31-285-78-AP68M",
+      "price_text": "₡73,000,000",
+      "price_usd": 146000,
+      "location": "hace 3 h2br69ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/kxbpJU2BA9i7qYhK83Pagu?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:17.411Z",
+      "id": "41d96a06a6bd"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN TIBAS. 33-296",
+      "price_text": "₡124,000,000",
+      "price_usd": 248000,
+      "location": "hace 1 h238ft2SAN JOSE, TIBAS",
+      "url": "https://www.craigslist.org/view/d/propiedad-en-venta-en-tibas/51rLgDgvtCWqxnFcpzVGnB?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948382777/00A0A_4RQkdfxlFuD_0kE0gv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:22.559Z",
+      "id": "1d614045b750"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA A LA ZONA FRANCA. 31-285-78-AP65M-100M",
+      "price_text": "₡68,000,000",
+      "price_usd": 136000,
+      "location": "hace 2 h2br64ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/bQ2Zig3yGmvJQq2DSK6Tmp?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948361971/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:22.687Z",
+      "id": "d6d7e8b33d2f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA LA ZONA FRANCA. 31-285-78-AP46M",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "hace 2 h1br47ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/v6CDvTYLuacaaq9yBcdmah?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948360648/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:22.770Z",
+      "id": "3557840c666b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA A LA ZONA FRANCA. 31-285-78-AP57M",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 3 h1br57ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/kbgi2fXNSQgoa45223bRDu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948353764/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:22.856Z",
+      "id": "756d04d8d957"
+    },
+    {
+      "title": "A- Vero. Smart Living in 18 m²: Modern Compact Apartment Near  Beaches",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 3 h1br18ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/vero-smart-living-in-18-modern-compact/jgxpQbczxsgYsuJVWjXRZo?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7940719880/00b0b_gDw3XYHdtry_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:22.956Z",
+      "id": "f6adfbe7dd66"
+    },
+    {
+      "title": "V-Rancho Ca -2-Bedroom House with Pool and Large Lot –Close to Beaches",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 3 h3br1615ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/rancho-ca-bedroom-house-with-pool-and/tweXaBz4JDWGpLQx8mPcQS?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7940720658/00X0X_24WMoA2d64d_0x20m2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:23.058Z",
+      "id": "17eca7efd6c3"
+    },
+    {
+      "title": "V- Kaza.  Modern tropical villas designed by renowned architects",
+      "price_text": "₡127,354,500",
+      "price_usd": 254709,
+      "location": "hace 3 h1br78ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/kaza-modern-tropical-villas-designed-by/i2zUoYyMmfwdSLUtcdUUpn?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-20T19:27:23.224Z",
+      "id": "e290544a7829"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA A LA ZONA FRANCA. 31-285-78-AP68M",
+      "price_text": "₡73,000,000",
+      "price_usd": 146000,
+      "location": "hace 3 h2br69ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/kxbpJU2BA9i7qYhK83Pagu?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:23.398Z",
+      "id": "41d96a06a6bd"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN TIBAS. 33-296",
+      "price_text": "₡124,000,000",
+      "price_usd": 248000,
+      "location": "hace 1 h238ft2SAN JOSE, TIBAS",
+      "url": "https://www.craigslist.org/view/d/propiedad-en-venta-en-tibas/51rLgDgvtCWqxnFcpzVGnB?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948382777/00A0A_4RQkdfxlFuD_0kE0gv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:28.546Z",
+      "id": "1d614045b750"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA A LA ZONA FRANCA. 31-285-78-AP65M-100M",
+      "price_text": "₡68,000,000",
+      "price_usd": 136000,
+      "location": "hace 2 h2br64ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/bQ2Zig3yGmvJQq2DSK6Tmp?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948361971/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:28.677Z",
+      "id": "d6d7e8b33d2f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA LA ZONA FRANCA. 31-285-78-AP46M",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "hace 2 h1br47ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/v6CDvTYLuacaaq9yBcdmah?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948360648/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:28.760Z",
+      "id": "3557840c666b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA A LA ZONA FRANCA. 31-285-78-AP57M",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 3 h1br57ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/kbgi2fXNSQgoa45223bRDu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948353764/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:28.846Z",
+      "id": "756d04d8d957"
+    },
+    {
+      "title": "A- Vero. Smart Living in 18 m²: Modern Compact Apartment Near  Beaches",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 3 h1br18ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/vero-smart-living-in-18-modern-compact/jgxpQbczxsgYsuJVWjXRZo?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7940719880/00b0b_gDw3XYHdtry_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:28.947Z",
+      "id": "f6adfbe7dd66"
+    },
+    {
+      "title": "V-Rancho Ca -2-Bedroom House with Pool and Large Lot –Close to Beaches",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 3 h3br1615ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/rancho-ca-bedroom-house-with-pool-and/tweXaBz4JDWGpLQx8mPcQS?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7940720658/00X0X_24WMoA2d64d_0x20m2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:29.055Z",
+      "id": "17eca7efd6c3"
+    },
+    {
+      "title": "V- Kaza.  Modern tropical villas designed by renowned architects",
+      "price_text": "₡127,354,500",
+      "price_usd": 254709,
+      "location": "hace 3 h1br78ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/kaza-modern-tropical-villas-designed-by/i2zUoYyMmfwdSLUtcdUUpn?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-20T19:27:29.220Z",
+      "id": "e290544a7829"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA A LA ZONA FRANCA. 31-285-78-AP68M",
+      "price_text": "₡73,000,000",
+      "price_usd": 146000,
+      "location": "hace 3 h2br69ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/kxbpJU2BA9i7qYhK83Pagu?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:29.395Z",
+      "id": "41d96a06a6bd"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN TIBAS. 33-296",
+      "price_text": "₡124,000,000",
+      "price_usd": 248000,
+      "location": "hace 1 h238ft2SAN JOSE, TIBAS",
+      "url": "https://www.craigslist.org/view/d/propiedad-en-venta-en-tibas/51rLgDgvtCWqxnFcpzVGnB?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948382777/00A0A_4RQkdfxlFuD_0kE0gv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:34.547Z",
+      "id": "1d614045b750"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA A LA ZONA FRANCA. 31-285-78-AP65M-100M",
+      "price_text": "₡68,000,000",
+      "price_usd": 136000,
+      "location": "hace 2 h2br64ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/bQ2Zig3yGmvJQq2DSK6Tmp?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948361971/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:34.677Z",
+      "id": "d6d7e8b33d2f"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA LA ZONA FRANCA. 31-285-78-AP46M",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "hace 2 h1br47ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/v6CDvTYLuacaaq9yBcdmah?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948360648/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:34.760Z",
+      "id": "3557840c666b"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA A LA ZONA FRANCA. 31-285-78-AP57M",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 3 h1br57ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/kbgi2fXNSQgoa45223bRDu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7948353764/00O0O_lSKefuUHHGR_0gw0ao_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:34.846Z",
+      "id": "756d04d8d957"
+    },
+    {
+      "title": "A- Vero. Smart Living in 18 m²: Modern Compact Apartment Near  Beaches",
+      "price_text": "₡34,500,000",
+      "price_usd": 69000,
+      "location": "hace 3 h1br18ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/vero-smart-living-in-18-modern-compact/jgxpQbczxsgYsuJVWjXRZo?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7940719880/00b0b_gDw3XYHdtry_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:34.946Z",
+      "id": "f6adfbe7dd66"
+    },
+    {
+      "title": "V-Rancho Ca -2-Bedroom House with Pool and Large Lot –Close to Beaches",
+      "price_text": "₡149,500,000",
+      "price_usd": 299000,
+      "location": "hace 3 h3br1615ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/rancho-ca-bedroom-house-with-pool-and/tweXaBz4JDWGpLQx8mPcQS?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7940720658/00X0X_24WMoA2d64d_0x20m2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:35.047Z",
+      "id": "17eca7efd6c3"
+    },
+    {
+      "title": "V- Kaza.  Modern tropical villas designed by renowned architects",
+      "price_text": "₡127,354,500",
+      "price_usd": 254709,
+      "location": "hace 3 h1br78ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/kaza-modern-tropical-villas-designed-by/i2zUoYyMmfwdSLUtcdUUpn?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-20T19:27:35.211Z",
+      "id": "e290544a7829"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CERCA A LA ZONA FRANCA. 31-285-78-AP68M",
+      "price_text": "₡73,000,000",
+      "price_usd": 146000,
+      "location": "hace 3 h2br69ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-cerca-la-zona/kxbpJU2BA9i7qYhK83Pagu?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-20T19:27:35.392Z",
+      "id": "41d96a06a6bd"
     }
   ],
-  "last_updated": "2026-07-20T13:55:27.942Z",
+  "last_updated": "2026-07-20T19:32:02.516Z",
   "total_count": 402
 }
