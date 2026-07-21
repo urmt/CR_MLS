@@ -53592,7 +53592,47 @@
       "id": "c52e5882f33e",
       "archived_at": "2026-07-21T01:57:49.492Z",
       "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "The Enclave D6 ~ Sophisticated Seaside Escape with Premium Living          Casa Motmot ~ Fully Furnished Home with Pool in Ideal Location          PRICE ADJUSTMENT! Luxury IBIS Condo – 2 Bedroom Residence with...",
+      "price_text": "Price:     US$ 558 000.00      Price:     US$ 565 000.00      Price:     US$ 579 000.00",
+      "price_usd": 558000.00565,
+      "location": "Location:     Playa Avellanas      Location:     Playa Potrero      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/enclave-d6-playa-avellanas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Enclave-D6.jpg?itok=KhAOAM52",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/2-casa-mot-mot-2025.jpg?itok=5jxCdELa",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Ibis-5-Playa-Tamarindo.jpg?itok=AalJK0FG"
+      ],
+      "description": "This custom-built 3-bedroom, 2.5-bath home offers the perfect blend of comfort, style, and thoughtful design—...          Casa Motmot is a spacious, fully furnished home with a pool and garage, situated in the heart of Surfside...          Experience elevated coastal living in this elegant 2-bedroom, 2-bath IBIS condo, ideally positioned across...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-04-22T07:24:51.056Z",
+      "id": "00c93412e35c",
+      "archived_at": "2026-07-21T08:15:54.307Z",
+      "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "Invest in Paradise: Mono Luxe Suites Condotel with Ocean Views          Malinche Condo 113B ~ Cozy 2 Bedroom Unit in Reserva Conchal...          Surfside Vista del Mar ~ 4 Bedroom House Across The Street From...",
+      "price_text": "Price:     US$ 759 000.00      Price:     US$ 759 000.00      Price:     US$ 760 000.00",
+      "price_usd": 759000.00759,
+      "location": "Location:     Playa Tamarindo      Location:     Reserva Conchal      Location:     Playa Potrero",
+      "url": "https://www.remax-oceansurf-cr.com/property/mono-luxe-suites",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/10-mono-luxe-suites.png?itok=52kaEraA",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5_0.jpg?itok=W0T2lnvy",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Surfside-House.jpg?itok=Rpn9Vjkd"
+      ],
+      "description": "Discover the epitome of luxury and exceptional investment potential at the exclusive Mono Luxe Suites...          Reserva Conchal 2 bedroom condo for sale, located on the ground floor, no steps, and with direct access to...          Casa Surfside Vista del Mar - 4 bedroom 3.5 bathroom house across the street from the beach! This house has...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-04-22T07:24:54.119Z",
+      "id": "eb33e955546a",
+      "archived_at": "2026-07-21T08:15:54.307Z",
+      "archive_reason": "90_day_auto_purge"
     }
   ],
-  "last_updated": "2026-07-21T01:57:49.514Z"
+  "last_updated": "2026-07-21T08:15:54.326Z"
 }
