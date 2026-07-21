@@ -24485,8 +24485,83 @@
       "category": "residential",
       "scraped_at": "2026-07-21T08:10:37.540Z",
       "id": "f4b2d0a4c9ad"
+    },
+    {
+      "title": "Camper-Tiny house trailer project",
+      "price_text": "₡3,500,000",
+      "price_usd": 7000,
+      "location": "hace 5 hDota, trailer house",
+      "url": "https://www.craigslist.org/view/d/camper-tiny-house-trailer-project/geuKUNCUBUJYRxDkAbJFcm?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-21T19:05:53.448Z",
+      "id": "e964f3709564"
+    },
+    {
+      "title": "Camper-Tiny house trailer project",
+      "price_text": "₡3,500,000",
+      "price_usd": 7000,
+      "location": "hace 5 hDota, trailer house",
+      "url": "https://www.craigslist.org/view/d/camper-tiny-house-trailer-project/geuKUNCUBUJYRxDkAbJFcm?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-21T19:05:58.240Z",
+      "id": "e964f3709564"
+    },
+    {
+      "title": "Camper-Tiny house trailer project",
+      "price_text": "₡3,500,000",
+      "price_usd": 7000,
+      "location": "hace 5 hDota, trailer house",
+      "url": "https://www.craigslist.org/view/d/camper-tiny-house-trailer-project/geuKUNCUBUJYRxDkAbJFcm?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-21T19:06:02.995Z",
+      "id": "e964f3709564"
+    },
+    {
+      "title": "Camper-Tiny house trailer project",
+      "price_text": "₡3,500,000",
+      "price_usd": 7000,
+      "location": "hace 5 hDota, trailer house",
+      "url": "https://www.craigslist.org/view/d/camper-tiny-house-trailer-project/geuKUNCUBUJYRxDkAbJFcm?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-21T19:06:07.755Z",
+      "id": "e964f3709564"
+    },
+    {
+      "title": "Camper-Tiny house trailer project",
+      "price_text": "₡3,500,000",
+      "price_usd": 7000,
+      "location": "hace 5 hDota, trailer house",
+      "url": "https://www.craigslist.org/view/d/camper-tiny-house-trailer-project/geuKUNCUBUJYRxDkAbJFcm?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-21T19:06:12.680Z",
+      "id": "e964f3709564"
     }
   ],
-  "last_updated": "2026-07-21T13:25:17.539Z",
+  "last_updated": "2026-07-21T19:10:53.539Z",
   "total_count": 402
 }
