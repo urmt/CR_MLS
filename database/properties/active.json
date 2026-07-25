@@ -23988,8 +23988,38 @@
       "category": "luxury",
       "scraped_at": "2026-07-25T01:54:21.838Z",
       "id": "f98120e009a8"
+    },
+    {
+      "title": "Casa de Luz -Titled Beachfront Living on Playa Langosta’s Most Exclusive Stretch\n                Single Family Homes, Langosta, Guanacaste",
+      "price_text": "$5,995,000",
+      "price_usd": 5995000,
+      "location": "Single Family Homes, Langosta, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-single-family-homes-for-sale-in-langosta/14626",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-25T07:53:12.395Z",
+      "id": "0a7fca400161"
+    },
+    {
+      "title": "Dos Monitos | Modern Oceanview Estate & Guest Villas in Playa Grande\n                Single Family Homes, Playa Grande, Guanacaste",
+      "price_text": "$5,850,000",
+      "price_usd": 5850000,
+      "location": "Single Family Homes, Playa Grande, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/12-bed-single-family-homes-for-sale-in-playa-grande/14624",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-25T07:53:12.750Z",
+      "id": "d315e3a36be8"
     }
   ],
-  "last_updated": "2026-07-25T01:59:19.973Z",
+  "last_updated": "2026-07-25T07:57:54.162Z",
   "total_count": 402
 }
