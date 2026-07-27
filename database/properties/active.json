@@ -1,96 +1,6 @@
 {
   "properties": [
     {
-      "title": "$40k Off Grid River Cabin 1.7 acres next to waterfall (Finance)",
-      "price_text": "₡20",
-      "price_usd": 0,
-      "location": "hace 3 h2br7000ft2Pejibaye, Perez Zeledon",
-      "url": "https://costarica.craigslist.org/reo/d/40k-off-grid-river-cabin-17-acres-next/7922955451.html",
-      "images": [
-        "https://images.craigslist.org/d/7922955451/00H0H_18HEcHxeydX_04c04c_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-04-28T19:22:06.823Z",
-      "id": "30fe97d5fc76"
-    },
-    {
-      "title": "$40k Off Grid River Cabin 1.7 acres next to waterfall (Finance)",
-      "price_text": "₡20",
-      "price_usd": 0,
-      "location": "hace 3 h2br7000ft2Pejibaye, Perez Zeledon",
-      "url": "https://costarica.craigslist.org/reo/d/40k-off-grid-river-cabin-17-acres-next/7922955451.html",
-      "images": [
-        "https://images.craigslist.org/d/7922955451/00H0H_18HEcHxeydX_04c04c_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-04-28T19:22:11.851Z",
-      "id": "30fe97d5fc76"
-    },
-    {
-      "title": "$40k Off Grid River Cabin 1.7 acres next to waterfall (Finance)",
-      "price_text": "₡20",
-      "price_usd": 0,
-      "location": "hace 3 h2br7000ft2Pejibaye, Perez Zeledon",
-      "url": "https://costarica.craigslist.org/reo/d/40k-off-grid-river-cabin-17-acres-next/7922955451.html",
-      "images": [
-        "https://images.craigslist.org/d/7922955451/00H0H_18HEcHxeydX_04c04c_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-04-28T19:22:16.833Z",
-      "id": "30fe97d5fc76"
-    },
-    {
-      "title": "$40k Off Grid River Cabin 1.7 acres next to waterfall (Finance)",
-      "price_text": "₡20",
-      "price_usd": 0,
-      "location": "hace 3 h2br7000ft2Pejibaye, Perez Zeledon",
-      "url": "https://costarica.craigslist.org/reo/d/40k-off-grid-river-cabin-17-acres-next/7922955451.html",
-      "images": [
-        "https://images.craigslist.org/d/7922955451/00H0H_18HEcHxeydX_04c04c_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-04-28T19:22:21.820Z",
-      "id": "30fe97d5fc76"
-    },
-    {
-      "title": "$40k Off Grid River Cabin 1.7 acres next to waterfall (Finance)",
-      "price_text": "₡20",
-      "price_usd": 0,
-      "location": "hace 3 h2br7000ft2Pejibaye, Perez Zeledon",
-      "url": "https://costarica.craigslist.org/reo/d/40k-off-grid-river-cabin-17-acres-next/7922955451.html",
-      "images": [
-        "https://images.craigslist.org/d/7922955451/00H0H_18HEcHxeydX_04c04c_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-04-28T19:22:26.809Z",
-      "id": "30fe97d5fc76"
-    },
-    {
-      "title": "Casa Linda Ultra-Luxury Beachfront Estate with Direct Ocean Access in Tamarindo\n                Single Family Homes, Langosta, Guanacaste",
-      "price_text": "$11,900,000",
-      "price_usd": 11900000,
-      "location": "Single Family Homes, Langosta, Guanacaste",
-      "url": "https://www.coldwellbankercostarica.com/property/8-bed-single-family-homes-for-sale-in-langosta/14652",
-      "images": [
-        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "land",
-      "scraped_at": "2026-04-28T19:22:36.342Z",
-      "id": "413185787cb7"
-    },
-    {
       "title": "Casa Linda Ultra-Luxury Beachfront Estate with Direct Ocean Access in Tamarindo\n                Single Family Homes, Langosta, Guanacaste",
       "price_text": "$11,900,000",
       "price_usd": 11900000,
@@ -23966,6 +23876,6 @@
       "id": "0a5985befffa"
     }
   ],
-  "last_updated": "2026-07-27T14:18:45.468Z",
+  "last_updated": "2026-07-27T19:23:19.467Z",
   "total_count": 402
 }
