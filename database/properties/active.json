@@ -23916,8 +23916,56 @@
       "category": "residential",
       "scraped_at": "2026-07-27T02:06:04.025Z",
       "id": "e7e1ba941641"
+    },
+    {
+      "title": "Villa Santorini | Panoramic Oceanview Estate in Las Catalinas\n                Single Family Homes, Playa Danta, Guanacaste",
+      "price_text": "$9,800,000",
+      "price_usd": 9800000,
+      "location": "Single Family Homes, Playa Danta, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-single-family-homes-for-sale-in-playa-danta/12700",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00004T2efp/7bqeatxmn/midres/VillaSantorini%2840of58%29.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-27T09:34:30.626Z",
+      "id": "62a47f7894ac"
+    },
+    {
+      "title": "Villa Santorini | Panoramic Oceanview Estate in Las Catalinas\n                Single Family Homes, Playa Danta, Guanacaste",
+      "price_text": "$9,800,000",
+      "price_usd": 9800000,
+      "location": "Single Family Homes, Playa Danta, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-single-family-homes-for-sale-in-playa-danta/12700",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-27T09:37:09.673Z",
+      "id": "62a47f7894ac"
+    },
+    {
+      "title": "Casa Chameleon Homes and Condos          PRICE REDUCTION! Flamingo Marina 606 ~ Ground-Floor Beachfront...          El Tesoro 12 ~ Dramatic Ocean Views in Exclusive Gated Community...",
+      "price_text": "Price:     US$ 1 200 000.00      Price:     US$ 1 250 000.00      Price:     US$ 1 275 000.00",
+      "price_usd": 1200000.00125,
+      "location": "Location:     Playa Danta      Location:     Playa Flamingo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/casa-chameleon-condos-homes-playa-danta",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-casa-chamaleon-condominiums.png?itok=6HQIDObB",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/35-flamingo-3-bedroom-condo-exterior-1.jpg?itok=cBGKokH6",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/el-tesoro-tamarindo-lot.jpg?itok=cRbaHPsF"
+      ],
+      "description": "​​​​​​Welcome to Casa Chameleon! New luxurious beachside properties are now available in Costa Rica, located...          This fully remodeled, ground-floor beachfront condo sits directly on Flamingo Beach and only 45 seconds from...          \n\tEl Tesoro stands out as Tamarindo’s most prestigious gated community, perfectly situated in the vibrant...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-07-27T09:37:46.495Z",
+      "id": "0a5985befffa"
     }
   ],
-  "last_updated": "2026-07-27T02:11:20.246Z",
+  "last_updated": "2026-07-27T09:39:15.997Z",
   "total_count": 402
 }
