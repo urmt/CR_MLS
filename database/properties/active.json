@@ -23823,8 +23823,38 @@
       "category": "residential",
       "scraped_at": "2026-07-27T09:37:46.495Z",
       "id": "0a5985befffa"
+    },
+    {
+      "title": "Casa Linda Ultra-Luxury Beachfront Estate with Direct Ocean Access in Tamarindo\n                Single Family Homes, Langosta, Guanacaste",
+      "price_text": "$10,000,000",
+      "price_usd": 10000000,
+      "location": "Single Family Homes, Langosta, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-single-family-homes-for-sale-in-langosta/14652",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-28T08:18:16.205Z",
+      "id": "1a3c63033f62"
+    },
+    {
+      "title": "Casa Linda Ultra-Luxury Beachfront Estate with Direct Ocean Access in Tamarindo\n                Single Family Homes, Langosta, Guanacaste",
+      "price_text": "$10,000,000",
+      "price_usd": 10000000,
+      "location": "Single Family Homes, Langosta, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-single-family-homes-for-sale-in-langosta/14652",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-28T08:20:50.738Z",
+      "id": "1a3c63033f62"
     }
   ],
-  "last_updated": "2026-07-28T01:53:36.213Z",
+  "last_updated": "2026-07-28T08:22:51.457Z",
   "total_count": 402
 }
