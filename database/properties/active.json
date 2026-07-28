@@ -1,21 +1,6 @@
 {
   "properties": [
     {
-      "title": "Pierre & Colors Boutique Hotel | Income Property Near Tamarindo Beach\n                Commercial, Tamarindo, Guanacaste",
-      "price_text": "$2,500,000",
-      "price_usd": 2500000,
-      "location": "Commercial, Tamarindo, Guanacaste",
-      "url": "https://www.coldwellbankercostarica.com/property/12-bed-commercial-for-sale-in-tamarindo/14663",
-      "images": [
-        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "land",
-      "scraped_at": "2026-04-29T19:13:14.637Z",
-      "id": "e3a881d1f04f"
-    },
-    {
       "title": "Casa Naim ~ Perfect Blend of Luxury and Tranquility within an...          Langosta Beach Lots by the Diria          BEST PRICED 5 BEDROOM IN THE ENCLAVE! The Enclave C3 ~ Now...",
       "price_text": "Price:     US$ 795 000.00      Price:     US$ 795 000.00      Price:     US$ 799 000.00",
       "price_usd": 795000.00795,
@@ -23801,6 +23786,6 @@
       "id": "5f42d46f31f9"
     }
   ],
-  "last_updated": "2026-07-28T19:15:39.320Z",
+  "last_updated": "2026-07-28T19:16:15.729Z",
   "total_count": 402
 }
