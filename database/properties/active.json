@@ -23784,8 +23784,341 @@
       "category": "residential",
       "scraped_at": "2026-07-28T19:10:44.101Z",
       "id": "5f42d46f31f9"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CON ESPACIO MULTIFUNCIONAL. 31-285-78-AP57M",
+      "price_text": "₡70,000,000",
+      "price_usd": 140000,
+      "location": "hace 2 h1br57ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-con-espacio/nTcQP13Se5hn1hZ2Fz9SBn?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950129109/00202_euL6NT7kDIi_0jm0aT_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:02.090Z",
+      "id": "4b7619e5c74f"
+    },
+    {
+      "title": "V-Nicoleta 5 ideal houses to live in and rent located in Villarreal",
+      "price_text": "₡215,740,000",
+      "price_usd": 431480,
+      "location": "hace 4 h8br1377ft2Villarreal, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/nicoleta-ideal-houses-to-live-in-and/r6Gwsh7r41EcvU3qHGoKhW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7942820360/00y0y_kySgVVJcUIf_0d109L_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:02.439Z",
+      "id": "1f6101eb7352"
+    },
+    {
+      "title": "Turnkey Apartment Rental Business for Sale – 9 Income-Producing Units",
+      "price_text": "₡363,545,000",
+      "price_usd": 727090,
+      "location": "hace 4 h8br1000ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/turnkey-apartment-rental-business-for/c2uxDwKQCpyqJ6U1oPePmu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7942668131/00w0w_bZ8l9hUg7uE_09G07g_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:02.556Z",
+      "id": "486418dc15a3"
+    },
+    {
+      "title": "Toucan Valley Rainforest Community",
+      "price_text": "₡63,000,000",
+      "price_usd": 126000,
+      "location": "hace 6 h2br90ft2Ciudad Cortes, OSA",
+      "url": "https://www.craigslist.org/view/d/toucan-valley-rainforest-community/tnRco73zwwU9Q325Zwsb9T?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950078147/00l0l_6uwof2pXsBU_09G06s_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:02.672Z",
+      "id": "17ff1b6cc1bb"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CON ESPACIO MULTIFUNCIONAL. 31-285-78-AP57M",
+      "price_text": "₡70,000,000",
+      "price_usd": 140000,
+      "location": "hace 2 h1br57ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-con-espacio/nTcQP13Se5hn1hZ2Fz9SBn?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950129109/00202_euL6NT7kDIi_0jm0aT_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:07.816Z",
+      "id": "4b7619e5c74f"
+    },
+    {
+      "title": "V-Nicoleta 5 ideal houses to live in and rent located in Villarreal",
+      "price_text": "₡215,740,000",
+      "price_usd": 431480,
+      "location": "hace 4 h8br1377ft2Villarreal, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/nicoleta-ideal-houses-to-live-in-and/r6Gwsh7r41EcvU3qHGoKhW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7942820360/00y0y_kySgVVJcUIf_0d109L_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:08.107Z",
+      "id": "1f6101eb7352"
+    },
+    {
+      "title": "Turnkey Apartment Rental Business for Sale – 9 Income-Producing Units",
+      "price_text": "₡363,545,000",
+      "price_usd": 727090,
+      "location": "hace 4 h8br1000ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/turnkey-apartment-rental-business-for/c2uxDwKQCpyqJ6U1oPePmu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7942668131/00w0w_bZ8l9hUg7uE_09G07g_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:08.218Z",
+      "id": "486418dc15a3"
+    },
+    {
+      "title": "Toucan Valley Rainforest Community",
+      "price_text": "₡63,000,000",
+      "price_usd": 126000,
+      "location": "hace 6 h2br90ft2Ciudad Cortes, OSA",
+      "url": "https://www.craigslist.org/view/d/toucan-valley-rainforest-community/tnRco73zwwU9Q325Zwsb9T?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950078147/00l0l_6uwof2pXsBU_09G06s_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:08.309Z",
+      "id": "17ff1b6cc1bb"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CON ESPACIO MULTIFUNCIONAL. 31-285-78-AP57M",
+      "price_text": "₡70,000,000",
+      "price_usd": 140000,
+      "location": "hace 2 h1br57ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-con-espacio/nTcQP13Se5hn1hZ2Fz9SBn?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950129109/00202_euL6NT7kDIi_0jm0aT_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:13.582Z",
+      "id": "4b7619e5c74f"
+    },
+    {
+      "title": "V-Nicoleta 5 ideal houses to live in and rent located in Villarreal",
+      "price_text": "₡215,740,000",
+      "price_usd": 431480,
+      "location": "hace 4 h8br1377ft2Villarreal, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/nicoleta-ideal-houses-to-live-in-and/r6Gwsh7r41EcvU3qHGoKhW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7942820360/00y0y_kySgVVJcUIf_0d109L_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:13.871Z",
+      "id": "1f6101eb7352"
+    },
+    {
+      "title": "Turnkey Apartment Rental Business for Sale – 9 Income-Producing Units",
+      "price_text": "₡363,545,000",
+      "price_usd": 727090,
+      "location": "hace 4 h8br1000ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/turnkey-apartment-rental-business-for/c2uxDwKQCpyqJ6U1oPePmu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7942668131/00w0w_bZ8l9hUg7uE_09G07g_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:13.981Z",
+      "id": "486418dc15a3"
+    },
+    {
+      "title": "Toucan Valley Rainforest Community",
+      "price_text": "₡63,000,000",
+      "price_usd": 126000,
+      "location": "hace 6 h2br90ft2Ciudad Cortes, OSA",
+      "url": "https://www.craigslist.org/view/d/toucan-valley-rainforest-community/tnRco73zwwU9Q325Zwsb9T?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950078147/00l0l_6uwof2pXsBU_09G06s_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:14.072Z",
+      "id": "17ff1b6cc1bb"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CON ESPACIO MULTIFUNCIONAL. 31-285-78-AP57M",
+      "price_text": "₡70,000,000",
+      "price_usd": 140000,
+      "location": "hace 2 h1br57ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-con-espacio/nTcQP13Se5hn1hZ2Fz9SBn?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950129109/00202_euL6NT7kDIi_0jm0aT_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:19.341Z",
+      "id": "4b7619e5c74f"
+    },
+    {
+      "title": "V-Nicoleta 5 ideal houses to live in and rent located in Villarreal",
+      "price_text": "₡215,740,000",
+      "price_usd": 431480,
+      "location": "hace 4 h8br1377ft2Villarreal, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/nicoleta-ideal-houses-to-live-in-and/r6Gwsh7r41EcvU3qHGoKhW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7942820360/00y0y_kySgVVJcUIf_0d109L_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:19.634Z",
+      "id": "1f6101eb7352"
+    },
+    {
+      "title": "Turnkey Apartment Rental Business for Sale – 9 Income-Producing Units",
+      "price_text": "₡363,545,000",
+      "price_usd": 727090,
+      "location": "hace 4 h8br1000ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/turnkey-apartment-rental-business-for/c2uxDwKQCpyqJ6U1oPePmu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7942668131/00w0w_bZ8l9hUg7uE_09G07g_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:19.746Z",
+      "id": "486418dc15a3"
+    },
+    {
+      "title": "Toucan Valley Rainforest Community",
+      "price_text": "₡63,000,000",
+      "price_usd": 126000,
+      "location": "hace 6 h2br90ft2Ciudad Cortes, OSA",
+      "url": "https://www.craigslist.org/view/d/toucan-valley-rainforest-community/tnRco73zwwU9Q325Zwsb9T?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950078147/00l0l_6uwof2pXsBU_09G06s_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:19.835Z",
+      "id": "17ff1b6cc1bb"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CON ESPACIO MULTIFUNCIONAL. 31-285-78-AP57M",
+      "price_text": "₡70,000,000",
+      "price_usd": 140000,
+      "location": "hace 2 h1br57ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-con-espacio/nTcQP13Se5hn1hZ2Fz9SBn?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950129109/00202_euL6NT7kDIi_0jm0aT_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:25.113Z",
+      "id": "4b7619e5c74f"
+    },
+    {
+      "title": "V-Nicoleta 5 ideal houses to live in and rent located in Villarreal",
+      "price_text": "₡215,740,000",
+      "price_usd": 431480,
+      "location": "hace 4 h8br1377ft2Villarreal, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/nicoleta-ideal-houses-to-live-in-and/r6Gwsh7r41EcvU3qHGoKhW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7942820360/00y0y_kySgVVJcUIf_0d109L_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:25.417Z",
+      "id": "1f6101eb7352"
+    },
+    {
+      "title": "Turnkey Apartment Rental Business for Sale – 9 Income-Producing Units",
+      "price_text": "₡363,545,000",
+      "price_usd": 727090,
+      "location": "hace 4 h8br1000ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/turnkey-apartment-rental-business-for/c2uxDwKQCpyqJ6U1oPePmu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7942668131/00w0w_bZ8l9hUg7uE_09G07g_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:25.529Z",
+      "id": "486418dc15a3"
+    },
+    {
+      "title": "Toucan Valley Rainforest Community",
+      "price_text": "₡63,000,000",
+      "price_usd": 126000,
+      "location": "hace 6 h2br90ft2Ciudad Cortes, OSA",
+      "url": "https://www.craigslist.org/view/d/toucan-valley-rainforest-community/tnRco73zwwU9Q325Zwsb9T?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950078147/00l0l_6uwof2pXsBU_09G06s_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:50:25.622Z",
+      "id": "17ff1b6cc1bb"
+    },
+    {
+      "title": "Pierre & Colors Boutique Hotel | Income Property Near Tamarindo Beach\n                Commercial, Tamarindo, Guanacaste",
+      "price_text": "$2,500,000",
+      "price_usd": 2500000,
+      "location": "Commercial, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/12-bed-commercial-for-sale-in-tamarindo/14663",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-29T01:51:29.007Z",
+      "id": "e3a881d1f04f"
+    },
+    {
+      "title": "Villas Puesta de Sol ~ Tamarindo's Newest Condominium...          Numandi ~ Luxury Living Rooted in Sustainability          4-Bedroom Townhome in Los Malinches of Hacienda Pinilla",
+      "price_text": "Price:     US$ 825 000.00      Price:     US$ 842 000.00      Price:     US$ 859 000.00",
+      "price_usd": 825000.00842,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Avellanas      Location:     Hacienda-Pinilla",
+      "url": "https://www.remax-oceansurf-cr.com/property/villas-puesta-de-sol",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/Screenshot%202026-02-26%20at%209.29.53%E2%80%AFAM.png?itok=dsw6X-_W",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5-numandi-home-80-2026.jpg?itok=PDhl05S_",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Los-Malinche-23.jpeg?itok=cPqfF0xY"
+      ],
+      "description": "Welcome to “Villas Puesta del Sol” or “The Sunset Villas” – Tamarindo’s newest addition to the luxury market...          Starting from USD 842,000\nNumandi Residences offers a rare opportunity to own a turnkey home in one of Costa...          \n\t\nLos Malinches 23\nWelcome to an exceptional 4-bedroom, 4.5-bath residence in the exclusive enclave of Los...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-07-29T01:53:35.260Z",
+      "id": "c4c9f55c5071"
     }
   ],
-  "last_updated": "2026-07-28T19:16:15.729Z",
+  "last_updated": "2026-07-29T01:55:08.047Z",
   "total_count": 402
 }
