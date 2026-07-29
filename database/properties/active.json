@@ -24027,8 +24027,83 @@
       "category": "residential",
       "scraped_at": "2026-07-29T01:53:35.260Z",
       "id": "c4c9f55c5071"
+    },
+    {
+      "title": "House for sale in condo in Costa Rica",
+      "price_text": "₡215,000,000",
+      "price_usd": 430000,
+      "location": "hace 42 min4br3445ft2Heredia, Belen",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-in-condo-in-costa-rica/bWcC2boBTz6bVyuZVjmy2K?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950270752/00e0e_8O9lRlk6D2w_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T18:59:43.836Z",
+      "id": "0bb56d363305"
+    },
+    {
+      "title": "House for sale in condo in Costa Rica",
+      "price_text": "₡215,000,000",
+      "price_usd": 430000,
+      "location": "hace 42 min4br3445ft2Heredia, Belen",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-in-condo-in-costa-rica/bWcC2boBTz6bVyuZVjmy2K?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950270752/00e0e_8O9lRlk6D2w_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T18:59:49.701Z",
+      "id": "0bb56d363305"
+    },
+    {
+      "title": "House for sale in condo in Costa Rica",
+      "price_text": "₡215,000,000",
+      "price_usd": 430000,
+      "location": "hace 42 min4br3445ft2Heredia, Belen",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-in-condo-in-costa-rica/bWcC2boBTz6bVyuZVjmy2K?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950270752/00e0e_8O9lRlk6D2w_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T18:59:55.297Z",
+      "id": "0bb56d363305"
+    },
+    {
+      "title": "House for sale in condo in Costa Rica",
+      "price_text": "₡215,000,000",
+      "price_usd": 430000,
+      "location": "hace 42 min4br3445ft2Heredia, Belen",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-in-condo-in-costa-rica/bWcC2boBTz6bVyuZVjmy2K?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950270752/00e0e_8O9lRlk6D2w_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T19:00:01.058Z",
+      "id": "0bb56d363305"
+    },
+    {
+      "title": "House for sale in condo in Costa Rica",
+      "price_text": "₡215,000,000",
+      "price_usd": 430000,
+      "location": "hace 43 min4br3445ft2Heredia, Belen",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-in-condo-in-costa-rica/bWcC2boBTz6bVyuZVjmy2K?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950270752/00e0e_8O9lRlk6D2w_0lM0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-29T19:00:06.674Z",
+      "id": "27ed46ce582b"
     }
   ],
-  "last_updated": "2026-07-29T13:57:43.280Z",
+  "last_updated": "2026-07-29T19:05:21.333Z",
   "total_count": 402
 }
