@@ -1,21 +1,6 @@
 {
   "properties": [
     {
-      "title": "Prime Commercial on the main Road in Playas del Coco\n                Commercial, Playas Del Coco, Guanacaste",
-      "price_text": "$1,850,000",
-      "price_usd": 1850000,
-      "location": "Commercial, Playas Del Coco, Guanacaste",
-      "url": "https://www.coldwellbankercostarica.com/property/6-bed-commercial-for-sale-in-playas-del-coco/14690",
-      "images": [
-        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006fYJCH/w2kusgpdd/midres/CPEMI.png"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "land",
-      "scraped_at": "2026-05-01T19:01:00.235Z",
-      "id": "5319d087494f"
-    },
-    {
       "title": "Move-In Ready Modern Home – Fully Furnished",
       "price_text": "₡55,000,000",
       "price_usd": 110000,
@@ -24032,6 +24017,6 @@
       "id": "27ed46ce582b"
     }
   ],
-  "last_updated": "2026-07-30T13:35:41.160Z",
+  "last_updated": "2026-07-30T19:17:32.947Z",
   "total_count": 402
 }
