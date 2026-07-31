@@ -24015,8 +24015,98 @@
       "category": "residential",
       "scraped_at": "2026-07-29T19:00:06.674Z",
       "id": "27ed46ce582b"
+    },
+    {
+      "title": "3-story home for sale",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 6 h3br186ft2San Isidro de Heredia (Santa Cruz)",
+      "url": "https://www.craigslist.org/view/d/story-home-for-sale/fVCXLH4qYkex7HUWpuZSjt?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950502622/00H0H_8sZ9Lr6Hjr4_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-31T01:59:48.341Z",
+      "id": "5ca96f3de82f"
+    },
+    {
+      "title": "3-story home for sale",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 6 h3br186ft2San Isidro de Heredia (Santa Cruz)",
+      "url": "https://www.craigslist.org/view/d/story-home-for-sale/fVCXLH4qYkex7HUWpuZSjt?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950502622/00H0H_8sZ9Lr6Hjr4_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-31T01:59:53.653Z",
+      "id": "5ca96f3de82f"
+    },
+    {
+      "title": "3-story home for sale",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 6 h3br186ft2San Isidro de Heredia (Santa Cruz)",
+      "url": "https://www.craigslist.org/view/d/story-home-for-sale/fVCXLH4qYkex7HUWpuZSjt?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950502622/00H0H_8sZ9Lr6Hjr4_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-31T01:59:58.903Z",
+      "id": "5ca96f3de82f"
+    },
+    {
+      "title": "3-story home for sale",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 6 h3br186ft2San Isidro de Heredia (Santa Cruz)",
+      "url": "https://www.craigslist.org/view/d/story-home-for-sale/fVCXLH4qYkex7HUWpuZSjt?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950502622/00H0H_8sZ9Lr6Hjr4_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-31T02:00:03.980Z",
+      "id": "5ca96f3de82f"
+    },
+    {
+      "title": "3-story home for sale",
+      "price_text": "₡92,000,000",
+      "price_usd": 184000,
+      "location": "hace 6 h3br186ft2San Isidro de Heredia (Santa Cruz)",
+      "url": "https://www.craigslist.org/view/d/story-home-for-sale/fVCXLH4qYkex7HUWpuZSjt?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7950502622/00H0H_8sZ9Lr6Hjr4_0fu0kE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-07-31T02:00:09.250Z",
+      "id": "5ca96f3de82f"
+    },
+    {
+      "title": "Prime Commercial on the main Road in Playas del Coco\n                Commercial, Playas Del Coco, Guanacaste",
+      "price_text": "$1,850,000",
+      "price_usd": 1850000,
+      "location": "Commercial, Playas Del Coco, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-commercial-for-sale-in-playas-del-coco/14690",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006fYJCH/w2kusgpdd/midres/CPEMI.png"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-07-31T02:01:40.589Z",
+      "id": "5319d087494f"
     }
   ],
-  "last_updated": "2026-07-30T19:17:32.947Z",
+  "last_updated": "2026-07-31T02:05:19.707Z",
   "total_count": 402
 }
