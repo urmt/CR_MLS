@@ -24195,8 +24195,38 @@
       "category": "land",
       "scraped_at": "2026-07-31T19:12:04.685Z",
       "id": "9b0a38a1afdf"
+    },
+    {
+      "title": "Private 210-Foot Waterfall and 222-Acre Legacy Sanctuary in Costa Rica\n                Land, San Isidro de El General, San Jose",
+      "price_text": "$13,000,000",
+      "price_usd": 13000000,
+      "location": "Land, San Isidro de El General, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-san-isidro-de-el-general/15303",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-01T02:02:59.855Z",
+      "id": "4d07a3f58a5e"
+    },
+    {
+      "title": "Private 210-Foot Waterfall and 222-Acre Legacy Sanctuary in Costa Rica\n                Land, San Isidro de El General, San Jose",
+      "price_text": "$13,000,000",
+      "price_usd": 13000000,
+      "location": "Land, San Isidro de El General, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-san-isidro-de-el-general/15303",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-01T02:05:12.761Z",
+      "id": "4d07a3f58a5e"
     }
   ],
-  "last_updated": "2026-07-31T19:16:12.113Z",
+  "last_updated": "2026-08-01T02:07:16.142Z",
   "total_count": 402
 }
