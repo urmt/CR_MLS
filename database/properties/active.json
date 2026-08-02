@@ -24135,8 +24135,26 @@
       "category": "land",
       "scraped_at": "2026-08-01T02:05:12.761Z",
       "id": "4d07a3f58a5e"
+    },
+    {
+      "title": "Income-Producing Commercial Property in Playa Avellanas          PRICE REDUCTION! 4.2 Hectare Mountain View Ranch ~ Sunrise...          Flamingo Hidden Ocean View Lot - Overlooks the Marina Site and...",
+      "price_text": "Price:     US$ 345 000.00      Price:     US$ 349 000.00      Price:     US$ 349 000.00",
+      "price_usd": 345000.00349,
+      "location": "Location:     Playa Avellanas      Location:     Tamarindo Areas      Location:     Playa Flamingo",
+      "url": "https://www.remax-oceansurf-cr.com/property/commercial-property-the-point-playa-avellanas",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Commercial-The-Point-Avellanas.jpg?itok=SQchoEFC",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Finca-Portegolpe-4.2ha.jpg?itok=1g8WK0KL",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/photos/flamingo_costa_rica_lot.jpg?itok=Uxb2utCA"
+      ],
+      "description": "An exceptional opportunity to acquire a fully leased commercial investment in one of Costa Rica's fastest-...          Nestled in the heart of Guanacaste, this 4.2-hectare property offers the perfect balance of natural beauty,...          This stunning lot just came on the market and enjoys beautiful views over the Flamingo Marina site out...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-08-02T02:00:44.872Z",
+      "id": "c9a0f989f2b0"
     }
   ],
-  "last_updated": "2026-08-01T19:01:51.716Z",
+  "last_updated": "2026-08-02T02:05:34.521Z",
   "total_count": 402
 }
