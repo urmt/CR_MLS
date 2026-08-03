@@ -24003,8 +24003,83 @@
       "category": "residential",
       "scraped_at": "2026-08-02T05:19:35.940Z",
       "id": "d5f5a46c50de"
+    },
+    {
+      "title": "Dueño vende Restaurante Bar 5 minutos del Airport",
+      "price_text": "₡680,000,000",
+      "price_usd": 1360000,
+      "location": "hace 3 h2204ft2Heredia",
+      "url": "https://www.craigslist.org/view/d/dueo-vende-restaurante-bar-minutos-del/ePQMu6vQ7BTgwdjHBiffz7?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951146020/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-03T01:59:43.903Z",
+      "id": "8e9f10d57dea"
+    },
+    {
+      "title": "Dueño vende Restaurante Bar 5 minutos del Airport",
+      "price_text": "₡680,000,000",
+      "price_usd": 1360000,
+      "location": "hace 3 h2204ft2Heredia",
+      "url": "https://www.craigslist.org/view/d/dueo-vende-restaurante-bar-minutos-del/ePQMu6vQ7BTgwdjHBiffz7?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951146020/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-03T01:59:49.227Z",
+      "id": "8e9f10d57dea"
+    },
+    {
+      "title": "Dueño vende Restaurante Bar 5 minutos del Airport",
+      "price_text": "₡680,000,000",
+      "price_usd": 1360000,
+      "location": "hace 3 h2204ft2Heredia",
+      "url": "https://www.craigslist.org/view/d/dueo-vende-restaurante-bar-minutos-del/ePQMu6vQ7BTgwdjHBiffz7?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951146020/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-03T01:59:54.474Z",
+      "id": "8e9f10d57dea"
+    },
+    {
+      "title": "Dueño vende Restaurante Bar 5 minutos del Airport",
+      "price_text": "₡680,000,000",
+      "price_usd": 1360000,
+      "location": "hace 3 h2204ft2Heredia",
+      "url": "https://www.craigslist.org/view/d/dueo-vende-restaurante-bar-minutos-del/ePQMu6vQ7BTgwdjHBiffz7?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951146020/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-03T01:59:59.869Z",
+      "id": "8e9f10d57dea"
+    },
+    {
+      "title": "Dueño vende Restaurante Bar 5 minutos del Airport",
+      "price_text": "₡680,000,000",
+      "price_usd": 1360000,
+      "location": "hace 3 h2204ft2Heredia",
+      "url": "https://www.craigslist.org/view/d/dueo-vende-restaurante-bar-minutos-del/ePQMu6vQ7BTgwdjHBiffz7?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951146020/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-03T02:00:05.145Z",
+      "id": "8e9f10d57dea"
     }
   ],
-  "last_updated": "2026-08-02T19:06:18.121Z",
+  "last_updated": "2026-08-03T02:04:33.186Z",
   "total_count": 402
 }
