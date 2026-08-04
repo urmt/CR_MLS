@@ -23643,8 +23643,56 @@
       "category": "luxury",
       "scraped_at": "2026-08-04T08:23:28.630Z",
       "id": "990203ce7eca"
+    },
+    {
+      "title": "Ocean View Retreat Estate\n                Hotel / Leisure, Dominical, Puntarenas",
+      "price_text": "$6,499,000",
+      "price_usd": 6499000,
+      "location": "Hotel / Leisure, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/24-bed-hotel-leisure-for-sale-in-dominical/15314",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-04T19:20:26.752Z",
+      "id": "3266e7bba2ae"
+    },
+    {
+      "title": "Ocean View Retreat Estate\n                Hotel / Leisure, Dominical, Puntarenas",
+      "price_text": "$6,499,000",
+      "price_usd": 6499000,
+      "location": "Hotel / Leisure, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/24-bed-hotel-leisure-for-sale-in-dominical/15314",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-04T19:21:37.546Z",
+      "id": "3266e7bba2ae"
+    },
+    {
+      "title": "Las Ventanas ~ Lots for Sale          The Oaks #42 ~ Turnkey 2-Bed Condo Minutes from Tamarindo          PRICE REDUCTION! Villa Verde II-45 ~ Living in a Prime Location",
+      "price_text": "Price:     US$ 220 000.00      Price:     US$ 229 000.00      Price:     US$ 239 000.00",
+      "price_usd": 220000.00229,
+      "location": "Location:     Playa Grande      Location:     Tamarindo Areas      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/las-ventanas-lots-sale",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Las-Ventanas.jpg?itok=f3lINJt8",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Oaks-42-two-bedroom-condo-tamarindo-costa-rica-resized.jpg?itok=o--Gv6KN",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Villa-Verde-II-45-Playa-Tamarindo.jpg?itok=LdGZJyfD"
+      ],
+      "description": "Las Ventanas is a 380-acre private neighborhood straddling El Cerro Almendro between two of Costa Rica’s most...          Turnkey gated-community living, ten minutes from Tamarindo's beaches.\nTucked into the lush grounds of The...          This well-established condominium complex is known for its unbeatable location while remaining one of the...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-08-04T19:23:04.770Z",
+      "id": "6847692f591c"
     }
   ],
-  "last_updated": "2026-08-04T13:56:04.827Z",
+  "last_updated": "2026-08-04T19:24:36.646Z",
   "total_count": 402
 }
