@@ -23841,8 +23841,383 @@
       "category": "residential",
       "scraped_at": "2026-08-05T08:21:28.712Z",
       "id": "83407dae2a4d"
+    },
+    {
+      "title": "JUST LISTED! 2 level Commercial Building Ready for Occupancy!",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 21 minCurridabat",
+      "url": "https://www.craigslist.org/view/d/just-listed-level-commercial-building/tjMNwXTBjiaJzqCJJBzrLu?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951724235/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-05T19:16:48.181Z",
+      "id": "2b9b85075122"
+    },
+    {
+      "title": "JUST LISTED! Rare Nicoya Beachfront Master Plan Development",
+      "price_text": "₡10,000,000",
+      "price_usd": 20000,
+      "location": "hace 22 minNicoya",
+      "url": "https://www.craigslist.org/view/d/just-listed-rare-nicoya-beachfront/o3RuHK23feKLU1wtLN6TxM?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951725738/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-05T19:16:48.274Z",
+      "id": "27b25ce57bc9"
+    },
+    {
+      "title": "JUST LISTED! Entrepreneur's Dream Property!",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 40 minGrecia",
+      "url": "https://www.craigslist.org/view/d/just-listed-entrepreneurs-dream-property/oUwv2cmRx2XBQSWL2EVZ8m?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951716997/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-05T19:16:48.338Z",
+      "id": "11fd03cd58a4"
+    },
+    {
+      "title": "Just Listed! Income Property in Heredia!",
+      "price_text": "₡2,999,000",
+      "price_usd": 5998,
+      "location": "hace 53 minHeredia",
+      "url": "https://www.craigslist.org/view/d/just-listed-income-property-in-heredia/3b6QmQa9mivhS1PAfWBQHq?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-05T19:16:48.401Z",
+      "id": "e79f972beb08"
+    },
+    {
+      "title": "JUST LISTED! 2,500m2 flat commercial land",
+      "price_text": "₡200",
+      "price_usd": 0,
+      "location": "hace 54 minGrecia",
+      "url": "https://www.craigslist.org/view/d/just-listed-2500m2-flat-commercial-land/sfw942ZSbKMECxEXGkAso9?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-05T19:16:48.461Z",
+      "id": "b7763a66f41f"
+    },
+    {
+      "title": "JUST LISTED! 2 level Commercial Building Ready for Occupancy!",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 22 minCurridabat",
+      "url": "https://www.craigslist.org/view/d/just-listed-level-commercial-building/tjMNwXTBjiaJzqCJJBzrLu?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951724235/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-05T19:16:53.256Z",
+      "id": "71cd78a188f0"
+    },
+    {
+      "title": "JUST LISTED! Rare Nicoya Beachfront Master Plan Development",
+      "price_text": "₡10,000,000",
+      "price_usd": 20000,
+      "location": "hace 22 minNicoya",
+      "url": "https://www.craigslist.org/view/d/just-listed-rare-nicoya-beachfront/o3RuHK23feKLU1wtLN6TxM?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951725738/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-05T19:16:53.341Z",
+      "id": "27b25ce57bc9"
+    },
+    {
+      "title": "JUST LISTED! Entrepreneur's Dream Property!",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 40 minGrecia",
+      "url": "https://www.craigslist.org/view/d/just-listed-entrepreneurs-dream-property/oUwv2cmRx2XBQSWL2EVZ8m?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951716997/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-05T19:16:53.404Z",
+      "id": "11fd03cd58a4"
+    },
+    {
+      "title": "Just Listed! Income Property in Heredia!",
+      "price_text": "₡2,999,000",
+      "price_usd": 5998,
+      "location": "hace 54 minHeredia",
+      "url": "https://www.craigslist.org/view/d/just-listed-income-property-in-heredia/3b6QmQa9mivhS1PAfWBQHq?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-05T19:16:53.464Z",
+      "id": "49d1542c1527"
+    },
+    {
+      "title": "JUST LISTED! 2,500m2 flat commercial land",
+      "price_text": "₡200",
+      "price_usd": 0,
+      "location": "hace 54 minGrecia",
+      "url": "https://www.craigslist.org/view/d/just-listed-2500m2-flat-commercial-land/sfw942ZSbKMECxEXGkAso9?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-05T19:16:53.522Z",
+      "id": "b7763a66f41f"
+    },
+    {
+      "title": "JUST LISTED! 2 level Commercial Building Ready for Occupancy!",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 22 minCurridabat",
+      "url": "https://www.craigslist.org/view/d/just-listed-level-commercial-building/tjMNwXTBjiaJzqCJJBzrLu?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951724235/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-05T19:16:58.282Z",
+      "id": "71cd78a188f0"
+    },
+    {
+      "title": "JUST LISTED! Rare Nicoya Beachfront Master Plan Development",
+      "price_text": "₡10,000,000",
+      "price_usd": 20000,
+      "location": "hace 22 minNicoya",
+      "url": "https://www.craigslist.org/view/d/just-listed-rare-nicoya-beachfront/o3RuHK23feKLU1wtLN6TxM?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951725738/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-05T19:16:58.367Z",
+      "id": "27b25ce57bc9"
+    },
+    {
+      "title": "JUST LISTED! Entrepreneur's Dream Property!",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 40 minGrecia",
+      "url": "https://www.craigslist.org/view/d/just-listed-entrepreneurs-dream-property/oUwv2cmRx2XBQSWL2EVZ8m?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951716997/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-05T19:16:58.430Z",
+      "id": "11fd03cd58a4"
+    },
+    {
+      "title": "Just Listed! Income Property in Heredia!",
+      "price_text": "₡2,999,000",
+      "price_usd": 5998,
+      "location": "hace 54 minHeredia",
+      "url": "https://www.craigslist.org/view/d/just-listed-income-property-in-heredia/3b6QmQa9mivhS1PAfWBQHq?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-05T19:16:58.490Z",
+      "id": "49d1542c1527"
+    },
+    {
+      "title": "JUST LISTED! 2,500m2 flat commercial land",
+      "price_text": "₡200",
+      "price_usd": 0,
+      "location": "hace 54 minGrecia",
+      "url": "https://www.craigslist.org/view/d/just-listed-2500m2-flat-commercial-land/sfw942ZSbKMECxEXGkAso9?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-05T19:16:58.547Z",
+      "id": "b7763a66f41f"
+    },
+    {
+      "title": "JUST LISTED! 2 level Commercial Building Ready for Occupancy!",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 22 minCurridabat",
+      "url": "https://www.craigslist.org/view/d/just-listed-level-commercial-building/tjMNwXTBjiaJzqCJJBzrLu?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951724235/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-05T19:17:03.458Z",
+      "id": "71cd78a188f0"
+    },
+    {
+      "title": "JUST LISTED! Rare Nicoya Beachfront Master Plan Development",
+      "price_text": "₡10,000,000",
+      "price_usd": 20000,
+      "location": "hace 22 minNicoya",
+      "url": "https://www.craigslist.org/view/d/just-listed-rare-nicoya-beachfront/o3RuHK23feKLU1wtLN6TxM?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951725738/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-05T19:17:03.543Z",
+      "id": "27b25ce57bc9"
+    },
+    {
+      "title": "JUST LISTED! Entrepreneur's Dream Property!",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 40 minGrecia",
+      "url": "https://www.craigslist.org/view/d/just-listed-entrepreneurs-dream-property/oUwv2cmRx2XBQSWL2EVZ8m?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951716997/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-05T19:17:03.606Z",
+      "id": "11fd03cd58a4"
+    },
+    {
+      "title": "Just Listed! Income Property in Heredia!",
+      "price_text": "₡2,999,000",
+      "price_usd": 5998,
+      "location": "hace 54 minHeredia",
+      "url": "https://www.craigslist.org/view/d/just-listed-income-property-in-heredia/3b6QmQa9mivhS1PAfWBQHq?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-05T19:17:03.666Z",
+      "id": "49d1542c1527"
+    },
+    {
+      "title": "JUST LISTED! 2,500m2 flat commercial land",
+      "price_text": "₡200",
+      "price_usd": 0,
+      "location": "hace 55 minGrecia",
+      "url": "https://www.craigslist.org/view/d/just-listed-2500m2-flat-commercial-land/sfw942ZSbKMECxEXGkAso9?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-05T19:17:03.725Z",
+      "id": "712ae99cc90c"
+    },
+    {
+      "title": "JUST LISTED! 2 level Commercial Building Ready for Occupancy!",
+      "price_text": "₡175,000,000",
+      "price_usd": 350000,
+      "location": "hace 22 minCurridabat",
+      "url": "https://www.craigslist.org/view/d/just-listed-level-commercial-building/tjMNwXTBjiaJzqCJJBzrLu?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951724235/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-05T19:17:08.485Z",
+      "id": "71cd78a188f0"
+    },
+    {
+      "title": "JUST LISTED! Rare Nicoya Beachfront Master Plan Development",
+      "price_text": "₡10,000,000",
+      "price_usd": 20000,
+      "location": "hace 22 minNicoya",
+      "url": "https://www.craigslist.org/view/d/just-listed-rare-nicoya-beachfront/o3RuHK23feKLU1wtLN6TxM?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951725738/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-05T19:17:08.570Z",
+      "id": "27b25ce57bc9"
+    },
+    {
+      "title": "JUST LISTED! Entrepreneur's Dream Property!",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 40 minGrecia",
+      "url": "https://www.craigslist.org/view/d/just-listed-entrepreneurs-dream-property/oUwv2cmRx2XBQSWL2EVZ8m?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7951716997/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-05T19:17:08.633Z",
+      "id": "11fd03cd58a4"
+    },
+    {
+      "title": "Just Listed! Income Property in Heredia!",
+      "price_text": "₡2,999,000",
+      "price_usd": 5998,
+      "location": "hace 54 minHeredia",
+      "url": "https://www.craigslist.org/view/d/just-listed-income-property-in-heredia/3b6QmQa9mivhS1PAfWBQHq?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-05T19:17:08.692Z",
+      "id": "49d1542c1527"
+    },
+    {
+      "title": "JUST LISTED! 2,500m2 flat commercial land",
+      "price_text": "₡200",
+      "price_usd": 0,
+      "location": "hace 55 minGrecia",
+      "url": "https://www.craigslist.org/view/d/just-listed-2500m2-flat-commercial-land/sfw942ZSbKMECxEXGkAso9?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-05T19:17:08.750Z",
+      "id": "712ae99cc90c"
     }
   ],
-  "last_updated": "2026-08-05T13:52:17.216Z",
+  "last_updated": "2026-08-05T19:22:23.138Z",
   "total_count": 402
 }
