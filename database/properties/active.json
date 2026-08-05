@@ -23766,8 +23766,83 @@
       "category": "luxury",
       "scraped_at": "2026-08-05T01:48:14.087Z",
       "id": "f5b665ef40d1"
+    },
+    {
+      "title": "Casa rústica de 200 m2, terreno de 1500 m2 - ¢85 millones",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 4 h4brLiberia, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/casa-rstica-de-200-m2-terreno-de-1500/55mWZNDrHgxJijuSSDcXeV?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7951617384/00A0A_jaEl6LOGejf_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-05T08:21:07.891Z",
+      "id": "83407dae2a4d"
+    },
+    {
+      "title": "Casa rústica de 200 m2, terreno de 1500 m2 - ¢85 millones",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 4 h4brLiberia, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/casa-rstica-de-200-m2-terreno-de-1500/55mWZNDrHgxJijuSSDcXeV?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7951617384/00A0A_jaEl6LOGejf_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-05T08:21:13.124Z",
+      "id": "83407dae2a4d"
+    },
+    {
+      "title": "Casa rústica de 200 m2, terreno de 1500 m2 - ¢85 millones",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 4 h4brLiberia, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/casa-rstica-de-200-m2-terreno-de-1500/55mWZNDrHgxJijuSSDcXeV?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7951617384/00A0A_jaEl6LOGejf_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-05T08:21:18.315Z",
+      "id": "83407dae2a4d"
+    },
+    {
+      "title": "Casa rústica de 200 m2, terreno de 1500 m2 - ¢85 millones",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 4 h4brLiberia, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/casa-rstica-de-200-m2-terreno-de-1500/55mWZNDrHgxJijuSSDcXeV?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7951617384/00A0A_jaEl6LOGejf_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-05T08:21:23.511Z",
+      "id": "83407dae2a4d"
+    },
+    {
+      "title": "Casa rústica de 200 m2, terreno de 1500 m2 - ¢85 millones",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 4 h4brLiberia, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/casa-rstica-de-200-m2-terreno-de-1500/55mWZNDrHgxJijuSSDcXeV?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7951617384/00A0A_jaEl6LOGejf_0CI0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-05T08:21:28.712Z",
+      "id": "83407dae2a4d"
     }
   ],
-  "last_updated": "2026-08-05T01:53:20.435Z",
+  "last_updated": "2026-08-05T08:26:44.898Z",
   "total_count": 402
 }
