@@ -24171,8 +24171,38 @@
       "category": "land",
       "scraped_at": "2026-08-06T01:48:34.352Z",
       "id": "5ea11adb64f6"
+    },
+    {
+      "title": "Beachside Aparthotel | Boutique Hospitality Investment in Central Jacó\n                Hotel / Leisure, Jaco, Puntarenas",
+      "price_text": "$4,795,000",
+      "price_usd": 4795000,
+      "location": "Hotel / Leisure, Jaco, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/17-bed-hotel-leisure-for-sale-in-jaco/14003",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005xPBrr/curiwyheh/midres/IMG_0888.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-06T13:45:37.232Z",
+      "id": "08f078612414"
+    },
+    {
+      "title": "9-Room Boutique Hotel with Pool in Prime Location Walking Distance to the Beach\n                Hotel / Leisure, Santa Teresa, Puntarenas",
+      "price_text": "$2,450,000",
+      "price_usd": 2450000,
+      "location": "Hotel / Leisure, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/9-bed-hotel-leisure-for-sale-in-santa-teresa/14725",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006mX3O7/uqaa5nbci/midres/ARJAUDR-4.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-06T13:47:47.674Z",
+      "id": "71a04e1aaa85"
     }
   ],
-  "last_updated": "2026-08-06T08:23:20.159Z",
+  "last_updated": "2026-08-06T13:49:49.649Z",
   "total_count": 402
 }
