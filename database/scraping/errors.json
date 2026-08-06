@@ -116231,6 +116231,222 @@
       "url": "https://immocostarica.com/for-sale/apartments-condos?page=5",
       "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=5",
       "timestamp": "2026-08-05T19:21:47.433Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "luxury",
+      "page": 1,
+      "url": "https://www.coldwellbankercostarica.com/costa-rica/property-for-sale/is-luxury/yes",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-08-06T01:48:51.165Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "luxury",
+      "page": 2,
+      "url": "https://www.coldwellbankercostarica.com/costa-rica/property-for-sale/is-luxury/yes?page=2",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-08-06T01:49:06.166Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "luxury",
+      "page": 3,
+      "url": "https://www.coldwellbankercostarica.com/costa-rica/property-for-sale/is-luxury/yes?page=3",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-08-06T01:49:21.173Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "luxury",
+      "page": 4,
+      "url": "https://www.coldwellbankercostarica.com/costa-rica/property-for-sale/is-luxury/yes?page=4",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-08-06T01:49:36.179Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "luxury",
+      "page": 5,
+      "url": "https://www.coldwellbankercostarica.com/costa-rica/property-for-sale/is-luxury/yes?page=5",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-08-06T01:49:51.184Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "commercial",
+      "page": 1,
+      "url": "https://www.coldwellbankercostarica.com/costa-rica/property-for-sale/property-types/commercial",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-08-06T01:50:06.187Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "commercial",
+      "page": 2,
+      "url": "https://www.coldwellbankercostarica.com/costa-rica/property-for-sale/property-types/commercial?page=2",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-08-06T01:50:21.189Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "commercial",
+      "page": 3,
+      "url": "https://www.coldwellbankercostarica.com/costa-rica/property-for-sale/property-types/commercial?page=3",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-08-06T01:50:36.190Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "commercial",
+      "page": 4,
+      "url": "https://www.coldwellbankercostarica.com/costa-rica/property-for-sale/property-types/commercial?page=4",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-08-06T01:50:51.197Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "commercial",
+      "page": 5,
+      "url": "https://www.coldwellbankercostarica.com/costa-rica/property-for-sale/property-types/commercial?page=5",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-08-06T01:51:06.203Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "hotel",
+      "page": 1,
+      "url": "https://www.coldwellbankercostarica.com/costa-rica/property-for-sale/property-types/hotel-leisure",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-08-06T01:51:21.209Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "hotel",
+      "page": 2,
+      "url": "https://www.coldwellbankercostarica.com/costa-rica/property-for-sale/property-types/hotel-leisure?page=2",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-08-06T01:51:36.209Z"
+    },
+    {
+      "source": "coldwell_banker_cr",
+      "endpoint": "hotel",
+      "page": 3,
+      "url": "https://www.coldwellbankercostarica.com/costa-rica/property-for-sale/property-types/hotel-leisure?page=3",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-08-06T01:51:51.220Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home?page=2",
+      "timestamp": "2026-08-06T01:53:30.545Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home?page=3",
+      "timestamp": "2026-08-06T01:53:30.588Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home?page=4",
+      "timestamp": "2026-08-06T01:53:30.632Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "luxury",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/luxury-home?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/luxury-home?page=5",
+      "timestamp": "2026-08-06T01:53:30.678Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 1,
+      "url": "https://immocostarica.com/for-sale/houses-villas",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas",
+      "timestamp": "2026-08-06T01:53:30.724Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=2",
+      "timestamp": "2026-08-06T01:53:30.768Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=3",
+      "timestamp": "2026-08-06T01:53:30.816Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=4",
+      "timestamp": "2026-08-06T01:53:30.861Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=5",
+      "timestamp": "2026-08-06T01:53:30.907Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 1,
+      "url": "https://immocostarica.com/for-sale/apartments-condos",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos",
+      "timestamp": "2026-08-06T01:53:30.955Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=2",
+      "timestamp": "2026-08-06T01:53:31.000Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=3",
+      "timestamp": "2026-08-06T01:53:31.046Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=4",
+      "timestamp": "2026-08-06T01:53:31.092Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=5",
+      "timestamp": "2026-08-06T01:53:31.139Z"
     }
   ]
 }
