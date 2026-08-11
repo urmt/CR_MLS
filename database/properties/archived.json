@@ -58583,7 +58583,24 @@
       "id": "92255a07b69b",
       "archived_at": "2026-08-10T07:19:37.590Z",
       "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "Antemar Estate - Private Dual Beachfront Residence\n                Single Family Homes, Playa Flamingo, Guanacaste",
+      "price_text": "$4,490,000",
+      "price_usd": 4490000,
+      "location": "Single Family Homes, Playa Flamingo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-single-family-homes-for-sale-in-playa-flamingo/14028",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000060abFh/2e32dke4e/midres/ecc98f26-5d52-4d10-8698-cab854cd46c0.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-13T02:27:39.788Z",
+      "id": "eeeded7be074",
+      "archived_at": "2026-08-11T06:57:51.900Z",
+      "archive_reason": "90_day_auto_purge"
     }
   ],
-  "last_updated": "2026-08-10T07:19:37.610Z"
+  "last_updated": "2026-08-11T06:57:51.921Z"
 }
