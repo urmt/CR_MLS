@@ -24495,8 +24495,23 @@
       "category": "residential",
       "scraped_at": "2026-08-12T01:11:40.829Z",
       "id": "d5349d3c6e84"
+    },
+    {
+      "title": "Luxury Ocean View Estate in Tambor\n                Single Family Homes, Tambor, Puntarenas",
+      "price_text": "$4,500,000",
+      "price_usd": 4500000,
+      "location": "Single Family Homes, Tambor, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-tambor/15370",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-12T07:11:53.879Z",
+      "id": "524b9738baf6"
     }
   ],
-  "last_updated": "2026-08-12T01:16:51.460Z",
+  "last_updated": "2026-08-12T07:19:20.433Z",
   "total_count": 402
 }
