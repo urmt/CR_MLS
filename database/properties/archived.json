@@ -58955,7 +58955,24 @@
       "id": "be1f073a4f16",
       "archived_at": "2026-08-14T01:17:13.160Z",
       "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "Corner Commercial Building in prime location for Sale - Downtown San José\n                Commercial, San Jose, San Jose",
+      "price_text": "$1,000,000",
+      "price_usd": 1000000,
+      "location": "Commercial, San Jose, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/20-bed-commercial-for-sale-in-san-jose/14789",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006op7LG/30ajq7mlb/midres/445a3a71-ddbd-46fd-9aa2-d15a85a678cc.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-05-16T02:11:12.273Z",
+      "id": "d3ed178117f3",
+      "archived_at": "2026-08-14T07:17:10.086Z",
+      "archive_reason": "90_day_auto_purge"
     }
   ],
-  "last_updated": "2026-08-14T01:17:13.176Z"
+  "last_updated": "2026-08-14T07:17:10.104Z"
 }
