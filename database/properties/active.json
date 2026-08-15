@@ -24570,8 +24570,83 @@
       "category": "land",
       "scraped_at": "2026-08-15T00:44:38.127Z",
       "id": "b1935953ac39"
+    },
+    {
+      "title": "House for sale, Barrio Don Bosco, near Hospital Blanco Cervantes 350mt",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 49 min4br350ft2Barrio Don Bosco, San Jose",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-barrio-don-bosco-near/4meVazKadfaGNLRTSsh9wf?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-15T12:20:01.269Z",
+      "id": "fc29cb85fd2f"
+    },
+    {
+      "title": "House for sale, Barrio Don Bosco, near Hospital Blanco Cervantes 350mt",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 49 min4br350ft2Barrio Don Bosco, San Jose",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-barrio-don-bosco-near/4meVazKadfaGNLRTSsh9wf?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-15T12:20:06.295Z",
+      "id": "fc29cb85fd2f"
+    },
+    {
+      "title": "House for sale, Barrio Don Bosco, near Hospital Blanco Cervantes 350mt",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 49 min4br350ft2Barrio Don Bosco, San Jose",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-barrio-don-bosco-near/4meVazKadfaGNLRTSsh9wf?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-15T12:20:11.312Z",
+      "id": "fc29cb85fd2f"
+    },
+    {
+      "title": "House for sale, Barrio Don Bosco, near Hospital Blanco Cervantes 350mt",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 49 min4br350ft2Barrio Don Bosco, San Jose",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-barrio-don-bosco-near/4meVazKadfaGNLRTSsh9wf?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-15T12:20:16.308Z",
+      "id": "fc29cb85fd2f"
+    },
+    {
+      "title": "House for sale, Barrio Don Bosco, near Hospital Blanco Cervantes 350mt",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 50 min4br350ft2Barrio Don Bosco, San Jose",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-barrio-don-bosco-near/4meVazKadfaGNLRTSsh9wf?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-15T12:20:21.303Z",
+      "id": "5e025095e684"
     }
   ],
-  "last_updated": "2026-08-15T06:27:57.592Z",
+  "last_updated": "2026-08-15T12:28:25.765Z",
   "total_count": 402
 }
