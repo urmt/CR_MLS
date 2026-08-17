@@ -5,6 +5,17 @@
   "next_purge": "2025-10-13T01:22:45.447Z",
   "purge_history": [
     {
+      "timestamp": "2026-08-17T12:30:27.806Z",
+      "purge_days": 90,
+      "results": {
+        "total_active": 1589,
+        "total_pending": 0,
+        "purged_active": 2,
+        "purged_pending": 0,
+        "moved_to_archived": 2
+      }
+    },
+    {
       "timestamp": "2026-08-17T06:41:15.417Z",
       "purge_days": 90,
       "results": {
@@ -322,18 +333,7 @@
         "purged_pending": 0,
         "moved_to_archived": 0
       }
-    },
-    {
-      "timestamp": "2026-08-10T07:19:37.668Z",
-      "purge_days": 90,
-      "results": {
-        "total_active": 1586,
-        "total_pending": 0,
-        "purged_active": 12,
-        "purged_pending": 0,
-        "moved_to_archived": 12
-      }
     }
   ],
-  "last_updated": "2026-08-17T06:41:15.418Z"
+  "last_updated": "2026-08-17T12:30:27.807Z"
 }
