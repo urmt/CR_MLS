@@ -24111,8 +24111,443 @@
       "category": "luxury",
       "scraped_at": "2026-08-18T00:46:45.108Z",
       "id": "03a033f6fcca"
+    },
+    {
+      "title": "V-Boho Ju - New Boho‑Style Home with Pool in Santa Rosa",
+      "price_text": "₡154,245,000",
+      "price_usd": 308490,
+      "location": "hace 25 min3br600ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/boho-ju-new-bohostyle-home-with-pool-in/2Bi4GRemKmcarACpxHS5uc?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954360042/01414_iiEv4zDMBxa_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-18T18:24:09.100Z",
+      "id": "713fd2e5bd3c"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡79,500,000",
+      "price_usd": 159000,
+      "location": "hace 34 min5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/nico-santa-rosa-lot-minutes-from/gAjU9J81oY71YdkvUbfVjy?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945739998/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-18T18:24:09.866Z",
+      "id": "36dfe8434ce2"
+    },
+    {
+      "title": "V-Patrcik Ju - Charming 2‑Story Home Just 2 Minutes from Playa Grande",
+      "price_text": "₡126,945,000",
+      "price_usd": 253890,
+      "location": "hace 34 min2br473ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/patrcik-ju-charming-2story-home-just/iyRjDygL3EE1VwpqFQUvZE?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945747038/00k0k_fZXauzLDFo7_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-18T18:24:10.027Z",
+      "id": "15e4466e8cf2"
+    },
+    {
+      "title": "V-Kaza Ouellet - Brand‑New Villa in Exclusive Community Near the beach",
+      "price_text": "₡182,000,000",
+      "price_usd": 364000,
+      "location": "hace 34 min2br289ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/kaza-ouellet-brandnew-villa-in/gs71veQzDQkWW27ZaqU7xb?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-18T18:24:10.190Z",
+      "id": "3918402c7789"
+    },
+    {
+      "title": "V-Karen 3 houses on a large plot of lot with potential for development",
+      "price_text": "₡124,500,000",
+      "price_usd": 249000,
+      "location": "hace 35 min3br1600ft2Huacas, Cabo Velas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karen-houses-on-large-plot-of-lot-with/cyzHxDkHAAyXRb4JzLD52U?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-18T18:24:10.471Z",
+      "id": "6f78d119fa6e"
+    },
+    {
+      "title": "V-Boho Ju - New Boho‑Style Home with Pool in Santa Rosa",
+      "price_text": "₡154,245,000",
+      "price_usd": 308490,
+      "location": "hace 25 min3br600ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/boho-ju-new-bohostyle-home-with-pool-in/2Bi4GRemKmcarACpxHS5uc?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954360042/01414_iiEv4zDMBxa_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-18T18:24:15.238Z",
+      "id": "713fd2e5bd3c"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡79,500,000",
+      "price_usd": 159000,
+      "location": "hace 34 min5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/nico-santa-rosa-lot-minutes-from/gAjU9J81oY71YdkvUbfVjy?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945739998/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-18T18:24:16.018Z",
+      "id": "36dfe8434ce2"
+    },
+    {
+      "title": "V-Patrcik Ju - Charming 2‑Story Home Just 2 Minutes from Playa Grande",
+      "price_text": "₡126,945,000",
+      "price_usd": 253890,
+      "location": "hace 34 min2br473ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/patrcik-ju-charming-2story-home-just/iyRjDygL3EE1VwpqFQUvZE?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945747038/00k0k_fZXauzLDFo7_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-18T18:24:16.184Z",
+      "id": "15e4466e8cf2"
+    },
+    {
+      "title": "V-Kaza Ouellet - Brand‑New Villa in Exclusive Community Near the beach",
+      "price_text": "₡182,000,000",
+      "price_usd": 364000,
+      "location": "hace 34 min2br289ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/kaza-ouellet-brandnew-villa-in/gs71veQzDQkWW27ZaqU7xb?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-18T18:24:16.355Z",
+      "id": "3918402c7789"
+    },
+    {
+      "title": "V-Karen 3 houses on a large plot of lot with potential for development",
+      "price_text": "₡124,500,000",
+      "price_usd": 249000,
+      "location": "hace 35 min3br1600ft2Huacas, Cabo Velas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karen-houses-on-large-plot-of-lot-with/cyzHxDkHAAyXRb4JzLD52U?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-18T18:24:16.645Z",
+      "id": "6f78d119fa6e"
+    },
+    {
+      "title": "V-Boho Ju - New Boho‑Style Home with Pool in Santa Rosa",
+      "price_text": "₡154,245,000",
+      "price_usd": 308490,
+      "location": "hace 25 min3br600ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/boho-ju-new-bohostyle-home-with-pool-in/2Bi4GRemKmcarACpxHS5uc?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954360042/01414_iiEv4zDMBxa_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-18T18:24:21.375Z",
+      "id": "713fd2e5bd3c"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡79,500,000",
+      "price_usd": 159000,
+      "location": "hace 34 min5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/nico-santa-rosa-lot-minutes-from/gAjU9J81oY71YdkvUbfVjy?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945739998/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-18T18:24:22.121Z",
+      "id": "36dfe8434ce2"
+    },
+    {
+      "title": "V-Patrcik Ju - Charming 2‑Story Home Just 2 Minutes from Playa Grande",
+      "price_text": "₡126,945,000",
+      "price_usd": 253890,
+      "location": "hace 34 min2br473ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/patrcik-ju-charming-2story-home-just/iyRjDygL3EE1VwpqFQUvZE?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945747038/00k0k_fZXauzLDFo7_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-18T18:24:22.282Z",
+      "id": "15e4466e8cf2"
+    },
+    {
+      "title": "V-Kaza Ouellet - Brand‑New Villa in Exclusive Community Near the beach",
+      "price_text": "₡182,000,000",
+      "price_usd": 364000,
+      "location": "hace 34 min2br289ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/kaza-ouellet-brandnew-villa-in/gs71veQzDQkWW27ZaqU7xb?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-18T18:24:22.444Z",
+      "id": "3918402c7789"
+    },
+    {
+      "title": "V-Karen 3 houses on a large plot of lot with potential for development",
+      "price_text": "₡124,500,000",
+      "price_usd": 249000,
+      "location": "hace 35 min3br1600ft2Huacas, Cabo Velas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karen-houses-on-large-plot-of-lot-with/cyzHxDkHAAyXRb4JzLD52U?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-18T18:24:22.741Z",
+      "id": "6f78d119fa6e"
+    },
+    {
+      "title": "V-Boho Ju - New Boho‑Style Home with Pool in Santa Rosa",
+      "price_text": "₡154,245,000",
+      "price_usd": 308490,
+      "location": "hace 25 min3br600ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/boho-ju-new-bohostyle-home-with-pool-in/2Bi4GRemKmcarACpxHS5uc?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954360042/01414_iiEv4zDMBxa_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-18T18:24:27.466Z",
+      "id": "713fd2e5bd3c"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡79,500,000",
+      "price_usd": 159000,
+      "location": "hace 34 min5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/nico-santa-rosa-lot-minutes-from/gAjU9J81oY71YdkvUbfVjy?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945739998/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-18T18:24:28.249Z",
+      "id": "36dfe8434ce2"
+    },
+    {
+      "title": "V-Patrcik Ju - Charming 2‑Story Home Just 2 Minutes from Playa Grande",
+      "price_text": "₡126,945,000",
+      "price_usd": 253890,
+      "location": "hace 34 min2br473ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/patrcik-ju-charming-2story-home-just/iyRjDygL3EE1VwpqFQUvZE?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945747038/00k0k_fZXauzLDFo7_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-18T18:24:28.417Z",
+      "id": "15e4466e8cf2"
+    },
+    {
+      "title": "V-Kaza Ouellet - Brand‑New Villa in Exclusive Community Near the beach",
+      "price_text": "₡182,000,000",
+      "price_usd": 364000,
+      "location": "hace 35 min2br289ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/kaza-ouellet-brandnew-villa-in/gs71veQzDQkWW27ZaqU7xb?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-18T18:24:28.586Z",
+      "id": "4b762d03035a"
+    },
+    {
+      "title": "V-Karen 3 houses on a large plot of lot with potential for development",
+      "price_text": "₡124,500,000",
+      "price_usd": 249000,
+      "location": "hace 35 min3br1600ft2Huacas, Cabo Velas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karen-houses-on-large-plot-of-lot-with/cyzHxDkHAAyXRb4JzLD52U?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-18T18:24:28.887Z",
+      "id": "6f78d119fa6e"
+    },
+    {
+      "title": "V-Boho Ju - New Boho‑Style Home with Pool in Santa Rosa",
+      "price_text": "₡154,245,000",
+      "price_usd": 308490,
+      "location": "hace 25 min3br600ft2Santa Rosa, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/boho-ju-new-bohostyle-home-with-pool-in/2Bi4GRemKmcarACpxHS5uc?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954360042/01414_iiEv4zDMBxa_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-18T18:24:33.610Z",
+      "id": "713fd2e5bd3c"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡79,500,000",
+      "price_usd": 159000,
+      "location": "hace 34 min5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/nico-santa-rosa-lot-minutes-from/gAjU9J81oY71YdkvUbfVjy?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945739998/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-18T18:24:34.388Z",
+      "id": "36dfe8434ce2"
+    },
+    {
+      "title": "V-Patrcik Ju - Charming 2‑Story Home Just 2 Minutes from Playa Grande",
+      "price_text": "₡126,945,000",
+      "price_usd": 253890,
+      "location": "hace 34 min2br473ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/patrcik-ju-charming-2story-home-just/iyRjDygL3EE1VwpqFQUvZE?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945747038/00k0k_fZXauzLDFo7_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-18T18:24:34.556Z",
+      "id": "15e4466e8cf2"
+    },
+    {
+      "title": "V-Kaza Ouellet - Brand‑New Villa in Exclusive Community Near the beach",
+      "price_text": "₡182,000,000",
+      "price_usd": 364000,
+      "location": "hace 35 min2br289ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/kaza-ouellet-brandnew-villa-in/gs71veQzDQkWW27ZaqU7xb?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-18T18:24:34.725Z",
+      "id": "4b762d03035a"
+    },
+    {
+      "title": "V-Karen 3 houses on a large plot of lot with potential for development",
+      "price_text": "₡124,500,000",
+      "price_usd": 249000,
+      "location": "hace 35 min3br1600ft2Huacas, Cabo Velas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karen-houses-on-large-plot-of-lot-with/cyzHxDkHAAyXRb4JzLD52U?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-18T18:24:35.019Z",
+      "id": "6f78d119fa6e"
+    },
+    {
+      "title": "Ocean View Luxury Estate Within Walking Distance to the Beach\n                Single Family Homes, Playa Hermosa Santa Teresa, Puntarenas",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Single Family Homes, Playa Hermosa Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/9-bed-single-family-homes-for-sale-in-playa-hermosa-santa-teresa/14810",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006qrWk9/gxtgpo564/midres/ChatGPT-Image-12-may-2026-12_57_44-p.m.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-18T18:24:45.481Z",
+      "id": "1099674d5f12"
+    },
+    {
+      "title": "Pebbles Beach Golfo Dulce\n                Land, Golfito, Puntarenas",
+      "price_text": "$6,900,000",
+      "price_usd": 6900000,
+      "location": "Land, Golfito, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-golfito/14812",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006qVSmR/mtgyy449f/midres/Gallardo-17.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-18T18:25:02.078Z",
+      "id": "01d6cf82e826"
+    },
+    {
+      "title": "Ocean View Luxury Estate Within Walking Distance to the Beach\n                Single Family Homes, Playa Hermosa Santa Teresa, Puntarenas",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Single Family Homes, Playa Hermosa Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/9-bed-single-family-homes-for-sale-in-playa-hermosa-santa-teresa/14810",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006qrWk9/gxtgpo564/midres/ChatGPT-Image-12-may-2026-12_57_44-p.m.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-18T18:26:50.467Z",
+      "id": "1099674d5f12"
+    },
+    {
+      "title": "Pebbles Beach Golfo Dulce\n                Land, Golfito, Puntarenas",
+      "price_text": "$6,900,000",
+      "price_usd": 6900000,
+      "location": "Land, Golfito, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-golfito/14812",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-18T18:27:29.215Z",
+      "id": "01d6cf82e826"
     }
   ],
-  "last_updated": "2026-08-18T12:32:58.209Z",
+  "last_updated": "2026-08-18T18:29:08.188Z",
   "total_count": 402
 }
