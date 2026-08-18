@@ -24519,8 +24519,62 @@
       "category": "residential",
       "scraped_at": "2026-08-17T18:28:19.377Z",
       "id": "876d8ab710c5"
+    },
+    {
+      "title": "Senderos Home 25E ~ Immaculate Piece of Real Estate - Phase 2          Prime Beachfront Lot in Playa Grande          Stunning Multi-Unit Villa/B&B ~ Just 250 Meters from...",
+      "price_text": "Price:     US$ 2 150 000.00      Price:     US$ 2 175 000.00      Price:     US$ 2 190 000.00",
+      "price_usd": 2150000.002175,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Grande      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/senderos-home-25e-functional-design",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/3-senderos-home-on-lot-25e.png?itok=-xeag2dI",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-playa-grande-beachfront-lot.jpg?itok=tmNE9jy7",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-bed-%26-breakfast%20villa-Tamarindo.jpg?itok=APFA5TEb"
+      ],
+      "description": "With expansive valley and mountain views surrounded by nature, this homesite is perfectly situated to inspire...          Exceptional Investment Opportunity for Nature Lovers and Surfers!\n\tThis rare Playa Grande beachfront lot ...          \n\tNestled in the heart of Tamarindo, Costa Rica, just 250 meters from the beach, this stunning 450m2 villa...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "land",
+      "scraped_at": "2026-08-18T00:46:44.619Z",
+      "id": "9aebbe379c2a"
+    },
+    {
+      "title": "TAMARINDO 360º Penthouse ~ Two-Level Ocean View with Private...          Beachfront Lots in Playa Avellanas          TINAJAS - Income Producing Property with Expansion Plans",
+      "price_text": "Price:     US$ 2 200 000.00      Price:     US$ 2 500 000.00      Price:     US$ 2 500 000.00",
+      "price_usd": 2200000.0025,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Avellanas      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/tamarindo-360-penthouse-1",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/00%20Tama%20360%20PH%20Unit%20301.jpg?itok=UH-aNpPv",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-avellanas-lot.jpg?itok=47jJ7-lH",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/DSCF5321_0.jpg?itok=f1G9u2s7"
+      ],
+      "description": "$250,000 OFF or $1,000,000 Down with 2 Years Interest-Free Financing.\nSet atop the hills of Tamarindo, this...          Discover a rare opportunity to own two exceptional beachfront lots in the highly sought-after Playa Avellanas...          An exceptional investment opportunity in a prime location! The owner of this project is retiring and offering...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-08-18T00:46:44.851Z",
+      "id": "8ed60538cb1a"
+    },
+    {
+      "title": "Las Crestas de Senderos Home 13F ~ Senderos Phase Three          Las Crestas de Senderos Home 11F ~ Senderos Phase Three          PRICE REDUCTION! Casa Leona ~ Boutique Hospitality Estate in...",
+      "price_text": "Price:     US$ 2 660 000.00      Price:     US$ 3 700 000.00      Price:     US$ 3 750 000.00",
+      "price_usd": 2660000.0037,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Playa Tamarindo",
+      "url": "https://www.remax-oceansurf-cr.com/property/las-crestas-de-senderos-home-13f",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-13F-Senderos-Tamarindo.png?itok=BBMbfdu4",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-11F-Senderos-Tamarindo.png?itok=iGmBZX4u",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1_CasaLeona-resized.jpg?itok=-LFOfYge"
+      ],
+      "description": "Delivery December 2024\nOnce again, the team at WR Architects has created a spectacular design for the...          Delivery December 2024\nThis modern hideaway was created by the amazing team at WR Architects with one thing...          Casa Leona is an exceptional boutique hospitality estate offering a rare blend of charm, versatility, and...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "luxury",
+      "scraped_at": "2026-08-18T00:46:45.108Z",
+      "id": "03a033f6fcca"
     }
   ],
-  "last_updated": "2026-08-17T18:33:48.167Z",
+  "last_updated": "2026-08-18T00:51:36.659Z",
   "total_count": 402
 }
