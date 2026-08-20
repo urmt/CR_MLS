@@ -24456,8 +24456,308 @@
       "category": "residential",
       "scraped_at": "2026-08-19T18:21:17.961Z",
       "id": "7732d17afccb"
+    },
+    {
+      "title": "Nomad House | Villa Nueva, Pérez Zeledón",
+      "price_text": "₡56,250,000",
+      "price_usd": 112500,
+      "location": "hace 2 h1br100ft2Perez Zeledon",
+      "url": "https://www.craigslist.org/view/d/nomad-house-villa-nueva-prez-zeledn/efrkr5pUs6Rxb4pHEbVyfj?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954637492/00707_aROzSXN9XZ0_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-20T00:43:25.450Z",
+      "id": "7984a25fd54b"
+    },
+    {
+      "title": "V- Ecomadera. Eco-Friendly Retreat Near Brasilito Beach",
+      "price_text": "₡161,550,000",
+      "price_usd": 323100,
+      "location": "hace 3 h2br5000ft2Brasilito, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/ecomadera-eco-friendly-retreat-near/uaqKWhD2Weso7pS2mLiGrN?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954635235/01010_id7Zv0v7FnL_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-20T00:43:25.543Z",
+      "id": "792047faefae"
+    },
+    {
+      "title": "V- Gemelos. Two Tiny Houses, Pool & Expansion Potential",
+      "price_text": "₡110,250,000",
+      "price_usd": 220500,
+      "location": "hace 4 h4br610ft2",
+      "url": "https://www.craigslist.org/view/d/gemelos-two-tiny-houses-pool-expansion/da7o4hx7NwmQjwk55ekLsQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954609180/01414_5x70MMRkBu4_0CI0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-20T00:43:25.623Z",
+      "id": "da5d025c26c8"
+    },
+    {
+      "title": "Ocean View – Two Homes – Pool –Private Well – Great rental Potential",
+      "price_text": "₡515,800,000",
+      "price_usd": 1031600,
+      "location": "hace 5 hPlaya Panama",
+      "url": "https://www.craigslist.org/view/d/ocean-view-two-homes-pool-private-well/pRWQtBLgYoppYGZx6TBb7F?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954603495/00505_6ODbvrUZ97Z_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-20T00:43:25.857Z",
+      "id": "bfe6caf2c4a6"
+    },
+    {
+      "title": "Nomad House | Villa Nueva, Pérez Zeledón",
+      "price_text": "₡56,250,000",
+      "price_usd": 112500,
+      "location": "hace 2 h1br100ft2Perez Zeledon",
+      "url": "https://www.craigslist.org/view/d/nomad-house-villa-nueva-prez-zeledn/efrkr5pUs6Rxb4pHEbVyfj?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954637492/00707_aROzSXN9XZ0_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-20T00:43:30.738Z",
+      "id": "7984a25fd54b"
+    },
+    {
+      "title": "V- Ecomadera. Eco-Friendly Retreat Near Brasilito Beach",
+      "price_text": "₡161,550,000",
+      "price_usd": 323100,
+      "location": "hace 3 h2br5000ft2Brasilito, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/ecomadera-eco-friendly-retreat-near/uaqKWhD2Weso7pS2mLiGrN?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954635235/01010_id7Zv0v7FnL_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-20T00:43:30.814Z",
+      "id": "792047faefae"
+    },
+    {
+      "title": "V- Gemelos. Two Tiny Houses, Pool & Expansion Potential",
+      "price_text": "₡110,250,000",
+      "price_usd": 220500,
+      "location": "hace 4 h4br610ft2",
+      "url": "https://www.craigslist.org/view/d/gemelos-two-tiny-houses-pool-expansion/da7o4hx7NwmQjwk55ekLsQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954609180/01414_5x70MMRkBu4_0CI0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-20T00:43:30.888Z",
+      "id": "da5d025c26c8"
+    },
+    {
+      "title": "Ocean View – Two Homes – Pool –Private Well – Great rental Potential",
+      "price_text": "₡515,800,000",
+      "price_usd": 1031600,
+      "location": "hace 5 hPlaya Panama",
+      "url": "https://www.craigslist.org/view/d/ocean-view-two-homes-pool-private-well/pRWQtBLgYoppYGZx6TBb7F?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954603495/00505_6ODbvrUZ97Z_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-20T00:43:31.108Z",
+      "id": "bfe6caf2c4a6"
+    },
+    {
+      "title": "Nomad House | Villa Nueva, Pérez Zeledón",
+      "price_text": "₡56,250,000",
+      "price_usd": 112500,
+      "location": "hace 2 h1br100ft2Perez Zeledon",
+      "url": "https://www.craigslist.org/view/d/nomad-house-villa-nueva-prez-zeledn/efrkr5pUs6Rxb4pHEbVyfj?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954637492/00707_aROzSXN9XZ0_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-20T00:43:36.117Z",
+      "id": "7984a25fd54b"
+    },
+    {
+      "title": "V- Ecomadera. Eco-Friendly Retreat Near Brasilito Beach",
+      "price_text": "₡161,550,000",
+      "price_usd": 323100,
+      "location": "hace 3 h2br5000ft2Brasilito, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/ecomadera-eco-friendly-retreat-near/uaqKWhD2Weso7pS2mLiGrN?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954635235/01010_id7Zv0v7FnL_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-20T00:43:36.192Z",
+      "id": "792047faefae"
+    },
+    {
+      "title": "V- Gemelos. Two Tiny Houses, Pool & Expansion Potential",
+      "price_text": "₡110,250,000",
+      "price_usd": 220500,
+      "location": "hace 4 h4br610ft2",
+      "url": "https://www.craigslist.org/view/d/gemelos-two-tiny-houses-pool-expansion/da7o4hx7NwmQjwk55ekLsQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954609180/01414_5x70MMRkBu4_0CI0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-20T00:43:36.267Z",
+      "id": "da5d025c26c8"
+    },
+    {
+      "title": "Ocean View – Two Homes – Pool –Private Well – Great rental Potential",
+      "price_text": "₡515,800,000",
+      "price_usd": 1031600,
+      "location": "hace 5 hPlaya Panama",
+      "url": "https://www.craigslist.org/view/d/ocean-view-two-homes-pool-private-well/pRWQtBLgYoppYGZx6TBb7F?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954603495/00505_6ODbvrUZ97Z_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-20T00:43:36.489Z",
+      "id": "bfe6caf2c4a6"
+    },
+    {
+      "title": "Nomad House | Villa Nueva, Pérez Zeledón",
+      "price_text": "₡56,250,000",
+      "price_usd": 112500,
+      "location": "hace 2 h1br100ft2Perez Zeledon",
+      "url": "https://www.craigslist.org/view/d/nomad-house-villa-nueva-prez-zeledn/efrkr5pUs6Rxb4pHEbVyfj?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954637492/00707_aROzSXN9XZ0_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-20T00:43:41.487Z",
+      "id": "7984a25fd54b"
+    },
+    {
+      "title": "V- Ecomadera. Eco-Friendly Retreat Near Brasilito Beach",
+      "price_text": "₡161,550,000",
+      "price_usd": 323100,
+      "location": "hace 3 h2br5000ft2Brasilito, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/ecomadera-eco-friendly-retreat-near/uaqKWhD2Weso7pS2mLiGrN?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954635235/01010_id7Zv0v7FnL_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-20T00:43:41.561Z",
+      "id": "792047faefae"
+    },
+    {
+      "title": "V- Gemelos. Two Tiny Houses, Pool & Expansion Potential",
+      "price_text": "₡110,250,000",
+      "price_usd": 220500,
+      "location": "hace 4 h4br610ft2",
+      "url": "https://www.craigslist.org/view/d/gemelos-two-tiny-houses-pool-expansion/da7o4hx7NwmQjwk55ekLsQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954609180/01414_5x70MMRkBu4_0CI0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-20T00:43:41.637Z",
+      "id": "da5d025c26c8"
+    },
+    {
+      "title": "Ocean View – Two Homes – Pool –Private Well – Great rental Potential",
+      "price_text": "₡515,800,000",
+      "price_usd": 1031600,
+      "location": "hace 5 hPlaya Panama",
+      "url": "https://www.craigslist.org/view/d/ocean-view-two-homes-pool-private-well/pRWQtBLgYoppYGZx6TBb7F?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954603495/00505_6ODbvrUZ97Z_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-20T00:43:41.856Z",
+      "id": "bfe6caf2c4a6"
+    },
+    {
+      "title": "Nomad House | Villa Nueva, Pérez Zeledón",
+      "price_text": "₡56,250,000",
+      "price_usd": 112500,
+      "location": "hace 2 h1br100ft2Perez Zeledon",
+      "url": "https://www.craigslist.org/view/d/nomad-house-villa-nueva-prez-zeledn/efrkr5pUs6Rxb4pHEbVyfj?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954637492/00707_aROzSXN9XZ0_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-20T00:43:46.851Z",
+      "id": "7984a25fd54b"
+    },
+    {
+      "title": "V- Ecomadera. Eco-Friendly Retreat Near Brasilito Beach",
+      "price_text": "₡161,550,000",
+      "price_usd": 323100,
+      "location": "hace 3 h2br5000ft2Brasilito, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/ecomadera-eco-friendly-retreat-near/uaqKWhD2Weso7pS2mLiGrN?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954635235/01010_id7Zv0v7FnL_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-20T00:43:46.926Z",
+      "id": "792047faefae"
+    },
+    {
+      "title": "V- Gemelos. Two Tiny Houses, Pool & Expansion Potential",
+      "price_text": "₡110,250,000",
+      "price_usd": 220500,
+      "location": "hace 4 h4br610ft2",
+      "url": "https://www.craigslist.org/view/d/gemelos-two-tiny-houses-pool-expansion/da7o4hx7NwmQjwk55ekLsQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954609180/01414_5x70MMRkBu4_0CI0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-20T00:43:47.001Z",
+      "id": "da5d025c26c8"
+    },
+    {
+      "title": "Ocean View – Two Homes – Pool –Private Well – Great rental Potential",
+      "price_text": "₡515,800,000",
+      "price_usd": 1031600,
+      "location": "hace 5 hPlaya Panama",
+      "url": "https://www.craigslist.org/view/d/ocean-view-two-homes-pool-private-well/pRWQtBLgYoppYGZx6TBb7F?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7954603495/00505_6ODbvrUZ97Z_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-20T00:43:47.220Z",
+      "id": "bfe6caf2c4a6"
     }
   ],
-  "last_updated": "2026-08-19T18:26:19.669Z",
+  "last_updated": "2026-08-20T00:48:03.374Z",
   "total_count": 402
 }
