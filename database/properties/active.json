@@ -24423,8 +24423,23 @@
       "category": "land",
       "scraped_at": "2026-08-23T00:52:16.466Z",
       "id": "a44a193618c7"
+    },
+    {
+      "title": "Dominicalito Dream: A Sanctuary Carved from the Jungle\n                Land, Dominical, Puntarenas",
+      "price_text": "$11,900,000",
+      "price_usd": 11900000,
+      "location": "Land, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-dominical/14100",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005C7a0W/cws8bspiz/midres/Plano1.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-23T06:28:52.293Z",
+      "id": "552a7ba3b41e"
     }
   ],
-  "last_updated": "2026-08-23T03:00:10.130Z",
+  "last_updated": "2026-08-23T06:34:09.229Z",
   "total_count": 402
 }
