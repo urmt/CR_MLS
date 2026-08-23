@@ -1,21 +1,6 @@
 {
   "properties": [
     {
-      "title": "Dominicalito Dream: A Sanctuary Carved from the Jungle\n                Land, Dominical, Puntarenas",
-      "price_text": "$11,900,000",
-      "price_usd": 11900000,
-      "location": "Land, Dominical, Puntarenas",
-      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-dominical/14100",
-      "images": [
-        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "land",
-      "scraped_at": "2026-05-25T02:42:49.094Z",
-      "id": "552a7ba3b41e"
-    },
-    {
       "title": "TERRENO PARA VENTA, CERCA DE PLAYA CORAZOLITO. 36-300",
       "price_text": "₡36,000,000",
       "price_usd": 72000,
@@ -24440,6 +24425,6 @@
       "id": "a44a193618c7"
     }
   ],
-  "last_updated": "2026-08-23T00:54:38.104Z",
+  "last_updated": "2026-08-23T03:00:10.130Z",
   "total_count": 402
 }
