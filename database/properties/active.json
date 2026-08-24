@@ -24165,8 +24165,38 @@
       "category": "land",
       "scraped_at": "2026-08-23T06:28:52.293Z",
       "id": "552a7ba3b41e"
+    },
+    {
+      "title": "Beachfront Luxury Mixed Use Multi-Unit Residence\n                Hotel / Leisure, Samara, Guanacaste",
+      "price_text": "$2,999,999",
+      "price_usd": 2999999,
+      "location": "Hotel / Leisure, Samara, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-hotel-leisure-for-sale-in-samara/14784",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006o75WN/0z96rtus5/midres/jpg%20%2810%29.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-24T12:32:43.891Z",
+      "id": "a1c282c8f3fa"
+    },
+    {
+      "title": "Retreat Center Yoga & Spa in Santa Teresa Beach\n                Hotel / Leisure, Santiago, Puntarenas",
+      "price_text": "$1,800,000",
+      "price_usd": 1800000,
+      "location": "Hotel / Leisure, Santiago, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/13-bed-hotel-leisure-for-sale-in-santiago/10386",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-24T12:33:03.817Z",
+      "id": "c5e93f7b1f6d"
     }
   ],
-  "last_updated": "2026-08-24T06:45:47.975Z",
+  "last_updated": "2026-08-24T12:35:33.296Z",
   "total_count": 402
 }
