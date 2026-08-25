@@ -24210,8 +24210,23 @@
       "category": "luxury",
       "scraped_at": "2026-08-25T00:45:16.539Z",
       "id": "b2016f8ab538"
+    },
+    {
+      "title": "Bahía Culebra Lot Near Papagayo’s Luxury Coast - Investment Opportunity\n                Land, Culebra, Guanacaste",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Land, Culebra, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-culebra/14862",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006tQuqL/ohx28pvge/midres/7.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-25T06:34:37.969Z",
+      "id": "ba6f07fb10a3"
     }
   ],
-  "last_updated": "2026-08-25T00:51:21.271Z",
+  "last_updated": "2026-08-25T06:37:01.481Z",
   "total_count": 402
 }

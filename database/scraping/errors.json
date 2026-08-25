@@ -125495,6 +125495,78 @@
       "url": "https://immocostarica.com/for-sale/apartments-condos?page=5",
       "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=5",
       "timestamp": "2026-08-25T00:50:16.385Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=2",
+      "timestamp": "2026-08-25T06:36:30.539Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=3",
+      "timestamp": "2026-08-25T06:36:30.596Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=4",
+      "timestamp": "2026-08-25T06:36:30.637Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=5",
+      "timestamp": "2026-08-25T06:36:30.685Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 1,
+      "url": "https://immocostarica.com/for-sale/apartments-condos",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos",
+      "timestamp": "2026-08-25T06:36:30.729Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=2",
+      "timestamp": "2026-08-25T06:36:30.789Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=3",
+      "timestamp": "2026-08-25T06:36:30.831Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=4",
+      "timestamp": "2026-08-25T06:36:30.876Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=5",
+      "timestamp": "2026-08-25T06:36:30.919Z"
     }
   ]
 }
