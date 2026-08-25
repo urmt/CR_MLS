@@ -23973,8 +23973,158 @@
       "category": "residential",
       "scraped_at": "2026-08-25T12:33:05.751Z",
       "id": "d3c850535397"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SABANA SUR. 31-301",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 2 h1br40ft2SAN JOSE",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-en-sabana-sur/tNPhF5hY3aZfRnDNm2eGhg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7955776477/00x0x_uX6vipF9ho_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-25T18:26:10.511Z",
+      "id": "81794274ce7d"
+    },
+    {
+      "title": "VENDO APARTAMENTO TIPO ESTUDIO PARA VENTA, EN SABANA. 31-309",
+      "price_text": "₡56,000,000",
+      "price_usd": 112000,
+      "location": "hace 2 h30ft2SAN JOSE, SABANA",
+      "url": "https://www.craigslist.org/view/d/vendo-apartamento-tipo-estudio-para/fHXp76NbrDDLkDywHcinaR?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7955775069/00c0c_ea2sOFErqfP_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-25T18:26:10.581Z",
+      "id": "801ec3d1184e"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SABANA SUR. 31-301",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 2 h1br40ft2SAN JOSE",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-en-sabana-sur/tNPhF5hY3aZfRnDNm2eGhg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7955776477/00x0x_uX6vipF9ho_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-25T18:26:16.005Z",
+      "id": "81794274ce7d"
+    },
+    {
+      "title": "VENDO APARTAMENTO TIPO ESTUDIO PARA VENTA, EN SABANA. 31-309",
+      "price_text": "₡56,000,000",
+      "price_usd": 112000,
+      "location": "hace 2 h30ft2SAN JOSE, SABANA",
+      "url": "https://www.craigslist.org/view/d/vendo-apartamento-tipo-estudio-para/fHXp76NbrDDLkDywHcinaR?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7955775069/00c0c_ea2sOFErqfP_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-25T18:26:16.075Z",
+      "id": "801ec3d1184e"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SABANA SUR. 31-301",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 2 h1br40ft2SAN JOSE",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-en-sabana-sur/tNPhF5hY3aZfRnDNm2eGhg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7955776477/00x0x_uX6vipF9ho_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-25T18:26:21.459Z",
+      "id": "81794274ce7d"
+    },
+    {
+      "title": "VENDO APARTAMENTO TIPO ESTUDIO PARA VENTA, EN SABANA. 31-309",
+      "price_text": "₡56,000,000",
+      "price_usd": 112000,
+      "location": "hace 2 h30ft2SAN JOSE, SABANA",
+      "url": "https://www.craigslist.org/view/d/vendo-apartamento-tipo-estudio-para/fHXp76NbrDDLkDywHcinaR?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7955775069/00c0c_ea2sOFErqfP_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-25T18:26:21.529Z",
+      "id": "801ec3d1184e"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SABANA SUR. 31-301",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 2 h1br40ft2SAN JOSE",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-en-sabana-sur/tNPhF5hY3aZfRnDNm2eGhg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7955776477/00x0x_uX6vipF9ho_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-25T18:26:26.909Z",
+      "id": "81794274ce7d"
+    },
+    {
+      "title": "VENDO APARTAMENTO TIPO ESTUDIO PARA VENTA, EN SABANA. 31-309",
+      "price_text": "₡56,000,000",
+      "price_usd": 112000,
+      "location": "hace 2 h30ft2SAN JOSE, SABANA",
+      "url": "https://www.craigslist.org/view/d/vendo-apartamento-tipo-estudio-para/fHXp76NbrDDLkDywHcinaR?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7955775069/00c0c_ea2sOFErqfP_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-25T18:26:26.979Z",
+      "id": "801ec3d1184e"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SABANA SUR. 31-301",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 2 h1br40ft2SAN JOSE",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-en-sabana-sur/tNPhF5hY3aZfRnDNm2eGhg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7955776477/00x0x_uX6vipF9ho_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-25T18:26:32.366Z",
+      "id": "81794274ce7d"
+    },
+    {
+      "title": "VENDO APARTAMENTO TIPO ESTUDIO PARA VENTA, EN SABANA. 31-309",
+      "price_text": "₡56,000,000",
+      "price_usd": 112000,
+      "location": "hace 2 h30ft2SAN JOSE, SABANA",
+      "url": "https://www.craigslist.org/view/d/vendo-apartamento-tipo-estudio-para/fHXp76NbrDDLkDywHcinaR?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7955775069/00c0c_ea2sOFErqfP_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-25T18:26:32.435Z",
+      "id": "801ec3d1184e"
     }
   ],
-  "last_updated": "2026-08-25T12:36:17.425Z",
+  "last_updated": "2026-08-25T18:34:16.243Z",
   "total_count": 402
 }
