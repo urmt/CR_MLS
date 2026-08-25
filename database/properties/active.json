@@ -23958,8 +23958,23 @@
       "category": "land",
       "scraped_at": "2026-08-25T06:34:37.969Z",
       "id": "ba6f07fb10a3"
+    },
+    {
+      "title": "The Breeze Boutique Hotel - Solid Investment Opportunity in Tamarindo\n                Hotel / Leisure, Tamarindo, Guanacaste",
+      "price_text": "$2,250,000",
+      "price_usd": 2250000,
+      "location": "Hotel / Leisure, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/11-bed-hotel-leisure-for-sale-in-tamarindo/14126",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-25T12:33:05.751Z",
+      "id": "d3c850535397"
     }
   ],
-  "last_updated": "2026-08-25T06:37:35.353Z",
+  "last_updated": "2026-08-25T12:35:40.312Z",
   "total_count": 402
 }
