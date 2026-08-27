@@ -1,21 +1,6 @@
 {
   "properties": [
     {
-      "title": "889 Acres Ocean-View Land for Ecotourism & Sustainable Development\n                Land, Puntarenas, Puntarenas",
-      "price_text": "$9,900,000",
-      "price_usd": 9900000,
-      "location": "Land, Puntarenas, Puntarenas",
-      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-puntarenas/14894",
-      "images": [
-        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006uYzrf/bi8ebo8xf/midres/PHOTO-2025-10-22-16-19-23.jpg"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "land",
-      "scraped_at": "2026-05-29T14:46:53.601Z",
-      "id": "e9764532a18f"
-    },
-    {
       "title": "Costa del Sol Luxury House for Sale / Casa de Lujo en Costa del Sol",
       "price_text": "₡191,250,000",
       "price_usd": 382500,
@@ -23809,6 +23794,6 @@
       "id": "21c56e6112ec"
     }
   ],
-  "last_updated": "2026-08-27T17:25:04.905Z",
+  "last_updated": "2026-08-27T17:25:37.558Z",
   "total_count": 402
 }
