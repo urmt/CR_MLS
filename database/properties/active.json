@@ -23792,8 +23792,98 @@
       "category": "luxury",
       "scraped_at": "2026-08-27T17:21:08.946Z",
       "id": "21c56e6112ec"
+    },
+    {
+      "title": "Apartment - Viva Jaco",
+      "price_text": "₡121,500,000",
+      "price_usd": 243000,
+      "location": "hace 19 min2br1103ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-viva-jaco/1PBn8NmY8FGFWtS2puXn3i?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956307474/00u0u_datUeDaR2Ir_0jm0cU_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-28T01:57:09.926Z",
+      "id": "e94a8771063a"
+    },
+    {
+      "title": "Apartment - Viva Jaco",
+      "price_text": "₡121,500,000",
+      "price_usd": 243000,
+      "location": "hace 19 min2br1103ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-viva-jaco/1PBn8NmY8FGFWtS2puXn3i?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956307474/00u0u_datUeDaR2Ir_0jm0cU_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-28T01:57:14.651Z",
+      "id": "e94a8771063a"
+    },
+    {
+      "title": "Apartment - Viva Jaco",
+      "price_text": "₡121,500,000",
+      "price_usd": 243000,
+      "location": "hace 19 min2br1103ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-viva-jaco/1PBn8NmY8FGFWtS2puXn3i?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956307474/00u0u_datUeDaR2Ir_0jm0cU_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-28T01:57:19.333Z",
+      "id": "e94a8771063a"
+    },
+    {
+      "title": "Apartment - Viva Jaco",
+      "price_text": "₡121,500,000",
+      "price_usd": 243000,
+      "location": "hace 19 min2br1103ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-viva-jaco/1PBn8NmY8FGFWtS2puXn3i?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956307474/00u0u_datUeDaR2Ir_0jm0cU_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-28T01:57:24.014Z",
+      "id": "e94a8771063a"
+    },
+    {
+      "title": "Apartment - Viva Jaco",
+      "price_text": "₡121,500,000",
+      "price_usd": 243000,
+      "location": "hace 19 min2br1103ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-viva-jaco/1PBn8NmY8FGFWtS2puXn3i?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956307474/00u0u_datUeDaR2Ir_0jm0cU_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-28T01:57:28.849Z",
+      "id": "e94a8771063a"
+    },
+    {
+      "title": "889 Acres Ocean-View Land for Ecotourism & Sustainable Development\n                Land, Puntarenas, Puntarenas",
+      "price_text": "$5,950,000",
+      "price_usd": 5950000,
+      "location": "Land, Puntarenas, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-puntarenas/14894",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-28T01:57:56.262Z",
+      "id": "f451cc00120d"
     }
   ],
-  "last_updated": "2026-08-27T17:25:37.558Z",
+  "last_updated": "2026-08-28T02:02:11.059Z",
   "total_count": 402
 }
