@@ -23696,8 +23696,83 @@
       "category": "residential",
       "scraped_at": "2026-08-29T12:01:11.983Z",
       "id": "dc451e2774e8"
+    },
+    {
+      "title": "US$1.8M – 24-Acre Herradura Estate Near Los Sueños",
+      "price_text": "₡900,000,000",
+      "price_usd": 1800000,
+      "location": "hace 40 min97000ft2Herradura, Garabito, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/us18m-24-acre-herradura-estate-near-los/7xVvgR7QseAG3a5vpuZ84Q?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7957750268/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-30T20:19:45.348Z",
+      "id": "1845b239f4cd"
+    },
+    {
+      "title": "US$1.8M – 24-Acre Herradura Estate Near Los Sueños",
+      "price_text": "₡900,000,000",
+      "price_usd": 1800000,
+      "location": "hace 40 min97000ft2Herradura, Garabito, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/us18m-24-acre-herradura-estate-near-los/7xVvgR7QseAG3a5vpuZ84Q?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7957750268/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-30T20:19:50.239Z",
+      "id": "1845b239f4cd"
+    },
+    {
+      "title": "US$1.8M – 24-Acre Herradura Estate Near Los Sueños",
+      "price_text": "₡900,000,000",
+      "price_usd": 1800000,
+      "location": "hace 40 min97000ft2Herradura, Garabito, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/us18m-24-acre-herradura-estate-near-los/7xVvgR7QseAG3a5vpuZ84Q?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7957750268/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-30T20:19:55.088Z",
+      "id": "1845b239f4cd"
+    },
+    {
+      "title": "US$1.8M – 24-Acre Herradura Estate Near Los Sueños",
+      "price_text": "₡900,000,000",
+      "price_usd": 1800000,
+      "location": "hace 40 min97000ft2Herradura, Garabito, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/us18m-24-acre-herradura-estate-near-los/7xVvgR7QseAG3a5vpuZ84Q?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7957750268/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-30T20:19:59.927Z",
+      "id": "1845b239f4cd"
+    },
+    {
+      "title": "US$1.8M – 24-Acre Herradura Estate Near Los Sueños",
+      "price_text": "₡900,000,000",
+      "price_usd": 1800000,
+      "location": "hace 40 min97000ft2Herradura, Garabito, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/us18m-24-acre-herradura-estate-near-los/7xVvgR7QseAG3a5vpuZ84Q?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7957750268/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-08-30T20:20:04.791Z",
+      "id": "1845b239f4cd"
     }
   ],
-  "last_updated": "2026-08-30T15:51:27.108Z",
+  "last_updated": "2026-08-30T20:24:25.525Z",
   "total_count": 402
 }
