@@ -23498,8 +23498,83 @@
       "category": "luxury",
       "scraped_at": "2026-08-30T20:20:04.791Z",
       "id": "1845b239f4cd"
+    },
+    {
+      "title": "Beachfront Property",
+      "price_text": "₡315,000,000",
+      "price_usd": 630000,
+      "location": "hace 41 min4br60773ft2Playa Tsmbor Paquera",
+      "url": "https://www.craigslist.org/view/d/beachfront-property/s1cnK6Abmydeit3dQAgW4p?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7959014064/00j0j_k9qDKirxK80_09X08H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-01T20:20:23.560Z",
+      "id": "102a923642be"
+    },
+    {
+      "title": "Beachfront Property",
+      "price_text": "₡315,000,000",
+      "price_usd": 630000,
+      "location": "hace 41 min4br60773ft2Playa Tsmbor Paquera",
+      "url": "https://www.craigslist.org/view/d/beachfront-property/s1cnK6Abmydeit3dQAgW4p?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7959014064/00j0j_k9qDKirxK80_09X08H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-01T20:20:28.387Z",
+      "id": "102a923642be"
+    },
+    {
+      "title": "Beachfront Property",
+      "price_text": "₡315,000,000",
+      "price_usd": 630000,
+      "location": "hace 41 min4br60773ft2Playa Tsmbor Paquera",
+      "url": "https://www.craigslist.org/view/d/beachfront-property/s1cnK6Abmydeit3dQAgW4p?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7959014064/00j0j_k9qDKirxK80_09X08H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-01T20:20:33.172Z",
+      "id": "102a923642be"
+    },
+    {
+      "title": "Beachfront Property",
+      "price_text": "₡315,000,000",
+      "price_usd": 630000,
+      "location": "hace 41 min4br60773ft2Playa Tsmbor Paquera",
+      "url": "https://www.craigslist.org/view/d/beachfront-property/s1cnK6Abmydeit3dQAgW4p?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7959014064/00j0j_k9qDKirxK80_09X08H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-01T20:20:37.970Z",
+      "id": "102a923642be"
+    },
+    {
+      "title": "Beachfront Property",
+      "price_text": "₡315,000,000",
+      "price_usd": 630000,
+      "location": "hace 41 min4br60773ft2Playa Tsmbor Paquera",
+      "url": "https://www.craigslist.org/view/d/beachfront-property/s1cnK6Abmydeit3dQAgW4p?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7959014064/00j0j_k9qDKirxK80_09X08H_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-01T20:20:42.752Z",
+      "id": "102a923642be"
     }
   ],
-  "last_updated": "2026-09-01T15:56:21.794Z",
+  "last_updated": "2026-09-01T20:25:27.364Z",
   "total_count": 402
 }
