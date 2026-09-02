@@ -23157,8 +23157,83 @@
       "category": "land",
       "scraped_at": "2026-09-02T02:10:36.727Z",
       "id": "e7531ede611a"
+    },
+    {
+      "title": "$Investors$ Fixer Upper in Grecia",
+      "price_text": "₡119",
+      "price_usd": 0,
+      "location": "hace 8 minGrecia",
+      "url": "https://www.craigslist.org/view/d/investors-fixer-upper-in-grecia/iaJtrN3vfCBFogekxeJNeU?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7959653187/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-02T20:19:40.470Z",
+      "id": "bc0a2927a5c9"
+    },
+    {
+      "title": "$Investors$ Fixer Upper in Grecia",
+      "price_text": "₡119",
+      "price_usd": 0,
+      "location": "hace 8 minGrecia",
+      "url": "https://www.craigslist.org/view/d/investors-fixer-upper-in-grecia/iaJtrN3vfCBFogekxeJNeU?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7959653187/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-02T20:19:45.424Z",
+      "id": "bc0a2927a5c9"
+    },
+    {
+      "title": "$Investors$ Fixer Upper in Grecia",
+      "price_text": "₡119",
+      "price_usd": 0,
+      "location": "hace 8 minGrecia",
+      "url": "https://www.craigslist.org/view/d/investors-fixer-upper-in-grecia/iaJtrN3vfCBFogekxeJNeU?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7959653187/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-02T20:19:50.421Z",
+      "id": "bc0a2927a5c9"
+    },
+    {
+      "title": "$Investors$ Fixer Upper in Grecia",
+      "price_text": "₡119",
+      "price_usd": 0,
+      "location": "hace 8 minGrecia",
+      "url": "https://www.craigslist.org/view/d/investors-fixer-upper-in-grecia/iaJtrN3vfCBFogekxeJNeU?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7959653187/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-02T20:19:55.310Z",
+      "id": "bc0a2927a5c9"
+    },
+    {
+      "title": "$Investors$ Fixer Upper in Grecia",
+      "price_text": "₡119",
+      "price_usd": 0,
+      "location": "hace 9 minGrecia",
+      "url": "https://www.craigslist.org/view/d/investors-fixer-upper-in-grecia/iaJtrN3vfCBFogekxeJNeU?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7959653187/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-02T20:20:00.206Z",
+      "id": "0c906178cbd9"
     }
   ],
-  "last_updated": "2026-09-02T15:50:36.005Z",
+  "last_updated": "2026-09-02T20:24:54.279Z",
   "total_count": 402
 }
