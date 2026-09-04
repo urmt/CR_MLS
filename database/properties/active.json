@@ -23224,8 +23224,308 @@
       "category": "residential",
       "scraped_at": "2026-09-03T20:20:55.847Z",
       "id": "f890ad02e280"
+    },
+    {
+      "title": "Apartment - Live Jaco Model B-8th",
+      "price_text": "₡117,450,000",
+      "price_usd": 234900,
+      "location": "hace 1 h2br104ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-live-jaco-model-8th/i8ULVHZpB45cpQHD1HSaZf?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956760541/01515_i2GWd2zT0bu_0m50fE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:29:44.619Z",
+      "id": "2a29cc377678"
+    },
+    {
+      "title": "Apartment - Live Jaco Model A-7th",
+      "price_text": "₡94,050,000",
+      "price_usd": 188100,
+      "location": "hace 1 h2br86ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-live-jaco-model-7th/3PtTwy2ozBaFkuBp9m5XXs?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956755267/01515_i2GWd2zT0bu_0m50fE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:29:44.660Z",
+      "id": "369e853e1f88"
+    },
+    {
+      "title": "Apartment - Viva Jaco MODEL A",
+      "price_text": "₡94,050,000",
+      "price_usd": 188100,
+      "location": "hace 1 h2br87ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-viva-jaco-model/sEe6RvfkKfXA7NYehZr4iM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956546653/00a0a_7bdWyk1ig3U_0lW0gs_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:29:44.695Z",
+      "id": "9f4258697c6c"
+    },
+    {
+      "title": "Apartment - Viva Jaco MODEL B",
+      "price_text": "₡117,450,000",
+      "price_usd": 234900,
+      "location": "hace 1 h2br103ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-viva-jaco-model/1PBn8NmY8FGFWtS2puXn3i?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956307474/00a0a_7bdWyk1ig3U_0lW0gs_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:29:44.731Z",
+      "id": "35dfdb7e5ba4"
+    },
+    {
+      "title": "Apartment - Live Jaco Model B-8th",
+      "price_text": "₡117,450,000",
+      "price_usd": 234900,
+      "location": "hace 1 h2br104ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-live-jaco-model-8th/i8ULVHZpB45cpQHD1HSaZf?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956760541/01515_i2GWd2zT0bu_0m50fE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:29:49.450Z",
+      "id": "2a29cc377678"
+    },
+    {
+      "title": "Apartment - Live Jaco Model A-7th",
+      "price_text": "₡94,050,000",
+      "price_usd": 188100,
+      "location": "hace 1 h2br86ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-live-jaco-model-7th/3PtTwy2ozBaFkuBp9m5XXs?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956755267/01515_i2GWd2zT0bu_0m50fE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:29:49.489Z",
+      "id": "369e853e1f88"
+    },
+    {
+      "title": "Apartment - Viva Jaco MODEL A",
+      "price_text": "₡94,050,000",
+      "price_usd": 188100,
+      "location": "hace 1 h2br87ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-viva-jaco-model/sEe6RvfkKfXA7NYehZr4iM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956546653/00a0a_7bdWyk1ig3U_0lW0gs_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:29:49.523Z",
+      "id": "9f4258697c6c"
+    },
+    {
+      "title": "Apartment - Viva Jaco MODEL B",
+      "price_text": "₡117,450,000",
+      "price_usd": 234900,
+      "location": "hace 1 h2br103ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-viva-jaco-model/1PBn8NmY8FGFWtS2puXn3i?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956307474/00a0a_7bdWyk1ig3U_0lW0gs_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:29:49.558Z",
+      "id": "35dfdb7e5ba4"
+    },
+    {
+      "title": "Apartment - Live Jaco Model B-8th",
+      "price_text": "₡117,450,000",
+      "price_usd": 234900,
+      "location": "hace 1 h2br104ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-live-jaco-model-8th/i8ULVHZpB45cpQHD1HSaZf?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956760541/01515_i2GWd2zT0bu_0m50fE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:29:54.414Z",
+      "id": "2a29cc377678"
+    },
+    {
+      "title": "Apartment - Live Jaco Model A-7th",
+      "price_text": "₡94,050,000",
+      "price_usd": 188100,
+      "location": "hace 1 h2br86ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-live-jaco-model-7th/3PtTwy2ozBaFkuBp9m5XXs?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956755267/01515_i2GWd2zT0bu_0m50fE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:29:54.453Z",
+      "id": "369e853e1f88"
+    },
+    {
+      "title": "Apartment - Viva Jaco MODEL A",
+      "price_text": "₡94,050,000",
+      "price_usd": 188100,
+      "location": "hace 1 h2br87ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-viva-jaco-model/sEe6RvfkKfXA7NYehZr4iM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956546653/00a0a_7bdWyk1ig3U_0lW0gs_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:29:54.492Z",
+      "id": "9f4258697c6c"
+    },
+    {
+      "title": "Apartment - Viva Jaco MODEL B",
+      "price_text": "₡117,450,000",
+      "price_usd": 234900,
+      "location": "hace 1 h2br103ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-viva-jaco-model/1PBn8NmY8FGFWtS2puXn3i?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956307474/00a0a_7bdWyk1ig3U_0lW0gs_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:29:54.537Z",
+      "id": "35dfdb7e5ba4"
+    },
+    {
+      "title": "Apartment - Live Jaco Model B-8th",
+      "price_text": "₡117,450,000",
+      "price_usd": 234900,
+      "location": "hace 1 h2br104ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-live-jaco-model-8th/i8ULVHZpB45cpQHD1HSaZf?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956760541/01515_i2GWd2zT0bu_0m50fE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:29:59.240Z",
+      "id": "2a29cc377678"
+    },
+    {
+      "title": "Apartment - Live Jaco Model A-7th",
+      "price_text": "₡94,050,000",
+      "price_usd": 188100,
+      "location": "hace 1 h2br86ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-live-jaco-model-7th/3PtTwy2ozBaFkuBp9m5XXs?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956755267/01515_i2GWd2zT0bu_0m50fE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:29:59.280Z",
+      "id": "369e853e1f88"
+    },
+    {
+      "title": "Apartment - Viva Jaco MODEL A",
+      "price_text": "₡94,050,000",
+      "price_usd": 188100,
+      "location": "hace 1 h2br87ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-viva-jaco-model/sEe6RvfkKfXA7NYehZr4iM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956546653/00a0a_7bdWyk1ig3U_0lW0gs_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:29:59.315Z",
+      "id": "9f4258697c6c"
+    },
+    {
+      "title": "Apartment - Viva Jaco MODEL B",
+      "price_text": "₡117,450,000",
+      "price_usd": 234900,
+      "location": "hace 1 h2br103ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-viva-jaco-model/1PBn8NmY8FGFWtS2puXn3i?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956307474/00a0a_7bdWyk1ig3U_0lW0gs_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:29:59.349Z",
+      "id": "35dfdb7e5ba4"
+    },
+    {
+      "title": "Apartment - Live Jaco Model B-8th",
+      "price_text": "₡117,450,000",
+      "price_usd": 234900,
+      "location": "hace 1 h2br104ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-live-jaco-model-8th/i8ULVHZpB45cpQHD1HSaZf?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956760541/01515_i2GWd2zT0bu_0m50fE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:30:04.035Z",
+      "id": "2a29cc377678"
+    },
+    {
+      "title": "Apartment - Live Jaco Model A-7th",
+      "price_text": "₡94,050,000",
+      "price_usd": 188100,
+      "location": "hace 1 h2br86ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-live-jaco-model-7th/3PtTwy2ozBaFkuBp9m5XXs?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956755267/01515_i2GWd2zT0bu_0m50fE_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:30:04.074Z",
+      "id": "369e853e1f88"
+    },
+    {
+      "title": "Apartment - Viva Jaco MODEL A",
+      "price_text": "₡94,050,000",
+      "price_usd": 188100,
+      "location": "hace 1 h2br87ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-viva-jaco-model/sEe6RvfkKfXA7NYehZr4iM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956546653/00a0a_7bdWyk1ig3U_0lW0gs_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:30:04.109Z",
+      "id": "9f4258697c6c"
+    },
+    {
+      "title": "Apartment - Viva Jaco MODEL B",
+      "price_text": "₡117,450,000",
+      "price_usd": 234900,
+      "location": "hace 1 h2br103ft2Jaco Beach",
+      "url": "https://www.craigslist.org/view/d/apartment-viva-jaco-model/1PBn8NmY8FGFWtS2puXn3i?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956307474/00a0a_7bdWyk1ig3U_0lW0gs_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T15:30:04.144Z",
+      "id": "35dfdb7e5ba4"
     }
   ],
-  "last_updated": "2026-09-04T10:20:26.757Z",
+  "last_updated": "2026-09-04T15:35:27.113Z",
   "total_count": 402
 }
