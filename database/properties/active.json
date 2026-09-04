@@ -1,21 +1,6 @@
 {
   "properties": [
     {
-      "title": "Investment Opportunity: Tucan Hotel\n                Hotel / Leisure, Uvita, Puntarenas",
-      "price_text": "$1,599,999",
-      "price_usd": 1599999,
-      "location": "Hotel / Leisure, Uvita, Puntarenas",
-      "url": "https://www.coldwellbankercostarica.com/property/17-bed-hotel-leisure-for-sale-in-uvita/10032",
-      "images": [
-        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-06-06T02:29:19.101Z",
-      "id": "2e96bf6d7f08"
-    },
-    {
       "title": "One-Hectare Nature Retreat with River, Viewpoint & Fine Finishes",
       "price_text": "₡75,000,000",
       "price_usd": 150000,
@@ -23241,6 +23226,6 @@
       "id": "f890ad02e280"
     }
   ],
-  "last_updated": "2026-09-04T02:21:56.280Z",
+  "last_updated": "2026-09-04T10:20:26.757Z",
   "total_count": 402
 }
