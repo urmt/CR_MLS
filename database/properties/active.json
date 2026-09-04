@@ -23524,8 +23524,173 @@
       "category": "residential",
       "scraped_at": "2026-09-04T15:30:04.144Z",
       "id": "35dfdb7e5ba4"
+    },
+    {
+      "title": "House for sale",
+      "price_text": "₡150,000,000",
+      "price_usd": 300000,
+      "location": "hace 1 h5brHatillo 4",
+      "url": "https://www.craigslist.org/view/d/house-for-sale/2ixznZeaxRzjUbWc222VNf?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7960793547/00G0G_7MA53i8HgmT_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T20:04:53.821Z",
+      "id": "7a183ffda520"
+    },
+    {
+      "title": "Jungle House Walk To Beach!",
+      "price_text": "₡102,422,000",
+      "price_usd": 204844,
+      "location": "hace 4 h10000ft2Playa Zancudo",
+      "url": "https://www.craigslist.org/view/d/jungle-house-walk-to-beach/9ycLdroXUqwUUcq9L6fMT9?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7949497796/00e0e_53vu8abSd48_0CF0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T20:04:53.858Z",
+      "id": "61c0888ab182"
+    },
+    {
+      "title": "House for sale",
+      "price_text": "₡150,000,000",
+      "price_usd": 300000,
+      "location": "hace 1 h5brHatillo 4",
+      "url": "https://www.craigslist.org/view/d/house-for-sale/2ixznZeaxRzjUbWc222VNf?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7960793547/00G0G_7MA53i8HgmT_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T20:04:58.767Z",
+      "id": "7a183ffda520"
+    },
+    {
+      "title": "Jungle House Walk To Beach!",
+      "price_text": "₡102,422,000",
+      "price_usd": 204844,
+      "location": "hace 4 h10000ft2Playa Zancudo",
+      "url": "https://www.craigslist.org/view/d/jungle-house-walk-to-beach/9ycLdroXUqwUUcq9L6fMT9?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7949497796/00e0e_53vu8abSd48_0CF0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T20:04:58.799Z",
+      "id": "61c0888ab182"
+    },
+    {
+      "title": "House for sale",
+      "price_text": "₡150,000,000",
+      "price_usd": 300000,
+      "location": "hace 1 h5brHatillo 4",
+      "url": "https://www.craigslist.org/view/d/house-for-sale/2ixznZeaxRzjUbWc222VNf?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7960793547/00G0G_7MA53i8HgmT_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T20:05:03.673Z",
+      "id": "7a183ffda520"
+    },
+    {
+      "title": "Jungle House Walk To Beach!",
+      "price_text": "₡102,422,000",
+      "price_usd": 204844,
+      "location": "hace 4 h10000ft2Playa Zancudo",
+      "url": "https://www.craigslist.org/view/d/jungle-house-walk-to-beach/9ycLdroXUqwUUcq9L6fMT9?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7949497796/00e0e_53vu8abSd48_0CF0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T20:05:03.706Z",
+      "id": "61c0888ab182"
+    },
+    {
+      "title": "House for sale",
+      "price_text": "₡150,000,000",
+      "price_usd": 300000,
+      "location": "hace 1 h5brHatillo 4",
+      "url": "https://www.craigslist.org/view/d/house-for-sale/2ixznZeaxRzjUbWc222VNf?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7960793547/00G0G_7MA53i8HgmT_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T20:05:08.731Z",
+      "id": "7a183ffda520"
+    },
+    {
+      "title": "Jungle House Walk To Beach!",
+      "price_text": "₡102,422,000",
+      "price_usd": 204844,
+      "location": "hace 4 h10000ft2Playa Zancudo",
+      "url": "https://www.craigslist.org/view/d/jungle-house-walk-to-beach/9ycLdroXUqwUUcq9L6fMT9?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7949497796/00e0e_53vu8abSd48_0CF0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T20:05:08.765Z",
+      "id": "61c0888ab182"
+    },
+    {
+      "title": "House for sale",
+      "price_text": "₡150,000,000",
+      "price_usd": 300000,
+      "location": "hace 1 h5brHatillo 4",
+      "url": "https://www.craigslist.org/view/d/house-for-sale/2ixznZeaxRzjUbWc222VNf?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7960793547/00G0G_7MA53i8HgmT_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T20:05:13.780Z",
+      "id": "7a183ffda520"
+    },
+    {
+      "title": "Jungle House Walk To Beach!",
+      "price_text": "₡102,422,000",
+      "price_usd": 204844,
+      "location": "hace 4 h10000ft2Playa Zancudo",
+      "url": "https://www.craigslist.org/view/d/jungle-house-walk-to-beach/9ycLdroXUqwUUcq9L6fMT9?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7949497796/00e0e_53vu8abSd48_0CF0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-04T20:05:13.812Z",
+      "id": "61c0888ab182"
+    },
+    {
+      "title": "Beachfront Lot in Coralis - Hacienda Pinilla, Guanacaste\n                Land, Hacienda Pinilla, Guanacaste",
+      "price_text": "$4,250,000",
+      "price_usd": 4250000,
+      "location": "Land, Hacienda Pinilla, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-hacienda-pinilla/15492",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-04T20:06:02.780Z",
+      "id": "0da0539e0589"
     }
   ],
-  "last_updated": "2026-09-04T15:36:01.645Z",
+  "last_updated": "2026-09-04T20:11:02.259Z",
   "total_count": 402
 }
