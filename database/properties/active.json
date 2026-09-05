@@ -23614,8 +23614,233 @@
       "category": "land",
       "scraped_at": "2026-09-04T20:06:02.780Z",
       "id": "0da0539e0589"
+    },
+    {
+      "title": "Beautiful lot located in Bahía Gigante, 26,589 m²",
+      "price_text": "₡89,500,000",
+      "price_usd": 179000,
+      "location": "En este momento26589ft2BAHIA GIGANTE",
+      "url": "https://www.craigslist.org/view/d/beautiful-lot-located-in-baha-gigante/mtDWSr97rXT3gCVc5hudqG?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7961044653/00303_7FYheETEnKh_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-05T02:11:15.525Z",
+      "id": "214e09f77ca9"
+    },
+    {
+      "title": "HOUSE IN A CHALET-STYLE CONDOMINIUM",
+      "price_text": "₡154,500,000",
+      "price_usd": 309000,
+      "location": "hace 14 min3br251ft2SANTA ANA",
+      "url": "https://www.craigslist.org/view/d/house-in-chalet-style-condominium/g2xoofcF6ztFiuutgMVdiM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7961040936/00W0W_jIYeQBXpKsh_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-05T02:11:15.569Z",
+      "id": "2bf2146e99b5"
+    },
+    {
+      "title": "**FOR SALE | 3,000 m² LOT IN CARRIZAL, ESCAZÚ**",
+      "price_text": "₡165,000,000",
+      "price_usd": 330000,
+      "location": "hace 3 h3000ft2",
+      "url": "https://www.craigslist.org/view/d/for-sale-lot-in-carrizal-escaz/3C9sXq3uPqJyRP9iWkPYnV?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956776123/00p0p_5vjHyYCk2Yn_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-05T02:11:15.679Z",
+      "id": "5a91cbe98fb2"
+    },
+    {
+      "title": "Beautiful lot located in Bahía Gigante, 26,589 m²",
+      "price_text": "₡89,500,000",
+      "price_usd": 179000,
+      "location": "En este momento26589ft2BAHIA GIGANTE",
+      "url": "https://www.craigslist.org/view/d/beautiful-lot-located-in-baha-gigante/mtDWSr97rXT3gCVc5hudqG?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7961044653/00303_7FYheETEnKh_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-05T02:11:20.678Z",
+      "id": "214e09f77ca9"
+    },
+    {
+      "title": "HOUSE IN A CHALET-STYLE CONDOMINIUM",
+      "price_text": "₡154,500,000",
+      "price_usd": 309000,
+      "location": "hace 14 min3br251ft2SANTA ANA",
+      "url": "https://www.craigslist.org/view/d/house-in-chalet-style-condominium/g2xoofcF6ztFiuutgMVdiM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7961040936/00W0W_jIYeQBXpKsh_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-05T02:11:20.717Z",
+      "id": "2bf2146e99b5"
+    },
+    {
+      "title": "**FOR SALE | 3,000 m² LOT IN CARRIZAL, ESCAZÚ**",
+      "price_text": "₡165,000,000",
+      "price_usd": 330000,
+      "location": "hace 3 h3000ft2",
+      "url": "https://www.craigslist.org/view/d/for-sale-lot-in-carrizal-escaz/3C9sXq3uPqJyRP9iWkPYnV?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956776123/00p0p_5vjHyYCk2Yn_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-05T02:11:20.825Z",
+      "id": "5a91cbe98fb2"
+    },
+    {
+      "title": "Beautiful lot located in Bahía Gigante, 26,589 m²",
+      "price_text": "₡89,500,000",
+      "price_usd": 179000,
+      "location": "En este momento26589ft2BAHIA GIGANTE",
+      "url": "https://www.craigslist.org/view/d/beautiful-lot-located-in-baha-gigante/mtDWSr97rXT3gCVc5hudqG?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7961044653/00303_7FYheETEnKh_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-05T02:11:25.783Z",
+      "id": "214e09f77ca9"
+    },
+    {
+      "title": "HOUSE IN A CHALET-STYLE CONDOMINIUM",
+      "price_text": "₡154,500,000",
+      "price_usd": 309000,
+      "location": "hace 14 min3br251ft2SANTA ANA",
+      "url": "https://www.craigslist.org/view/d/house-in-chalet-style-condominium/g2xoofcF6ztFiuutgMVdiM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7961040936/00W0W_jIYeQBXpKsh_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-05T02:11:25.823Z",
+      "id": "2bf2146e99b5"
+    },
+    {
+      "title": "**FOR SALE | 3,000 m² LOT IN CARRIZAL, ESCAZÚ**",
+      "price_text": "₡165,000,000",
+      "price_usd": 330000,
+      "location": "hace 3 h3000ft2",
+      "url": "https://www.craigslist.org/view/d/for-sale-lot-in-carrizal-escaz/3C9sXq3uPqJyRP9iWkPYnV?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956776123/00p0p_5vjHyYCk2Yn_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-05T02:11:25.932Z",
+      "id": "5a91cbe98fb2"
+    },
+    {
+      "title": "Beautiful lot located in Bahía Gigante, 26,589 m²",
+      "price_text": "₡89,500,000",
+      "price_usd": 179000,
+      "location": "hace 1 min26589ft2BAHIA GIGANTE",
+      "url": "https://www.craigslist.org/view/d/beautiful-lot-located-in-baha-gigante/mtDWSr97rXT3gCVc5hudqG?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7961044653/00303_7FYheETEnKh_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-05T02:11:30.893Z",
+      "id": "cccbf39f8a5d"
+    },
+    {
+      "title": "HOUSE IN A CHALET-STYLE CONDOMINIUM",
+      "price_text": "₡154,500,000",
+      "price_usd": 309000,
+      "location": "hace 14 min3br251ft2SANTA ANA",
+      "url": "https://www.craigslist.org/view/d/house-in-chalet-style-condominium/g2xoofcF6ztFiuutgMVdiM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7961040936/00W0W_jIYeQBXpKsh_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-05T02:11:30.933Z",
+      "id": "2bf2146e99b5"
+    },
+    {
+      "title": "**FOR SALE | 3,000 m² LOT IN CARRIZAL, ESCAZÚ**",
+      "price_text": "₡165,000,000",
+      "price_usd": 330000,
+      "location": "hace 3 h3000ft2",
+      "url": "https://www.craigslist.org/view/d/for-sale-lot-in-carrizal-escaz/3C9sXq3uPqJyRP9iWkPYnV?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956776123/00p0p_5vjHyYCk2Yn_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-05T02:11:31.043Z",
+      "id": "5a91cbe98fb2"
+    },
+    {
+      "title": "Beautiful lot located in Bahía Gigante, 26,589 m²",
+      "price_text": "₡89,500,000",
+      "price_usd": 179000,
+      "location": "hace 1 min26589ft2BAHIA GIGANTE",
+      "url": "https://www.craigslist.org/view/d/beautiful-lot-located-in-baha-gigante/mtDWSr97rXT3gCVc5hudqG?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7961044653/00303_7FYheETEnKh_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-05T02:11:36.000Z",
+      "id": "cccbf39f8a5d"
+    },
+    {
+      "title": "HOUSE IN A CHALET-STYLE CONDOMINIUM",
+      "price_text": "₡154,500,000",
+      "price_usd": 309000,
+      "location": "hace 14 min3br251ft2SANTA ANA",
+      "url": "https://www.craigslist.org/view/d/house-in-chalet-style-condominium/g2xoofcF6ztFiuutgMVdiM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7961040936/00W0W_jIYeQBXpKsh_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-05T02:11:36.039Z",
+      "id": "2bf2146e99b5"
+    },
+    {
+      "title": "**FOR SALE | 3,000 m² LOT IN CARRIZAL, ESCAZÚ**",
+      "price_text": "₡165,000,000",
+      "price_usd": 330000,
+      "location": "hace 3 h3000ft2",
+      "url": "https://www.craigslist.org/view/d/for-sale-lot-in-carrizal-escaz/3C9sXq3uPqJyRP9iWkPYnV?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956776123/00p0p_5vjHyYCk2Yn_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-05T02:11:36.161Z",
+      "id": "5a91cbe98fb2"
     }
   ],
-  "last_updated": "2026-09-04T20:11:35.743Z",
+  "last_updated": "2026-09-05T02:15:56.386Z",
   "total_count": 402
 }
