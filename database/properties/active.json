@@ -23839,8 +23839,23 @@
       "category": "residential",
       "scraped_at": "2026-09-05T02:11:36.161Z",
       "id": "5a91cbe98fb2"
+    },
+    {
+      "title": "Casa Avalon\n                Single Family Homes, Punta Leona, Puntarenas",
+      "price_text": "$4,050,000",
+      "price_usd": 4050000,
+      "location": "Single Family Homes, Punta Leona, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-single-family-homes-for-sale-in-punta-leona/14189",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-09-06T02:08:02.634Z",
+      "id": "1d0ab757dbe3"
     }
   ],
-  "last_updated": "2026-09-05T19:50:53.749Z",
+  "last_updated": "2026-09-06T02:12:02.966Z",
   "total_count": 402
 }
