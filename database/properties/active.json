@@ -23680,8 +23680,23 @@
       "category": "luxury",
       "scraped_at": "2026-09-06T02:08:02.634Z",
       "id": "1d0ab757dbe3"
+    },
+    {
+      "title": "Boutique Hotel with Pool and Commercial Growth Potential in Santa Teresa\n                Hotel / Leisure, Santa Teresa, Puntarenas",
+      "price_text": "$1,750,000",
+      "price_usd": 1750000,
+      "location": "Hotel / Leisure, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/9-bed-hotel-leisure-for-sale-in-santa-teresa/14948",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-07T16:57:59.284Z",
+      "id": "a23da8c1d094"
     }
   ],
-  "last_updated": "2026-09-07T11:14:08.877Z",
+  "last_updated": "2026-09-07T17:00:15.023Z",
   "total_count": 402
 }
