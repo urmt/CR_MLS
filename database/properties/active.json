@@ -23680,8 +23680,83 @@
       "category": "luxury",
       "scraped_at": "2026-09-07T20:58:38.020Z",
       "id": "c4f8b14214ac"
+    },
+    {
+      "title": "Venta de casa en condominio distrito San Juan",
+      "price_text": "₡199,000,000",
+      "price_usd": 398000,
+      "location": "hace 7 h3br3659ft2Cartago, tres Rios la unión",
+      "url": "https://www.craigslist.org/view/d/venta-de-casa-en-condominio-distrito/vKCGyizpXCj9w6esC2Esyv?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-08T10:20:05.938Z",
+      "id": "0fd46bf7e21c"
+    },
+    {
+      "title": "Venta de casa en condominio distrito San Juan",
+      "price_text": "₡199,000,000",
+      "price_usd": 398000,
+      "location": "hace 7 h3br3659ft2Cartago, tres Rios la unión",
+      "url": "https://www.craigslist.org/view/d/venta-de-casa-en-condominio-distrito/vKCGyizpXCj9w6esC2Esyv?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-08T10:20:10.784Z",
+      "id": "0fd46bf7e21c"
+    },
+    {
+      "title": "Venta de casa en condominio distrito San Juan",
+      "price_text": "₡199,000,000",
+      "price_usd": 398000,
+      "location": "hace 7 h3br3659ft2Cartago, tres Rios la unión",
+      "url": "https://www.craigslist.org/view/d/venta-de-casa-en-condominio-distrito/vKCGyizpXCj9w6esC2Esyv?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-08T10:20:15.579Z",
+      "id": "0fd46bf7e21c"
+    },
+    {
+      "title": "Venta de casa en condominio distrito San Juan",
+      "price_text": "₡199,000,000",
+      "price_usd": 398000,
+      "location": "hace 7 h3br3659ft2Cartago, tres Rios la unión",
+      "url": "https://www.craigslist.org/view/d/venta-de-casa-en-condominio-distrito/vKCGyizpXCj9w6esC2Esyv?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-08T10:20:20.372Z",
+      "id": "0fd46bf7e21c"
+    },
+    {
+      "title": "Venta de casa en condominio distrito San Juan",
+      "price_text": "₡199,000,000",
+      "price_usd": 398000,
+      "location": "hace 7 h3br3659ft2Cartago, tres Rios la unión",
+      "url": "https://www.craigslist.org/view/d/venta-de-casa-en-condominio-distrito/vKCGyizpXCj9w6esC2Esyv?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-08T10:20:25.171Z",
+      "id": "0fd46bf7e21c"
     }
   ],
-  "last_updated": "2026-09-08T02:21:08.444Z",
+  "last_updated": "2026-09-08T10:25:26.024Z",
   "total_count": 402
 }
