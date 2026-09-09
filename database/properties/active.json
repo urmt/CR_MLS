@@ -23208,8 +23208,23 @@
       "category": "residential",
       "scraped_at": "2026-09-08T10:20:25.171Z",
       "id": "0fd46bf7e21c"
+    },
+    {
+      "title": "Ocean View Boutique Hotel Near Cahuita\n                Hotel / Leisure, Cahuita, Limón",
+      "price_text": "$1,800,000",
+      "price_usd": 1800000,
+      "location": "Hotel / Leisure, Cahuita, Limón",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-hotel-leisure-for-sale-in-cahuita/14964",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006zQnWX/zjgmpelkr/midres/Cover.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T15:41:05.549Z",
+      "id": "9f8bc709b9b7"
     }
   ],
-  "last_updated": "2026-09-09T10:34:16.071Z",
+  "last_updated": "2026-09-09T15:43:26.594Z",
   "total_count": 402
 }
