@@ -22533,8 +22533,473 @@
       "category": "residential",
       "scraped_at": "2026-09-09T15:41:05.549Z",
       "id": "9f8bc709b9b7"
+    },
+    {
+      "title": "QUINTA PARA VENTA, EN SAN RAMON. 36-197",
+      "price_text": "₡72,000,000",
+      "price_usd": 144000,
+      "location": "hace 5 h5058ft2ALAJUELA, SAN RAMON",
+      "url": "https://www.craigslist.org/view/d/quinta-para-venta-en-san-ramon/14uv4MdHH6PqPZnV7B5upz?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956031204/00B0B_4mAu3CCaMDY_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:13:49.273Z",
+      "id": "49285c0b8b0b"
+    },
+    {
+      "title": "HOTEL RURAL PARA VENTA, EN ALAJUELA 36-169-0069",
+      "price_text": "₡86,000,000",
+      "price_usd": 172000,
+      "location": "hace 5 h3700ft2ALAJUELA",
+      "url": "https://www.craigslist.org/view/d/hotel-rural-para-venta-en-alajuela/6rFmSs37pXxBLdiDtUe3wg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956028202/00R0R_l6qeSKLvahA_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:13:49.382Z",
+      "id": "b1c41fe05dd4"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN JOSE CERCA A LA CORTE. 36-183",
+      "price_text": "₡119,000,000",
+      "price_usd": 238000,
+      "location": "hace 5 h605ft2SAN JOSE, GOICOECHEA",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-san-jose-cerca-la/9mfTBadXU54K7C3G49g1zH?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956030030/00l0l_cDizyRr0bXW_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:13:49.452Z",
+      "id": "93024028b0fb"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN ROHRMOSER. 33-285",
+      "price_text": "₡674,000,000",
+      "price_usd": 1348000,
+      "location": "hace 5 h699ft2SAN JOSE, ROHRMOSER",
+      "url": "https://www.craigslist.org/view/d/propiedad-en-venta-en-rohrmoser/sX9BMACd4uE6WzyXenXXt4?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:13:49.565Z",
+      "id": "24f6d332b23c"
+    },
+    {
+      "title": "LOCAL COMERCIAL PARA VENTA, EN GUADALUPE. 34-179-0061",
+      "price_text": "₡360,000,000",
+      "price_usd": 720000,
+      "location": "hace 5 h980ft2SAN JOSE, GOICOECHEA, GUADALUPE",
+      "url": "https://www.craigslist.org/view/d/local-comercial-para-venta-en-guadalupe/jfPK3DxMrNnBkEvoHMSKtp?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:13:49.619Z",
+      "id": "9bed48155bea"
+    },
+    {
+      "title": "CASA PARA VENTA, EN SANTA ANA. 33-076",
+      "price_text": "₡427,000,000",
+      "price_usd": 854000,
+      "location": "hace 5 h4br2400ft2SAN JOSE, SANTA ANA",
+      "url": "https://www.craigslist.org/view/d/casa-para-venta-en-santa-ana/7WGWE2n4AkUgy82jruaPcZ?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:13:49.656Z",
+      "id": "ecc5e18860f6"
+    },
+    {
+      "title": "QUINTA PARA VENTA, EN SAN RAMON. 36-197",
+      "price_text": "₡72,000,000",
+      "price_usd": 144000,
+      "location": "hace 5 h5058ft2ALAJUELA, SAN RAMON",
+      "url": "https://www.craigslist.org/view/d/quinta-para-venta-en-san-ramon/14uv4MdHH6PqPZnV7B5upz?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956031204/00B0B_4mAu3CCaMDY_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:13:54.391Z",
+      "id": "49285c0b8b0b"
+    },
+    {
+      "title": "HOTEL RURAL PARA VENTA, EN ALAJUELA 36-169-0069",
+      "price_text": "₡86,000,000",
+      "price_usd": 172000,
+      "location": "hace 5 h3700ft2ALAJUELA",
+      "url": "https://www.craigslist.org/view/d/hotel-rural-para-venta-en-alajuela/6rFmSs37pXxBLdiDtUe3wg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956028202/00R0R_l6qeSKLvahA_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:13:54.472Z",
+      "id": "b1c41fe05dd4"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN JOSE CERCA A LA CORTE. 36-183",
+      "price_text": "₡119,000,000",
+      "price_usd": 238000,
+      "location": "hace 5 h605ft2SAN JOSE, GOICOECHEA",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-san-jose-cerca-la/9mfTBadXU54K7C3G49g1zH?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956030030/00l0l_cDizyRr0bXW_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:13:54.529Z",
+      "id": "93024028b0fb"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN ROHRMOSER. 33-285",
+      "price_text": "₡674,000,000",
+      "price_usd": 1348000,
+      "location": "hace 5 h699ft2SAN JOSE, ROHRMOSER",
+      "url": "https://www.craigslist.org/view/d/propiedad-en-venta-en-rohrmoser/sX9BMACd4uE6WzyXenXXt4?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:13:54.637Z",
+      "id": "24f6d332b23c"
+    },
+    {
+      "title": "LOCAL COMERCIAL PARA VENTA, EN GUADALUPE. 34-179-0061",
+      "price_text": "₡360,000,000",
+      "price_usd": 720000,
+      "location": "hace 5 h980ft2SAN JOSE, GOICOECHEA, GUADALUPE",
+      "url": "https://www.craigslist.org/view/d/local-comercial-para-venta-en-guadalupe/jfPK3DxMrNnBkEvoHMSKtp?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:13:54.690Z",
+      "id": "9bed48155bea"
+    },
+    {
+      "title": "CASA PARA VENTA, EN SANTA ANA. 33-076",
+      "price_text": "₡427,000,000",
+      "price_usd": 854000,
+      "location": "hace 5 h4br2400ft2SAN JOSE, SANTA ANA",
+      "url": "https://www.craigslist.org/view/d/casa-para-venta-en-santa-ana/7WGWE2n4AkUgy82jruaPcZ?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:13:54.728Z",
+      "id": "ecc5e18860f6"
+    },
+    {
+      "title": "QUINTA PARA VENTA, EN SAN RAMON. 36-197",
+      "price_text": "₡72,000,000",
+      "price_usd": 144000,
+      "location": "hace 5 h5058ft2ALAJUELA, SAN RAMON",
+      "url": "https://www.craigslist.org/view/d/quinta-para-venta-en-san-ramon/14uv4MdHH6PqPZnV7B5upz?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956031204/00B0B_4mAu3CCaMDY_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:13:59.585Z",
+      "id": "49285c0b8b0b"
+    },
+    {
+      "title": "HOTEL RURAL PARA VENTA, EN ALAJUELA 36-169-0069",
+      "price_text": "₡86,000,000",
+      "price_usd": 172000,
+      "location": "hace 5 h3700ft2ALAJUELA",
+      "url": "https://www.craigslist.org/view/d/hotel-rural-para-venta-en-alajuela/6rFmSs37pXxBLdiDtUe3wg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956028202/00R0R_l6qeSKLvahA_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:13:59.666Z",
+      "id": "b1c41fe05dd4"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN JOSE CERCA A LA CORTE. 36-183",
+      "price_text": "₡119,000,000",
+      "price_usd": 238000,
+      "location": "hace 5 h605ft2SAN JOSE, GOICOECHEA",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-san-jose-cerca-la/9mfTBadXU54K7C3G49g1zH?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956030030/00l0l_cDizyRr0bXW_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:13:59.723Z",
+      "id": "93024028b0fb"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN ROHRMOSER. 33-285",
+      "price_text": "₡674,000,000",
+      "price_usd": 1348000,
+      "location": "hace 5 h699ft2SAN JOSE, ROHRMOSER",
+      "url": "https://www.craigslist.org/view/d/propiedad-en-venta-en-rohrmoser/sX9BMACd4uE6WzyXenXXt4?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:13:59.832Z",
+      "id": "24f6d332b23c"
+    },
+    {
+      "title": "LOCAL COMERCIAL PARA VENTA, EN GUADALUPE. 34-179-0061",
+      "price_text": "₡360,000,000",
+      "price_usd": 720000,
+      "location": "hace 5 h980ft2SAN JOSE, GOICOECHEA, GUADALUPE",
+      "url": "https://www.craigslist.org/view/d/local-comercial-para-venta-en-guadalupe/jfPK3DxMrNnBkEvoHMSKtp?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:13:59.886Z",
+      "id": "9bed48155bea"
+    },
+    {
+      "title": "CASA PARA VENTA, EN SANTA ANA. 33-076",
+      "price_text": "₡427,000,000",
+      "price_usd": 854000,
+      "location": "hace 5 h4br2400ft2SAN JOSE, SANTA ANA",
+      "url": "https://www.craigslist.org/view/d/casa-para-venta-en-santa-ana/7WGWE2n4AkUgy82jruaPcZ?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:13:59.923Z",
+      "id": "ecc5e18860f6"
+    },
+    {
+      "title": "QUINTA PARA VENTA, EN SAN RAMON. 36-197",
+      "price_text": "₡72,000,000",
+      "price_usd": 144000,
+      "location": "hace 5 h5058ft2ALAJUELA, SAN RAMON",
+      "url": "https://www.craigslist.org/view/d/quinta-para-venta-en-san-ramon/14uv4MdHH6PqPZnV7B5upz?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956031204/00B0B_4mAu3CCaMDY_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:14:04.629Z",
+      "id": "49285c0b8b0b"
+    },
+    {
+      "title": "HOTEL RURAL PARA VENTA, EN ALAJUELA 36-169-0069",
+      "price_text": "₡86,000,000",
+      "price_usd": 172000,
+      "location": "hace 5 h3700ft2ALAJUELA",
+      "url": "https://www.craigslist.org/view/d/hotel-rural-para-venta-en-alajuela/6rFmSs37pXxBLdiDtUe3wg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956028202/00R0R_l6qeSKLvahA_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:14:04.711Z",
+      "id": "b1c41fe05dd4"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN JOSE CERCA A LA CORTE. 36-183",
+      "price_text": "₡119,000,000",
+      "price_usd": 238000,
+      "location": "hace 5 h605ft2SAN JOSE, GOICOECHEA",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-san-jose-cerca-la/9mfTBadXU54K7C3G49g1zH?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956030030/00l0l_cDizyRr0bXW_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:14:04.771Z",
+      "id": "93024028b0fb"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN ROHRMOSER. 33-285",
+      "price_text": "₡674,000,000",
+      "price_usd": 1348000,
+      "location": "hace 5 h699ft2SAN JOSE, ROHRMOSER",
+      "url": "https://www.craigslist.org/view/d/propiedad-en-venta-en-rohrmoser/sX9BMACd4uE6WzyXenXXt4?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:14:04.881Z",
+      "id": "24f6d332b23c"
+    },
+    {
+      "title": "LOCAL COMERCIAL PARA VENTA, EN GUADALUPE. 34-179-0061",
+      "price_text": "₡360,000,000",
+      "price_usd": 720000,
+      "location": "hace 5 h980ft2SAN JOSE, GOICOECHEA, GUADALUPE",
+      "url": "https://www.craigslist.org/view/d/local-comercial-para-venta-en-guadalupe/jfPK3DxMrNnBkEvoHMSKtp?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:14:04.935Z",
+      "id": "9bed48155bea"
+    },
+    {
+      "title": "CASA PARA VENTA, EN SANTA ANA. 33-076",
+      "price_text": "₡427,000,000",
+      "price_usd": 854000,
+      "location": "hace 5 h4br2400ft2SAN JOSE, SANTA ANA",
+      "url": "https://www.craigslist.org/view/d/casa-para-venta-en-santa-ana/7WGWE2n4AkUgy82jruaPcZ?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:14:04.975Z",
+      "id": "ecc5e18860f6"
+    },
+    {
+      "title": "QUINTA PARA VENTA, EN SAN RAMON. 36-197",
+      "price_text": "₡72,000,000",
+      "price_usd": 144000,
+      "location": "hace 5 h5058ft2ALAJUELA, SAN RAMON",
+      "url": "https://www.craigslist.org/view/d/quinta-para-venta-en-san-ramon/14uv4MdHH6PqPZnV7B5upz?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956031204/00B0B_4mAu3CCaMDY_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:14:09.831Z",
+      "id": "49285c0b8b0b"
+    },
+    {
+      "title": "HOTEL RURAL PARA VENTA, EN ALAJUELA 36-169-0069",
+      "price_text": "₡86,000,000",
+      "price_usd": 172000,
+      "location": "hace 5 h3700ft2ALAJUELA",
+      "url": "https://www.craigslist.org/view/d/hotel-rural-para-venta-en-alajuela/6rFmSs37pXxBLdiDtUe3wg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956028202/00R0R_l6qeSKLvahA_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:14:09.912Z",
+      "id": "b1c41fe05dd4"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN JOSE CERCA A LA CORTE. 36-183",
+      "price_text": "₡119,000,000",
+      "price_usd": 238000,
+      "location": "hace 5 h605ft2SAN JOSE, GOICOECHEA",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-san-jose-cerca-la/9mfTBadXU54K7C3G49g1zH?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956030030/00l0l_cDizyRr0bXW_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:14:09.970Z",
+      "id": "93024028b0fb"
+    },
+    {
+      "title": "PROPIEDAD EN VENTA, EN ROHRMOSER. 33-285",
+      "price_text": "₡674,000,000",
+      "price_usd": 1348000,
+      "location": "hace 5 h699ft2SAN JOSE, ROHRMOSER",
+      "url": "https://www.craigslist.org/view/d/propiedad-en-venta-en-rohrmoser/sX9BMACd4uE6WzyXenXXt4?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:14:10.078Z",
+      "id": "24f6d332b23c"
+    },
+    {
+      "title": "LOCAL COMERCIAL PARA VENTA, EN GUADALUPE. 34-179-0061",
+      "price_text": "₡360,000,000",
+      "price_usd": 720000,
+      "location": "hace 5 h980ft2SAN JOSE, GOICOECHEA, GUADALUPE",
+      "url": "https://www.craigslist.org/view/d/local-comercial-para-venta-en-guadalupe/jfPK3DxMrNnBkEvoHMSKtp?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:14:10.131Z",
+      "id": "9bed48155bea"
+    },
+    {
+      "title": "CASA PARA VENTA, EN SANTA ANA. 33-076",
+      "price_text": "₡427,000,000",
+      "price_usd": 854000,
+      "location": "hace 5 h4br2400ft2SAN JOSE, SANTA ANA",
+      "url": "https://www.craigslist.org/view/d/casa-para-venta-en-santa-ana/7WGWE2n4AkUgy82jruaPcZ?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-09T20:14:10.168Z",
+      "id": "ecc5e18860f6"
+    },
+    {
+      "title": "Casa Fantastica Luxury Mountain and Ocean View Villa\n                Single Family Homes, Manuel Antonio, Puntarenas",
+      "price_text": "$5,500,000",
+      "price_usd": 5500000,
+      "location": "Single Family Homes, Manuel Antonio, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/10-bed-single-family-homes-for-sale-in-manuel-antonio/13617",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005cAX2J/k7gqctauh/midres/Fantastica-189.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-09-09T20:14:45.361Z",
+      "id": "10b7cb2a9784"
     }
   ],
-  "last_updated": "2026-09-09T15:44:02.186Z",
+  "last_updated": "2026-09-09T20:19:08.288Z",
   "total_count": 402
 }
