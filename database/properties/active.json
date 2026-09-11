@@ -22740,8 +22740,308 @@
       "category": "luxury",
       "scraped_at": "2026-09-09T20:14:45.361Z",
       "id": "10b7cb2a9784"
+    },
+    {
+      "title": "House for sale, San Isidro de Heredia  579 sq. mts",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 22 min3br579ft2San Fransisco de San Isidro de Heredia",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-san-isidro-de-heredia/jEuMj8n3GSH3VsLHBNHXEc?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964416974/00q0q_3oYiweBNf6L_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-11T02:13:49.720Z",
+      "id": "22acd1c938d0"
+    },
+    {
+      "title": "Prime Coastal Land Opportunity  $70 x m2",
+      "price_text": "₡2,683,030",
+      "price_usd": 5366,
+      "location": "hace 2 h38329ft2Uvita, Osa, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/prime-coastal-land-opportunity-70-m2/ebaTXQMd7BGwUuaYVqZMhE?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964367609/00l0l_dgKS5p5iNOy_0ak07n_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-11T02:13:49.866Z",
+      "id": "b0165e410694"
+    },
+    {
+      "title": "Prime Land Opportunity",
+      "price_text": "₡89,000,000",
+      "price_usd": 178000,
+      "location": "hace 3 h2550ft2Sarchi, Alajuela",
+      "url": "https://www.craigslist.org/view/d/prime-land-opportunity/nUK8Z3WgZYkcsRno8FAsF6?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964355297/00v0v_8LBssn9r6sU_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-11T02:13:49.890Z",
+      "id": "762ae55d5ba1"
+    },
+    {
+      "title": "Exceptional Land Opportunity in Turrubares, Costa Rica",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 4 h2541ft2Turrubares",
+      "url": "https://www.craigslist.org/view/d/exceptional-land-opportunity-in/7s51HGXDDEW6d7uUsSJ7Rz?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964330289/00w0w_n6HRNkbjiM_09d06g_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-11T02:13:50.001Z",
+      "id": "015e2387af13"
+    },
+    {
+      "title": "House for sale, San Isidro de Heredia  579 sq. mts",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 22 min3br579ft2San Fransisco de San Isidro de Heredia",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-san-isidro-de-heredia/jEuMj8n3GSH3VsLHBNHXEc?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964416974/00q0q_3oYiweBNf6L_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-11T02:13:54.973Z",
+      "id": "22acd1c938d0"
+    },
+    {
+      "title": "Prime Coastal Land Opportunity  $70 x m2",
+      "price_text": "₡2,683,030",
+      "price_usd": 5366,
+      "location": "hace 2 h38329ft2Uvita, Osa, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/prime-coastal-land-opportunity-70-m2/ebaTXQMd7BGwUuaYVqZMhE?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964367609/00l0l_dgKS5p5iNOy_0ak07n_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-11T02:13:55.114Z",
+      "id": "b0165e410694"
+    },
+    {
+      "title": "Prime Land Opportunity",
+      "price_text": "₡89,000,000",
+      "price_usd": 178000,
+      "location": "hace 3 h2550ft2Sarchi, Alajuela",
+      "url": "https://www.craigslist.org/view/d/prime-land-opportunity/nUK8Z3WgZYkcsRno8FAsF6?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964355297/00v0v_8LBssn9r6sU_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-11T02:13:55.140Z",
+      "id": "762ae55d5ba1"
+    },
+    {
+      "title": "Exceptional Land Opportunity in Turrubares, Costa Rica",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 4 h2541ft2Turrubares",
+      "url": "https://www.craigslist.org/view/d/exceptional-land-opportunity-in/7s51HGXDDEW6d7uUsSJ7Rz?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964330289/00w0w_n6HRNkbjiM_09d06g_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-11T02:13:55.253Z",
+      "id": "015e2387af13"
+    },
+    {
+      "title": "House for sale, San Isidro de Heredia  579 sq. mts",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 22 min3br579ft2San Fransisco de San Isidro de Heredia",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-san-isidro-de-heredia/jEuMj8n3GSH3VsLHBNHXEc?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964416974/00q0q_3oYiweBNf6L_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-11T02:14:00.186Z",
+      "id": "22acd1c938d0"
+    },
+    {
+      "title": "Prime Coastal Land Opportunity  $70 x m2",
+      "price_text": "₡2,683,030",
+      "price_usd": 5366,
+      "location": "hace 2 h38329ft2Uvita, Osa, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/prime-coastal-land-opportunity-70-m2/ebaTXQMd7BGwUuaYVqZMhE?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964367609/00l0l_dgKS5p5iNOy_0ak07n_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-11T02:14:00.329Z",
+      "id": "b0165e410694"
+    },
+    {
+      "title": "Prime Land Opportunity",
+      "price_text": "₡89,000,000",
+      "price_usd": 178000,
+      "location": "hace 3 h2550ft2Sarchi, Alajuela",
+      "url": "https://www.craigslist.org/view/d/prime-land-opportunity/nUK8Z3WgZYkcsRno8FAsF6?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964355297/00v0v_8LBssn9r6sU_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-11T02:14:00.353Z",
+      "id": "762ae55d5ba1"
+    },
+    {
+      "title": "Exceptional Land Opportunity in Turrubares, Costa Rica",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 4 h2541ft2Turrubares",
+      "url": "https://www.craigslist.org/view/d/exceptional-land-opportunity-in/7s51HGXDDEW6d7uUsSJ7Rz?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964330289/00w0w_n6HRNkbjiM_09d06g_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-11T02:14:00.467Z",
+      "id": "015e2387af13"
+    },
+    {
+      "title": "House for sale, San Isidro de Heredia  579 sq. mts",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 22 min3br579ft2San Fransisco de San Isidro de Heredia",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-san-isidro-de-heredia/jEuMj8n3GSH3VsLHBNHXEc?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964416974/00q0q_3oYiweBNf6L_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-11T02:14:05.560Z",
+      "id": "22acd1c938d0"
+    },
+    {
+      "title": "Prime Coastal Land Opportunity  $70 x m2",
+      "price_text": "₡2,683,030",
+      "price_usd": 5366,
+      "location": "hace 2 h38329ft2Uvita, Osa, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/prime-coastal-land-opportunity-70-m2/ebaTXQMd7BGwUuaYVqZMhE?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964367609/00l0l_dgKS5p5iNOy_0ak07n_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-11T02:14:05.700Z",
+      "id": "b0165e410694"
+    },
+    {
+      "title": "Prime Land Opportunity",
+      "price_text": "₡89,000,000",
+      "price_usd": 178000,
+      "location": "hace 3 h2550ft2Sarchi, Alajuela",
+      "url": "https://www.craigslist.org/view/d/prime-land-opportunity/nUK8Z3WgZYkcsRno8FAsF6?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964355297/00v0v_8LBssn9r6sU_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-11T02:14:05.723Z",
+      "id": "762ae55d5ba1"
+    },
+    {
+      "title": "Exceptional Land Opportunity in Turrubares, Costa Rica",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 4 h2541ft2Turrubares",
+      "url": "https://www.craigslist.org/view/d/exceptional-land-opportunity-in/7s51HGXDDEW6d7uUsSJ7Rz?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964330289/00w0w_n6HRNkbjiM_09d06g_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-11T02:14:05.832Z",
+      "id": "015e2387af13"
+    },
+    {
+      "title": "House for sale, San Isidro de Heredia  579 sq. mts",
+      "price_text": "₡110,000,000",
+      "price_usd": 220000,
+      "location": "hace 23 min3br579ft2San Fransisco de San Isidro de Heredia",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-san-isidro-de-heredia/jEuMj8n3GSH3VsLHBNHXEc?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964416974/00q0q_3oYiweBNf6L_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-11T02:14:10.919Z",
+      "id": "c91272ff2939"
+    },
+    {
+      "title": "Prime Coastal Land Opportunity  $70 x m2",
+      "price_text": "₡2,683,030",
+      "price_usd": 5366,
+      "location": "hace 2 h38329ft2Uvita, Osa, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/prime-coastal-land-opportunity-70-m2/ebaTXQMd7BGwUuaYVqZMhE?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964367609/00l0l_dgKS5p5iNOy_0ak07n_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-11T02:14:11.061Z",
+      "id": "b0165e410694"
+    },
+    {
+      "title": "Prime Land Opportunity",
+      "price_text": "₡89,000,000",
+      "price_usd": 178000,
+      "location": "hace 3 h2550ft2Sarchi, Alajuela",
+      "url": "https://www.craigslist.org/view/d/prime-land-opportunity/nUK8Z3WgZYkcsRno8FAsF6?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964355297/00v0v_8LBssn9r6sU_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-11T02:14:11.084Z",
+      "id": "762ae55d5ba1"
+    },
+    {
+      "title": "Exceptional Land Opportunity in Turrubares, Costa Rica",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 4 h2541ft2Turrubares",
+      "url": "https://www.craigslist.org/view/d/exceptional-land-opportunity-in/7s51HGXDDEW6d7uUsSJ7Rz?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7964330289/00w0w_n6HRNkbjiM_09d06g_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-11T02:14:11.195Z",
+      "id": "015e2387af13"
     }
   ],
-  "last_updated": "2026-09-10T20:21:07.945Z",
+  "last_updated": "2026-09-11T02:19:09.481Z",
   "total_count": 402
 }
