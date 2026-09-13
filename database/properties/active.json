@@ -22605,8 +22605,233 @@
       "category": "land",
       "scraped_at": "2026-09-12T02:21:21.690Z",
       "id": "a7c5fd30af30"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 2,270 sq. mtrs2",
+      "price_text": "₡150,000,000",
+      "price_usd": 300000,
+      "location": "hace 4 h2270ft2",
+      "url": "https://www.craigslist.org/view/d/lot-for-sale-los-angeles-de-santo/7tTsk68XUfqnCPqNxBoCgQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7953695131/00404_dZMvDsQuTz_0tW0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-13T15:21:54.555Z",
+      "id": "3001287af500"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 915 sq. mtrs2",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 4 h915ft2Los Angeles de Santo Domingo de Heredia",
+      "url": "https://www.craigslist.org/view/d/lot-for-sale-los-angeles-de-santo/3bNLnuyLdCTCayHr2ms56D?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7953695044/00g0g_hxsODmk1Fc6_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-13T15:21:54.624Z",
+      "id": "5ec13c2ae5b0"
+    },
+    {
+      "title": "Building for sale, downtwon San Jose 3,163 sq. mtrs",
+      "price_text": "₡4,500,000",
+      "price_usd": 9000,
+      "location": "hace 4 h3163ft2San Jose, near Plaza de La Cultura",
+      "url": "https://www.craigslist.org/view/d/building-for-sale-downtwon-san-jose/rzA55w6SAjY2oEvJoPLu2p?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-13T15:21:54.754Z",
+      "id": "e82282491e42"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 2,270 sq. mtrs2",
+      "price_text": "₡150,000,000",
+      "price_usd": 300000,
+      "location": "hace 4 h2270ft2",
+      "url": "https://www.craigslist.org/view/d/lot-for-sale-los-angeles-de-santo/7tTsk68XUfqnCPqNxBoCgQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7953695131/00404_dZMvDsQuTz_0tW0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-13T15:21:59.598Z",
+      "id": "3001287af500"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 915 sq. mtrs2",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 4 h915ft2Los Angeles de Santo Domingo de Heredia",
+      "url": "https://www.craigslist.org/view/d/lot-for-sale-los-angeles-de-santo/3bNLnuyLdCTCayHr2ms56D?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7953695044/00g0g_hxsODmk1Fc6_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-13T15:21:59.667Z",
+      "id": "5ec13c2ae5b0"
+    },
+    {
+      "title": "Building for sale, downtwon San Jose 3,163 sq. mtrs",
+      "price_text": "₡4,500,000",
+      "price_usd": 9000,
+      "location": "hace 4 h3163ft2San Jose, near Plaza de La Cultura",
+      "url": "https://www.craigslist.org/view/d/building-for-sale-downtwon-san-jose/rzA55w6SAjY2oEvJoPLu2p?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-13T15:21:59.796Z",
+      "id": "e82282491e42"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 2,270 sq. mtrs2",
+      "price_text": "₡150,000,000",
+      "price_usd": 300000,
+      "location": "hace 4 h2270ft2",
+      "url": "https://www.craigslist.org/view/d/lot-for-sale-los-angeles-de-santo/7tTsk68XUfqnCPqNxBoCgQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7953695131/00404_dZMvDsQuTz_0tW0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-13T15:22:04.607Z",
+      "id": "3001287af500"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 915 sq. mtrs2",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 4 h915ft2Los Angeles de Santo Domingo de Heredia",
+      "url": "https://www.craigslist.org/view/d/lot-for-sale-los-angeles-de-santo/3bNLnuyLdCTCayHr2ms56D?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7953695044/00g0g_hxsODmk1Fc6_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-13T15:22:04.676Z",
+      "id": "5ec13c2ae5b0"
+    },
+    {
+      "title": "Building for sale, downtwon San Jose 3,163 sq. mtrs",
+      "price_text": "₡4,500,000",
+      "price_usd": 9000,
+      "location": "hace 4 h3163ft2San Jose, near Plaza de La Cultura",
+      "url": "https://www.craigslist.org/view/d/building-for-sale-downtwon-san-jose/rzA55w6SAjY2oEvJoPLu2p?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-13T15:22:04.804Z",
+      "id": "e82282491e42"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 2,270 sq. mtrs2",
+      "price_text": "₡150,000,000",
+      "price_usd": 300000,
+      "location": "hace 4 h2270ft2",
+      "url": "https://www.craigslist.org/view/d/lot-for-sale-los-angeles-de-santo/7tTsk68XUfqnCPqNxBoCgQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7953695131/00404_dZMvDsQuTz_0tW0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-13T15:22:09.607Z",
+      "id": "3001287af500"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 915 sq. mtrs2",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 4 h915ft2Los Angeles de Santo Domingo de Heredia",
+      "url": "https://www.craigslist.org/view/d/lot-for-sale-los-angeles-de-santo/3bNLnuyLdCTCayHr2ms56D?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7953695044/00g0g_hxsODmk1Fc6_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-13T15:22:09.676Z",
+      "id": "5ec13c2ae5b0"
+    },
+    {
+      "title": "Building for sale, downtwon San Jose 3,163 sq. mtrs",
+      "price_text": "₡4,500,000",
+      "price_usd": 9000,
+      "location": "hace 4 h3163ft2San Jose, near Plaza de La Cultura",
+      "url": "https://www.craigslist.org/view/d/building-for-sale-downtwon-san-jose/rzA55w6SAjY2oEvJoPLu2p?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-13T15:22:09.803Z",
+      "id": "e82282491e42"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 2,270 sq. mtrs2",
+      "price_text": "₡150,000,000",
+      "price_usd": 300000,
+      "location": "hace 4 h2270ft2",
+      "url": "https://www.craigslist.org/view/d/lot-for-sale-los-angeles-de-santo/7tTsk68XUfqnCPqNxBoCgQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7953695131/00404_dZMvDsQuTz_0tW0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-13T15:22:14.840Z",
+      "id": "3001287af500"
+    },
+    {
+      "title": "Lot for sale Los Angeles de Santo Domingo, 915 sq. mtrs2",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 4 h915ft2Los Angeles de Santo Domingo de Heredia",
+      "url": "https://www.craigslist.org/view/d/lot-for-sale-los-angeles-de-santo/3bNLnuyLdCTCayHr2ms56D?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7953695044/00g0g_hxsODmk1Fc6_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-13T15:22:14.908Z",
+      "id": "5ec13c2ae5b0"
+    },
+    {
+      "title": "Building for sale, downtwon San Jose 3,163 sq. mtrs",
+      "price_text": "₡4,500,000",
+      "price_usd": 9000,
+      "location": "hace 4 h3163ft2San Jose, near Plaza de La Cultura",
+      "url": "https://www.craigslist.org/view/d/building-for-sale-downtwon-san-jose/rzA55w6SAjY2oEvJoPLu2p?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-13T15:22:15.036Z",
+      "id": "e82282491e42"
     }
   ],
-  "last_updated": "2026-09-13T10:56:30.813Z",
+  "last_updated": "2026-09-13T15:26:18.208Z",
   "total_count": 402
 }
