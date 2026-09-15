@@ -22946,8 +22946,23 @@
       "category": "luxury",
       "scraped_at": "2026-09-15T02:39:23.081Z",
       "id": "8a9c2353f11a"
+    },
+    {
+      "title": "Investment Opportunity: Tucan Hotel\n                Hotel / Leisure, Uvita, Puntarenas",
+      "price_text": "$1,599,999",
+      "price_usd": 1599999,
+      "location": "Hotel / Leisure, Uvita, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/17-bed-hotel-leisure-for-sale-in-uvita/10032",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-15T10:46:28.544Z",
+      "id": "2e96bf6d7f08"
     }
   ],
-  "last_updated": "2026-09-15T02:43:47.420Z",
+  "last_updated": "2026-09-15T10:48:42.428Z",
   "total_count": 402
 }
