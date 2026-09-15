@@ -1,36 +1,6 @@
 {
   "properties": [
     {
-      "title": "Casa Magnifica at Los Suenos Resort\n                Single Family Homes, Los Suenos, Puntarenas",
-      "price_text": "$6,500,000",
-      "price_usd": 6500000,
-      "location": "Single Family Homes, Los Suenos, Puntarenas",
-      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-los-suenos/13667",
-      "images": [
-        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "luxury",
-      "scraped_at": "2026-06-17T14:55:03.237Z",
-      "id": "ea9bda128d63"
-    },
-    {
-      "title": "Casa Magnifica at Los Suenos Resort\n                Single Family Homes, Los Suenos, Puntarenas",
-      "price_text": "$6,500,000",
-      "price_usd": 6500000,
-      "location": "Single Family Homes, Los Suenos, Puntarenas",
-      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-los-suenos/13667",
-      "images": [
-        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "luxury",
-      "scraped_at": "2026-06-17T14:57:42.099Z",
-      "id": "ea9bda128d63"
-    },
-    {
       "title": "The Arc of The Sun ~ Experience the Pinnacle of Luxury in this 6...          Casa Skygarden ~ Jaw-Dropping Sunset Views Year-Round          Casa de Luz ~ 7 Bedroom Beachfront Estate on the White Sands of...",
       "price_text": "Price:     US$ 5 990 000.00      Price:     US$ 6 450 000.00      Price:     US$ 6 495 000.00",
       "price_usd": 5990000.00645,
@@ -22873,6 +22843,6 @@
       "id": "2e96bf6d7f08"
     }
   ],
-  "last_updated": "2026-09-15T10:49:17.436Z",
+  "last_updated": "2026-09-15T16:02:58.394Z",
   "total_count": 402
 }
