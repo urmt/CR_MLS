@@ -22853,8 +22853,98 @@
       "category": "luxury",
       "scraped_at": "2026-09-15T20:42:04.907Z",
       "id": "c924740bb588"
+    },
+    {
+      "title": "$600,000 Stunning 207-Acre Cattle & Eco Farm Near Monteverde",
+      "price_text": "₡270,000,000",
+      "price_usd": 540000,
+      "location": "hace 3 hGuacimal-Monteverde",
+      "url": "https://www.craigslist.org/view/d/stunning-207-acre-cattle-eco-farm-near/eMN99sGwGqEBSebtorF4tK?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7967180034/00w0w_lFFuJOlDopG_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-16T02:33:33.754Z",
+      "id": "9f0c3bf1dd3d"
+    },
+    {
+      "title": "$600,000 Stunning 207-Acre Cattle & Eco Farm Near Monteverde",
+      "price_text": "₡270,000,000",
+      "price_usd": 540000,
+      "location": "hace 3 hGuacimal-Monteverde",
+      "url": "https://www.craigslist.org/view/d/stunning-207-acre-cattle-eco-farm-near/eMN99sGwGqEBSebtorF4tK?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7967180034/00w0w_lFFuJOlDopG_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-16T02:33:38.547Z",
+      "id": "9f0c3bf1dd3d"
+    },
+    {
+      "title": "$600,000 Stunning 207-Acre Cattle & Eco Farm Near Monteverde",
+      "price_text": "₡270,000,000",
+      "price_usd": 540000,
+      "location": "hace 3 hGuacimal-Monteverde",
+      "url": "https://www.craigslist.org/view/d/stunning-207-acre-cattle-eco-farm-near/eMN99sGwGqEBSebtorF4tK?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7967180034/00w0w_lFFuJOlDopG_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-16T02:33:43.296Z",
+      "id": "9f0c3bf1dd3d"
+    },
+    {
+      "title": "$600,000 Stunning 207-Acre Cattle & Eco Farm Near Monteverde",
+      "price_text": "₡270,000,000",
+      "price_usd": 540000,
+      "location": "hace 3 hGuacimal-Monteverde",
+      "url": "https://www.craigslist.org/view/d/stunning-207-acre-cattle-eco-farm-near/eMN99sGwGqEBSebtorF4tK?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7967180034/00w0w_lFFuJOlDopG_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-16T02:33:48.038Z",
+      "id": "9f0c3bf1dd3d"
+    },
+    {
+      "title": "$600,000 Stunning 207-Acre Cattle & Eco Farm Near Monteverde",
+      "price_text": "₡270,000,000",
+      "price_usd": 540000,
+      "location": "hace 3 hGuacimal-Monteverde",
+      "url": "https://www.craigslist.org/view/d/stunning-207-acre-cattle-eco-farm-near/eMN99sGwGqEBSebtorF4tK?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7967180034/00w0w_lFFuJOlDopG_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-16T02:33:52.777Z",
+      "id": "9f0c3bf1dd3d"
+    },
+    {
+      "title": "FOR SALE | 3-Bedroom Home + Office and Maid's Quarters | Pozos, Santa Ana\n                Single Family Homes, Santa Ana, San Jose",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Single Family Homes, Santa Ana, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-single-family-homes-for-sale-in-santa-ana/15533",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00007ULjCt/tm409rgzw/midres/3-bedroom-home-for-rent-santa-ana-costa-rica%20-%208.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "commercial",
+      "scraped_at": "2026-09-16T02:35:47.896Z",
+      "id": "5b40f47173cb"
     }
   ],
-  "last_updated": "2026-09-15T20:46:05.718Z",
+  "last_updated": "2026-09-16T02:37:51.012Z",
   "total_count": 402
 }
