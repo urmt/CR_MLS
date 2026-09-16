@@ -22685,8 +22685,398 @@
       "category": "commercial",
       "scraped_at": "2026-09-16T02:35:47.896Z",
       "id": "5b40f47173cb"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN MATEO.36-286-78",
+      "price_text": "₡22,000,000",
+      "price_usd": 44000,
+      "location": "hace 59 min1500ft2ALAJUELA, SAN MATEO",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-san-mateo/knGDmPyepyzsA5LLxyBBVD?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956183778/00n0n_RhAjWYq6Vk_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:49:58.976Z",
+      "id": "a39a7ac76a47"
+    },
+    {
+      "title": "CASA CAMPESTRE PARA VENTA, EN GUAPILES. 33-222",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 59 min4br2010ft2LIMON, POCOCÍ, GUAPILES",
+      "url": "https://www.craigslist.org/view/d/casa-campestre-para-venta-en-guapiles/udEXYzoYHvbwWnuX4ZFkXU?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956014377/00909_di0NceWP21a_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:49:59.352Z",
+      "id": "95173e9f5a06"
+    },
+    {
+      "title": "CASA PARA VENTA, EN GUAYABOS DE CURRIDABAT. 33-242",
+      "price_text": "₡283,000,000",
+      "price_usd": 566000,
+      "location": "hace 59 min4br600ft2SAN JOSE, CURRIDABAT",
+      "url": "https://www.craigslist.org/view/d/casa-para-venta-en-guayabos-de/pCNkVmRKWsRbC4nypM2HKq?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:49:59.439Z",
+      "id": "07be833105d1"
+    },
+    {
+      "title": "CASA CAMPESTRE PARA VENTA, EN ATENAS. 33-291",
+      "price_text": "₡40,000,000",
+      "price_usd": 80000,
+      "location": "hace 59 min2br733ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/casa-campestre-para-venta-en-atenas/5FJJ5jJff3wYSroVPFFzZD?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:49:59.490Z",
+      "id": "303d351cd50d"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN MATEO.36-286-78",
+      "price_text": "₡22,000,000",
+      "price_usd": 44000,
+      "location": "hace 59 min1500ft2ALAJUELA, SAN MATEO",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-san-mateo/knGDmPyepyzsA5LLxyBBVD?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956183778/00n0n_RhAjWYq6Vk_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:50:04.214Z",
+      "id": "a39a7ac76a47"
+    },
+    {
+      "title": "CASA CAMPESTRE PARA VENTA, EN GUAPILES. 33-222",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 59 min4br2010ft2LIMON, POCOCÍ, GUAPILES",
+      "url": "https://www.craigslist.org/view/d/casa-campestre-para-venta-en-guapiles/udEXYzoYHvbwWnuX4ZFkXU?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956014377/00909_di0NceWP21a_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:50:04.587Z",
+      "id": "95173e9f5a06"
+    },
+    {
+      "title": "CASA PARA VENTA, EN GUAYABOS DE CURRIDABAT. 33-242",
+      "price_text": "₡283,000,000",
+      "price_usd": 566000,
+      "location": "hace 59 min4br600ft2SAN JOSE, CURRIDABAT",
+      "url": "https://www.craigslist.org/view/d/casa-para-venta-en-guayabos-de/pCNkVmRKWsRbC4nypM2HKq?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:50:04.675Z",
+      "id": "07be833105d1"
+    },
+    {
+      "title": "CASA CAMPESTRE PARA VENTA, EN ATENAS. 33-291",
+      "price_text": "₡40,000,000",
+      "price_usd": 80000,
+      "location": "hace 59 min2br733ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/casa-campestre-para-venta-en-atenas/5FJJ5jJff3wYSroVPFFzZD?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:50:04.728Z",
+      "id": "303d351cd50d"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN MATEO.36-286-78",
+      "price_text": "₡22,000,000",
+      "price_usd": 44000,
+      "location": "hace 59 min1500ft2ALAJUELA, SAN MATEO",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-san-mateo/knGDmPyepyzsA5LLxyBBVD?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956183778/00n0n_RhAjWYq6Vk_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:50:09.583Z",
+      "id": "a39a7ac76a47"
+    },
+    {
+      "title": "CASA CAMPESTRE PARA VENTA, EN GUAPILES. 33-222",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 59 min4br2010ft2LIMON, POCOCÍ, GUAPILES",
+      "url": "https://www.craigslist.org/view/d/casa-campestre-para-venta-en-guapiles/udEXYzoYHvbwWnuX4ZFkXU?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956014377/00909_di0NceWP21a_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:50:09.960Z",
+      "id": "95173e9f5a06"
+    },
+    {
+      "title": "CASA PARA VENTA, EN GUAYABOS DE CURRIDABAT. 33-242",
+      "price_text": "₡283,000,000",
+      "price_usd": 566000,
+      "location": "hace 59 min4br600ft2SAN JOSE, CURRIDABAT",
+      "url": "https://www.craigslist.org/view/d/casa-para-venta-en-guayabos-de/pCNkVmRKWsRbC4nypM2HKq?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:50:10.047Z",
+      "id": "07be833105d1"
+    },
+    {
+      "title": "CASA CAMPESTRE PARA VENTA, EN ATENAS. 33-291",
+      "price_text": "₡40,000,000",
+      "price_usd": 80000,
+      "location": "hace 59 min2br733ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/casa-campestre-para-venta-en-atenas/5FJJ5jJff3wYSroVPFFzZD?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:50:10.097Z",
+      "id": "303d351cd50d"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN MATEO.36-286-78",
+      "price_text": "₡22,000,000",
+      "price_usd": 44000,
+      "location": "hace 59 min1500ft2ALAJUELA, SAN MATEO",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-san-mateo/knGDmPyepyzsA5LLxyBBVD?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956183778/00n0n_RhAjWYq6Vk_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:50:14.937Z",
+      "id": "a39a7ac76a47"
+    },
+    {
+      "title": "CASA CAMPESTRE PARA VENTA, EN GUAPILES. 33-222",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 59 min4br2010ft2LIMON, POCOCÍ, GUAPILES",
+      "url": "https://www.craigslist.org/view/d/casa-campestre-para-venta-en-guapiles/udEXYzoYHvbwWnuX4ZFkXU?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956014377/00909_di0NceWP21a_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:50:15.303Z",
+      "id": "95173e9f5a06"
+    },
+    {
+      "title": "CASA PARA VENTA, EN GUAYABOS DE CURRIDABAT. 33-242",
+      "price_text": "₡283,000,000",
+      "price_usd": 566000,
+      "location": "hace 59 min4br600ft2SAN JOSE, CURRIDABAT",
+      "url": "https://www.craigslist.org/view/d/casa-para-venta-en-guayabos-de/pCNkVmRKWsRbC4nypM2HKq?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:50:15.393Z",
+      "id": "07be833105d1"
+    },
+    {
+      "title": "CASA CAMPESTRE PARA VENTA, EN ATENAS. 33-291",
+      "price_text": "₡40,000,000",
+      "price_usd": 80000,
+      "location": "hace 59 min2br733ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/casa-campestre-para-venta-en-atenas/5FJJ5jJff3wYSroVPFFzZD?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:50:15.445Z",
+      "id": "303d351cd50d"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SAN MATEO.36-286-78",
+      "price_text": "₡22,000,000",
+      "price_usd": 44000,
+      "location": "hace 59 min1500ft2ALAJUELA, SAN MATEO",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-san-mateo/knGDmPyepyzsA5LLxyBBVD?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956183778/00n0n_RhAjWYq6Vk_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:50:20.124Z",
+      "id": "a39a7ac76a47"
+    },
+    {
+      "title": "CASA CAMPESTRE PARA VENTA, EN GUAPILES. 33-222",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 59 min4br2010ft2LIMON, POCOCÍ, GUAPILES",
+      "url": "https://www.craigslist.org/view/d/casa-campestre-para-venta-en-guapiles/udEXYzoYHvbwWnuX4ZFkXU?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956014377/00909_di0NceWP21a_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:50:20.503Z",
+      "id": "95173e9f5a06"
+    },
+    {
+      "title": "CASA PARA VENTA, EN GUAYABOS DE CURRIDABAT. 33-242",
+      "price_text": "₡283,000,000",
+      "price_usd": 566000,
+      "location": "hace 59 min4br600ft2SAN JOSE, CURRIDABAT",
+      "url": "https://www.craigslist.org/view/d/casa-para-venta-en-guayabos-de/pCNkVmRKWsRbC4nypM2HKq?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:50:20.591Z",
+      "id": "07be833105d1"
+    },
+    {
+      "title": "CASA CAMPESTRE PARA VENTA, EN ATENAS. 33-291",
+      "price_text": "₡40,000,000",
+      "price_usd": 80000,
+      "location": "hace 60 min2br733ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/casa-campestre-para-venta-en-atenas/5FJJ5jJff3wYSroVPFFzZD?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:50:20.641Z",
+      "id": "4b040cf814a0"
+    },
+    {
+      "title": "Ocean-View Land for Sale in Playa Panama, Guanacaste\n                Land, Playa Panama, Guanacaste",
+      "price_text": "$14,000,000",
+      "price_usd": 14000000,
+      "location": "Land, Playa Panama, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-land-for-sale-in-playa-panama/1097",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-16T15:50:31.082Z",
+      "id": "d11984837403"
+    },
+    {
+      "title": "Unique Beachfront House in Playa Langosta\n                Single Family Homes, Tamarindo, Guanacaste",
+      "price_text": "$6,782,000",
+      "price_usd": 6782000,
+      "location": "Single Family Homes, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-tamarindo/13672",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00005eUjJv/njc05f4ur/midres/DJI_0056-2%20copy.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-16T15:50:45.737Z",
+      "id": "a1dae12fbb8e"
+    },
+    {
+      "title": "Commercial Land for Sale in Grecia, Costa Rica | Ideal for Logistics\n                Commercial, Grecia, Alajuela",
+      "price_text": "$3,185,000",
+      "price_usd": 3185000,
+      "location": "Commercial, Grecia, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/commercial-for-sale-in-grecia/14293",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006GqPR6/yksym8mis/midres/posts_ene_2026-01.png"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-16T15:51:21.540Z",
+      "id": "fbdd451cebfc"
+    },
+    {
+      "title": "Price Up Request | Stylish 2Bed Home in Santa Teresa\n                Single Family Homes, Santa Teresa, Puntarenas",
+      "price_text": "POA",
+      "price_usd": null,
+      "location": "Single Family Homes, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/2-bed-single-family-homes-for-sale-in-santa-teresa/12249",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00003xMl2D/vlo4w9gya/midres/DawnCalleBuenosAires-13.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-09-16T15:52:39.928Z",
+      "id": "8cc1925a4815"
+    },
+    {
+      "title": "Ocean-View Land for Sale in Playa Panama, Guanacaste\n                Land, Playa Panama, Guanacaste",
+      "price_text": "$14,000,000",
+      "price_usd": 14000000,
+      "location": "Land, Playa Panama, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-land-for-sale-in-playa-panama/1097",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-16T15:52:49.183Z",
+      "id": "d11984837403"
+    },
+    {
+      "title": "Land for Sale - 50 Hectares Development Property | Atenas, Costa Rica\n                Land, Atenas, Alajuela",
+      "price_text": "$7,000,000",
+      "price_usd": 7000000,
+      "location": "Land, Atenas, Alajuela",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-atenas/14265",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-16T15:53:17.288Z",
+      "id": "645a571c34af"
     }
   ],
-  "last_updated": "2026-09-16T10:38:00.902Z",
+  "last_updated": "2026-09-16T15:54:48.491Z",
   "total_count": 402
 }
