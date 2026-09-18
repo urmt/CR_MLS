@@ -21821,8 +21821,383 @@
       "category": "residential",
       "scraped_at": "2026-09-17T10:42:57.390Z",
       "id": "6148443fb0a9"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡158,000,000",
+      "price_usd": 316000,
+      "location": "hace 19 min380000ft2PUNTARENAS",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-puntarenas/vHxXnDmzYNcaeQYmSPp5kU?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956182783/00Y0Y_ixkhMlLzYtH_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:30:56.340Z",
+      "id": "8ee7872a635d"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 19 min500ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/rancho-para-venta-en-atenas/9uUKU6L5dcXWW8kWhMBQM3?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956179658/01111_cEn3WxmIZAt_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:30:56.380Z",
+      "id": "5c1fe0f3b5d4"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡108,000,000",
+      "price_usd": 216000,
+      "location": "hace 19 min30000ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-carrizal/5JH4d4a9B48ymowDk4ofBg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956181250/00M0M_7WDfGni8EKz_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:30:56.422Z",
+      "id": "4d2d83e6a892"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡270,000,000",
+      "price_usd": 540000,
+      "location": "hace 19 min30000ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-sabana-larga/qNqi4Jx7RL43FdcHbdFbpg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956180496/01111_dKe21DV7oF7_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:30:56.477Z",
+      "id": "08d1a734b9a7"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡113,000,000",
+      "price_usd": 226000,
+      "location": "hace 19 min66117ft2CARTAGO",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-cartago/c74JpwEg1839yf4znSWHwv?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956174737/00303_6eioS4rwCMD_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:30:56.542Z",
+      "id": "a2b33e156cdc"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡158,000,000",
+      "price_usd": 316000,
+      "location": "hace 19 min380000ft2PUNTARENAS",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-puntarenas/vHxXnDmzYNcaeQYmSPp5kU?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956182783/00Y0Y_ixkhMlLzYtH_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:02.160Z",
+      "id": "8ee7872a635d"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 19 min500ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/rancho-para-venta-en-atenas/9uUKU6L5dcXWW8kWhMBQM3?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956179658/01111_cEn3WxmIZAt_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:02.197Z",
+      "id": "5c1fe0f3b5d4"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡108,000,000",
+      "price_usd": 216000,
+      "location": "hace 19 min30000ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-carrizal/5JH4d4a9B48ymowDk4ofBg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956181250/00M0M_7WDfGni8EKz_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:02.240Z",
+      "id": "4d2d83e6a892"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡270,000,000",
+      "price_usd": 540000,
+      "location": "hace 19 min30000ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-sabana-larga/qNqi4Jx7RL43FdcHbdFbpg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956180496/01111_dKe21DV7oF7_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:02.294Z",
+      "id": "08d1a734b9a7"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡113,000,000",
+      "price_usd": 226000,
+      "location": "hace 19 min66117ft2CARTAGO",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-cartago/c74JpwEg1839yf4znSWHwv?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956174737/00303_6eioS4rwCMD_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:02.359Z",
+      "id": "a2b33e156cdc"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡158,000,000",
+      "price_usd": 316000,
+      "location": "hace 19 min380000ft2PUNTARENAS",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-puntarenas/vHxXnDmzYNcaeQYmSPp5kU?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956182783/00Y0Y_ixkhMlLzYtH_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:07.536Z",
+      "id": "8ee7872a635d"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 19 min500ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/rancho-para-venta-en-atenas/9uUKU6L5dcXWW8kWhMBQM3?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956179658/01111_cEn3WxmIZAt_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:07.574Z",
+      "id": "5c1fe0f3b5d4"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡108,000,000",
+      "price_usd": 216000,
+      "location": "hace 19 min30000ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-carrizal/5JH4d4a9B48ymowDk4ofBg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956181250/00M0M_7WDfGni8EKz_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:07.614Z",
+      "id": "4d2d83e6a892"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡270,000,000",
+      "price_usd": 540000,
+      "location": "hace 19 min30000ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-sabana-larga/qNqi4Jx7RL43FdcHbdFbpg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956180496/01111_dKe21DV7oF7_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:07.667Z",
+      "id": "08d1a734b9a7"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡113,000,000",
+      "price_usd": 226000,
+      "location": "hace 19 min66117ft2CARTAGO",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-cartago/c74JpwEg1839yf4znSWHwv?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956174737/00303_6eioS4rwCMD_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:07.732Z",
+      "id": "a2b33e156cdc"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡158,000,000",
+      "price_usd": 316000,
+      "location": "hace 19 min380000ft2PUNTARENAS",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-puntarenas/vHxXnDmzYNcaeQYmSPp5kU?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956182783/00Y0Y_ixkhMlLzYtH_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:12.910Z",
+      "id": "8ee7872a635d"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 19 min500ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/rancho-para-venta-en-atenas/9uUKU6L5dcXWW8kWhMBQM3?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956179658/01111_cEn3WxmIZAt_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:12.948Z",
+      "id": "5c1fe0f3b5d4"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡108,000,000",
+      "price_usd": 216000,
+      "location": "hace 19 min30000ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-carrizal/5JH4d4a9B48ymowDk4ofBg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956181250/00M0M_7WDfGni8EKz_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:12.988Z",
+      "id": "4d2d83e6a892"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡270,000,000",
+      "price_usd": 540000,
+      "location": "hace 19 min30000ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-sabana-larga/qNqi4Jx7RL43FdcHbdFbpg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956180496/01111_dKe21DV7oF7_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:13.042Z",
+      "id": "08d1a734b9a7"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡113,000,000",
+      "price_usd": 226000,
+      "location": "hace 19 min66117ft2CARTAGO",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-cartago/c74JpwEg1839yf4znSWHwv?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956174737/00303_6eioS4rwCMD_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:13.107Z",
+      "id": "a2b33e156cdc"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN PUNTARENAS. 36-286-77",
+      "price_text": "₡158,000,000",
+      "price_usd": 316000,
+      "location": "hace 20 min380000ft2PUNTARENAS",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-puntarenas/vHxXnDmzYNcaeQYmSPp5kU?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956182783/00Y0Y_ixkhMlLzYtH_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:18.432Z",
+      "id": "ba944032c8da"
+    },
+    {
+      "title": "RANCHO PARA VENTA, EN ATENAS. 36-286-74",
+      "price_text": "₡66,000,000",
+      "price_usd": 132000,
+      "location": "hace 20 min500ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/rancho-para-venta-en-atenas/9uUKU6L5dcXWW8kWhMBQM3?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956179658/01111_cEn3WxmIZAt_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:18.471Z",
+      "id": "66ac7d3fe212"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARRIZAL. 36-286-76",
+      "price_text": "₡108,000,000",
+      "price_usd": 216000,
+      "location": "hace 20 min30000ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-carrizal/5JH4d4a9B48ymowDk4ofBg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956181250/00M0M_7WDfGni8EKz_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:18.511Z",
+      "id": "eb2b654a1dac"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN SABANA LARGA, ATENAS. 36-286-75",
+      "price_text": "₡270,000,000",
+      "price_usd": 540000,
+      "location": "hace 20 min30000ft2ALAJUELA, ATENAS",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-sabana-larga/qNqi4Jx7RL43FdcHbdFbpg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956180496/01111_dKe21DV7oF7_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:18.564Z",
+      "id": "79c45a7d67c6"
+    },
+    {
+      "title": "TERRENO PARA VENTA, EN CARTAGO. 36-169-0062",
+      "price_text": "₡113,000,000",
+      "price_usd": 226000,
+      "location": "hace 20 min66117ft2CARTAGO",
+      "url": "https://www.craigslist.org/view/d/terreno-para-venta-en-cartago/c74JpwEg1839yf4znSWHwv?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956174737/00303_6eioS4rwCMD_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T15:31:18.629Z",
+      "id": "aa2da3108437"
     }
   ],
-  "last_updated": "2026-09-18T10:23:22.432Z",
+  "last_updated": "2026-09-18T15:35:52.925Z",
   "total_count": 402
 }
