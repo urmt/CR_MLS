@@ -22196,8 +22196,83 @@
       "category": "residential",
       "scraped_at": "2026-09-18T15:31:18.629Z",
       "id": "aa2da3108437"
+    },
+    {
+      "title": "VENTA Mansión de Lujo en San Antonio de Escazú con Dos Residencias y A",
+      "price_text": "₡685,000,000",
+      "price_usd": 1370000,
+      "location": "hace 4 h8brMontes De Oca",
+      "url": "https://www.craigslist.org/view/d/venta-mansin-de-lujo-en-san-antonio-de/gF9Q8YJovPAKPYKmp5ccHG?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T20:11:56.362Z",
+      "id": "de24982a573c"
+    },
+    {
+      "title": "VENTA Mansión de Lujo en San Antonio de Escazú con Dos Residencias y A",
+      "price_text": "₡685,000,000",
+      "price_usd": 1370000,
+      "location": "hace 4 h8brMontes De Oca",
+      "url": "https://www.craigslist.org/view/d/venta-mansin-de-lujo-en-san-antonio-de/gF9Q8YJovPAKPYKmp5ccHG?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T20:12:01.630Z",
+      "id": "de24982a573c"
+    },
+    {
+      "title": "VENTA Mansión de Lujo en San Antonio de Escazú con Dos Residencias y A",
+      "price_text": "₡685,000,000",
+      "price_usd": 1370000,
+      "location": "hace 4 h8brMontes De Oca",
+      "url": "https://www.craigslist.org/view/d/venta-mansin-de-lujo-en-san-antonio-de/gF9Q8YJovPAKPYKmp5ccHG?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T20:12:06.861Z",
+      "id": "de24982a573c"
+    },
+    {
+      "title": "VENTA Mansión de Lujo en San Antonio de Escazú con Dos Residencias y A",
+      "price_text": "₡685,000,000",
+      "price_usd": 1370000,
+      "location": "hace 4 h8brMontes De Oca",
+      "url": "https://www.craigslist.org/view/d/venta-mansin-de-lujo-en-san-antonio-de/gF9Q8YJovPAKPYKmp5ccHG?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T20:12:12.089Z",
+      "id": "de24982a573c"
+    },
+    {
+      "title": "VENTA Mansión de Lujo en San Antonio de Escazú con Dos Residencias y A",
+      "price_text": "₡685,000,000",
+      "price_usd": 1370000,
+      "location": "hace 4 h8brMontes De Oca",
+      "url": "https://www.craigslist.org/view/d/venta-mansin-de-lujo-en-san-antonio-de/gF9Q8YJovPAKPYKmp5ccHG?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-18T20:12:17.308Z",
+      "id": "de24982a573c"
     }
   ],
-  "last_updated": "2026-09-18T15:36:29.569Z",
+  "last_updated": "2026-09-18T20:17:26.226Z",
   "total_count": 402
 }
