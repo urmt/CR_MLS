@@ -1,36 +1,6 @@
 {
   "properties": [
     {
-      "title": "Villa El Alma - Ocean-View Luxury Estate in Peninsula Papagayo\n                Single Family Homes, Papagayo Gulf, Guanacaste",
-      "price_text": "$7,500,000",
-      "price_usd": 7500000,
-      "location": "Single Family Homes, Papagayo Gulf, Guanacaste",
-      "url": "https://www.coldwellbankercostarica.com/property/3-bed-single-family-homes-for-sale-in-papagayo-gulf/14335",
-      "images": [
-        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006JHnA2/2lu9009rl/midres/03-Villa-Laila.jpg"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "luxury",
-      "scraped_at": "2026-06-22T11:38:05.216Z",
-      "id": "423a9c7fde58"
-    },
-    {
-      "title": "Villa El Alma - Ocean-View Luxury Estate in Peninsula Papagayo\n                Single Family Homes, Papagayo Gulf, Guanacaste",
-      "price_text": "$7,500,000",
-      "price_usd": 7500000,
-      "location": "Single Family Homes, Papagayo Gulf, Guanacaste",
-      "url": "https://www.coldwellbankercostarica.com/property/3-bed-single-family-homes-for-sale-in-papagayo-gulf/14335",
-      "images": [
-        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "luxury",
-      "scraped_at": "2026-06-22T11:40:49.382Z",
-      "id": "423a9c7fde58"
-    },
-    {
       "title": "Boutique Hotel & Retreat Center Near Atenas\n                Commercial, Atenas, Alajuela",
       "price_text": "$1,295,000",
       "price_usd": 1295000,
@@ -22348,6 +22318,6 @@
       "id": "e232f28c4374"
     }
   ],
-  "last_updated": "2026-09-20T15:13:55.770Z",
+  "last_updated": "2026-09-20T15:14:30.483Z",
   "total_count": 402
 }
