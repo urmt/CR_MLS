@@ -1,21 +1,6 @@
 {
   "properties": [
     {
-      "title": "Boutique Hotel & Retreat Center Near Atenas\n                Commercial, Atenas, Alajuela",
-      "price_text": "$1,295,000",
-      "price_usd": 1295000,
-      "location": "Commercial, Atenas, Alajuela",
-      "url": "https://www.coldwellbankercostarica.com/property/13-bed-commercial-for-sale-in-atenas/15029",
-      "images": [
-        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000072WDS6/f4sylz2gq/midres/IMG_20260617_093109.jpeg"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "land",
-      "scraped_at": "2026-06-22T16:41:25.792Z",
-      "id": "8be16ca2f6a8"
-    },
-    {
       "title": "4-Bedroom Townhome in Los Malinches of Hacienda Pinilla          Rare Opportunity: The Lowest-Priced Villa in Hacienda Pinilla          Panacea del Mar ~ Tropical Yoga Retreat with 7 Cabins and Ocean...",
       "price_text": "Price:     US$ 859 000.00      Price:     US$ 924 000.00      Price:     US$ 975 000.00",
       "price_usd": 859000.00924,
@@ -22423,6 +22408,6 @@
       "id": "423a9c7fde58"
     }
   ],
-  "last_updated": "2026-09-20T20:06:53.759Z",
+  "last_updated": "2026-09-20T20:07:42.737Z",
   "total_count": 402
 }
