@@ -22085,8 +22085,158 @@
       "category": "land",
       "scraped_at": "2026-09-21T02:34:20.843Z",
       "id": "8be16ca2f6a8"
+    },
+    {
+      "title": "Beautiful House for Sale in Chachagua",
+      "price_text": "₡30,000,000",
+      "price_usd": 60000,
+      "location": "hace 3 h2br1143ft2Chachagua",
+      "url": "https://www.craigslist.org/view/d/beautiful-house-for-sale-in-chachagua/71Nb4wE4Hp7iJ5uybjDL5y?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7970630190/01717_ilRJjLDK7pY_0aK064_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-22T02:35:20.781Z",
+      "id": "f3018d61c830"
+    },
+    {
+      "title": "10-Hectare Property with Views of the Gulf of Nicoya | Playa Naranjo",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 4 hPuntarenas",
+      "url": "https://www.craigslist.org/view/d/10-hectare-property-with-views-of-the/7EPYMYmQCwTqbyD7ZubxeJ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7962488691/00M0M_hONieTKtGFx_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-22T02:35:20.848Z",
+      "id": "bb1fdbb7c200"
+    },
+    {
+      "title": "Beautiful House for Sale in Chachagua",
+      "price_text": "₡30,000,000",
+      "price_usd": 60000,
+      "location": "hace 3 h2br1143ft2Chachagua",
+      "url": "https://www.craigslist.org/view/d/beautiful-house-for-sale-in-chachagua/71Nb4wE4Hp7iJ5uybjDL5y?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7970630190/01717_ilRJjLDK7pY_0aK064_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-22T02:35:25.640Z",
+      "id": "f3018d61c830"
+    },
+    {
+      "title": "10-Hectare Property with Views of the Gulf of Nicoya | Playa Naranjo",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 4 hPuntarenas",
+      "url": "https://www.craigslist.org/view/d/10-hectare-property-with-views-of-the/7EPYMYmQCwTqbyD7ZubxeJ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7962488691/00M0M_hONieTKtGFx_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-22T02:35:25.702Z",
+      "id": "bb1fdbb7c200"
+    },
+    {
+      "title": "Beautiful House for Sale in Chachagua",
+      "price_text": "₡30,000,000",
+      "price_usd": 60000,
+      "location": "hace 3 h2br1143ft2Chachagua",
+      "url": "https://www.craigslist.org/view/d/beautiful-house-for-sale-in-chachagua/71Nb4wE4Hp7iJ5uybjDL5y?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7970630190/01717_ilRJjLDK7pY_0aK064_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-22T02:35:30.572Z",
+      "id": "f3018d61c830"
+    },
+    {
+      "title": "10-Hectare Property with Views of the Gulf of Nicoya | Playa Naranjo",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 4 hPuntarenas",
+      "url": "https://www.craigslist.org/view/d/10-hectare-property-with-views-of-the/7EPYMYmQCwTqbyD7ZubxeJ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7962488691/00M0M_hONieTKtGFx_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-22T02:35:30.631Z",
+      "id": "bb1fdbb7c200"
+    },
+    {
+      "title": "Beautiful House for Sale in Chachagua",
+      "price_text": "₡30,000,000",
+      "price_usd": 60000,
+      "location": "hace 3 h2br1143ft2Chachagua",
+      "url": "https://www.craigslist.org/view/d/beautiful-house-for-sale-in-chachagua/71Nb4wE4Hp7iJ5uybjDL5y?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7970630190/01717_ilRJjLDK7pY_0aK064_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-22T02:35:35.369Z",
+      "id": "f3018d61c830"
+    },
+    {
+      "title": "10-Hectare Property with Views of the Gulf of Nicoya | Playa Naranjo",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 4 hPuntarenas",
+      "url": "https://www.craigslist.org/view/d/10-hectare-property-with-views-of-the/7EPYMYmQCwTqbyD7ZubxeJ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7962488691/00M0M_hONieTKtGFx_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-22T02:35:35.430Z",
+      "id": "bb1fdbb7c200"
+    },
+    {
+      "title": "Beautiful House for Sale in Chachagua",
+      "price_text": "₡30,000,000",
+      "price_usd": 60000,
+      "location": "hace 3 h2br1143ft2Chachagua",
+      "url": "https://www.craigslist.org/view/d/beautiful-house-for-sale-in-chachagua/71Nb4wE4Hp7iJ5uybjDL5y?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7970630190/01717_ilRJjLDK7pY_0aK064_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-22T02:35:40.170Z",
+      "id": "f3018d61c830"
+    },
+    {
+      "title": "10-Hectare Property with Views of the Gulf of Nicoya | Playa Naranjo",
+      "price_text": "₡45,000,000",
+      "price_usd": 90000,
+      "location": "hace 4 hPuntarenas",
+      "url": "https://www.craigslist.org/view/d/10-hectare-property-with-views-of-the/7EPYMYmQCwTqbyD7ZubxeJ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7962488691/00M0M_hONieTKtGFx_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-22T02:35:40.237Z",
+      "id": "bb1fdbb7c200"
     }
   ],
-  "last_updated": "2026-09-21T21:33:50.419Z",
+  "last_updated": "2026-09-22T02:39:51.434Z",
   "total_count": 402
 }
