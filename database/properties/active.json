@@ -22175,8 +22175,143 @@
       "category": "land",
       "scraped_at": "2026-09-22T10:39:28.095Z",
       "id": "7d775ed9d2ff"
+    },
+    {
+      "title": "Property \"quinta\" type, Concepcion de San Rafael de Heredia, 8,227 mtr",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 3 h2br8227ft2",
+      "url": "https://www.craigslist.org/view/d/property-quinta-type-concepcion-de-san/gy64orYhTfsCPLooDwpLR5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7971235809/00606_cKmlshL7VSI_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-23T02:35:31.128Z",
+      "id": "0046ed6012f2"
+    },
+    {
+      "title": "Property \"quinta\" type, Concepcion de San Rafael de Heredia, 8,227 mtr",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 3 h2br8227ft2",
+      "url": "https://www.craigslist.org/view/d/property-quinta-type-concepcion-de-san/gy64orYhTfsCPLooDwpLR5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7971235809/00606_cKmlshL7VSI_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-23T02:35:36.216Z",
+      "id": "0046ed6012f2"
+    },
+    {
+      "title": "Property \"quinta\" type, Concepcion de San Rafael de Heredia, 8,227 mtr",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 3 h2br8227ft2",
+      "url": "https://www.craigslist.org/view/d/property-quinta-type-concepcion-de-san/gy64orYhTfsCPLooDwpLR5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7971235809/00606_cKmlshL7VSI_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-23T02:35:41.256Z",
+      "id": "0046ed6012f2"
+    },
+    {
+      "title": "Property \"quinta\" type, Concepcion de San Rafael de Heredia, 8,227 mtr",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 3 h2br8227ft2",
+      "url": "https://www.craigslist.org/view/d/property-quinta-type-concepcion-de-san/gy64orYhTfsCPLooDwpLR5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7971235809/00606_cKmlshL7VSI_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-23T02:35:46.305Z",
+      "id": "0046ed6012f2"
+    },
+    {
+      "title": "Property \"quinta\" type, Concepcion de San Rafael de Heredia, 8,227 mtr",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 3 h2br8227ft2",
+      "url": "https://www.craigslist.org/view/d/property-quinta-type-concepcion-de-san/gy64orYhTfsCPLooDwpLR5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7971235809/00606_cKmlshL7VSI_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-23T02:35:51.521Z",
+      "id": "0046ed6012f2"
+    },
+    {
+      "title": "Whale's Tail Ocean Views Luxury Hilltop Estate\n                Land, Dominical, Puntarenas",
+      "price_text": "$9,900,000",
+      "price_usd": 9900000,
+      "location": "Land, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-dominical/15053",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006uLPYO/42wexdcu9/midres/Conical%20hilltop.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-23T02:36:09.666Z",
+      "id": "49d3232c7e13"
+    },
+    {
+      "title": "Investment Opportunity for Hotel or Development Exceptional Ocean View Estate\n                Hotel / Leisure, Manuel Antonio, Puntarenas",
+      "price_text": "$2,100,000",
+      "price_usd": 2100000,
+      "location": "Hotel / Leisure, Manuel Antonio, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/12-bed-hotel-leisure-for-sale-in-manuel-antonio/15051",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-09-23T02:37:53.359Z",
+      "id": "b027790a2b69"
+    },
+    {
+      "title": "Whale's Tail Ocean Views Luxury Hilltop Estate\n                Land, Dominical, Puntarenas",
+      "price_text": "$9,900,000",
+      "price_usd": 9900000,
+      "location": "Land, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-dominical/15053",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-09-23T02:38:34.200Z",
+      "id": "49d3232c7e13"
+    },
+    {
+      "title": "Waldorf Astoria 4-Bedroom Estate Homes at Punta Cacique\n                Single Family Homes, Papagayo Gulf, Guanacaste",
+      "price_text": "$7,600,000",
+      "price_usd": 7600000,
+      "location": "Single Family Homes, Papagayo Gulf, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-single-family-homes-for-sale-in-papagayo-gulf/15056",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000074JgP3/k007y6sd2/midres/NQS_IMI%20LIVING_WA%20COSTA%20RICA_VIEW%207_ESTATE%20EXTERIOR%2005_ER%20%282%29.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-09-23T02:38:53.089Z",
+      "id": "1b7adb846a84"
     }
   ],
-  "last_updated": "2026-09-22T20:47:02.026Z",
+  "last_updated": "2026-09-23T02:40:24.816Z",
   "total_count": 402
 }
