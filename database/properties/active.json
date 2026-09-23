@@ -1,21 +1,6 @@
 {
   "properties": [
     {
-      "title": "A Unique Hospitality Vision in Costa Rica's Blue Zone\n                Hotel / Leisure, Samara, Guanacaste",
-      "price_text": "$1,775,000",
-      "price_usd": 1775000,
-      "location": "Hotel / Leisure, Samara, Guanacaste",
-      "url": "https://www.coldwellbankercostarica.com/property/20-bed-hotel-leisure-for-sale-in-samara/15075",
-      "images": [
-        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-06-25T19:49:42.007Z",
-      "id": "6093ae2fe87c"
-    },
-    {
       "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-08",
       "price_text": "₡55,000,000",
       "price_usd": 110000,
@@ -22237,6 +22222,6 @@
       "id": "ddf1db48cc87"
     }
   ],
-  "last_updated": "2026-09-23T20:58:54.712Z",
+  "last_updated": "2026-09-23T20:59:33.671Z",
   "total_count": 402
 }
