@@ -138247,6 +138247,110 @@
       "url": "https://immocostarica.com/for-sale/apartments-condos?page=5",
       "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=5",
       "timestamp": "2026-09-23T02:39:54.896Z"
+    },
+    {
+      "source": "remax_costa_rica",
+      "endpoint": "all",
+      "page": 1,
+      "url": "https://www.remax-costa-rica.com/advanced-search-results-properties/",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-09-23T10:35:13.215Z"
+    },
+    {
+      "source": "remax_costa_rica",
+      "endpoint": "all",
+      "page": 3,
+      "url": "https://www.remax-costa-rica.com/advanced-search-results-properties/?page=3",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-09-23T10:35:46.963Z"
+    },
+    {
+      "source": "remax_costa_rica",
+      "endpoint": "all",
+      "page": 4,
+      "url": "https://www.remax-costa-rica.com/advanced-search-results-properties/?page=4",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-09-23T10:36:01.966Z"
+    },
+    {
+      "source": "remax_costa_rica",
+      "endpoint": "all",
+      "page": 5,
+      "url": "https://www.remax-costa-rica.com/advanced-search-results-properties/?page=5",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-09-23T10:36:16.982Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=2",
+      "timestamp": "2026-09-23T10:36:26.784Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=3",
+      "timestamp": "2026-09-23T10:36:26.826Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=4",
+      "timestamp": "2026-09-23T10:36:26.864Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=5",
+      "timestamp": "2026-09-23T10:36:26.900Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 1,
+      "url": "https://immocostarica.com/for-sale/apartments-condos",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos",
+      "timestamp": "2026-09-23T10:36:26.933Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=2",
+      "timestamp": "2026-09-23T10:36:26.972Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=3",
+      "timestamp": "2026-09-23T10:36:27.011Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=4",
+      "timestamp": "2026-09-23T10:36:27.048Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=5",
+      "timestamp": "2026-09-23T10:36:27.084Z"
     }
   ]
 }

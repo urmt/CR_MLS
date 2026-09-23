@@ -22130,8 +22130,38 @@
       "category": "luxury",
       "scraped_at": "2026-09-23T02:38:53.089Z",
       "id": "1b7adb846a84"
+    },
+    {
+      "title": "Waldorf Astoria 5-Bedroom Two-Story Estate Homes\n                Single Family Homes, Papagayo Gulf, Guanacaste",
+      "price_text": "$11,750,000",
+      "price_usd": 11750000,
+      "location": "Single Family Homes, Papagayo Gulf, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-papagayo-gulf/15064",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000074Jdeh/p5ub6lues/midres/1.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-09-23T10:34:24.345Z",
+      "id": "1d0884534e02"
+    },
+    {
+      "title": "Waldorf Astoria 5-Bedroom Three-Story Estate Homes\n                Single Family Homes, Papagayo Gulf, Guanacaste",
+      "price_text": "$9,600,000",
+      "price_usd": 9600000,
+      "location": "Single Family Homes, Papagayo Gulf, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-papagayo-gulf/15077",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-09-23T10:34:25.083Z",
+      "id": "0325df0a51ba"
     }
   ],
-  "last_updated": "2026-09-23T02:41:04.797Z",
+  "last_updated": "2026-09-23T10:36:57.544Z",
   "total_count": 402
 }
