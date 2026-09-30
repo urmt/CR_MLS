@@ -1,21 +1,6 @@
 {
   "properties": [
     {
-      "title": "Hotel Vista Las Islas\n                Hotel / Leisure, Puntarenas, Puntarenas",
-      "price_text": "$2,400,000",
-      "price_usd": 2400000,
-      "location": "Hotel / Leisure, Puntarenas, Puntarenas",
-      "url": "https://www.coldwellbankercostarica.com/property/18-bed-hotel-leisure-for-sale-in-puntarenas/13747",
-      "images": [
-        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0Cd000000qazom/zutfjcyvf/midres/slider-home-01-1%201.png"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-07-02T08:45:44.754Z",
-      "id": "717c79619912"
-    },
-    {
       "title": "Chocuaco .Encantadora casa en SurfSide, cerca de Marina Flamingo",
       "price_text": "₡173,750,000",
       "price_usd": 347500,
@@ -21434,6 +21419,6 @@
       "id": "d25b5a1a7e10"
     }
   ],
-  "last_updated": "2026-09-30T11:44:18.422Z",
+  "last_updated": "2026-09-30T11:44:55.368Z",
   "total_count": 402
 }

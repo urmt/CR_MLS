@@ -74697,7 +74697,24 @@
       "id": "79bf92b27f26",
       "archived_at": "2026-09-30T03:18:02.862Z",
       "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "Hotel Vista Las Islas\n                Hotel / Leisure, Puntarenas, Puntarenas",
+      "price_text": "$2,400,000",
+      "price_usd": 2400000,
+      "location": "Hotel / Leisure, Puntarenas, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/18-bed-hotel-leisure-for-sale-in-puntarenas/13747",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0Cd000000qazom/zutfjcyvf/midres/slider-home-01-1%201.png"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-02T08:45:44.754Z",
+      "id": "717c79619912",
+      "archived_at": "2026-09-30T11:44:55.366Z",
+      "archive_reason": "90_day_auto_purge"
     }
   ],
-  "last_updated": "2026-09-30T03:18:02.883Z"
+  "last_updated": "2026-09-30T11:44:55.385Z"
 }
