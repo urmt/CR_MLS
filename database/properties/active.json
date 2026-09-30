@@ -21507,8 +21507,83 @@
       "category": "residential",
       "scraped_at": "2026-09-30T17:21:20.336Z",
       "id": "717c79619912"
+    },
+    {
+      "title": "Vacation Home In Cahuita!!! Para 10 Personas",
+      "price_text": "₡15",
+      "price_usd": 0,
+      "location": "hace 4 h4brCahuita, Limon",
+      "url": "https://www.craigslist.org/view/d/vacation-home-in-cahuita-para-10/o7deY1Uzfc6EDjfQd8oBMm?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-09-30T21:42:09.010Z",
+      "id": "70ed819cecc9"
+    },
+    {
+      "title": "Vacation Home In Cahuita!!! Para 10 Personas",
+      "price_text": "₡15",
+      "price_usd": 0,
+      "location": "hace 4 h4brCahuita, Limon",
+      "url": "https://www.craigslist.org/view/d/vacation-home-in-cahuita-para-10/o7deY1Uzfc6EDjfQd8oBMm?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-09-30T21:42:13.831Z",
+      "id": "70ed819cecc9"
+    },
+    {
+      "title": "Vacation Home In Cahuita!!! Para 10 Personas",
+      "price_text": "₡15",
+      "price_usd": 0,
+      "location": "hace 4 h4brCahuita, Limon",
+      "url": "https://www.craigslist.org/view/d/vacation-home-in-cahuita-para-10/o7deY1Uzfc6EDjfQd8oBMm?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-09-30T21:42:18.597Z",
+      "id": "70ed819cecc9"
+    },
+    {
+      "title": "Vacation Home In Cahuita!!! Para 10 Personas",
+      "price_text": "₡15",
+      "price_usd": 0,
+      "location": "hace 4 h4brCahuita, Limon",
+      "url": "https://www.craigslist.org/view/d/vacation-home-in-cahuita-para-10/o7deY1Uzfc6EDjfQd8oBMm?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-09-30T21:42:23.308Z",
+      "id": "70ed819cecc9"
+    },
+    {
+      "title": "Vacation Home In Cahuita!!! Para 10 Personas",
+      "price_text": "₡15",
+      "price_usd": 0,
+      "location": "hace 4 h4brCahuita, Limon",
+      "url": "https://www.craigslist.org/view/d/vacation-home-in-cahuita-para-10/o7deY1Uzfc6EDjfQd8oBMm?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-09-30T21:42:28.066Z",
+      "id": "70ed819cecc9"
     }
   ],
-  "last_updated": "2026-09-30T17:24:43.400Z",
+  "last_updated": "2026-09-30T21:47:34.396Z",
   "total_count": 402
 }
