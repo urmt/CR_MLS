@@ -21417,8 +21417,98 @@
       "category": "land",
       "scraped_at": "2026-09-30T11:38:50.376Z",
       "id": "d25b5a1a7e10"
+    },
+    {
+      "title": "Hermosa Casa En Venta En Chachagua",
+      "price_text": "₡35,000,000",
+      "price_usd": 70000,
+      "location": "hace 1 h2br1000ft2Chachagua",
+      "url": "https://www.craigslist.org/view/d/hermosa-casa-en-venta-en-chachagua/uQYrN3SanPY54eEriv79Yu?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7975486770/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-30T17:18:38.067Z",
+      "id": "988caa371860"
+    },
+    {
+      "title": "Hermosa Casa En Venta En Chachagua",
+      "price_text": "₡35,000,000",
+      "price_usd": 70000,
+      "location": "hace 1 h2br1000ft2Chachagua",
+      "url": "https://www.craigslist.org/view/d/hermosa-casa-en-venta-en-chachagua/uQYrN3SanPY54eEriv79Yu?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7975486770/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-30T17:18:42.949Z",
+      "id": "988caa371860"
+    },
+    {
+      "title": "Hermosa Casa En Venta En Chachagua",
+      "price_text": "₡35,000,000",
+      "price_usd": 70000,
+      "location": "hace 1 h2br1000ft2Chachagua",
+      "url": "https://www.craigslist.org/view/d/hermosa-casa-en-venta-en-chachagua/uQYrN3SanPY54eEriv79Yu?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7975486770/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-30T17:18:47.799Z",
+      "id": "988caa371860"
+    },
+    {
+      "title": "Hermosa Casa En Venta En Chachagua",
+      "price_text": "₡35,000,000",
+      "price_usd": 70000,
+      "location": "hace 1 h2br1000ft2Chachagua",
+      "url": "https://www.craigslist.org/view/d/hermosa-casa-en-venta-en-chachagua/uQYrN3SanPY54eEriv79Yu?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7975486770/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-30T17:18:52.692Z",
+      "id": "988caa371860"
+    },
+    {
+      "title": "Hermosa Casa En Venta En Chachagua",
+      "price_text": "₡35,000,000",
+      "price_usd": 70000,
+      "location": "hace 1 h2br1000ft2Chachagua",
+      "url": "https://www.craigslist.org/view/d/hermosa-casa-en-venta-en-chachagua/uQYrN3SanPY54eEriv79Yu?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7975486770/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-30T17:18:57.585Z",
+      "id": "988caa371860"
+    },
+    {
+      "title": "Hotel Vista Las Islas\n                Hotel / Leisure, Puntarenas, Puntarenas",
+      "price_text": "$2,400,000",
+      "price_usd": 2400000,
+      "location": "Hotel / Leisure, Puntarenas, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/18-bed-hotel-leisure-for-sale-in-puntarenas/13747",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0Cd000000qazom/zutfjcyvf/midres/slider-home-01-1%201.png"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-09-30T17:21:20.336Z",
+      "id": "717c79619912"
     }
   ],
-  "last_updated": "2026-09-30T11:44:55.368Z",
+  "last_updated": "2026-09-30T17:24:05.580Z",
   "total_count": 402
 }
