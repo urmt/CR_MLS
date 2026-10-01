@@ -1,81 +1,6 @@
 {
   "properties": [
     {
-      "title": "Downtown House  in Atenas Wanted",
-      "price_text": "₡76,000,000",
-      "price_usd": 152000,
-      "location": "hace 7 h2br220ft2Atenas, Alajuela",
-      "url": "https://www.craigslist.org/view/d/downtown-house-in-atenas-wanted/xaSKRY1bF8HbQYGwybYdke?lang=es&cc=mx",
-      "images": [
-        "https://www.craigslist.org/images/d/7944840060/empty.png"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-07-03T08:50:53.347Z",
-      "id": "4bf4cdb4e553"
-    },
-    {
-      "title": "Downtown House  in Atenas Wanted",
-      "price_text": "₡76,000,000",
-      "price_usd": 152000,
-      "location": "hace 7 h2br220ft2Atenas, Alajuela",
-      "url": "https://www.craigslist.org/view/d/downtown-house-in-atenas-wanted/xaSKRY1bF8HbQYGwybYdke?lang=es&cc=mx",
-      "images": [
-        "https://www.craigslist.org/images/d/7944840060/empty.png"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-07-03T08:50:58.418Z",
-      "id": "4bf4cdb4e553"
-    },
-    {
-      "title": "Downtown House  in Atenas Wanted",
-      "price_text": "₡76,000,000",
-      "price_usd": 152000,
-      "location": "hace 7 h2br220ft2Atenas, Alajuela",
-      "url": "https://www.craigslist.org/view/d/downtown-house-in-atenas-wanted/xaSKRY1bF8HbQYGwybYdke?lang=es&cc=mx",
-      "images": [
-        "https://www.craigslist.org/images/d/7944840060/empty.png"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-07-03T08:51:03.224Z",
-      "id": "4bf4cdb4e553"
-    },
-    {
-      "title": "Downtown House  in Atenas Wanted",
-      "price_text": "₡76,000,000",
-      "price_usd": 152000,
-      "location": "hace 7 h2br220ft2Atenas, Alajuela",
-      "url": "https://www.craigslist.org/view/d/downtown-house-in-atenas-wanted/xaSKRY1bF8HbQYGwybYdke?lang=es&cc=mx",
-      "images": [
-        "https://www.craigslist.org/images/d/7944840060/empty.png"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-07-03T08:51:08.185Z",
-      "id": "4bf4cdb4e553"
-    },
-    {
-      "title": "Downtown House  in Atenas Wanted",
-      "price_text": "₡76,000,000",
-      "price_usd": 152000,
-      "location": "hace 7 h2br220ft2Atenas, Alajuela",
-      "url": "https://www.craigslist.org/view/d/downtown-house-in-atenas-wanted/xaSKRY1bF8HbQYGwybYdke?lang=es&cc=mx",
-      "images": [
-        "https://www.craigslist.org/images/d/7944840060/empty.png"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-07-03T08:51:12.988Z",
-      "id": "4bf4cdb4e553"
-    },
-    {
       "title": "Turnkey Boutique Hotel & Resort Investment in Herradura, Costa Rica\n                Hotel / Leisure, Herradura, Puntarenas",
       "price_text": "$3,200,000",
       "price_usd": 3200000,
@@ -21659,6 +21584,6 @@
       "id": "3aa7495b594e"
     }
   ],
-  "last_updated": "2026-10-01T03:24:41.991Z",
+  "last_updated": "2026-10-01T12:13:25.946Z",
   "total_count": 402
 }
