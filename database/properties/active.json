@@ -21543,8 +21543,38 @@
       "category": "residential",
       "scraped_at": "2026-10-04T16:13:24.700Z",
       "id": "f11383466fcb"
+    },
+    {
+      "title": "Architectural Luxury Residence in Playa Hermosa\n                Single Family Homes, Playa Hermosa Santa Teresa, Puntarenas",
+      "price_text": "$4,500,000",
+      "price_usd": 4500000,
+      "location": "Single Family Homes, Playa Hermosa Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-single-family-homes-for-sale-in-playa-hermosa-santa-teresa/14955",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006ytwgx/14asut38t/midres/WhatsApp%20Image%202026-05-25%20at%204.27.21%20PM.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-04T20:43:04.226Z",
+      "id": "e2cc8a3b9b05"
+    },
+    {
+      "title": "Turnkey Restaurant & Event Venue with Pool, Jungle Views & Expansion Potential\n                Commercial, Manzanillo, Puntarenas",
+      "price_text": "$1,200,000",
+      "price_usd": 1200000,
+      "location": "Commercial, Manzanillo, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/2-bed-commercial-for-sale-in-manzanillo/15124",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-04T20:43:37.699Z",
+      "id": "ee0ad58adde1"
     }
   ],
-  "last_updated": "2026-10-04T16:19:50.156Z",
+  "last_updated": "2026-10-04T20:46:45.850Z",
   "total_count": 402
 }
