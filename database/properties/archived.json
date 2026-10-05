@@ -75593,7 +75593,64 @@
       "id": "d1de647cee9e",
       "archived_at": "2026-10-05T03:19:57.069Z",
       "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "Warehouse for sale in Zapote 24630\n                Commercial, Zapote, San Jose",
+      "price_text": "$1,400,000",
+      "price_usd": 1400000,
+      "location": "Commercial, Zapote, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/3-bed-commercial-for-sale-in-zapote/13156",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-07T14:12:18.085Z",
+      "id": "7a3d13d77e99",
+      "archived_at": "2026-10-05T23:36:29.912Z",
+      "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "Pacific Park 703 ~ Jaw-Dropping Views from the Best Located...          Invest in Paradise: Mono Luxe Suites Condotel with Ocean Views          Ocean and Mountain Views Finca ~ With a Little River",
+      "price_text": "Price:     US$ 749 000.00      Price:     US$ 759 000.00      Price:     US$ 769 000.00",
+      "price_usd": 749000.00759,
+      "location": "Location:     Playa Tamarindo      Location:     Playa Tamarindo      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/pacific-park-703",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-pacific-park-703.jpg?itok=wqzIbgTQ",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/10-mono-luxe-suites.png?itok=52kaEraA",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Finca-Vista-Cana.JPG?itok=Kpg44YeL"
+      ],
+      "description": "Welcome to Pacific Park 703, where luxury meets convenience in the heart of Tamarindo, Guanacaste. Step into...          Discover the epitome of luxury and exceptional investment potential at the exclusive Mono Luxe Suites...          This is one of the best ocean and mountain view property for sale in the area. It is located in Canafistula,...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-07-07T19:47:37.700Z",
+      "id": "a54d3675ca51",
+      "archived_at": "2026-10-05T23:36:29.912Z",
+      "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "La Vista Condos Residencial - Part of the Diria Family Complex          Private Estate in Black Stallion ~ 9,214m² | Casa Ma Vie La          Langosta Beach Lots by the Diria",
+      "price_text": "Price:     US$ 779 000.00      Price:     US$ 795 000.00      Price:     US$ 795 000.00",
+      "price_usd": 779000.00795,
+      "location": "Location:     Playa Tamarindo      Location:     Tamarindo Areas      Location:     Playa Langosta",
+      "url": "https://www.remax-oceansurf-cr.com/property/la-vista-condos-residencial",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/5-general-pics-la-vista-tower-c-october-2025.jpg?itok=COapoWEz",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-Casa-Ma-Vie-La.jpg?itok=sQV04fuX",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/0-Langosta-beach-lots.JPG?itok=8DIwo6ub"
+      ],
+      "description": "La Vista Condos Residencial is an exclusive gated condominium found at the top of the hills of Playa...          \n\n\t\tNestled within the peaceful residential community of Black Stallion, just 10 minutes from Tamarindo and...          Diria Resort is introducing a limited collection of 11 exceptional residential lots in the prestigious beach...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-07-07T19:47:37.977Z",
+      "id": "31dec2ff584a",
+      "archived_at": "2026-10-05T23:36:29.912Z",
+      "archive_reason": "90_day_auto_purge"
     }
   ],
-  "last_updated": "2026-10-05T03:19:57.165Z"
+  "last_updated": "2026-10-05T23:36:29.927Z"
 }
