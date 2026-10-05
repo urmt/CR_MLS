@@ -1,140 +1,6 @@
 {
   "properties": [
     {
-      "id": "sample_001",
-      "title": "Beautiful House in Escazu",
-      "price_usd": 350000,
-      "price_text": "$350,000",
-      "location": "Escazu, San Jose, Costa Rica",
-      "description": "Stunning 3-bedroom house with mountain views in the prestigious Escazu area. Modern kitchen, large living spaces, and private garden.",
-      "images": [
-        "https://example.com/house1_1.jpg",
-        "https://example.com/house1_2.jpg"
-      ],
-      "url": "https://example.com/property/sample_001",
-      "source": "sample_data",
-      "category": "residential",
-      "scraped_at": "2024-12-15T10:00:00Z",
-      "archived_at": "2025-10-04T23:41:54.945Z",
-      "archive_reason": "90_day_auto_purge"
-    },
-    {
-      "id": "sample_002",
-      "title": "Beachfront Condo in Guanacaste",
-      "price_usd": 220000,
-      "price_text": "$220,000",
-      "location": "Tamarindo, Guanacaste, Costa Rica",
-      "description": "Luxury 2-bedroom oceanfront condo with direct beach access. Perfect for vacation rental or permanent residence.",
-      "images": [
-        "https://example.com/condo1_1.jpg"
-      ],
-      "url": "https://example.com/property/sample_002",
-      "source": "sample_data",
-      "category": "luxury",
-      "scraped_at": "2024-12-15T10:15:00Z",
-      "archived_at": "2025-10-04T23:41:54.945Z",
-      "archive_reason": "90_day_auto_purge"
-    },
-    {
-      "id": "cr_003",
-      "title": "Commercial Plaza - Downtown San José",
-      "price_usd": 1200000,
-      "price_text": "$1,200,000",
-      "location": "San José Centro, San José, Costa Rica",
-      "description": "Prime commercial property in heart of San José. 3-story building with retail spaces and offices. Excellent investment opportunity.",
-      "images": [
-        "https://example.com/commercial1.jpg",
-        "https://example.com/commercial2.jpg"
-      ],
-      "url": "https://example.com/property/cr_003",
-      "source": "Craigslist CR",
-      "category": "commercial",
-      "scraped_at": "2024-10-04T12:45:00Z",
-      "archived_at": "2025-10-04T23:41:54.945Z",
-      "archive_reason": "90_day_auto_purge"
-    },
-    {
-      "id": "cr_004",
-      "title": "Oceanview Land - Guanacaste Province",
-      "price_usd": 180000,
-      "price_text": "$180,000",
-      "location": "Nosara, Guanacaste, Costa Rica",
-      "description": "2.5 hectares of pristine land with ocean views. Perfect for development or private estate. Water and electricity access available.",
-      "images": [
-        "https://example.com/land1.jpg",
-        "https://example.com/ocean_view.jpg"
-      ],
-      "url": "https://example.com/property/cr_004",
-      "source": "Encuentra24",
-      "category": "land",
-      "scraped_at": "2024-10-04T11:20:00Z",
-      "archived_at": "2025-10-04T23:41:54.945Z",
-      "archive_reason": "90_day_auto_purge"
-    },
-    {
-      "id": "cr_005",
-      "title": "Mountain Retreat - Monteverde Cloud Forest",
-      "price_usd": 425000,
-      "price_text": "$425,000",
-      "location": "Monteverde, Puntarenas, Costa Rica",
-      "description": "Eco-friendly 3-bedroom house surrounded by cloud forest. Solar power, rainwater collection, and breathtaking mountain views.",
-      "images": [
-        "https://example.com/mountain1.jpg",
-        "https://example.com/mountain2.jpg",
-        "https://example.com/forest.jpg"
-      ],
-      "url": "https://example.com/property/cr_005",
-      "source": "Lamudi",
-      "category": "residential",
-      "scraped_at": "2024-10-04T10:30:00Z",
-      "archived_at": "2025-10-04T23:41:54.945Z",
-      "archive_reason": "90_day_auto_purge"
-    },
-    {
-      "id": "cr_006",
-      "title": "Coffee Farm & Processing Facility",
-      "price_usd": 750000,
-      "price_text": "$750,000",
-      "location": "Atenas, Alajuela, Costa Rica",
-      "description": "Working coffee plantation on 15 hectares. Includes processing facility, farmhouse, and established coffee trees. Turn-key operation.",
-      "images": [
-        "https://example.com/farm1.jpg",
-        "https://example.com/coffee_trees.jpg",
-        "https://example.com/facility.jpg"
-      ],
-      "url": "https://example.com/property/cr_006",
-      "source": "Lamudi",
-      "category": "commercial",
-      "scraped_at": "2024-10-04T08:15:00Z",
-      "archived_at": "2025-10-04T23:41:54.945Z",
-      "archive_reason": "90_day_auto_purge"
-    },
-    {
-      "id": "pending_001",
-      "title": "Luxury Villa - Escazu Hills",
-      "price_usd": 950000,
-      "price_text": "$950,000",
-      "location": "Escazu Hills, San José, Costa Rica",
-      "description": "Exclusive 5-bedroom villa with panoramic city and mountain views. Listed by qualified agent pending verification.",
-      "images": [
-        "https://example.com/villa_pending1.jpg"
-      ],
-      "url": "https://example.com/property/pending_001",
-      "source": "agent_submission",
-      "category": "luxury",
-      "listing_agent": {
-        "agent_id": "agent_001",
-        "name": "John Doe",
-        "company": "Costa Rica Premier Realty",
-        "phone": "+506-1234-5678",
-        "email": "john.doe@example.com"
-      },
-      "status": "pending_verification",
-      "scraped_at": "2024-10-04T16:30:00Z",
-      "archived_at": "2025-10-04T23:41:54.949Z",
-      "archive_reason": "90_day_auto_purge_pending"
-    },
-    {
       "source": "craigslist_cr",
       "source_name": "Craigslist Costa Rica",
       "title": "Sample property",
@@ -75622,7 +75488,112 @@
       "id": "2f9992e22134",
       "archived_at": "2026-10-04T20:47:21.084Z",
       "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "FINCA CON PONTENCIAL COMERCIAL OROTINA, ALAJUELA #20901cgsa",
+      "price_text": "₡220,000,000",
+      "price_usd": 440000,
+      "location": "hace 5 h2br15593ft2OROTINA",
+      "url": "https://www.craigslist.org/view/d/finca-con-pontencial-comercial-orotina/1NDTynGDjgtWuGYfqDoDF6?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945519541/00i0i_g04WCgmZRnv_0j30aJ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-07T02:13:17.794Z",
+      "id": "6776801f284d",
+      "archived_at": "2026-10-05T03:19:57.069Z",
+      "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "FINCA CON PONTENCIAL COMERCIAL OROTINA, ALAJUELA #20901cgsa",
+      "price_text": "₡220,000,000",
+      "price_usd": 440000,
+      "location": "hace 5 h2br15593ft2OROTINA",
+      "url": "https://www.craigslist.org/view/d/finca-con-pontencial-comercial-orotina/1NDTynGDjgtWuGYfqDoDF6?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945519541/00i0i_g04WCgmZRnv_0j30aJ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-07T02:13:23.435Z",
+      "id": "6776801f284d",
+      "archived_at": "2026-10-05T03:19:57.069Z",
+      "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "FINCA CON PONTENCIAL COMERCIAL OROTINA, ALAJUELA #20901cgsa",
+      "price_text": "₡220,000,000",
+      "price_usd": 440000,
+      "location": "hace 5 h2br15593ft2OROTINA",
+      "url": "https://www.craigslist.org/view/d/finca-con-pontencial-comercial-orotina/1NDTynGDjgtWuGYfqDoDF6?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945519541/00i0i_g04WCgmZRnv_0j30aJ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-07T02:13:28.857Z",
+      "id": "6776801f284d",
+      "archived_at": "2026-10-05T03:19:57.069Z",
+      "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "FINCA CON PONTENCIAL COMERCIAL OROTINA, ALAJUELA #20901cgsa",
+      "price_text": "₡220,000,000",
+      "price_usd": 440000,
+      "location": "hace 5 h2br15593ft2OROTINA",
+      "url": "https://www.craigslist.org/view/d/finca-con-pontencial-comercial-orotina/1NDTynGDjgtWuGYfqDoDF6?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945519541/00i0i_g04WCgmZRnv_0j30aJ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-07T02:13:34.442Z",
+      "id": "6776801f284d",
+      "archived_at": "2026-10-05T03:19:57.069Z",
+      "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "FINCA CON PONTENCIAL COMERCIAL OROTINA, ALAJUELA #20901cgsa",
+      "price_text": "₡220,000,000",
+      "price_usd": 440000,
+      "location": "hace 5 h2br15593ft2OROTINA",
+      "url": "https://www.craigslist.org/view/d/finca-con-pontencial-comercial-orotina/1NDTynGDjgtWuGYfqDoDF6?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7945519541/00i0i_g04WCgmZRnv_0j30aJ_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-07T02:13:40.012Z",
+      "id": "6776801f284d",
+      "archived_at": "2026-10-05T03:19:57.069Z",
+      "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "Splendor 360º - Maximize Your Investment ~ Marina View Condo and...          Turnkey 4-Plex Investment in Surfside ~ Steps from Flamingo Beach          Prime Development Land on the Main Road to Tamarindo",
+      "price_text": "Price:     US$ 990 000.00      Price:     US$ 995 000.00      Price:     US$ 1 000 000.00",
+      "price_usd": 990000.00995,
+      "location": "Location:     Playa Flamingo      Location:     Playa Potrero      Location:     Tamarindo Areas",
+      "url": "https://www.remax-oceansurf-cr.com/property/360-splendor-101-playa-flamingo",
+      "images": [
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/29a_360_El_Splendor_Flamingo_Costa_Rica_Condo_For_Sale_0.jpg?itok=eQp3BCuT",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/24-surfside-fourplex-pool.jpg?itok=W2vFGMJT",
+        "https://www.remax-oceansurf-cr.com/sites/default/files/styles/large/public/1-FincaVillarreal-Drone-resized.png?itok=GyJ8Ta1z"
+      ],
+      "description": "Spectacular Views ✅ | Strong Rental Income Potential ✅ | Prime Location ✅ | Breathtaking Sunsets ✅\nThis...          This rare opportunity includes four separate condos in a recently completed (2024) development, located just...          Prime development land located in Villarreal, one of the fastest-growing areas near Tamarindo. The property...",
+      "source": "remax_oceansurf",
+      "source_name": "RE/MAX Ocean Surf & Sun",
+      "category": "residential",
+      "scraped_at": "2026-07-07T02:18:05.773Z",
+      "id": "d1de647cee9e",
+      "archived_at": "2026-10-05T03:19:57.069Z",
+      "archive_reason": "90_day_auto_purge"
     }
   ],
-  "last_updated": "2026-10-04T20:47:21.099Z"
+  "last_updated": "2026-10-05T03:19:57.165Z"
 }
