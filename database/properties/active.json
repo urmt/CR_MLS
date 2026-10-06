@@ -21129,8 +21129,23 @@
       "category": "land",
       "scraped_at": "2026-10-04T20:43:37.699Z",
       "id": "ee0ad58adde1"
+    },
+    {
+      "title": "Warehouse for sale in Zapote 24630\n                Commercial, Zapote, San Jose",
+      "price_text": "$1,400,000",
+      "price_usd": 1400000,
+      "location": "Commercial, Zapote, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/3-bed-commercial-for-sale-in-zapote/13156",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-06T04:03:28.138Z",
+      "id": "7a3d13d77e99"
     }
   ],
-  "last_updated": "2026-10-05T23:36:29.913Z",
+  "last_updated": "2026-10-06T04:07:01.054Z",
   "total_count": 402
 }
