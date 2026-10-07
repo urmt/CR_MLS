@@ -18828,8 +18828,23 @@
       "category": "residential",
       "scraped_at": "2026-10-06T04:03:28.138Z",
       "id": "7a3d13d77e99"
+    },
+    {
+      "title": "Turnkey Commercial Opportunity in the Heart of Dominical - Home to La Junta Rest\n                Commercial, Dominical, Puntarenas",
+      "price_text": "$995,000",
+      "price_usd": 995000,
+      "location": "Commercial, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-commercial-for-sale-in-dominical/15142",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN000074hQrl/mojbxdd4c/midres/_DSC2626.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-07T12:24:37.233Z",
+      "id": "fa163ecafa3f"
     }
   ],
-  "last_updated": "2026-10-07T03:35:25.084Z",
+  "last_updated": "2026-10-07T12:28:56.480Z",
   "total_count": 402
 }
