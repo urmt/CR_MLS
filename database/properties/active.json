@@ -18852,8 +18852,758 @@
       "category": "luxury",
       "scraped_at": "2026-10-08T12:35:02.719Z",
       "id": "50e4c91ffef6"
+    },
+    {
+      "title": "V-Paola -Profitable Apartments in El Llano near Playa Grande and Tama",
+      "price_text": "₡114,995,000",
+      "price_usd": 229990,
+      "location": "En este momento5br424ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/paola-profitable-apartments-in-el-llano/foY9rigi2XqpzRHiqPupG5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956583931/00404_es5KIHAQr4Y_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:13.718Z",
+      "id": "1fc54b0cebf9"
+    },
+    {
+      "title": "T- Sandra. Flat 1,000 m² lot in La Garita Nueva",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "En este momento1000ft2La Garita, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/sandra-flat-1000-lot-in-la-garita-nueva/eurP3uvbtDuP5sWmhUHaph?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956011997/00a0a_dZgMLjhpXUw_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:13.761Z",
+      "id": "f07b348f9d31"
+    },
+    {
+      "title": "V- Karin. Bed & Breakfast Project in Cañafístula: Unique Opportunity",
+      "price_text": "₡179,550,000",
+      "price_usd": 359100,
+      "location": "En este momento4br5000ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karin-bed-breakfast-project-in/qWnnZMP4T9D4d4aHyEG4mr?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956584837/01414_7YVffsuAEuS_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:13.838Z",
+      "id": "a1b701c87025"
+    },
+    {
+      "title": "V- Gran Vista. Luxury Villa with Ocean Views in Corona del Cabo 2",
+      "price_text": "₡502,475,000",
+      "price_usd": 1004950,
+      "location": "hace 1 min4br6672ft2",
+      "url": "https://www.craigslist.org/view/d/gran-vista-luxury-villa-with-ocean/fKBkXwTR2ev7SyFMF2GeSK?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956567782/00101_4tUfkNLP4xb_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-08T22:41:13.901Z",
+      "id": "47ed4f768099"
+    },
+    {
+      "title": "A-Naxos Ju - 2 bedroom, 2 bathroom condominium in Playa Langosta",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 1 min2br151ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/naxos-ju-bedroom-bathroom-condominium/jYfFdyGFMhmiWqv4TE53ht?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956582896/00k0k_hiHi8f7urmL_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:13.962Z",
+      "id": "93791370bacc"
+    },
+    {
+      "title": "V- Moses. Dream Home in Black Stallion with Ocean Views and Nature",
+      "price_text": "₡246,000,000",
+      "price_usd": 492000,
+      "location": "hace 1 min2br5000ft2",
+      "url": "https://www.craigslist.org/view/d/moses-dream-home-in-black-stallion-with/1QBtAdUPMxDxSSEWR79AZX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956585695/00r0r_kS8k5kXvlAc_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-08T22:41:14.035Z",
+      "id": "04b65a186e39"
+    },
+    {
+      "title": "🌴 Property for Sale in Playa Hermosa🌴",
+      "price_text": "₡320,000,000",
+      "price_usd": 640000,
+      "location": "hace 15 minOsa, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/property-for-sale-in-playa-hermosa/pRni3qM8HGyabR3MexB8Ap?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593201/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:14.076Z",
+      "id": "4455fbd74826"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 15 min2985ft2Aguirre, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/land-for-sale-in-matapalo-de-quepos/fRkePeKopLdG9zDppCmzet?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593408/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-08T22:41:14.113Z",
+      "id": "21ba6018d620"
+    },
+    {
+      "title": "Great Busines opportunity",
+      "price_text": "₡515,000,000",
+      "price_usd": 1030000,
+      "location": "hace 15 min6715ft2Guanacaste",
+      "url": "https://www.craigslist.org/view/d/great-busines-opportunity/gjRVgARG92jiYDK2d3d4Pg?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593879/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:14.135Z",
+      "id": "70b885fe615e"
+    },
+    {
+      "title": "Dream Home for Sale in Pérez Zeledón!",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 15 min5br435ft2Perez Zeledon",
+      "url": "https://www.craigslist.org/view/d/dream-home-for-sale-in-prez-zeledn/5rTLARZxpYuoeYtMB7FDUw?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593759/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-08T22:41:14.170Z",
+      "id": "8b4d0d710b6f"
+    },
+    {
+      "title": "V-Paola -Profitable Apartments in El Llano near Playa Grande and Tama",
+      "price_text": "₡114,995,000",
+      "price_usd": 229990,
+      "location": "En este momento5br424ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/paola-profitable-apartments-in-el-llano/foY9rigi2XqpzRHiqPupG5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956583931/00404_es5KIHAQr4Y_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:19.342Z",
+      "id": "1fc54b0cebf9"
+    },
+    {
+      "title": "T- Sandra. Flat 1,000 m² lot in La Garita Nueva",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "En este momento1000ft2La Garita, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/sandra-flat-1000-lot-in-la-garita-nueva/eurP3uvbtDuP5sWmhUHaph?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956011997/00a0a_dZgMLjhpXUw_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:19.384Z",
+      "id": "f07b348f9d31"
+    },
+    {
+      "title": "V- Karin. Bed & Breakfast Project in Cañafístula: Unique Opportunity",
+      "price_text": "₡179,550,000",
+      "price_usd": 359100,
+      "location": "En este momento4br5000ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karin-bed-breakfast-project-in/qWnnZMP4T9D4d4aHyEG4mr?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956584837/01414_7YVffsuAEuS_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:19.446Z",
+      "id": "a1b701c87025"
+    },
+    {
+      "title": "V- Gran Vista. Luxury Villa with Ocean Views in Corona del Cabo 2",
+      "price_text": "₡502,475,000",
+      "price_usd": 1004950,
+      "location": "hace 1 min4br6672ft2",
+      "url": "https://www.craigslist.org/view/d/gran-vista-luxury-villa-with-ocean/fKBkXwTR2ev7SyFMF2GeSK?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956567782/00101_4tUfkNLP4xb_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-08T22:41:19.507Z",
+      "id": "47ed4f768099"
+    },
+    {
+      "title": "A-Naxos Ju - 2 bedroom, 2 bathroom condominium in Playa Langosta",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 1 min2br151ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/naxos-ju-bedroom-bathroom-condominium/jYfFdyGFMhmiWqv4TE53ht?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956582896/00k0k_hiHi8f7urmL_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:19.568Z",
+      "id": "93791370bacc"
+    },
+    {
+      "title": "V- Moses. Dream Home in Black Stallion with Ocean Views and Nature",
+      "price_text": "₡246,000,000",
+      "price_usd": 492000,
+      "location": "hace 1 min2br5000ft2",
+      "url": "https://www.craigslist.org/view/d/moses-dream-home-in-black-stallion-with/1QBtAdUPMxDxSSEWR79AZX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956585695/00r0r_kS8k5kXvlAc_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-08T22:41:19.629Z",
+      "id": "04b65a186e39"
+    },
+    {
+      "title": "🌴 Property for Sale in Playa Hermosa🌴",
+      "price_text": "₡320,000,000",
+      "price_usd": 640000,
+      "location": "hace 15 minOsa, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/property-for-sale-in-playa-hermosa/pRni3qM8HGyabR3MexB8Ap?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593201/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:19.664Z",
+      "id": "4455fbd74826"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 15 min2985ft2Aguirre, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/land-for-sale-in-matapalo-de-quepos/fRkePeKopLdG9zDppCmzet?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593408/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-08T22:41:19.700Z",
+      "id": "21ba6018d620"
+    },
+    {
+      "title": "Great Busines opportunity",
+      "price_text": "₡515,000,000",
+      "price_usd": 1030000,
+      "location": "hace 15 min6715ft2Guanacaste",
+      "url": "https://www.craigslist.org/view/d/great-busines-opportunity/gjRVgARG92jiYDK2d3d4Pg?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593879/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:19.723Z",
+      "id": "70b885fe615e"
+    },
+    {
+      "title": "Dream Home for Sale in Pérez Zeledón!",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 15 min5br435ft2Perez Zeledon",
+      "url": "https://www.craigslist.org/view/d/dream-home-for-sale-in-prez-zeledn/5rTLARZxpYuoeYtMB7FDUw?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593759/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-08T22:41:19.757Z",
+      "id": "8b4d0d710b6f"
+    },
+    {
+      "title": "V-Paola -Profitable Apartments in El Llano near Playa Grande and Tama",
+      "price_text": "₡114,995,000",
+      "price_usd": 229990,
+      "location": "En este momento5br424ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/paola-profitable-apartments-in-el-llano/foY9rigi2XqpzRHiqPupG5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956583931/00404_es5KIHAQr4Y_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:24.819Z",
+      "id": "1fc54b0cebf9"
+    },
+    {
+      "title": "T- Sandra. Flat 1,000 m² lot in La Garita Nueva",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "En este momento1000ft2La Garita, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/sandra-flat-1000-lot-in-la-garita-nueva/eurP3uvbtDuP5sWmhUHaph?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956011997/00a0a_dZgMLjhpXUw_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:24.861Z",
+      "id": "f07b348f9d31"
+    },
+    {
+      "title": "V- Karin. Bed & Breakfast Project in Cañafístula: Unique Opportunity",
+      "price_text": "₡179,550,000",
+      "price_usd": 359100,
+      "location": "hace 1 min4br5000ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karin-bed-breakfast-project-in/qWnnZMP4T9D4d4aHyEG4mr?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956584837/01414_7YVffsuAEuS_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:24.924Z",
+      "id": "50e9c5b11f1d"
+    },
+    {
+      "title": "V- Gran Vista. Luxury Villa with Ocean Views in Corona del Cabo 2",
+      "price_text": "₡502,475,000",
+      "price_usd": 1004950,
+      "location": "hace 1 min4br6672ft2",
+      "url": "https://www.craigslist.org/view/d/gran-vista-luxury-villa-with-ocean/fKBkXwTR2ev7SyFMF2GeSK?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956567782/00101_4tUfkNLP4xb_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-08T22:41:24.983Z",
+      "id": "47ed4f768099"
+    },
+    {
+      "title": "A-Naxos Ju - 2 bedroom, 2 bathroom condominium in Playa Langosta",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 1 min2br151ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/naxos-ju-bedroom-bathroom-condominium/jYfFdyGFMhmiWqv4TE53ht?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956582896/00k0k_hiHi8f7urmL_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:25.042Z",
+      "id": "93791370bacc"
+    },
+    {
+      "title": "V- Moses. Dream Home in Black Stallion with Ocean Views and Nature",
+      "price_text": "₡246,000,000",
+      "price_usd": 492000,
+      "location": "hace 2 min2br5000ft2",
+      "url": "https://www.craigslist.org/view/d/moses-dream-home-in-black-stallion-with/1QBtAdUPMxDxSSEWR79AZX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956585695/00r0r_kS8k5kXvlAc_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-08T22:41:25.104Z",
+      "id": "d1e449ac47cf"
+    },
+    {
+      "title": "🌴 Property for Sale in Playa Hermosa🌴",
+      "price_text": "₡320,000,000",
+      "price_usd": 640000,
+      "location": "hace 15 minOsa, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/property-for-sale-in-playa-hermosa/pRni3qM8HGyabR3MexB8Ap?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593201/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:25.139Z",
+      "id": "4455fbd74826"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 15 min2985ft2Aguirre, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/land-for-sale-in-matapalo-de-quepos/fRkePeKopLdG9zDppCmzet?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593408/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-08T22:41:25.175Z",
+      "id": "21ba6018d620"
+    },
+    {
+      "title": "Great Busines opportunity",
+      "price_text": "₡515,000,000",
+      "price_usd": 1030000,
+      "location": "hace 15 min6715ft2Guanacaste",
+      "url": "https://www.craigslist.org/view/d/great-busines-opportunity/gjRVgARG92jiYDK2d3d4Pg?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593879/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:25.197Z",
+      "id": "70b885fe615e"
+    },
+    {
+      "title": "Dream Home for Sale in Pérez Zeledón!",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 15 min5br435ft2Perez Zeledon",
+      "url": "https://www.craigslist.org/view/d/dream-home-for-sale-in-prez-zeledn/5rTLARZxpYuoeYtMB7FDUw?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593759/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-08T22:41:25.231Z",
+      "id": "8b4d0d710b6f"
+    },
+    {
+      "title": "V-Paola -Profitable Apartments in El Llano near Playa Grande and Tama",
+      "price_text": "₡114,995,000",
+      "price_usd": 229990,
+      "location": "En este momento5br424ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/paola-profitable-apartments-in-el-llano/foY9rigi2XqpzRHiqPupG5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956583931/00404_es5KIHAQr4Y_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:30.338Z",
+      "id": "1fc54b0cebf9"
+    },
+    {
+      "title": "T- Sandra. Flat 1,000 m² lot in La Garita Nueva",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "En este momento1000ft2La Garita, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/sandra-flat-1000-lot-in-la-garita-nueva/eurP3uvbtDuP5sWmhUHaph?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956011997/00a0a_dZgMLjhpXUw_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:30.381Z",
+      "id": "f07b348f9d31"
+    },
+    {
+      "title": "V- Karin. Bed & Breakfast Project in Cañafístula: Unique Opportunity",
+      "price_text": "₡179,550,000",
+      "price_usd": 359100,
+      "location": "hace 1 min4br5000ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karin-bed-breakfast-project-in/qWnnZMP4T9D4d4aHyEG4mr?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956584837/01414_7YVffsuAEuS_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:30.442Z",
+      "id": "50e9c5b11f1d"
+    },
+    {
+      "title": "V- Gran Vista. Luxury Villa with Ocean Views in Corona del Cabo 2",
+      "price_text": "₡502,475,000",
+      "price_usd": 1004950,
+      "location": "hace 1 min4br6672ft2",
+      "url": "https://www.craigslist.org/view/d/gran-vista-luxury-villa-with-ocean/fKBkXwTR2ev7SyFMF2GeSK?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956567782/00101_4tUfkNLP4xb_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-08T22:41:30.502Z",
+      "id": "47ed4f768099"
+    },
+    {
+      "title": "A-Naxos Ju - 2 bedroom, 2 bathroom condominium in Playa Langosta",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 1 min2br151ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/naxos-ju-bedroom-bathroom-condominium/jYfFdyGFMhmiWqv4TE53ht?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956582896/00k0k_hiHi8f7urmL_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:30.559Z",
+      "id": "93791370bacc"
+    },
+    {
+      "title": "V- Moses. Dream Home in Black Stallion with Ocean Views and Nature",
+      "price_text": "₡246,000,000",
+      "price_usd": 492000,
+      "location": "hace 2 min2br5000ft2",
+      "url": "https://www.craigslist.org/view/d/moses-dream-home-in-black-stallion-with/1QBtAdUPMxDxSSEWR79AZX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956585695/00r0r_kS8k5kXvlAc_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-08T22:41:30.619Z",
+      "id": "d1e449ac47cf"
+    },
+    {
+      "title": "🌴 Property for Sale in Playa Hermosa🌴",
+      "price_text": "₡320,000,000",
+      "price_usd": 640000,
+      "location": "hace 15 minOsa, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/property-for-sale-in-playa-hermosa/pRni3qM8HGyabR3MexB8Ap?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593201/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:30.653Z",
+      "id": "4455fbd74826"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 15 min2985ft2Aguirre, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/land-for-sale-in-matapalo-de-quepos/fRkePeKopLdG9zDppCmzet?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593408/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-08T22:41:30.688Z",
+      "id": "21ba6018d620"
+    },
+    {
+      "title": "Great Busines opportunity",
+      "price_text": "₡515,000,000",
+      "price_usd": 1030000,
+      "location": "hace 15 min6715ft2Guanacaste",
+      "url": "https://www.craigslist.org/view/d/great-busines-opportunity/gjRVgARG92jiYDK2d3d4Pg?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593879/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:30.710Z",
+      "id": "70b885fe615e"
+    },
+    {
+      "title": "Dream Home for Sale in Pérez Zeledón!",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 15 min5br435ft2Perez Zeledon",
+      "url": "https://www.craigslist.org/view/d/dream-home-for-sale-in-prez-zeledn/5rTLARZxpYuoeYtMB7FDUw?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593759/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-08T22:41:30.743Z",
+      "id": "8b4d0d710b6f"
+    },
+    {
+      "title": "V-Paola -Profitable Apartments in El Llano near Playa Grande and Tama",
+      "price_text": "₡114,995,000",
+      "price_usd": 229990,
+      "location": "En este momento5br424ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/paola-profitable-apartments-in-el-llano/foY9rigi2XqpzRHiqPupG5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956583931/00404_es5KIHAQr4Y_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:35.847Z",
+      "id": "1fc54b0cebf9"
+    },
+    {
+      "title": "T- Sandra. Flat 1,000 m² lot in La Garita Nueva",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "hace 1 min1000ft2La Garita, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/sandra-flat-1000-lot-in-la-garita-nueva/eurP3uvbtDuP5sWmhUHaph?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956011997/00a0a_dZgMLjhpXUw_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:35.890Z",
+      "id": "0df567062c98"
+    },
+    {
+      "title": "V- Karin. Bed & Breakfast Project in Cañafístula: Unique Opportunity",
+      "price_text": "₡179,550,000",
+      "price_usd": 359100,
+      "location": "hace 1 min4br5000ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/karin-bed-breakfast-project-in/qWnnZMP4T9D4d4aHyEG4mr?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956584837/01414_7YVffsuAEuS_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:35.951Z",
+      "id": "50e9c5b11f1d"
+    },
+    {
+      "title": "V- Gran Vista. Luxury Villa with Ocean Views in Corona del Cabo 2",
+      "price_text": "₡502,475,000",
+      "price_usd": 1004950,
+      "location": "hace 1 min4br6672ft2",
+      "url": "https://www.craigslist.org/view/d/gran-vista-luxury-villa-with-ocean/fKBkXwTR2ev7SyFMF2GeSK?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956567782/00101_4tUfkNLP4xb_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-08T22:41:36.010Z",
+      "id": "47ed4f768099"
+    },
+    {
+      "title": "A-Naxos Ju - 2 bedroom, 2 bathroom condominium in Playa Langosta",
+      "price_text": "₡229,000,000",
+      "price_usd": 458000,
+      "location": "hace 2 min2br151ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/naxos-ju-bedroom-bathroom-condominium/jYfFdyGFMhmiWqv4TE53ht?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956582896/00k0k_hiHi8f7urmL_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:36.067Z",
+      "id": "2ae054190c46"
+    },
+    {
+      "title": "V- Moses. Dream Home in Black Stallion with Ocean Views and Nature",
+      "price_text": "₡246,000,000",
+      "price_usd": 492000,
+      "location": "hace 2 min2br5000ft2",
+      "url": "https://www.craigslist.org/view/d/moses-dream-home-in-black-stallion-with/1QBtAdUPMxDxSSEWR79AZX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956585695/00r0r_kS8k5kXvlAc_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-08T22:41:36.127Z",
+      "id": "d1e449ac47cf"
+    },
+    {
+      "title": "🌴 Property for Sale in Playa Hermosa🌴",
+      "price_text": "₡320,000,000",
+      "price_usd": 640000,
+      "location": "hace 15 minOsa, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/property-for-sale-in-playa-hermosa/pRni3qM8HGyabR3MexB8Ap?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593201/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:36.162Z",
+      "id": "4455fbd74826"
+    },
+    {
+      "title": "🌴 Land for Sale in Matapalo de Quepos🌴",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 15 min2985ft2Aguirre, Puntarenas",
+      "url": "https://www.craigslist.org/view/d/land-for-sale-in-matapalo-de-quepos/fRkePeKopLdG9zDppCmzet?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593408/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-08T22:41:36.198Z",
+      "id": "21ba6018d620"
+    },
+    {
+      "title": "Great Busines opportunity",
+      "price_text": "₡515,000,000",
+      "price_usd": 1030000,
+      "location": "hace 15 min6715ft2Guanacaste",
+      "url": "https://www.craigslist.org/view/d/great-busines-opportunity/gjRVgARG92jiYDK2d3d4Pg?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593879/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-08T22:41:36.220Z",
+      "id": "70b885fe615e"
+    },
+    {
+      "title": "Dream Home for Sale in Pérez Zeledón!",
+      "price_text": "₡95,000,000",
+      "price_usd": 190000,
+      "location": "hace 15 min5br435ft2Perez Zeledon",
+      "url": "https://www.craigslist.org/view/d/dream-home-for-sale-in-prez-zeledn/5rTLARZxpYuoeYtMB7FDUw?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7966593759/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-08T22:41:36.252Z",
+      "id": "8b4d0d710b6f"
     }
   ],
-  "last_updated": "2026-10-08T12:37:20.949Z",
+  "last_updated": "2026-10-08T22:46:23.518Z",
   "total_count": 402
 }
