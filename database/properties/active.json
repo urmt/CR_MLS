@@ -19200,8 +19200,758 @@
       "category": "luxury",
       "scraped_at": "2026-10-08T22:41:36.252Z",
       "id": "8b4d0d710b6f"
+    },
+    {
+      "title": "T-Gus PG - Prime Lot Steps from Playa Grande – With Approved Building",
+      "price_text": "₡113,745,450",
+      "price_usd": 227491,
+      "location": "hace 5 h713ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/gus-pg-prime-lot-steps-from-playa/sUkp45VVLGt5QH7ycxtDok?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956583418/00N0N_4X69dtd5cF_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:47.450Z",
+      "id": "ec9f4018b022"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 5 h1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/finca-panama-ju-strategic-commercial/f53JmMCVus7awFW59a5GQa?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956581807/00d0d_hA7LxocImbI_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-09T03:49:47.601Z",
+      "id": "6d189454aa6d"
+    },
+    {
+      "title": "V- Finca Hermosa. Prestigious Investment in a Safe Environment",
+      "price_text": "₡379,925,000",
+      "price_usd": 759850,
+      "location": "hace 5 h3br8500ft2Finca Panamá",
+      "url": "https://www.craigslist.org/view/d/finca-hermosa-prestigious-investment-in/jsRi2udAbrQ9ezVEeuNBZT?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956582515/00L0L_idXrEHZtLTd_0uY0kB_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:47.658Z",
+      "id": "f35c2645303b"
+    },
+    {
+      "title": "V-Noily Ju - Luxury Home with Apartments, Pool, and Gym",
+      "price_text": "₡449,500,000",
+      "price_usd": 899000,
+      "location": "hace 5 h7br1703ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/noily-ju-luxury-home-with-apartments/4ovy9UbwNjr7oegWsrtdBg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956580814/00Z0Z_7Sjf1swu2Rm_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:47.708Z",
+      "id": "4cd48bc2da85"
+    },
+    {
+      "title": "V-Xinia San Pedro - 5900m² Mountain View Property with 3-Bedroom House",
+      "price_text": "₡110,450,000",
+      "price_usd": 220900,
+      "location": "hace 5 h3brSan Pedro, Santa Cruz, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xinia-san-pedro-mountain-view-property/r66AdXCPbcSFHiYfxgSerM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956580019/00j0j_5jRfY1x9p3u_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:47.797Z",
+      "id": "3ca3feff1e41"
+    },
+    {
+      "title": "V- Vini. Prime investment opportunity in Tamarindo!",
+      "price_text": "₡349,995,000",
+      "price_usd": 699990,
+      "location": "hace 5 h8br488ft2",
+      "url": "https://www.craigslist.org/view/d/vini-prime-investment-opportunity-in/eeZfDqgKvNcbVyHgtraunW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956582032/01212_9gTLBK484by_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:47.843Z",
+      "id": "12e5c91d0871"
+    },
+    {
+      "title": "V-Totainalban-Income-Generating Property near Playa Potrero and Marina",
+      "price_text": "₡675,000,000",
+      "price_usd": 1350000,
+      "location": "hace 5 h8br2457ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/totainalban-income-generating-property/7WANxPrVptVGMzGjmZnRFa?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:47.908Z",
+      "id": "4b5c45ce0ef8"
+    },
+    {
+      "title": "T-David Marseille - Scenic Ocean & Mountain View Lot Near Flamingo",
+      "price_text": "₡97,395,000",
+      "price_usd": 194790,
+      "location": "hace 5 h12595ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/david-marseille-scenic-ocean-mountain/hGvaqwDhFCpjenrJh1Zr2y?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:47.968Z",
+      "id": "060a14b6a46c"
+    },
+    {
+      "title": "V- Angelos. Nine‑unit apartment complex for sale, featuring a pool",
+      "price_text": "₡363,545,000",
+      "price_usd": 727090,
+      "location": "hace 5 h8br1000ft2",
+      "url": "https://www.craigslist.org/view/d/angelos-nineunit-apartment-complex-for/copgpatcaE6kZCpXoueWMv?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:48.063Z",
+      "id": "d8cac6238a20"
+    },
+    {
+      "title": "V- Coco. 857 m² container house on a plot with expansion potential",
+      "price_text": "₡97,500,000",
+      "price_usd": 195000,
+      "location": "hace 5 h1br857ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/coco-857-container-house-on-plot-with/iFKjCwo9C84HRRn2MaJZiY?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:48.123Z",
+      "id": "7f9218fe5d02"
+    },
+    {
+      "title": "T-Gus PG - Prime Lot Steps from Playa Grande – With Approved Building",
+      "price_text": "₡113,745,450",
+      "price_usd": 227491,
+      "location": "hace 5 h713ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/gus-pg-prime-lot-steps-from-playa/sUkp45VVLGt5QH7ycxtDok?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956583418/00N0N_4X69dtd5cF_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:53.085Z",
+      "id": "ec9f4018b022"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 5 h1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/finca-panama-ju-strategic-commercial/f53JmMCVus7awFW59a5GQa?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956581807/00d0d_hA7LxocImbI_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-09T03:49:53.236Z",
+      "id": "6d189454aa6d"
+    },
+    {
+      "title": "V- Finca Hermosa. Prestigious Investment in a Safe Environment",
+      "price_text": "₡379,925,000",
+      "price_usd": 759850,
+      "location": "hace 5 h3br8500ft2Finca Panamá",
+      "url": "https://www.craigslist.org/view/d/finca-hermosa-prestigious-investment-in/jsRi2udAbrQ9ezVEeuNBZT?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956582515/00L0L_idXrEHZtLTd_0uY0kB_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:53.292Z",
+      "id": "f35c2645303b"
+    },
+    {
+      "title": "V-Noily Ju - Luxury Home with Apartments, Pool, and Gym",
+      "price_text": "₡449,500,000",
+      "price_usd": 899000,
+      "location": "hace 5 h7br1703ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/noily-ju-luxury-home-with-apartments/4ovy9UbwNjr7oegWsrtdBg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956580814/00Z0Z_7Sjf1swu2Rm_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:53.342Z",
+      "id": "4cd48bc2da85"
+    },
+    {
+      "title": "V-Xinia San Pedro - 5900m² Mountain View Property with 3-Bedroom House",
+      "price_text": "₡110,450,000",
+      "price_usd": 220900,
+      "location": "hace 5 h3brSan Pedro, Santa Cruz, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xinia-san-pedro-mountain-view-property/r66AdXCPbcSFHiYfxgSerM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956580019/00j0j_5jRfY1x9p3u_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:53.430Z",
+      "id": "3ca3feff1e41"
+    },
+    {
+      "title": "V- Vini. Prime investment opportunity in Tamarindo!",
+      "price_text": "₡349,995,000",
+      "price_usd": 699990,
+      "location": "hace 5 h8br488ft2",
+      "url": "https://www.craigslist.org/view/d/vini-prime-investment-opportunity-in/eeZfDqgKvNcbVyHgtraunW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956582032/01212_9gTLBK484by_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:53.476Z",
+      "id": "12e5c91d0871"
+    },
+    {
+      "title": "V-Totainalban-Income-Generating Property near Playa Potrero and Marina",
+      "price_text": "₡675,000,000",
+      "price_usd": 1350000,
+      "location": "hace 5 h8br2457ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/totainalban-income-generating-property/7WANxPrVptVGMzGjmZnRFa?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:53.540Z",
+      "id": "4b5c45ce0ef8"
+    },
+    {
+      "title": "T-David Marseille - Scenic Ocean & Mountain View Lot Near Flamingo",
+      "price_text": "₡97,395,000",
+      "price_usd": 194790,
+      "location": "hace 5 h12595ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/david-marseille-scenic-ocean-mountain/hGvaqwDhFCpjenrJh1Zr2y?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:53.599Z",
+      "id": "060a14b6a46c"
+    },
+    {
+      "title": "V- Angelos. Nine‑unit apartment complex for sale, featuring a pool",
+      "price_text": "₡363,545,000",
+      "price_usd": 727090,
+      "location": "hace 5 h8br1000ft2",
+      "url": "https://www.craigslist.org/view/d/angelos-nineunit-apartment-complex-for/copgpatcaE6kZCpXoueWMv?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:53.694Z",
+      "id": "d8cac6238a20"
+    },
+    {
+      "title": "V- Coco. 857 m² container house on a plot with expansion potential",
+      "price_text": "₡97,500,000",
+      "price_usd": 195000,
+      "location": "hace 5 h1br857ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/coco-857-container-house-on-plot-with/iFKjCwo9C84HRRn2MaJZiY?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:53.755Z",
+      "id": "7f9218fe5d02"
+    },
+    {
+      "title": "T-Gus PG - Prime Lot Steps from Playa Grande – With Approved Building",
+      "price_text": "₡113,745,450",
+      "price_usd": 227491,
+      "location": "hace 5 h713ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/gus-pg-prime-lot-steps-from-playa/sUkp45VVLGt5QH7ycxtDok?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956583418/00N0N_4X69dtd5cF_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:58.657Z",
+      "id": "ec9f4018b022"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 5 h1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/finca-panama-ju-strategic-commercial/f53JmMCVus7awFW59a5GQa?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956581807/00d0d_hA7LxocImbI_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-09T03:49:58.809Z",
+      "id": "6d189454aa6d"
+    },
+    {
+      "title": "V- Finca Hermosa. Prestigious Investment in a Safe Environment",
+      "price_text": "₡379,925,000",
+      "price_usd": 759850,
+      "location": "hace 5 h3br8500ft2Finca Panamá",
+      "url": "https://www.craigslist.org/view/d/finca-hermosa-prestigious-investment-in/jsRi2udAbrQ9ezVEeuNBZT?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956582515/00L0L_idXrEHZtLTd_0uY0kB_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:58.865Z",
+      "id": "f35c2645303b"
+    },
+    {
+      "title": "V-Noily Ju - Luxury Home with Apartments, Pool, and Gym",
+      "price_text": "₡449,500,000",
+      "price_usd": 899000,
+      "location": "hace 5 h7br1703ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/noily-ju-luxury-home-with-apartments/4ovy9UbwNjr7oegWsrtdBg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956580814/00Z0Z_7Sjf1swu2Rm_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:58.914Z",
+      "id": "4cd48bc2da85"
+    },
+    {
+      "title": "V-Xinia San Pedro - 5900m² Mountain View Property with 3-Bedroom House",
+      "price_text": "₡110,450,000",
+      "price_usd": 220900,
+      "location": "hace 5 h3brSan Pedro, Santa Cruz, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xinia-san-pedro-mountain-view-property/r66AdXCPbcSFHiYfxgSerM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956580019/00j0j_5jRfY1x9p3u_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:59.003Z",
+      "id": "3ca3feff1e41"
+    },
+    {
+      "title": "V- Vini. Prime investment opportunity in Tamarindo!",
+      "price_text": "₡349,995,000",
+      "price_usd": 699990,
+      "location": "hace 5 h8br488ft2",
+      "url": "https://www.craigslist.org/view/d/vini-prime-investment-opportunity-in/eeZfDqgKvNcbVyHgtraunW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956582032/01212_9gTLBK484by_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:59.049Z",
+      "id": "12e5c91d0871"
+    },
+    {
+      "title": "V-Totainalban-Income-Generating Property near Playa Potrero and Marina",
+      "price_text": "₡675,000,000",
+      "price_usd": 1350000,
+      "location": "hace 5 h8br2457ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/totainalban-income-generating-property/7WANxPrVptVGMzGjmZnRFa?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:59.112Z",
+      "id": "4b5c45ce0ef8"
+    },
+    {
+      "title": "T-David Marseille - Scenic Ocean & Mountain View Lot Near Flamingo",
+      "price_text": "₡97,395,000",
+      "price_usd": 194790,
+      "location": "hace 5 h12595ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/david-marseille-scenic-ocean-mountain/hGvaqwDhFCpjenrJh1Zr2y?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:59.172Z",
+      "id": "060a14b6a46c"
+    },
+    {
+      "title": "V- Angelos. Nine‑unit apartment complex for sale, featuring a pool",
+      "price_text": "₡363,545,000",
+      "price_usd": 727090,
+      "location": "hace 5 h8br1000ft2",
+      "url": "https://www.craigslist.org/view/d/angelos-nineunit-apartment-complex-for/copgpatcaE6kZCpXoueWMv?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:59.268Z",
+      "id": "d8cac6238a20"
+    },
+    {
+      "title": "V- Coco. 857 m² container house on a plot with expansion potential",
+      "price_text": "₡97,500,000",
+      "price_usd": 195000,
+      "location": "hace 5 h1br857ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/coco-857-container-house-on-plot-with/iFKjCwo9C84HRRn2MaJZiY?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:49:59.328Z",
+      "id": "7f9218fe5d02"
+    },
+    {
+      "title": "T-Gus PG - Prime Lot Steps from Playa Grande – With Approved Building",
+      "price_text": "₡113,745,450",
+      "price_usd": 227491,
+      "location": "hace 5 h713ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/gus-pg-prime-lot-steps-from-playa/sUkp45VVLGt5QH7ycxtDok?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956583418/00N0N_4X69dtd5cF_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:50:04.169Z",
+      "id": "ec9f4018b022"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 5 h1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/finca-panama-ju-strategic-commercial/f53JmMCVus7awFW59a5GQa?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956581807/00d0d_hA7LxocImbI_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-09T03:50:04.319Z",
+      "id": "6d189454aa6d"
+    },
+    {
+      "title": "V- Finca Hermosa. Prestigious Investment in a Safe Environment",
+      "price_text": "₡379,925,000",
+      "price_usd": 759850,
+      "location": "hace 5 h3br8500ft2Finca Panamá",
+      "url": "https://www.craigslist.org/view/d/finca-hermosa-prestigious-investment-in/jsRi2udAbrQ9ezVEeuNBZT?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956582515/00L0L_idXrEHZtLTd_0uY0kB_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:50:04.375Z",
+      "id": "f35c2645303b"
+    },
+    {
+      "title": "V-Noily Ju - Luxury Home with Apartments, Pool, and Gym",
+      "price_text": "₡449,500,000",
+      "price_usd": 899000,
+      "location": "hace 5 h7br1703ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/noily-ju-luxury-home-with-apartments/4ovy9UbwNjr7oegWsrtdBg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956580814/00Z0Z_7Sjf1swu2Rm_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:50:04.425Z",
+      "id": "4cd48bc2da85"
+    },
+    {
+      "title": "V-Xinia San Pedro - 5900m² Mountain View Property with 3-Bedroom House",
+      "price_text": "₡110,450,000",
+      "price_usd": 220900,
+      "location": "hace 5 h3brSan Pedro, Santa Cruz, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xinia-san-pedro-mountain-view-property/r66AdXCPbcSFHiYfxgSerM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956580019/00j0j_5jRfY1x9p3u_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:50:04.511Z",
+      "id": "3ca3feff1e41"
+    },
+    {
+      "title": "V- Vini. Prime investment opportunity in Tamarindo!",
+      "price_text": "₡349,995,000",
+      "price_usd": 699990,
+      "location": "hace 5 h8br488ft2",
+      "url": "https://www.craigslist.org/view/d/vini-prime-investment-opportunity-in/eeZfDqgKvNcbVyHgtraunW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956582032/01212_9gTLBK484by_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:50:04.557Z",
+      "id": "12e5c91d0871"
+    },
+    {
+      "title": "V-Totainalban-Income-Generating Property near Playa Potrero and Marina",
+      "price_text": "₡675,000,000",
+      "price_usd": 1350000,
+      "location": "hace 5 h8br2457ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/totainalban-income-generating-property/7WANxPrVptVGMzGjmZnRFa?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:50:04.623Z",
+      "id": "4b5c45ce0ef8"
+    },
+    {
+      "title": "T-David Marseille - Scenic Ocean & Mountain View Lot Near Flamingo",
+      "price_text": "₡97,395,000",
+      "price_usd": 194790,
+      "location": "hace 5 h12595ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/david-marseille-scenic-ocean-mountain/hGvaqwDhFCpjenrJh1Zr2y?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:50:04.683Z",
+      "id": "060a14b6a46c"
+    },
+    {
+      "title": "V- Angelos. Nine‑unit apartment complex for sale, featuring a pool",
+      "price_text": "₡363,545,000",
+      "price_usd": 727090,
+      "location": "hace 5 h8br1000ft2",
+      "url": "https://www.craigslist.org/view/d/angelos-nineunit-apartment-complex-for/copgpatcaE6kZCpXoueWMv?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:50:04.777Z",
+      "id": "d8cac6238a20"
+    },
+    {
+      "title": "V- Coco. 857 m² container house on a plot with expansion potential",
+      "price_text": "₡97,500,000",
+      "price_usd": 195000,
+      "location": "hace 5 h1br857ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/coco-857-container-house-on-plot-with/iFKjCwo9C84HRRn2MaJZiY?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:50:04.837Z",
+      "id": "7f9218fe5d02"
+    },
+    {
+      "title": "T-Gus PG - Prime Lot Steps from Playa Grande – With Approved Building",
+      "price_text": "₡113,745,450",
+      "price_usd": 227491,
+      "location": "hace 5 h713ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/gus-pg-prime-lot-steps-from-playa/sUkp45VVLGt5QH7ycxtDok?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956583418/00N0N_4X69dtd5cF_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:50:09.731Z",
+      "id": "ec9f4018b022"
+    },
+    {
+      "title": "T-Finca Panama Ju- Strategic Commercial and Residential Opportunity",
+      "price_text": "₡45,390,000",
+      "price_usd": 90780,
+      "location": "hace 5 h1026ft2Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/finca-panama-ju-strategic-commercial/f53JmMCVus7awFW59a5GQa?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956581807/00d0d_hA7LxocImbI_0jm0pO_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-09T03:50:09.886Z",
+      "id": "6d189454aa6d"
+    },
+    {
+      "title": "V- Finca Hermosa. Prestigious Investment in a Safe Environment",
+      "price_text": "₡379,925,000",
+      "price_usd": 759850,
+      "location": "hace 5 h3br8500ft2Finca Panamá",
+      "url": "https://www.craigslist.org/view/d/finca-hermosa-prestigious-investment-in/jsRi2udAbrQ9ezVEeuNBZT?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956582515/00L0L_idXrEHZtLTd_0uY0kB_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:50:09.943Z",
+      "id": "f35c2645303b"
+    },
+    {
+      "title": "V-Noily Ju - Luxury Home with Apartments, Pool, and Gym",
+      "price_text": "₡449,500,000",
+      "price_usd": 899000,
+      "location": "hace 5 h7br1703ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/noily-ju-luxury-home-with-apartments/4ovy9UbwNjr7oegWsrtdBg?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956580814/00Z0Z_7Sjf1swu2Rm_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:50:09.992Z",
+      "id": "4cd48bc2da85"
+    },
+    {
+      "title": "V-Xinia San Pedro - 5900m² Mountain View Property with 3-Bedroom House",
+      "price_text": "₡110,450,000",
+      "price_usd": 220900,
+      "location": "hace 5 h3brSan Pedro, Santa Cruz, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xinia-san-pedro-mountain-view-property/r66AdXCPbcSFHiYfxgSerM?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956580019/00j0j_5jRfY1x9p3u_0kE0fu_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:50:10.080Z",
+      "id": "3ca3feff1e41"
+    },
+    {
+      "title": "V- Vini. Prime investment opportunity in Tamarindo!",
+      "price_text": "₡349,995,000",
+      "price_usd": 699990,
+      "location": "hace 5 h8br488ft2",
+      "url": "https://www.craigslist.org/view/d/vini-prime-investment-opportunity-in/eeZfDqgKvNcbVyHgtraunW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7956582032/01212_9gTLBK484by_0oM0gw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:50:10.126Z",
+      "id": "12e5c91d0871"
+    },
+    {
+      "title": "V-Totainalban-Income-Generating Property near Playa Potrero and Marina",
+      "price_text": "₡675,000,000",
+      "price_usd": 1350000,
+      "location": "hace 5 h8br2457ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/totainalban-income-generating-property/7WANxPrVptVGMzGjmZnRFa?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:50:10.191Z",
+      "id": "4b5c45ce0ef8"
+    },
+    {
+      "title": "T-David Marseille - Scenic Ocean & Mountain View Lot Near Flamingo",
+      "price_text": "₡97,395,000",
+      "price_usd": 194790,
+      "location": "hace 5 h12595ft2Potrero, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/david-marseille-scenic-ocean-mountain/hGvaqwDhFCpjenrJh1Zr2y?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:50:10.251Z",
+      "id": "060a14b6a46c"
+    },
+    {
+      "title": "V- Angelos. Nine‑unit apartment complex for sale, featuring a pool",
+      "price_text": "₡363,545,000",
+      "price_usd": 727090,
+      "location": "hace 5 h8br1000ft2",
+      "url": "https://www.craigslist.org/view/d/angelos-nineunit-apartment-complex-for/copgpatcaE6kZCpXoueWMv?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:50:10.345Z",
+      "id": "d8cac6238a20"
+    },
+    {
+      "title": "V- Coco. 857 m² container house on a plot with expansion potential",
+      "price_text": "₡97,500,000",
+      "price_usd": 195000,
+      "location": "hace 5 h1br857ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/coco-857-container-house-on-plot-with/iFKjCwo9C84HRRn2MaJZiY?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-09T03:50:10.406Z",
+      "id": "7f9218fe5d02"
     }
   ],
-  "last_updated": "2026-10-08T22:46:52.842Z",
+  "last_updated": "2026-10-09T03:55:20.919Z",
   "total_count": 402
 }
