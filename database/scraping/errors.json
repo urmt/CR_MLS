@@ -145127,6 +145127,166 @@
       "url": "https://immocostarica.com/for-sale/apartments-condos?page=5",
       "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=5",
       "timestamp": "2026-10-10T16:44:47.218Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 1,
+      "url": "https://immocostarica.com/for-sale/houses-villas",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas",
+      "timestamp": "2026-10-10T21:00:32.989Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=2",
+      "timestamp": "2026-10-10T21:00:33.030Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=3",
+      "timestamp": "2026-10-10T21:00:33.065Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=4",
+      "timestamp": "2026-10-10T21:00:33.108Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "houses",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/houses-villas?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/houses-villas?page=5",
+      "timestamp": "2026-10-10T21:00:33.169Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 1,
+      "url": "https://immocostarica.com/for-sale/apartments-condos",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos",
+      "timestamp": "2026-10-10T21:00:33.208Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 2,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=2",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=2",
+      "timestamp": "2026-10-10T21:00:33.244Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 3,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=3",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=3",
+      "timestamp": "2026-10-10T21:00:33.281Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 4,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=4",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=4",
+      "timestamp": "2026-10-10T21:00:33.320Z"
+    },
+    {
+      "source": "immo_costa_rica",
+      "endpoint": "condos",
+      "page": 5,
+      "url": "https://immocostarica.com/for-sale/apartments-condos?page=5",
+      "error": "net::ERR_HTTP2_PROTOCOL_ERROR at https://immocostarica.com/for-sale/apartments-condos?page=5",
+      "timestamp": "2026-10-10T21:00:33.356Z"
+    },
+    {
+      "source": "omnimls_cr",
+      "endpoint": "sale",
+      "page": 1,
+      "url": "https://omnimls.com/v/results/listing-type_sale",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-10-10T21:00:48.450Z"
+    },
+    {
+      "source": "omnimls_cr",
+      "endpoint": "sale",
+      "page": 2,
+      "url": "https://omnimls.com/v/results/listing-type_sale?page=2",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-10-10T21:01:03.465Z"
+    },
+    {
+      "source": "omnimls_cr",
+      "endpoint": "sale",
+      "page": 3,
+      "url": "https://omnimls.com/v/results/listing-type_sale?page=3",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-10-10T21:01:18.477Z"
+    },
+    {
+      "source": "omnimls_cr",
+      "endpoint": "sale",
+      "page": 4,
+      "url": "https://omnimls.com/v/results/listing-type_sale?page=4",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-10-10T21:01:33.493Z"
+    },
+    {
+      "source": "omnimls_cr",
+      "endpoint": "sale",
+      "page": 5,
+      "url": "https://omnimls.com/v/results/listing-type_sale?page=5",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-10-10T21:01:48.508Z"
+    },
+    {
+      "source": "omnimls_cr",
+      "endpoint": "rent",
+      "page": 1,
+      "url": "https://omnimls.com/v/results/listing-type_rent",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-10-10T21:02:03.524Z"
+    },
+    {
+      "source": "omnimls_cr",
+      "endpoint": "rent",
+      "page": 2,
+      "url": "https://omnimls.com/v/results/listing-type_rent?page=2",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-10-10T21:02:18.539Z"
+    },
+    {
+      "source": "omnimls_cr",
+      "endpoint": "rent",
+      "page": 3,
+      "url": "https://omnimls.com/v/results/listing-type_rent?page=3",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-10-10T21:02:33.541Z"
+    },
+    {
+      "source": "omnimls_cr",
+      "endpoint": "rent",
+      "page": 4,
+      "url": "https://omnimls.com/v/results/listing-type_rent?page=4",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-10-10T21:02:48.547Z"
+    },
+    {
+      "source": "omnimls_cr",
+      "endpoint": "rent",
+      "page": 5,
+      "url": "https://omnimls.com/v/results/listing-type_rent?page=5",
+      "error": "Navigation timeout of 15000 ms exceeded",
+      "timestamp": "2026-10-10T21:03:03.554Z"
     }
   ]
 }
