@@ -1,36 +1,6 @@
 {
   "properties": [
     {
-      "title": "Prime Oceanview Development Site with Hospitality & Residential Potential\n                Hotel / Leisure, Dominical, Puntarenas",
-      "price_text": "$6,250,000",
-      "price_usd": 6250000,
-      "location": "Hotel / Leisure, Dominical, Puntarenas",
-      "url": "https://www.coldwellbankercostarica.com/property/12-bed-hotel-leisure-for-sale-in-dominical/11015",
-      "images": [
-        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "land",
-      "scraped_at": "2026-07-14T07:49:48.169Z",
-      "id": "2e14968f4b34"
-    },
-    {
-      "title": "Prime Oceanview Development Site with Hospitality & Residential Potential\n                Hotel / Leisure, Dominical, Puntarenas",
-      "price_text": "$6,250,000",
-      "price_usd": 6250000,
-      "location": "Hotel / Leisure, Dominical, Puntarenas",
-      "url": "https://www.coldwellbankercostarica.com/property/12-bed-hotel-leisure-for-sale-in-dominical/11015",
-      "images": [
-        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "land",
-      "scraped_at": "2026-07-14T07:51:11.604Z",
-      "id": "2e14968f4b34"
-    },
-    {
       "title": "3360-ft2 House, 3 BRs plus Office, Mixed-Use Zoning, San Pedro",
       "price_text": "₡170,000,000",
       "price_usd": 340000,
@@ -19571,6 +19541,6 @@
       "id": "982e91cda2e0"
     }
   ],
-  "last_updated": "2026-10-12T03:35:21.079Z",
+  "last_updated": "2026-10-12T14:05:25.703Z",
   "total_count": 402
 }
