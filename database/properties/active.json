@@ -1,81 +1,6 @@
 {
   "properties": [
     {
-      "title": "JUST LISTED! Beautiful Flat lot ready to build!",
-      "price_text": "₡75,000,000",
-      "price_usd": 150000,
-      "location": "hace 38 minGrecia",
-      "url": "https://www.craigslist.org/view/d/just-listed-beautiful-flat-lot-ready-to/9vunMgBQu23riBYtCx37vk?lang=es&cc=mx",
-      "images": [
-        "https://images.craigslist.org/d/7947593739/00404_dj4WccplXZN_0pO0jm_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-07-16T18:58:01.586Z",
-      "id": "742a2540f6e1"
-    },
-    {
-      "title": "JUST LISTED! Beautiful Flat lot ready to build!",
-      "price_text": "₡75,000,000",
-      "price_usd": 150000,
-      "location": "hace 38 minGrecia",
-      "url": "https://www.craigslist.org/view/d/just-listed-beautiful-flat-lot-ready-to/9vunMgBQu23riBYtCx37vk?lang=es&cc=mx",
-      "images": [
-        "https://images.craigslist.org/d/7947593739/00404_dj4WccplXZN_0pO0jm_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-07-16T18:58:06.396Z",
-      "id": "742a2540f6e1"
-    },
-    {
-      "title": "JUST LISTED! Beautiful Flat lot ready to build!",
-      "price_text": "₡75,000,000",
-      "price_usd": 150000,
-      "location": "hace 38 minGrecia",
-      "url": "https://www.craigslist.org/view/d/just-listed-beautiful-flat-lot-ready-to/9vunMgBQu23riBYtCx37vk?lang=es&cc=mx",
-      "images": [
-        "https://images.craigslist.org/d/7947593739/00404_dj4WccplXZN_0pO0jm_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-07-16T18:58:11.172Z",
-      "id": "742a2540f6e1"
-    },
-    {
-      "title": "JUST LISTED! Beautiful Flat lot ready to build!",
-      "price_text": "₡75,000,000",
-      "price_usd": 150000,
-      "location": "hace 38 minGrecia",
-      "url": "https://www.craigslist.org/view/d/just-listed-beautiful-flat-lot-ready-to/9vunMgBQu23riBYtCx37vk?lang=es&cc=mx",
-      "images": [
-        "https://images.craigslist.org/d/7947593739/00404_dj4WccplXZN_0pO0jm_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-07-16T18:58:15.944Z",
-      "id": "742a2540f6e1"
-    },
-    {
-      "title": "JUST LISTED! Beautiful Flat lot ready to build!",
-      "price_text": "₡75,000,000",
-      "price_usd": 150000,
-      "location": "hace 38 minGrecia",
-      "url": "https://www.craigslist.org/view/d/just-listed-beautiful-flat-lot-ready-to/9vunMgBQu23riBYtCx37vk?lang=es&cc=mx",
-      "images": [
-        "https://images.craigslist.org/d/7947593739/00404_dj4WccplXZN_0pO0jm_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-07-16T18:58:20.717Z",
-      "id": "742a2540f6e1"
-    },
-    {
       "title": "Land for Sale El Jobo La Cruz Guanacaste Costa Rica RA 27102\n                Land, Junquillal, Guanacaste",
       "price_text": "$14,500,000",
       "price_usd": 14500000,
@@ -20006,6 +19931,6 @@
       "id": "201d27ac2213"
     }
   ],
-  "last_updated": "2026-10-14T21:13:47.810Z",
+  "last_updated": "2026-10-14T21:14:31.468Z",
   "total_count": 402
 }
