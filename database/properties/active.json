@@ -19959,8 +19959,38 @@
       "category": "residential",
       "scraped_at": "2026-10-13T22:11:32.315Z",
       "id": "e7919abb4583"
+    },
+    {
+      "title": "Hilltop Luxury Estate\n                Hotel / Leisure, Manuel Antonio, Puntarenas",
+      "price_text": "$5,695,000",
+      "price_usd": 5695000,
+      "location": "Hotel / Leisure, Manuel Antonio, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-hotel-leisure-for-sale-in-manuel-antonio/15645",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00007k3noh/zc4700pda/midres/mirazul_01.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-14T16:14:30.287Z",
+      "id": "f70a4c9e5848"
+    },
+    {
+      "title": "Hilltop Luxury Estate\n                Hotel / Leisure, Manuel Antonio, Puntarenas",
+      "price_text": "$5,695,000",
+      "price_usd": 5695000,
+      "location": "Hotel / Leisure, Manuel Antonio, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-hotel-leisure-for-sale-in-manuel-antonio/15645",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-14T16:16:12.247Z",
+      "id": "f70a4c9e5848"
     }
   ],
-  "last_updated": "2026-10-14T10:59:58.936Z",
+  "last_updated": "2026-10-14T16:20:21.188Z",
   "total_count": 402
 }
