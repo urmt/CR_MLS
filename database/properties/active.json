@@ -19971,8 +19971,23 @@
       "category": "land",
       "scraped_at": "2026-10-15T02:31:38.743Z",
       "id": "1458f8764655"
+    },
+    {
+      "title": "Land for Sale El Jobo La Cruz Guanacaste Costa Rica RA 27102\n                Land, Junquillal, Guanacaste",
+      "price_text": "$14,500,000",
+      "price_usd": 14500000,
+      "location": "Land, Junquillal, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-junquillal/15207",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00007CvGcs/dm06tvf1t/midres/WhatsApp%20Image%202026-07-18%20at%207.33.36%20PM.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-15T10:40:26.486Z",
+      "id": "4b84a629fedf"
     }
   ],
-  "last_updated": "2026-10-15T02:37:24.397Z",
+  "last_updated": "2026-10-15T10:43:08.051Z",
   "total_count": 402
 }
