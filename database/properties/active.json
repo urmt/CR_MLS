@@ -20211,8 +20211,233 @@
       "category": "residential",
       "scraped_at": "2026-10-16T02:25:57.039Z",
       "id": "571177962cde"
+    },
+    {
+      "title": "Cute starter home, looking for a new owner!",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 3 h2br",
+      "url": "https://www.craigslist.org/view/d/cute-starter-home-looking-for-new-owner/f71Fm85sTGkATq642Rj2C1?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984871280/00U0U_3Vd36OQtWdN_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-17T02:18:06.048Z",
+      "id": "d359c9f8e473"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-294",
+      "price_text": "₡97,000,000",
+      "price_usd": 194000,
+      "location": "hace 4 h3br235ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-en-montes-de-oca/qyaPU1CWgmBRf7aSsd49Md?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984860039/00P0P_5Xb5nNwY7KB_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-17T02:18:06.113Z",
+      "id": "f8f5492ddc12"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-08",
+      "price_text": "₡52,000,000",
+      "price_usd": 104000,
+      "location": "hace 4 h2br70ft2SAN JOSE",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-en-san-jose/qDpfx6hrFUWhtyBUyyYjCo?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-17T02:18:06.152Z",
+      "id": "d39ecab7d5d6"
+    },
+    {
+      "title": "Cute starter home, looking for a new owner!",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 3 h2br",
+      "url": "https://www.craigslist.org/view/d/cute-starter-home-looking-for-new-owner/f71Fm85sTGkATq642Rj2C1?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984871280/00U0U_3Vd36OQtWdN_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-17T02:18:11.026Z",
+      "id": "d359c9f8e473"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-294",
+      "price_text": "₡97,000,000",
+      "price_usd": 194000,
+      "location": "hace 4 h3br235ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-en-montes-de-oca/qyaPU1CWgmBRf7aSsd49Md?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984860039/00P0P_5Xb5nNwY7KB_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-17T02:18:11.088Z",
+      "id": "f8f5492ddc12"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-08",
+      "price_text": "₡52,000,000",
+      "price_usd": 104000,
+      "location": "hace 4 h2br70ft2SAN JOSE",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-en-san-jose/qDpfx6hrFUWhtyBUyyYjCo?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-17T02:18:11.128Z",
+      "id": "d39ecab7d5d6"
+    },
+    {
+      "title": "Cute starter home, looking for a new owner!",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 3 h2br",
+      "url": "https://www.craigslist.org/view/d/cute-starter-home-looking-for-new-owner/f71Fm85sTGkATq642Rj2C1?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984871280/00U0U_3Vd36OQtWdN_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-17T02:18:15.948Z",
+      "id": "d359c9f8e473"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-294",
+      "price_text": "₡97,000,000",
+      "price_usd": 194000,
+      "location": "hace 4 h3br235ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-en-montes-de-oca/qyaPU1CWgmBRf7aSsd49Md?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984860039/00P0P_5Xb5nNwY7KB_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-17T02:18:16.011Z",
+      "id": "f8f5492ddc12"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-08",
+      "price_text": "₡52,000,000",
+      "price_usd": 104000,
+      "location": "hace 4 h2br70ft2SAN JOSE",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-en-san-jose/qDpfx6hrFUWhtyBUyyYjCo?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-17T02:18:16.051Z",
+      "id": "d39ecab7d5d6"
+    },
+    {
+      "title": "Cute starter home, looking for a new owner!",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 3 h2br",
+      "url": "https://www.craigslist.org/view/d/cute-starter-home-looking-for-new-owner/f71Fm85sTGkATq642Rj2C1?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984871280/00U0U_3Vd36OQtWdN_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-17T02:18:20.824Z",
+      "id": "d359c9f8e473"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-294",
+      "price_text": "₡97,000,000",
+      "price_usd": 194000,
+      "location": "hace 4 h3br235ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-en-montes-de-oca/qyaPU1CWgmBRf7aSsd49Md?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984860039/00P0P_5Xb5nNwY7KB_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-17T02:18:20.886Z",
+      "id": "f8f5492ddc12"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-08",
+      "price_text": "₡52,000,000",
+      "price_usd": 104000,
+      "location": "hace 4 h2br70ft2SAN JOSE",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-en-san-jose/qDpfx6hrFUWhtyBUyyYjCo?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-17T02:18:20.926Z",
+      "id": "d39ecab7d5d6"
+    },
+    {
+      "title": "Cute starter home, looking for a new owner!",
+      "price_text": "₡60,000,000",
+      "price_usd": 120000,
+      "location": "hace 3 h2br",
+      "url": "https://www.craigslist.org/view/d/cute-starter-home-looking-for-new-owner/f71Fm85sTGkATq642Rj2C1?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984871280/00U0U_3Vd36OQtWdN_0pO0jq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-17T02:18:25.735Z",
+      "id": "d359c9f8e473"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN MONTES DE OCA, SAN RAFAEL.31-294",
+      "price_text": "₡97,000,000",
+      "price_usd": 194000,
+      "location": "hace 4 h3br235ft2SAN JOSE, MONTES DE OCA, SAN RAFAEL",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-en-montes-de-oca/qyaPU1CWgmBRf7aSsd49Md?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984860039/00P0P_5Xb5nNwY7KB_08X06I_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-17T02:18:25.797Z",
+      "id": "f8f5492ddc12"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, EN SAN JOSE. 31-132-08",
+      "price_text": "₡52,000,000",
+      "price_usd": 104000,
+      "location": "hace 4 h2br70ft2SAN JOSE",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-en-san-jose/qDpfx6hrFUWhtyBUyyYjCo?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-17T02:18:25.836Z",
+      "id": "d39ecab7d5d6"
     }
   ],
-  "last_updated": "2026-10-16T20:26:37.315Z",
+  "last_updated": "2026-10-17T02:24:13.795Z",
   "total_count": 402
 }
