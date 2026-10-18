@@ -1,81 +1,6 @@
 {
   "properties": [
     {
-      "title": "ARCHITECT’S FAMILY-SIZE HOME IN SUBURBAN CARTAGO",
-      "price_text": "₡105,000,000",
-      "price_usd": 210000,
-      "location": "hace 8 h4br280ft2Cartago",
-      "url": "https://www.craigslist.org/view/d/architects-family-size-home-in-suburban/sj7UJW9ozVWTMYWnQ6ChSr?lang=es&cc=mx",
-      "images": [
-        "https://images.craigslist.org/d/7948188314/00l0l_e7OVZyhOu8q_0lM0t2_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "luxury",
-      "scraped_at": "2026-07-20T02:10:15.095Z",
-      "id": "1d7413b74659"
-    },
-    {
-      "title": "ARCHITECT’S FAMILY-SIZE HOME IN SUBURBAN CARTAGO",
-      "price_text": "₡105,000,000",
-      "price_usd": 210000,
-      "location": "hace 8 h4br280ft2Cartago",
-      "url": "https://www.craigslist.org/view/d/architects-family-size-home-in-suburban/sj7UJW9ozVWTMYWnQ6ChSr?lang=es&cc=mx",
-      "images": [
-        "https://images.craigslist.org/d/7948188314/00l0l_e7OVZyhOu8q_0lM0t2_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "luxury",
-      "scraped_at": "2026-07-20T02:10:20.185Z",
-      "id": "1d7413b74659"
-    },
-    {
-      "title": "ARCHITECT’S FAMILY-SIZE HOME IN SUBURBAN CARTAGO",
-      "price_text": "₡105,000,000",
-      "price_usd": 210000,
-      "location": "hace 8 h4br280ft2Cartago",
-      "url": "https://www.craigslist.org/view/d/architects-family-size-home-in-suburban/sj7UJW9ozVWTMYWnQ6ChSr?lang=es&cc=mx",
-      "images": [
-        "https://images.craigslist.org/d/7948188314/00l0l_e7OVZyhOu8q_0lM0t2_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "luxury",
-      "scraped_at": "2026-07-20T02:10:25.132Z",
-      "id": "1d7413b74659"
-    },
-    {
-      "title": "ARCHITECT’S FAMILY-SIZE HOME IN SUBURBAN CARTAGO",
-      "price_text": "₡105,000,000",
-      "price_usd": 210000,
-      "location": "hace 8 h4br280ft2Cartago",
-      "url": "https://www.craigslist.org/view/d/architects-family-size-home-in-suburban/sj7UJW9ozVWTMYWnQ6ChSr?lang=es&cc=mx",
-      "images": [
-        "https://images.craigslist.org/d/7948188314/00l0l_e7OVZyhOu8q_0lM0t2_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "luxury",
-      "scraped_at": "2026-07-20T02:10:30.071Z",
-      "id": "1d7413b74659"
-    },
-    {
-      "title": "ARCHITECT’S FAMILY-SIZE HOME IN SUBURBAN CARTAGO",
-      "price_text": "₡105,000,000",
-      "price_usd": 210000,
-      "location": "hace 8 h4br280ft2Cartago",
-      "url": "https://www.craigslist.org/view/d/architects-family-size-home-in-suburban/sj7UJW9ozVWTMYWnQ6ChSr?lang=es&cc=mx",
-      "images": [
-        "https://images.craigslist.org/d/7948188314/00l0l_e7OVZyhOu8q_0lM0t2_600x450.jpg"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "luxury",
-      "scraped_at": "2026-07-20T02:10:35.008Z",
-      "id": "1d7413b74659"
-    },
-    {
       "title": "PROPIEDAD EN VENTA, EN TIBAS. 33-296",
       "price_text": "₡124,000,000",
       "price_usd": 248000,
@@ -20213,6 +20138,6 @@
       "id": "d39ecab7d5d6"
     }
   ],
-  "last_updated": "2026-10-17T20:00:19.476Z",
+  "last_updated": "2026-10-18T02:25:37.665Z",
   "total_count": 402
 }
