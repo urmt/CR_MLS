@@ -1,21 +1,6 @@
 {
   "properties": [
     {
-      "title": "Turnkey Boutique Hotel & Multi-Unit Investment in Tamarindo\n                Hotel / Leisure, Tamarindo, Guanacaste",
-      "price_text": "$3,750,000",
-      "price_usd": 3750000,
-      "location": "Hotel / Leisure, Tamarindo, Guanacaste",
-      "url": "https://www.coldwellbankercostarica.com/property/11-bed-hotel-leisure-for-sale-in-tamarindo/14579",
-      "images": [
-        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-07-21T01:54:26.374Z",
-      "id": "3c24cad26e5a"
-    },
-    {
       "title": "MIXED-USE LOT FOR SALE GOICOECHEA, SAN JOSÉ #10805om",
       "price_text": "₡50,000,000",
       "price_usd": 100000,
@@ -19776,6 +19761,6 @@
       "id": "c75112d3a1d8"
     }
   ],
-  "last_updated": "2026-10-19T02:39:58.872Z",
+  "last_updated": "2026-10-19T02:40:36.340Z",
   "total_count": 402
 }

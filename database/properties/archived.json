@@ -81032,7 +81032,24 @@
       "id": "41d96a06a6bd",
       "archived_at": "2026-10-18T20:01:13.348Z",
       "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "Turnkey Boutique Hotel & Multi-Unit Investment in Tamarindo\n                Hotel / Leisure, Tamarindo, Guanacaste",
+      "price_text": "$3,750,000",
+      "price_usd": 3750000,
+      "location": "Hotel / Leisure, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/11-bed-hotel-leisure-for-sale-in-tamarindo/14579",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-07-21T01:54:26.374Z",
+      "id": "3c24cad26e5a",
+      "archived_at": "2026-10-19T02:40:36.338Z",
+      "archive_reason": "90_day_auto_purge"
     }
   ],
-  "last_updated": "2026-10-18T20:01:13.365Z"
+  "last_updated": "2026-10-19T02:40:36.355Z"
 }
