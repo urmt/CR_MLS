@@ -19699,8 +19699,83 @@
       "category": "luxury",
       "scraped_at": "2026-10-18T19:54:23.804Z",
       "id": "c9fd047f39ab"
+    },
+    {
+      "title": "3360-ft2 House, 3 BRs plus Office, Mixed-Use Zoning, San Pedro",
+      "price_text": "₡170,000,000",
+      "price_usd": 340000,
+      "location": "hace 7 h3br312ft2La Granja, San Pedro",
+      "url": "https://www.craigslist.org/view/d/3360-ft2-house-brs-plus-office-mixed/2JZsrgE36uvf2C41XHsKNG?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7985810166/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-19T02:33:37.312Z",
+      "id": "c75112d3a1d8"
+    },
+    {
+      "title": "3360-ft2 House, 3 BRs plus Office, Mixed-Use Zoning, San Pedro",
+      "price_text": "₡170,000,000",
+      "price_usd": 340000,
+      "location": "hace 7 h3br312ft2La Granja, San Pedro",
+      "url": "https://www.craigslist.org/view/d/3360-ft2-house-brs-plus-office-mixed/2JZsrgE36uvf2C41XHsKNG?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7985810166/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-19T02:33:42.259Z",
+      "id": "c75112d3a1d8"
+    },
+    {
+      "title": "3360-ft2 House, 3 BRs plus Office, Mixed-Use Zoning, San Pedro",
+      "price_text": "₡170,000,000",
+      "price_usd": 340000,
+      "location": "hace 7 h3br312ft2La Granja, San Pedro",
+      "url": "https://www.craigslist.org/view/d/3360-ft2-house-brs-plus-office-mixed/2JZsrgE36uvf2C41XHsKNG?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7985810166/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-19T02:33:47.161Z",
+      "id": "c75112d3a1d8"
+    },
+    {
+      "title": "3360-ft2 House, 3 BRs plus Office, Mixed-Use Zoning, San Pedro",
+      "price_text": "₡170,000,000",
+      "price_usd": 340000,
+      "location": "hace 7 h3br312ft2La Granja, San Pedro",
+      "url": "https://www.craigslist.org/view/d/3360-ft2-house-brs-plus-office-mixed/2JZsrgE36uvf2C41XHsKNG?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7985810166/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-19T02:33:52.067Z",
+      "id": "c75112d3a1d8"
+    },
+    {
+      "title": "3360-ft2 House, 3 BRs plus Office, Mixed-Use Zoning, San Pedro",
+      "price_text": "₡170,000,000",
+      "price_usd": 340000,
+      "location": "hace 7 h3br312ft2La Granja, San Pedro",
+      "url": "https://www.craigslist.org/view/d/3360-ft2-house-brs-plus-office-mixed/2JZsrgE36uvf2C41XHsKNG?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/7985810166/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-19T02:33:56.972Z",
+      "id": "c75112d3a1d8"
     }
   ],
-  "last_updated": "2026-10-18T20:01:13.349Z",
+  "last_updated": "2026-10-19T02:39:58.872Z",
   "total_count": 402
 }
