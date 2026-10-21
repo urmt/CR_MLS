@@ -20080,8 +20080,398 @@
       "category": "luxury",
       "scraped_at": "2026-10-21T16:21:56.195Z",
       "id": "ef1180e65cb9"
+    },
+    {
+      "title": "Land for sale, Concepcion de San Rafael de Heredia 7,307 sq. mtrs.",
+      "price_text": "₡200,000,000",
+      "price_usd": 400000,
+      "location": "hace 36 min7307ft2Concepcion de San Rafael de Heredia",
+      "url": "https://www.craigslist.org/view/d/land-for-sale-concepcion-de-san-rafael/wKJCSZdSsQdjArZsFbp3Yb?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987546194/01414_cWEiJTJLM7i_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-21T21:03:53.558Z",
+      "id": "128a3d2a5c3a"
+    },
+    {
+      "title": "Farm for sale, Los Angeles de San Rafael 10.4 hectares",
+      "price_text": "₡2,600,000",
+      "price_usd": 5200,
+      "location": "hace 45 min5br104000ft2Los Angeles de San Rafael Heredia",
+      "url": "https://www.craigslist.org/view/d/farm-for-sale-los-angeles-de-san-rafael/fRcBioARhxSdyuxg9GCCA5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987539660/00n0n_6P7rgr3OCBL_0oI0b6_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-21T21:03:53.614Z",
+      "id": "bbf6ca1a0185"
+    },
+    {
+      "title": "Property with antique house and beautiful mountain view, 9,621 sq. mtr",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 1 h3br9621ft2San Luis de Santo Domingo de Heredia",
+      "url": "https://www.craigslist.org/view/d/property-with-antique-house-and/hWf28tBEf75BsaRMt6MYLC?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987521924/01515_k1ns0BIAZD9_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-21T21:03:53.739Z",
+      "id": "9eb4c7d56d9e"
+    },
+    {
+      "title": "AN EXCEPTIONAL LOCATION FOR YOUR NEXT INVESTMENT.",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 1 h9537ft2Huacas",
+      "url": "https://www.craigslist.org/view/d/an-exceptional-location-for-your-next/gFPnhdQWHu6BDJqJCCRAdA?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987509246/00w0w_euUb0fahKEC_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-21T21:03:53.782Z",
+      "id": "cc9a6dde4eb7"
+    },
+    {
+      "title": "FOR SALE | CASA CACIQUE IN TAMARINDO, GUANACASTE",
+      "price_text": "₡5,000,000",
+      "price_usd": 10000,
+      "location": "hace 3 h3br235ft2",
+      "url": "https://www.craigslist.org/view/d/for-sale-casa-cacique-in-tamarindo/5zxiCtqacqwMcPQ4ypPnHy?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987449372/00B0B_4yd1QjxcuMj_0nm0hw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-21T21:03:53.928Z",
+      "id": "92a0d5f49d22"
+    },
+    {
+      "title": "Land for sale, Concepcion de San Rafael de Heredia 7,307 sq. mtrs.",
+      "price_text": "₡200,000,000",
+      "price_usd": 400000,
+      "location": "hace 36 min7307ft2Concepcion de San Rafael de Heredia",
+      "url": "https://www.craigslist.org/view/d/land-for-sale-concepcion-de-san-rafael/wKJCSZdSsQdjArZsFbp3Yb?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987546194/01414_cWEiJTJLM7i_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-21T21:03:59.131Z",
+      "id": "128a3d2a5c3a"
+    },
+    {
+      "title": "Farm for sale, Los Angeles de San Rafael 10.4 hectares",
+      "price_text": "₡2,600,000",
+      "price_usd": 5200,
+      "location": "hace 45 min5br104000ft2Los Angeles de San Rafael Heredia",
+      "url": "https://www.craigslist.org/view/d/farm-for-sale-los-angeles-de-san-rafael/fRcBioARhxSdyuxg9GCCA5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987539660/00n0n_6P7rgr3OCBL_0oI0b6_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-21T21:03:59.182Z",
+      "id": "bbf6ca1a0185"
+    },
+    {
+      "title": "Property with antique house and beautiful mountain view, 9,621 sq. mtr",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 1 h3br9621ft2San Luis de Santo Domingo de Heredia",
+      "url": "https://www.craigslist.org/view/d/property-with-antique-house-and/hWf28tBEf75BsaRMt6MYLC?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987521924/01515_k1ns0BIAZD9_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-21T21:03:59.308Z",
+      "id": "9eb4c7d56d9e"
+    },
+    {
+      "title": "AN EXCEPTIONAL LOCATION FOR YOUR NEXT INVESTMENT.",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 1 h9537ft2Huacas",
+      "url": "https://www.craigslist.org/view/d/an-exceptional-location-for-your-next/gFPnhdQWHu6BDJqJCCRAdA?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987509246/00w0w_euUb0fahKEC_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-21T21:03:59.351Z",
+      "id": "cc9a6dde4eb7"
+    },
+    {
+      "title": "FOR SALE | CASA CACIQUE IN TAMARINDO, GUANACASTE",
+      "price_text": "₡5,000,000",
+      "price_usd": 10000,
+      "location": "hace 3 h3br235ft2",
+      "url": "https://www.craigslist.org/view/d/for-sale-casa-cacique-in-tamarindo/5zxiCtqacqwMcPQ4ypPnHy?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987449372/00B0B_4yd1QjxcuMj_0nm0hw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-21T21:03:59.496Z",
+      "id": "92a0d5f49d22"
+    },
+    {
+      "title": "Land for sale, Concepcion de San Rafael de Heredia 7,307 sq. mtrs.",
+      "price_text": "₡200,000,000",
+      "price_usd": 400000,
+      "location": "hace 36 min7307ft2Concepcion de San Rafael de Heredia",
+      "url": "https://www.craigslist.org/view/d/land-for-sale-concepcion-de-san-rafael/wKJCSZdSsQdjArZsFbp3Yb?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987546194/01414_cWEiJTJLM7i_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-21T21:04:04.531Z",
+      "id": "128a3d2a5c3a"
+    },
+    {
+      "title": "Farm for sale, Los Angeles de San Rafael 10.4 hectares",
+      "price_text": "₡2,600,000",
+      "price_usd": 5200,
+      "location": "hace 45 min5br104000ft2Los Angeles de San Rafael Heredia",
+      "url": "https://www.craigslist.org/view/d/farm-for-sale-los-angeles-de-san-rafael/fRcBioARhxSdyuxg9GCCA5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987539660/00n0n_6P7rgr3OCBL_0oI0b6_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-21T21:04:04.582Z",
+      "id": "bbf6ca1a0185"
+    },
+    {
+      "title": "Property with antique house and beautiful mountain view, 9,621 sq. mtr",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 1 h3br9621ft2San Luis de Santo Domingo de Heredia",
+      "url": "https://www.craigslist.org/view/d/property-with-antique-house-and/hWf28tBEf75BsaRMt6MYLC?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987521924/01515_k1ns0BIAZD9_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-21T21:04:04.710Z",
+      "id": "9eb4c7d56d9e"
+    },
+    {
+      "title": "AN EXCEPTIONAL LOCATION FOR YOUR NEXT INVESTMENT.",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 1 h9537ft2Huacas",
+      "url": "https://www.craigslist.org/view/d/an-exceptional-location-for-your-next/gFPnhdQWHu6BDJqJCCRAdA?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987509246/00w0w_euUb0fahKEC_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-21T21:04:04.755Z",
+      "id": "cc9a6dde4eb7"
+    },
+    {
+      "title": "FOR SALE | CASA CACIQUE IN TAMARINDO, GUANACASTE",
+      "price_text": "₡5,000,000",
+      "price_usd": 10000,
+      "location": "hace 3 h3br235ft2",
+      "url": "https://www.craigslist.org/view/d/for-sale-casa-cacique-in-tamarindo/5zxiCtqacqwMcPQ4ypPnHy?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987449372/00B0B_4yd1QjxcuMj_0nm0hw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-21T21:04:04.908Z",
+      "id": "92a0d5f49d22"
+    },
+    {
+      "title": "Land for sale, Concepcion de San Rafael de Heredia 7,307 sq. mtrs.",
+      "price_text": "₡200,000,000",
+      "price_usd": 400000,
+      "location": "hace 36 min7307ft2Concepcion de San Rafael de Heredia",
+      "url": "https://www.craigslist.org/view/d/land-for-sale-concepcion-de-san-rafael/wKJCSZdSsQdjArZsFbp3Yb?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987546194/01414_cWEiJTJLM7i_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-21T21:04:09.903Z",
+      "id": "128a3d2a5c3a"
+    },
+    {
+      "title": "Farm for sale, Los Angeles de San Rafael 10.4 hectares",
+      "price_text": "₡2,600,000",
+      "price_usd": 5200,
+      "location": "hace 45 min5br104000ft2Los Angeles de San Rafael Heredia",
+      "url": "https://www.craigslist.org/view/d/farm-for-sale-los-angeles-de-san-rafael/fRcBioARhxSdyuxg9GCCA5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987539660/00n0n_6P7rgr3OCBL_0oI0b6_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-21T21:04:09.953Z",
+      "id": "bbf6ca1a0185"
+    },
+    {
+      "title": "Property with antique house and beautiful mountain view, 9,621 sq. mtr",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 1 h3br9621ft2San Luis de Santo Domingo de Heredia",
+      "url": "https://www.craigslist.org/view/d/property-with-antique-house-and/hWf28tBEf75BsaRMt6MYLC?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987521924/01515_k1ns0BIAZD9_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-21T21:04:10.078Z",
+      "id": "9eb4c7d56d9e"
+    },
+    {
+      "title": "AN EXCEPTIONAL LOCATION FOR YOUR NEXT INVESTMENT.",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 1 h9537ft2Huacas",
+      "url": "https://www.craigslist.org/view/d/an-exceptional-location-for-your-next/gFPnhdQWHu6BDJqJCCRAdA?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987509246/00w0w_euUb0fahKEC_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-21T21:04:10.122Z",
+      "id": "cc9a6dde4eb7"
+    },
+    {
+      "title": "FOR SALE | CASA CACIQUE IN TAMARINDO, GUANACASTE",
+      "price_text": "₡5,000,000",
+      "price_usd": 10000,
+      "location": "hace 3 h3br235ft2",
+      "url": "https://www.craigslist.org/view/d/for-sale-casa-cacique-in-tamarindo/5zxiCtqacqwMcPQ4ypPnHy?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987449372/00B0B_4yd1QjxcuMj_0nm0hw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-21T21:04:10.270Z",
+      "id": "92a0d5f49d22"
+    },
+    {
+      "title": "Land for sale, Concepcion de San Rafael de Heredia 7,307 sq. mtrs.",
+      "price_text": "₡200,000,000",
+      "price_usd": 400000,
+      "location": "hace 36 min7307ft2Concepcion de San Rafael de Heredia",
+      "url": "https://www.craigslist.org/view/d/land-for-sale-concepcion-de-san-rafael/wKJCSZdSsQdjArZsFbp3Yb?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987546194/01414_cWEiJTJLM7i_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-21T21:04:15.303Z",
+      "id": "128a3d2a5c3a"
+    },
+    {
+      "title": "Farm for sale, Los Angeles de San Rafael 10.4 hectares",
+      "price_text": "₡2,600,000",
+      "price_usd": 5200,
+      "location": "hace 45 min5br104000ft2Los Angeles de San Rafael Heredia",
+      "url": "https://www.craigslist.org/view/d/farm-for-sale-los-angeles-de-san-rafael/fRcBioARhxSdyuxg9GCCA5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987539660/00n0n_6P7rgr3OCBL_0oI0b6_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-21T21:04:15.355Z",
+      "id": "bbf6ca1a0185"
+    },
+    {
+      "title": "Property with antique house and beautiful mountain view, 9,621 sq. mtr",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 1 h3br9621ft2San Luis de Santo Domingo de Heredia",
+      "url": "https://www.craigslist.org/view/d/property-with-antique-house-and/hWf28tBEf75BsaRMt6MYLC?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987521924/01515_k1ns0BIAZD9_0CI0hq_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-21T21:04:15.481Z",
+      "id": "9eb4c7d56d9e"
+    },
+    {
+      "title": "AN EXCEPTIONAL LOCATION FOR YOUR NEXT INVESTMENT.",
+      "price_text": "₡75,000,000",
+      "price_usd": 150000,
+      "location": "hace 1 h9537ft2Huacas",
+      "url": "https://www.craigslist.org/view/d/an-exceptional-location-for-your-next/gFPnhdQWHu6BDJqJCCRAdA?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987509246/00w0w_euUb0fahKEC_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-21T21:04:15.524Z",
+      "id": "cc9a6dde4eb7"
+    },
+    {
+      "title": "FOR SALE | CASA CACIQUE IN TAMARINDO, GUANACASTE",
+      "price_text": "₡5,000,000",
+      "price_usd": 10000,
+      "location": "hace 3 h3br235ft2",
+      "url": "https://www.craigslist.org/view/d/for-sale-casa-cacique-in-tamarindo/5zxiCtqacqwMcPQ4ypPnHy?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987449372/00B0B_4yd1QjxcuMj_0nm0hw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-10-21T21:04:15.675Z",
+      "id": "92a0d5f49d22"
+    },
+    {
+      "title": "Grand Ocean-View Estate with Guest Residence in Nosara\n                Single Family Homes, Nosara, Guanacaste",
+      "price_text": "$11,900,000",
+      "price_usd": 11900000,
+      "location": "Single Family Homes, Nosara, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/13-bed-single-family-homes-for-sale-in-nosara/15720",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-21T21:07:08.058Z",
+      "id": "a03a4a2af9de"
     }
   ],
-  "last_updated": "2026-10-21T16:28:40.441Z",
+  "last_updated": "2026-10-21T21:10:44.635Z",
   "total_count": 402
 }
