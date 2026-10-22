@@ -20265,8 +20265,98 @@
       "category": "land",
       "scraped_at": "2026-10-22T16:22:25.687Z",
       "id": "5d684b8959d5"
+    },
+    {
+      "title": "Land in Jacó",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "hace 2 hJaco",
+      "url": "https://www.craigslist.org/view/d/land-in-jac/xpuMZHXHYVCc4G7BqKwBep?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7988092287/00d0d_drZQRx0Umjo_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-22T21:00:47.257Z",
+      "id": "1e2ddd178d63"
+    },
+    {
+      "title": "Land in Jacó",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "hace 2 hJaco",
+      "url": "https://www.craigslist.org/view/d/land-in-jac/xpuMZHXHYVCc4G7BqKwBep?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7988092287/00d0d_drZQRx0Umjo_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-22T21:00:52.194Z",
+      "id": "1e2ddd178d63"
+    },
+    {
+      "title": "Land in Jacó",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "hace 2 hJaco",
+      "url": "https://www.craigslist.org/view/d/land-in-jac/xpuMZHXHYVCc4G7BqKwBep?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7988092287/00d0d_drZQRx0Umjo_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-22T21:00:56.999Z",
+      "id": "1e2ddd178d63"
+    },
+    {
+      "title": "Land in Jacó",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "hace 2 hJaco",
+      "url": "https://www.craigslist.org/view/d/land-in-jac/xpuMZHXHYVCc4G7BqKwBep?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7988092287/00d0d_drZQRx0Umjo_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-22T21:01:01.800Z",
+      "id": "1e2ddd178d63"
+    },
+    {
+      "title": "Land in Jacó",
+      "price_text": "₡50,000,000",
+      "price_usd": 100000,
+      "location": "hace 2 hJaco",
+      "url": "https://www.craigslist.org/view/d/land-in-jac/xpuMZHXHYVCc4G7BqKwBep?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7988092287/00d0d_drZQRx0Umjo_0CI0lM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-22T21:01:06.648Z",
+      "id": "1e2ddd178d63"
+    },
+    {
+      "title": "Distinctive Guanacaste Estate with 10 Rental Units, 3 Pools & Colonial Charm\n                Commercial, Huacas, Guanacaste",
+      "price_text": "$1,300,000",
+      "price_usd": 1300000,
+      "location": "Commercial, Huacas, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/10-bed-commercial-for-sale-in-huacas/15721",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00007nLDG3/fvypswlro/midres/WhatsApp%20Image%202024-01-25%20at%2012.14.08%20PM.jpeg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-22T21:03:12.376Z",
+      "id": "ce947490552b"
     }
   ],
-  "last_updated": "2026-10-22T16:27:45.967Z",
+  "last_updated": "2026-10-22T21:08:46.073Z",
   "total_count": 402
 }
