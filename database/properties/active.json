@@ -20307,8 +20307,38 @@
       "category": "residential",
       "scraped_at": "2026-10-25T07:07:55.243Z",
       "id": "19e321165442"
+    },
+    {
+      "title": "Villa Santorini | Panoramic Oceanview Estate in Las Catalinas\n                Single Family Homes, Playa Danta, Guanacaste",
+      "price_text": "$9,800,000",
+      "price_usd": 9800000,
+      "location": "Single Family Homes, Playa Danta, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-single-family-homes-for-sale-in-playa-danta/12700",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00004T2efp/7bqeatxmn/midres/VillaSantorini%2840of58%29.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-25T15:19:45.979Z",
+      "id": "62a47f7894ac"
+    },
+    {
+      "title": "Villa Santorini | Panoramic Oceanview Estate in Las Catalinas\n                Single Family Homes, Playa Danta, Guanacaste",
+      "price_text": "$9,800,000",
+      "price_usd": 9800000,
+      "location": "Single Family Homes, Playa Danta, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/8-bed-single-family-homes-for-sale-in-playa-danta/12700",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-10-25T15:22:32.425Z",
+      "id": "62a47f7894ac"
     }
   ],
-  "last_updated": "2026-10-25T10:37:00.574Z",
+  "last_updated": "2026-10-25T15:25:54.677Z",
   "total_count": 402
 }
