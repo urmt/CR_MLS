@@ -20169,8 +20169,23 @@
       "category": "land",
       "scraped_at": "2026-10-27T03:06:52.570Z",
       "id": "47405221e8d0"
+    },
+    {
+      "title": "Pierre & Colors Boutique Hotel | Income Property Near Tamarindo Beach\n                Commercial, Tamarindo, Guanacaste",
+      "price_text": "$2,500,000",
+      "price_usd": 2500000,
+      "location": "Commercial, Tamarindo, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/12-bed-commercial-for-sale-in-tamarindo/14663",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-27T11:20:37.776Z",
+      "id": "e3a881d1f04f"
     }
   ],
-  "last_updated": "2026-10-27T03:10:44.124Z",
+  "last_updated": "2026-10-27T11:26:54.706Z",
   "total_count": 402
 }
