@@ -20109,8 +20109,23 @@
       "category": "land",
       "scraped_at": "2026-10-27T11:20:37.776Z",
       "id": "e3a881d1f04f"
+    },
+    {
+      "title": "Rare Coastal Estate in the Heart of Playa Negra | Live, Work & Invest\n                Commercial, Playa Negra, Guanacaste",
+      "price_text": "$985,000",
+      "price_usd": 985000,
+      "location": "Commercial, Playa Negra, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/5-bed-commercial-for-sale-in-playa-negra/15731",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-10-28T03:17:32.089Z",
+      "id": "e9fc985e5743"
     }
   ],
-  "last_updated": "2026-10-27T21:44:42.746Z",
+  "last_updated": "2026-10-28T03:20:55.959Z",
   "total_count": 402
 }
