@@ -83903,7 +83903,41 @@
       "id": "8e9f10d57dea",
       "archived_at": "2026-11-01T03:35:22.727Z",
       "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "Casa Sirena Ocean Estate | 9-Bedroom Beachfront Retreat in Jacó\n                Single Family Homes, Jaco, Puntarenas",
+      "price_text": "$7,999,000",
+      "price_usd": 7999000,
+      "location": "Single Family Homes, Jaco, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/9-bed-single-family-homes-for-sale-in-jaco/13981",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-03T14:21:24.602Z",
+      "id": "684ea8794486",
+      "archived_at": "2026-11-01T21:36:35.391Z",
+      "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "Casa Sirena Ocean Estate | 9-Bedroom Beachfront Retreat in Jacó\n                Single Family Homes, Jaco, Puntarenas",
+      "price_text": "$7,999,000",
+      "price_usd": 7999000,
+      "location": "Single Family Homes, Jaco, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/9-bed-single-family-homes-for-sale-in-jaco/13981",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-03T14:24:39.928Z",
+      "id": "684ea8794486",
+      "archived_at": "2026-11-01T21:36:35.391Z",
+      "archive_reason": "90_day_auto_purge"
     }
   ],
-  "last_updated": "2026-11-01T03:35:22.746Z"
+  "last_updated": "2026-11-01T21:36:35.406Z"
 }
