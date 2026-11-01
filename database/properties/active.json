@@ -1,81 +1,6 @@
 {
   "properties": [
     {
-      "title": "Dueño vende Restaurante Bar 5 minutos del Airport",
-      "price_text": "₡680,000,000",
-      "price_usd": 1360000,
-      "location": "hace 3 h2204ft2Heredia",
-      "url": "https://www.craigslist.org/view/d/dueo-vende-restaurante-bar-minutos-del/ePQMu6vQ7BTgwdjHBiffz7?lang=es&cc=mx",
-      "images": [
-        "https://www.craigslist.org/images/d/7951146020/empty.png"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-08-03T01:59:43.903Z",
-      "id": "8e9f10d57dea"
-    },
-    {
-      "title": "Dueño vende Restaurante Bar 5 minutos del Airport",
-      "price_text": "₡680,000,000",
-      "price_usd": 1360000,
-      "location": "hace 3 h2204ft2Heredia",
-      "url": "https://www.craigslist.org/view/d/dueo-vende-restaurante-bar-minutos-del/ePQMu6vQ7BTgwdjHBiffz7?lang=es&cc=mx",
-      "images": [
-        "https://www.craigslist.org/images/d/7951146020/empty.png"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-08-03T01:59:49.227Z",
-      "id": "8e9f10d57dea"
-    },
-    {
-      "title": "Dueño vende Restaurante Bar 5 minutos del Airport",
-      "price_text": "₡680,000,000",
-      "price_usd": 1360000,
-      "location": "hace 3 h2204ft2Heredia",
-      "url": "https://www.craigslist.org/view/d/dueo-vende-restaurante-bar-minutos-del/ePQMu6vQ7BTgwdjHBiffz7?lang=es&cc=mx",
-      "images": [
-        "https://www.craigslist.org/images/d/7951146020/empty.png"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-08-03T01:59:54.474Z",
-      "id": "8e9f10d57dea"
-    },
-    {
-      "title": "Dueño vende Restaurante Bar 5 minutos del Airport",
-      "price_text": "₡680,000,000",
-      "price_usd": 1360000,
-      "location": "hace 3 h2204ft2Heredia",
-      "url": "https://www.craigslist.org/view/d/dueo-vende-restaurante-bar-minutos-del/ePQMu6vQ7BTgwdjHBiffz7?lang=es&cc=mx",
-      "images": [
-        "https://www.craigslist.org/images/d/7951146020/empty.png"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-08-03T01:59:59.869Z",
-      "id": "8e9f10d57dea"
-    },
-    {
-      "title": "Dueño vende Restaurante Bar 5 minutos del Airport",
-      "price_text": "₡680,000,000",
-      "price_usd": 1360000,
-      "location": "hace 3 h2204ft2Heredia",
-      "url": "https://www.craigslist.org/view/d/dueo-vende-restaurante-bar-minutos-del/ePQMu6vQ7BTgwdjHBiffz7?lang=es&cc=mx",
-      "images": [
-        "https://www.craigslist.org/images/d/7951146020/empty.png"
-      ],
-      "source": "craigslist_cr",
-      "source_name": "Craigslist Costa Rica",
-      "category": "residential",
-      "scraped_at": "2026-08-03T02:00:05.145Z",
-      "id": "8e9f10d57dea"
-    },
-    {
       "title": "Casa Sirena Ocean Estate | 9-Bedroom Beachfront Retreat in Jacó\n                Single Family Homes, Jaco, Puntarenas",
       "price_text": "$7,999,000",
       "price_usd": 7999000,
@@ -20663,6 +20588,6 @@
       "id": "a9d1d8d51b48"
     }
   ],
-  "last_updated": "2026-10-31T20:55:10.123Z",
+  "last_updated": "2026-11-01T03:35:22.729Z",
   "total_count": 402
 }
