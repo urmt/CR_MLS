@@ -20307,8 +20307,38 @@
       "category": "land",
       "scraped_at": "2026-11-03T00:14:53.737Z",
       "id": "d785c218624c"
+    },
+    {
+      "title": "Ocean View Retreat Estate\n                Hotel / Leisure, Dominical, Puntarenas",
+      "price_text": "$6,499,000",
+      "price_usd": 6499000,
+      "location": "Hotel / Leisure, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/24-bed-hotel-leisure-for-sale-in-dominical/15314",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00007Hos9H/11d37a7by/midres/DJI_20260515213355_0312_D.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-03T13:20:38.568Z",
+      "id": "3266e7bba2ae"
+    },
+    {
+      "title": "Ocean View Retreat Estate\n                Hotel / Leisure, Dominical, Puntarenas",
+      "price_text": "$6,499,000",
+      "price_usd": 6499000,
+      "location": "Hotel / Leisure, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/24-bed-hotel-leisure-for-sale-in-dominical/15314",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-03T13:21:33.564Z",
+      "id": "3266e7bba2ae"
     }
   ],
-  "last_updated": "2026-11-03T00:18:52.418Z",
+  "last_updated": "2026-11-03T13:24:47.401Z",
   "total_count": 402
 }
