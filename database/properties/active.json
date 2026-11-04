@@ -19827,8 +19827,83 @@
       "category": "luxury",
       "scraped_at": "2026-11-04T13:32:20.943Z",
       "id": "fa1d7d166797"
+    },
+    {
+      "title": "Hotel and Restaurant for sale",
+      "price_text": "₡260,000,000",
+      "price_usd": 520000,
+      "location": "hace 60 min7br",
+      "url": "https://www.craigslist.org/view/d/hotel-and-restaurant-for-sale/4HJ49roQXAW5STLZ1SBWno?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7995328149/00B0B_78aJ8xwX1nY_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-04T23:00:44.679Z",
+      "id": "6dee07cbeb8b"
+    },
+    {
+      "title": "Hotel and Restaurant for sale",
+      "price_text": "₡260,000,000",
+      "price_usd": 520000,
+      "location": "hace 1 h7br",
+      "url": "https://www.craigslist.org/view/d/hotel-and-restaurant-for-sale/4HJ49roQXAW5STLZ1SBWno?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7995328149/00B0B_78aJ8xwX1nY_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-04T23:00:49.441Z",
+      "id": "e09a7e8fac46"
+    },
+    {
+      "title": "Hotel and Restaurant for sale",
+      "price_text": "₡260,000,000",
+      "price_usd": 520000,
+      "location": "hace 1 h7br",
+      "url": "https://www.craigslist.org/view/d/hotel-and-restaurant-for-sale/4HJ49roQXAW5STLZ1SBWno?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7995328149/00B0B_78aJ8xwX1nY_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-04T23:00:54.181Z",
+      "id": "e09a7e8fac46"
+    },
+    {
+      "title": "Hotel and Restaurant for sale",
+      "price_text": "₡260,000,000",
+      "price_usd": 520000,
+      "location": "hace 1 h7br",
+      "url": "https://www.craigslist.org/view/d/hotel-and-restaurant-for-sale/4HJ49roQXAW5STLZ1SBWno?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7995328149/00B0B_78aJ8xwX1nY_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-04T23:00:58.912Z",
+      "id": "e09a7e8fac46"
+    },
+    {
+      "title": "Hotel and Restaurant for sale",
+      "price_text": "₡260,000,000",
+      "price_usd": 520000,
+      "location": "hace 1 h7br",
+      "url": "https://www.craigslist.org/view/d/hotel-and-restaurant-for-sale/4HJ49roQXAW5STLZ1SBWno?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7995328149/00B0B_78aJ8xwX1nY_0pO0jm_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-04T23:01:03.647Z",
+      "id": "e09a7e8fac46"
     }
   ],
-  "last_updated": "2026-11-04T13:37:18.483Z",
+  "last_updated": "2026-11-04T23:06:54.268Z",
   "total_count": 402
 }
