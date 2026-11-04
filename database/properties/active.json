@@ -19812,8 +19812,23 @@
       "category": "residential",
       "scraped_at": "2026-11-04T04:05:06.599Z",
       "id": "065c77e97fcb"
+    },
+    {
+      "title": "Two Furnished Villas with Pools, 2 Minutes Walk to Playa Hermosa\n                Single Family Homes, Cobano, Puntarenas",
+      "price_text": "$5,000,000",
+      "price_usd": 5000000,
+      "location": "Single Family Homes, Cobano, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-cobano/15776",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-04T13:32:20.943Z",
+      "id": "fa1d7d166797"
     }
   ],
-  "last_updated": "2026-11-04T04:11:37.143Z",
+  "last_updated": "2026-11-04T13:36:42.959Z",
   "total_count": 402
 }
