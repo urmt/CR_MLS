@@ -19629,8 +19629,38 @@
       "category": "land",
       "scraped_at": "2026-11-05T04:28:27.296Z",
       "id": "71a04e1aaa85"
+    },
+    {
+      "title": "Warehouse for Sale in San Francisco de Dos Ríos, San José ID 27257\n                Commercial, Dos Rios, San Jose",
+      "price_text": "$1,250,000",
+      "price_usd": 1250000,
+      "location": "Commercial, Dos Rios, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/1-bed-commercial-for-sale-in-dos-rios/15333",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-05T13:47:06.639Z",
+      "id": "3065427883bc"
+    },
+    {
+      "title": "Warehouse for Sale in San Francisco de Dos Ríos, Barrio San Jose ID 27782\n                Commercial, Curridabat, San Jose",
+      "price_text": "$800,000",
+      "price_usd": 800000,
+      "location": "Commercial, Curridabat, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/1-bed-commercial-for-sale-in-curridabat/15744",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-05T13:47:19.449Z",
+      "id": "a75b25da9eaf"
     }
   ],
-  "last_updated": "2026-11-05T04:31:31.601Z",
+  "last_updated": "2026-11-05T13:50:09.493Z",
   "total_count": 402
 }
