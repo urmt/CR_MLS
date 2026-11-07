@@ -19419,8 +19419,98 @@
       "category": "residential",
       "scraped_at": "2026-11-07T03:53:01.218Z",
       "id": "ae7c59c90917"
+    },
+    {
+      "title": "VILLA SURFSIDE EN VENTA – Completamente renovada en 2026",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 2 h5br",
+      "url": "https://www.craigslist.org/view/d/villa-surfside-en-venta-completamente/cxa94neqX5BNCMKSgQvUgR?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7996896375/00K0K_hgIKrdccFLa_0jl0la_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-07T21:15:09.211Z",
+      "id": "c1cf7269cb40"
+    },
+    {
+      "title": "VILLA SURFSIDE EN VENTA – Completamente renovada en 2026",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 2 h5br",
+      "url": "https://www.craigslist.org/view/d/villa-surfside-en-venta-completamente/cxa94neqX5BNCMKSgQvUgR?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7996896375/00K0K_hgIKrdccFLa_0jl0la_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-07T21:15:14.256Z",
+      "id": "c1cf7269cb40"
+    },
+    {
+      "title": "VILLA SURFSIDE EN VENTA – Completamente renovada en 2026",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 2 h5br",
+      "url": "https://www.craigslist.org/view/d/villa-surfside-en-venta-completamente/cxa94neqX5BNCMKSgQvUgR?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7996896375/00K0K_hgIKrdccFLa_0jl0la_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-07T21:15:19.307Z",
+      "id": "c1cf7269cb40"
+    },
+    {
+      "title": "VILLA SURFSIDE EN VENTA – Completamente renovada en 2026",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 2 h5br",
+      "url": "https://www.craigslist.org/view/d/villa-surfside-en-venta-completamente/cxa94neqX5BNCMKSgQvUgR?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7996896375/00K0K_hgIKrdccFLa_0jl0la_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-07T21:15:24.341Z",
+      "id": "c1cf7269cb40"
+    },
+    {
+      "title": "VILLA SURFSIDE EN VENTA – Completamente renovada en 2026",
+      "price_text": "₡350,000,000",
+      "price_usd": 700000,
+      "location": "hace 2 h5br",
+      "url": "https://www.craigslist.org/view/d/villa-surfside-en-venta-completamente/cxa94neqX5BNCMKSgQvUgR?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7996896375/00K0K_hgIKrdccFLa_0jl0la_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-07T21:15:29.367Z",
+      "id": "c1cf7269cb40"
+    },
+    {
+      "title": "Prime Commercial & Residential Building on Main Road in Santa Teresa\n                Commercial, Santa Teresa, Puntarenas",
+      "price_text": "$2,000,000",
+      "price_usd": 2000000,
+      "location": "Commercial, Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/4-bed-commercial-for-sale-in-santa-teresa/14009",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-11-07T21:16:33.771Z",
+      "id": "6971626b89c1"
     }
   ],
-  "last_updated": "2026-11-07T12:15:07.987Z",
+  "last_updated": "2026-11-07T21:19:56.086Z",
   "total_count": 402
 }
