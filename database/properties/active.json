@@ -1,21 +1,6 @@
 {
   "properties": [
     {
-      "title": "Corner Commercial Building in prime location for Sale - Downtown San José\n                Commercial, San Jose, San Jose",
-      "price_text": "$899,000",
-      "price_usd": 899000,
-      "location": "Commercial, San Jose, San Jose",
-      "url": "https://www.coldwellbankercostarica.com/property/20-bed-commercial-for-sale-in-san-jose/14789",
-      "images": [
-        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "land",
-      "scraped_at": "2026-08-14T12:46:01.130Z",
-      "id": "3ed8716a8d9e"
-    },
-    {
       "title": "T-Salvador 4 - Prime Investment Lot Near Avellanas Beach",
       "price_text": "₡156,975,000",
       "price_usd": 313950,
@@ -19346,6 +19331,6 @@
       "id": "e4a6f8723c1e"
     }
   ],
-  "last_updated": "2026-11-12T05:07:23.555Z",
+  "last_updated": "2026-11-12T14:25:52.941Z",
   "total_count": 402
 }
