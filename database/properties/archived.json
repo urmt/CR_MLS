@@ -86599,7 +86599,92 @@
       "id": "b1935953ac39",
       "archived_at": "2026-11-13T04:22:48.115Z",
       "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "House for sale, Barrio Don Bosco, near Hospital Blanco Cervantes 350mt",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 49 min4br350ft2Barrio Don Bosco, San Jose",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-barrio-don-bosco-near/4meVazKadfaGNLRTSsh9wf?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-15T12:20:01.269Z",
+      "id": "fc29cb85fd2f",
+      "archived_at": "2026-11-13T13:46:17.724Z",
+      "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "House for sale, Barrio Don Bosco, near Hospital Blanco Cervantes 350mt",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 49 min4br350ft2Barrio Don Bosco, San Jose",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-barrio-don-bosco-near/4meVazKadfaGNLRTSsh9wf?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-15T12:20:06.295Z",
+      "id": "fc29cb85fd2f",
+      "archived_at": "2026-11-13T13:46:17.724Z",
+      "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "House for sale, Barrio Don Bosco, near Hospital Blanco Cervantes 350mt",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 49 min4br350ft2Barrio Don Bosco, San Jose",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-barrio-don-bosco-near/4meVazKadfaGNLRTSsh9wf?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-15T12:20:11.312Z",
+      "id": "fc29cb85fd2f",
+      "archived_at": "2026-11-13T13:46:17.724Z",
+      "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "House for sale, Barrio Don Bosco, near Hospital Blanco Cervantes 350mt",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 49 min4br350ft2Barrio Don Bosco, San Jose",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-barrio-don-bosco-near/4meVazKadfaGNLRTSsh9wf?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-15T12:20:16.308Z",
+      "id": "fc29cb85fd2f",
+      "archived_at": "2026-11-13T13:46:17.724Z",
+      "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "House for sale, Barrio Don Bosco, near Hospital Blanco Cervantes 350mt",
+      "price_text": "₡120,000,000",
+      "price_usd": 240000,
+      "location": "hace 50 min4br350ft2Barrio Don Bosco, San Jose",
+      "url": "https://www.craigslist.org/view/d/house-for-sale-barrio-don-bosco-near/4meVazKadfaGNLRTSsh9wf?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-08-15T12:20:21.303Z",
+      "id": "5e025095e684",
+      "archived_at": "2026-11-13T13:46:17.724Z",
+      "archive_reason": "90_day_auto_purge"
     }
   ],
-  "last_updated": "2026-11-13T04:22:48.132Z"
+  "last_updated": "2026-11-13T13:46:17.741Z"
 }
