@@ -19269,8 +19269,608 @@
       "category": "land",
       "scraped_at": "2026-11-12T23:02:19.904Z",
       "id": "3ed8716a8d9e"
+    },
+    {
+      "title": "V- Kristel.Beautiful estate of 2 ha, with a river and sea views",
+      "price_text": "₡90,545,000",
+      "price_usd": 181090,
+      "location": "hace 3 h25599ft2",
+      "url": "https://www.craigslist.org/view/d/kristelbeautiful-estate-of-ha-with/brswHtp2eQP8o3uPG36Y2N?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000166957/00D0D_aihO1UWJHtr_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-13T23:03:18.300Z",
+      "id": "35767e7d8278"
+    },
+    {
+      "title": "Se vende lote 995 m2 en Residencial Verde Vista Cartago",
+      "price_text": "₡140,000,000",
+      "price_usd": 280000,
+      "location": "hace 4 hSan Ramón, Tres Rios",
+      "url": "https://www.craigslist.org/view/d/se-vende-lote-995-m2-en-residencial/sbkWcDwCdYuEyjBRSF6pLu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000127336/00q0q_fCJ5tiDAvUJ_0m00co_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:18.336Z",
+      "id": "06db062a0cee"
+    },
+    {
+      "title": "Apartamento en Venta en Rhomoser Geroma $170,000",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 5 h3br135ft2San José",
+      "url": "https://www.craigslist.org/view/d/apartamento-en-venta-en-rhomoser-geroma/dogDxhPyZ4NiCsynRE7LZz?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000064828/00s0s_lrBxXuwQfgC_0kE0bn_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:18.367Z",
+      "id": "6198dc332d33"
+    },
+    {
+      "title": "Se vende Quinta Bagases, Guanacaste  ₡65,000,000",
+      "price_text": "₡65,000,000",
+      "price_usd": 130000,
+      "location": "hace 5 h2brbagases, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/se-vende-quinta-bagases-guanacaste/1tcxVCW4xexyvHnrsW1qZx?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000060004/00303_dXAemnmDKIn_0jm0es_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:18.398Z",
+      "id": "a36d450a171a"
+    },
+    {
+      "title": "Local comercial en Venta y Alquiler en San Rafael de Escazú 🍓💫👌",
+      "price_text": "₡125,000,000",
+      "price_usd": 250000,
+      "location": "hace 5 h1br72ft2San José",
+      "url": "https://www.craigslist.org/view/d/local-comercial-en-venta-alquiler-en/3BRtzRSyWNdpwRv86KZzW9?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000047809/00E0E_ag20ZHAvz4C_0kE0e1_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:18.441Z",
+      "id": "5198d12a43fc"
+    },
+    {
+      "title": "Se vende finca de 24 hectareas Santa Clara, Guanacaste ₡156,000,000",
+      "price_text": "₡156,000,000",
+      "price_usd": 312000,
+      "location": "hace 6 h4brSanta Clara, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/se-vende-finca-de-24-hectareas-santa/bWKrTF4kanrxrVnV78HCWX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000012349/00505_c5ssxlT2hzx_0mc0co_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:18.484Z",
+      "id": "22ccfefcd62d"
+    },
+    {
+      "title": "Se vende finca de 5 hectareas en San Antonio, Puriscal",
+      "price_text": "₡200,000,000",
+      "price_usd": 400000,
+      "location": "hace 6 h3brSan Antonio, Puriscal",
+      "url": "https://www.craigslist.org/view/d/se-vende-finca-de-hectareas-en-san/5QBifUUF9G9rvhjAuT3k1Y?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7999991709/01414_2KZDbRtdHwB_0gw09e_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:18.520Z",
+      "id": "5df8de3f413e"
+    },
+    {
+      "title": "Venta de espectacular finca de 5 Hectáreas en San Antonio de Puriscal",
+      "price_text": "₡200,000,000",
+      "price_usd": 400000,
+      "location": "hace 8 h3brPuriscal",
+      "url": "https://www.craigslist.org/view/d/venta-de-espectacular-finca-de-hectreas/knJGhi7mNV15PeVwoL8Xvs?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7999940427/01111_ldxLlHsVBma_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:18.565Z",
+      "id": "cce1d65bedc3"
+    },
+    {
+      "title": "V- Kristel.Beautiful estate of 2 ha, with a river and sea views",
+      "price_text": "₡90,545,000",
+      "price_usd": 181090,
+      "location": "hace 3 h25599ft2",
+      "url": "https://www.craigslist.org/view/d/kristelbeautiful-estate-of-ha-with/brswHtp2eQP8o3uPG36Y2N?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000166957/00D0D_aihO1UWJHtr_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-13T23:03:23.373Z",
+      "id": "35767e7d8278"
+    },
+    {
+      "title": "Se vende lote 995 m2 en Residencial Verde Vista Cartago",
+      "price_text": "₡140,000,000",
+      "price_usd": 280000,
+      "location": "hace 4 hSan Ramón, Tres Rios",
+      "url": "https://www.craigslist.org/view/d/se-vende-lote-995-m2-en-residencial/sbkWcDwCdYuEyjBRSF6pLu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000127336/00q0q_fCJ5tiDAvUJ_0m00co_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:23.409Z",
+      "id": "06db062a0cee"
+    },
+    {
+      "title": "Apartamento en Venta en Rhomoser Geroma $170,000",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 5 h3br135ft2San José",
+      "url": "https://www.craigslist.org/view/d/apartamento-en-venta-en-rhomoser-geroma/dogDxhPyZ4NiCsynRE7LZz?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000064828/00s0s_lrBxXuwQfgC_0kE0bn_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:23.440Z",
+      "id": "6198dc332d33"
+    },
+    {
+      "title": "Se vende Quinta Bagases, Guanacaste  ₡65,000,000",
+      "price_text": "₡65,000,000",
+      "price_usd": 130000,
+      "location": "hace 5 h2brbagases, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/se-vende-quinta-bagases-guanacaste/1tcxVCW4xexyvHnrsW1qZx?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000060004/00303_dXAemnmDKIn_0jm0es_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:23.470Z",
+      "id": "a36d450a171a"
+    },
+    {
+      "title": "Local comercial en Venta y Alquiler en San Rafael de Escazú 🍓💫👌",
+      "price_text": "₡125,000,000",
+      "price_usd": 250000,
+      "location": "hace 5 h1br72ft2San José",
+      "url": "https://www.craigslist.org/view/d/local-comercial-en-venta-alquiler-en/3BRtzRSyWNdpwRv86KZzW9?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000047809/00E0E_ag20ZHAvz4C_0kE0e1_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:23.514Z",
+      "id": "5198d12a43fc"
+    },
+    {
+      "title": "Se vende finca de 24 hectareas Santa Clara, Guanacaste ₡156,000,000",
+      "price_text": "₡156,000,000",
+      "price_usd": 312000,
+      "location": "hace 6 h4brSanta Clara, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/se-vende-finca-de-24-hectareas-santa/bWKrTF4kanrxrVnV78HCWX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000012349/00505_c5ssxlT2hzx_0mc0co_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:23.558Z",
+      "id": "22ccfefcd62d"
+    },
+    {
+      "title": "Se vende finca de 5 hectareas en San Antonio, Puriscal",
+      "price_text": "₡200,000,000",
+      "price_usd": 400000,
+      "location": "hace 6 h3brSan Antonio, Puriscal",
+      "url": "https://www.craigslist.org/view/d/se-vende-finca-de-hectareas-en-san/5QBifUUF9G9rvhjAuT3k1Y?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7999991709/01414_2KZDbRtdHwB_0gw09e_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:23.594Z",
+      "id": "5df8de3f413e"
+    },
+    {
+      "title": "Venta de espectacular finca de 5 Hectáreas en San Antonio de Puriscal",
+      "price_text": "₡200,000,000",
+      "price_usd": 400000,
+      "location": "hace 8 h3brPuriscal",
+      "url": "https://www.craigslist.org/view/d/venta-de-espectacular-finca-de-hectreas/knJGhi7mNV15PeVwoL8Xvs?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7999940427/01111_ldxLlHsVBma_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:23.640Z",
+      "id": "cce1d65bedc3"
+    },
+    {
+      "title": "V- Kristel.Beautiful estate of 2 ha, with a river and sea views",
+      "price_text": "₡90,545,000",
+      "price_usd": 181090,
+      "location": "hace 3 h25599ft2",
+      "url": "https://www.craigslist.org/view/d/kristelbeautiful-estate-of-ha-with/brswHtp2eQP8o3uPG36Y2N?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000166957/00D0D_aihO1UWJHtr_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-13T23:03:28.384Z",
+      "id": "35767e7d8278"
+    },
+    {
+      "title": "Se vende lote 995 m2 en Residencial Verde Vista Cartago",
+      "price_text": "₡140,000,000",
+      "price_usd": 280000,
+      "location": "hace 4 hSan Ramón, Tres Rios",
+      "url": "https://www.craigslist.org/view/d/se-vende-lote-995-m2-en-residencial/sbkWcDwCdYuEyjBRSF6pLu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000127336/00q0q_fCJ5tiDAvUJ_0m00co_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:28.420Z",
+      "id": "06db062a0cee"
+    },
+    {
+      "title": "Apartamento en Venta en Rhomoser Geroma $170,000",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 5 h3br135ft2San José",
+      "url": "https://www.craigslist.org/view/d/apartamento-en-venta-en-rhomoser-geroma/dogDxhPyZ4NiCsynRE7LZz?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000064828/00s0s_lrBxXuwQfgC_0kE0bn_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:28.451Z",
+      "id": "6198dc332d33"
+    },
+    {
+      "title": "Se vende Quinta Bagases, Guanacaste  ₡65,000,000",
+      "price_text": "₡65,000,000",
+      "price_usd": 130000,
+      "location": "hace 5 h2brbagases, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/se-vende-quinta-bagases-guanacaste/1tcxVCW4xexyvHnrsW1qZx?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000060004/00303_dXAemnmDKIn_0jm0es_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:28.482Z",
+      "id": "a36d450a171a"
+    },
+    {
+      "title": "Local comercial en Venta y Alquiler en San Rafael de Escazú 🍓💫👌",
+      "price_text": "₡125,000,000",
+      "price_usd": 250000,
+      "location": "hace 5 h1br72ft2San José",
+      "url": "https://www.craigslist.org/view/d/local-comercial-en-venta-alquiler-en/3BRtzRSyWNdpwRv86KZzW9?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000047809/00E0E_ag20ZHAvz4C_0kE0e1_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:28.525Z",
+      "id": "5198d12a43fc"
+    },
+    {
+      "title": "Se vende finca de 24 hectareas Santa Clara, Guanacaste ₡156,000,000",
+      "price_text": "₡156,000,000",
+      "price_usd": 312000,
+      "location": "hace 6 h4brSanta Clara, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/se-vende-finca-de-24-hectareas-santa/bWKrTF4kanrxrVnV78HCWX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000012349/00505_c5ssxlT2hzx_0mc0co_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:28.569Z",
+      "id": "22ccfefcd62d"
+    },
+    {
+      "title": "Se vende finca de 5 hectareas en San Antonio, Puriscal",
+      "price_text": "₡200,000,000",
+      "price_usd": 400000,
+      "location": "hace 6 h3brSan Antonio, Puriscal",
+      "url": "https://www.craigslist.org/view/d/se-vende-finca-de-hectareas-en-san/5QBifUUF9G9rvhjAuT3k1Y?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7999991709/01414_2KZDbRtdHwB_0gw09e_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:28.605Z",
+      "id": "5df8de3f413e"
+    },
+    {
+      "title": "Venta de espectacular finca de 5 Hectáreas en San Antonio de Puriscal",
+      "price_text": "₡200,000,000",
+      "price_usd": 400000,
+      "location": "hace 8 h3brPuriscal",
+      "url": "https://www.craigslist.org/view/d/venta-de-espectacular-finca-de-hectreas/knJGhi7mNV15PeVwoL8Xvs?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7999940427/01111_ldxLlHsVBma_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:28.651Z",
+      "id": "cce1d65bedc3"
+    },
+    {
+      "title": "V- Kristel.Beautiful estate of 2 ha, with a river and sea views",
+      "price_text": "₡90,545,000",
+      "price_usd": 181090,
+      "location": "hace 3 h25599ft2",
+      "url": "https://www.craigslist.org/view/d/kristelbeautiful-estate-of-ha-with/brswHtp2eQP8o3uPG36Y2N?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000166957/00D0D_aihO1UWJHtr_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-13T23:03:33.384Z",
+      "id": "35767e7d8278"
+    },
+    {
+      "title": "Se vende lote 995 m2 en Residencial Verde Vista Cartago",
+      "price_text": "₡140,000,000",
+      "price_usd": 280000,
+      "location": "hace 4 hSan Ramón, Tres Rios",
+      "url": "https://www.craigslist.org/view/d/se-vende-lote-995-m2-en-residencial/sbkWcDwCdYuEyjBRSF6pLu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000127336/00q0q_fCJ5tiDAvUJ_0m00co_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:33.420Z",
+      "id": "06db062a0cee"
+    },
+    {
+      "title": "Apartamento en Venta en Rhomoser Geroma $170,000",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 5 h3br135ft2San José",
+      "url": "https://www.craigslist.org/view/d/apartamento-en-venta-en-rhomoser-geroma/dogDxhPyZ4NiCsynRE7LZz?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000064828/00s0s_lrBxXuwQfgC_0kE0bn_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:33.451Z",
+      "id": "6198dc332d33"
+    },
+    {
+      "title": "Se vende Quinta Bagases, Guanacaste  ₡65,000,000",
+      "price_text": "₡65,000,000",
+      "price_usd": 130000,
+      "location": "hace 5 h2brbagases, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/se-vende-quinta-bagases-guanacaste/1tcxVCW4xexyvHnrsW1qZx?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000060004/00303_dXAemnmDKIn_0jm0es_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:33.482Z",
+      "id": "a36d450a171a"
+    },
+    {
+      "title": "Local comercial en Venta y Alquiler en San Rafael de Escazú 🍓💫👌",
+      "price_text": "₡125,000,000",
+      "price_usd": 250000,
+      "location": "hace 5 h1br72ft2San José",
+      "url": "https://www.craigslist.org/view/d/local-comercial-en-venta-alquiler-en/3BRtzRSyWNdpwRv86KZzW9?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000047809/00E0E_ag20ZHAvz4C_0kE0e1_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:33.525Z",
+      "id": "5198d12a43fc"
+    },
+    {
+      "title": "Se vende finca de 24 hectareas Santa Clara, Guanacaste ₡156,000,000",
+      "price_text": "₡156,000,000",
+      "price_usd": 312000,
+      "location": "hace 6 h4brSanta Clara, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/se-vende-finca-de-24-hectareas-santa/bWKrTF4kanrxrVnV78HCWX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000012349/00505_c5ssxlT2hzx_0mc0co_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:33.568Z",
+      "id": "22ccfefcd62d"
+    },
+    {
+      "title": "Se vende finca de 5 hectareas en San Antonio, Puriscal",
+      "price_text": "₡200,000,000",
+      "price_usd": 400000,
+      "location": "hace 6 h3brSan Antonio, Puriscal",
+      "url": "https://www.craigslist.org/view/d/se-vende-finca-de-hectareas-en-san/5QBifUUF9G9rvhjAuT3k1Y?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7999991709/01414_2KZDbRtdHwB_0gw09e_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:33.605Z",
+      "id": "5df8de3f413e"
+    },
+    {
+      "title": "Venta de espectacular finca de 5 Hectáreas en San Antonio de Puriscal",
+      "price_text": "₡200,000,000",
+      "price_usd": 400000,
+      "location": "hace 8 h3brPuriscal",
+      "url": "https://www.craigslist.org/view/d/venta-de-espectacular-finca-de-hectreas/knJGhi7mNV15PeVwoL8Xvs?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7999940427/01111_ldxLlHsVBma_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:33.652Z",
+      "id": "cce1d65bedc3"
+    },
+    {
+      "title": "V- Kristel.Beautiful estate of 2 ha, with a river and sea views",
+      "price_text": "₡90,545,000",
+      "price_usd": 181090,
+      "location": "hace 3 h25599ft2",
+      "url": "https://www.craigslist.org/view/d/kristelbeautiful-estate-of-ha-with/brswHtp2eQP8o3uPG36Y2N?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000166957/00D0D_aihO1UWJHtr_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-13T23:03:38.386Z",
+      "id": "35767e7d8278"
+    },
+    {
+      "title": "Se vende lote 995 m2 en Residencial Verde Vista Cartago",
+      "price_text": "₡140,000,000",
+      "price_usd": 280000,
+      "location": "hace 4 hSan Ramón, Tres Rios",
+      "url": "https://www.craigslist.org/view/d/se-vende-lote-995-m2-en-residencial/sbkWcDwCdYuEyjBRSF6pLu?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000127336/00q0q_fCJ5tiDAvUJ_0m00co_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:38.422Z",
+      "id": "06db062a0cee"
+    },
+    {
+      "title": "Apartamento en Venta en Rhomoser Geroma $170,000",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 5 h3br135ft2San José",
+      "url": "https://www.craigslist.org/view/d/apartamento-en-venta-en-rhomoser-geroma/dogDxhPyZ4NiCsynRE7LZz?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000064828/00s0s_lrBxXuwQfgC_0kE0bn_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:38.453Z",
+      "id": "6198dc332d33"
+    },
+    {
+      "title": "Se vende Quinta Bagases, Guanacaste  ₡65,000,000",
+      "price_text": "₡65,000,000",
+      "price_usd": 130000,
+      "location": "hace 5 h2brbagases, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/se-vende-quinta-bagases-guanacaste/1tcxVCW4xexyvHnrsW1qZx?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000060004/00303_dXAemnmDKIn_0jm0es_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:38.484Z",
+      "id": "a36d450a171a"
+    },
+    {
+      "title": "Local comercial en Venta y Alquiler en San Rafael de Escazú 🍓💫👌",
+      "price_text": "₡125,000,000",
+      "price_usd": 250000,
+      "location": "hace 5 h1br72ft2San José",
+      "url": "https://www.craigslist.org/view/d/local-comercial-en-venta-alquiler-en/3BRtzRSyWNdpwRv86KZzW9?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000047809/00E0E_ag20ZHAvz4C_0kE0e1_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:38.527Z",
+      "id": "5198d12a43fc"
+    },
+    {
+      "title": "Se vende finca de 24 hectareas Santa Clara, Guanacaste ₡156,000,000",
+      "price_text": "₡156,000,000",
+      "price_usd": 312000,
+      "location": "hace 6 h4brSanta Clara, Guanacaste",
+      "url": "https://www.craigslist.org/view/d/se-vende-finca-de-24-hectareas-santa/bWKrTF4kanrxrVnV78HCWX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8000012349/00505_c5ssxlT2hzx_0mc0co_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:38.571Z",
+      "id": "22ccfefcd62d"
+    },
+    {
+      "title": "Se vende finca de 5 hectareas en San Antonio, Puriscal",
+      "price_text": "₡200,000,000",
+      "price_usd": 400000,
+      "location": "hace 6 h3brSan Antonio, Puriscal",
+      "url": "https://www.craigslist.org/view/d/se-vende-finca-de-hectareas-en-san/5QBifUUF9G9rvhjAuT3k1Y?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7999991709/01414_2KZDbRtdHwB_0gw09e_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:38.607Z",
+      "id": "5df8de3f413e"
+    },
+    {
+      "title": "Venta de espectacular finca de 5 Hectáreas en San Antonio de Puriscal",
+      "price_text": "₡200,000,000",
+      "price_usd": 400000,
+      "location": "hace 8 h3brPuriscal",
+      "url": "https://www.craigslist.org/view/d/venta-de-espectacular-finca-de-hectreas/knJGhi7mNV15PeVwoL8Xvs?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7999940427/01111_ldxLlHsVBma_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-13T23:03:38.654Z",
+      "id": "cce1d65bedc3"
     }
   ],
-  "last_updated": "2026-11-13T13:46:17.725Z",
+  "last_updated": "2026-11-13T23:08:02.762Z",
   "total_count": 402
 }
