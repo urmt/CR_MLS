@@ -86684,7 +86684,24 @@
       "id": "5e025095e684",
       "archived_at": "2026-11-13T13:46:17.724Z",
       "archive_reason": "90_day_auto_purge"
+    },
+    {
+      "title": "Prime Beachfront Concession Lot in Playa Hermosa\n                Land, Playa Hermosa Santa Teresa, Puntarenas",
+      "price_text": "$14,000,000",
+      "price_usd": 14000000,
+      "location": "Land, Playa Hermosa Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-playa-hermosa-santa-teresa/14805",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-08-17T12:27:37.066Z",
+      "id": "5b09cb01f5a1",
+      "archived_at": "2026-11-15T13:17:30.837Z",
+      "archive_reason": "90_day_auto_purge"
     }
   ],
-  "last_updated": "2026-11-13T13:46:17.741Z"
+  "last_updated": "2026-11-15T13:17:30.857Z"
 }
