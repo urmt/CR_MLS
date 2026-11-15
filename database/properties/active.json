@@ -20004,8 +20004,98 @@
       "category": "residential",
       "scraped_at": "2026-11-14T21:50:39.794Z",
       "id": "076dde6c591f"
+    },
+    {
+      "title": "Mountain house 3 bedrooms , 17!acres",
+      "price_text": "₡80,000,000",
+      "price_usd": 160000,
+      "location": "11/153brColorado de biolley",
+      "url": "https://www.craigslist.org/view/d/mountain-house-bedrooms-17acres/u4EGrGFU7GF5ugco8amN8v?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7978124085/00w0w_eEz6tUeBs71_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-15T22:18:41.348Z",
+      "id": "4e1686d5c794"
+    },
+    {
+      "title": "Mountain house 3 bedrooms , 17!acres",
+      "price_text": "₡80,000,000",
+      "price_usd": 160000,
+      "location": "11/153brColorado de biolley",
+      "url": "https://www.craigslist.org/view/d/mountain-house-bedrooms-17acres/u4EGrGFU7GF5ugco8amN8v?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7978124085/00w0w_eEz6tUeBs71_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-15T22:18:46.557Z",
+      "id": "4e1686d5c794"
+    },
+    {
+      "title": "Mountain house 3 bedrooms , 17!acres",
+      "price_text": "₡80,000,000",
+      "price_usd": 160000,
+      "location": "11/153brColorado de biolley",
+      "url": "https://www.craigslist.org/view/d/mountain-house-bedrooms-17acres/u4EGrGFU7GF5ugco8amN8v?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7978124085/00w0w_eEz6tUeBs71_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-15T22:18:52.042Z",
+      "id": "4e1686d5c794"
+    },
+    {
+      "title": "Mountain house 3 bedrooms , 17!acres",
+      "price_text": "₡80,000,000",
+      "price_usd": 160000,
+      "location": "11/153brColorado de biolley",
+      "url": "https://www.craigslist.org/view/d/mountain-house-bedrooms-17acres/u4EGrGFU7GF5ugco8amN8v?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7978124085/00w0w_eEz6tUeBs71_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-15T22:18:57.182Z",
+      "id": "4e1686d5c794"
+    },
+    {
+      "title": "Mountain house 3 bedrooms , 17!acres",
+      "price_text": "₡80,000,000",
+      "price_usd": 160000,
+      "location": "11/153brColorado de biolley",
+      "url": "https://www.craigslist.org/view/d/mountain-house-bedrooms-17acres/u4EGrGFU7GF5ugco8amN8v?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7978124085/00w0w_eEz6tUeBs71_0t20CI_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-15T22:19:02.280Z",
+      "id": "4e1686d5c794"
+    },
+    {
+      "title": "Prime Beachfront Concession Lot in Playa Hermosa\n                Land, Playa Hermosa Santa Teresa, Puntarenas",
+      "price_text": "$14,000,000",
+      "price_usd": 14000000,
+      "location": "Land, Playa Hermosa Santa Teresa, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/land-for-sale-in-playa-hermosa-santa-teresa/14805",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0CRN00006qYtMh/4c2cjm6lo/midres/Screenshot%202026-05-18%20at%207.31.30%E2%80%AFPM.png"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-11-15T22:20:58.466Z",
+      "id": "5b09cb01f5a1"
     }
   ],
-  "last_updated": "2026-11-15T13:17:30.839Z",
+  "last_updated": "2026-11-15T22:22:48.010Z",
   "total_count": 402
 }
