@@ -1,21 +1,6 @@
 {
   "properties": [
     {
-      "title": "Luxurious Casa Belmer\n                Single Family Homes, Dominical, Puntarenas",
-      "price_text": "$4,700,000",
-      "price_usd": 4700000,
-      "location": "Single Family Homes, Dominical, Puntarenas",
-      "url": "https://www.coldwellbankercostarica.com/property/3-bed-single-family-homes-for-sale-in-dominical/3613",
-      "images": [
-        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o00000yWovp/1krt35vvu/midres/Belmer%201%20edit.png"
-      ],
-      "source": "coldwell_banker_cr",
-      "source_name": "Coldwell Banker Costa Rica",
-      "category": "luxury",
-      "scraped_at": "2026-08-19T12:28:24.170Z",
-      "id": "74a87bdc748a"
-    },
-    {
       "title": "JUST LISTED! MODERN MOUNTAIN CABIN on 21.68 Ha!",
       "price_text": "₡2,950,000",
       "price_usd": 5900,
@@ -19502,6 +19487,6 @@
       "id": "01d6cf82e826"
     }
   ],
-  "last_updated": "2026-11-17T15:18:28.207Z",
+  "last_updated": "2026-11-17T15:18:52.997Z",
   "total_count": 402
 }
