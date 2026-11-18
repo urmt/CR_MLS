@@ -19485,8 +19485,188 @@
       "category": "land",
       "scraped_at": "2026-11-17T15:17:04.625Z",
       "id": "01d6cf82e826"
+    },
+    {
+      "title": "Private 4BR Vacation Villa with Pool – Sleeps 16 – Tamarindo Area",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 3 h4br2500ft2Tamarindo",
+      "url": "https://www.craigslist.org/view/d/private-4br-vacation-villa-with-pool/1x7WBBjW6rDdZTSorh8QYr?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002304157/00b0b_khzxo7H2Rvl_0nm0hw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-18T00:16:23.762Z",
+      "id": "103bf2a5c30c"
+    },
+    {
+      "title": "Private 2BR Guest House with Pool – Sleeps 4 – Near Tamarindo Beach",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 3 h2br255ft2Tamarindo",
+      "url": "https://www.craigslist.org/view/d/private-2br-guest-house-with-pool/stt28jmgELn48tMhCrFAfW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002297674/00b0b_khzxo7H2Rvl_0nm0hw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-18T00:16:23.820Z",
+      "id": "0253fc1167a6"
+    },
+    {
+      "title": "Private 4BR Vacation Villa with Pool – Sleeps 16 – Tamarindo Area",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 3 h4br2500ft2Tamarindo",
+      "url": "https://www.craigslist.org/view/d/private-4br-vacation-villa-with-pool/1x7WBBjW6rDdZTSorh8QYr?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002304157/00b0b_khzxo7H2Rvl_0nm0hw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-18T00:16:28.720Z",
+      "id": "103bf2a5c30c"
+    },
+    {
+      "title": "Private 2BR Guest House with Pool – Sleeps 4 – Near Tamarindo Beach",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 3 h2br255ft2Tamarindo",
+      "url": "https://www.craigslist.org/view/d/private-2br-guest-house-with-pool/stt28jmgELn48tMhCrFAfW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002297674/00b0b_khzxo7H2Rvl_0nm0hw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-18T00:16:28.783Z",
+      "id": "0253fc1167a6"
+    },
+    {
+      "title": "Private 4BR Vacation Villa with Pool – Sleeps 16 – Tamarindo Area",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 3 h4br2500ft2Tamarindo",
+      "url": "https://www.craigslist.org/view/d/private-4br-vacation-villa-with-pool/1x7WBBjW6rDdZTSorh8QYr?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002304157/00b0b_khzxo7H2Rvl_0nm0hw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-18T00:16:33.624Z",
+      "id": "103bf2a5c30c"
+    },
+    {
+      "title": "Private 2BR Guest House with Pool – Sleeps 4 – Near Tamarindo Beach",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 3 h2br255ft2Tamarindo",
+      "url": "https://www.craigslist.org/view/d/private-2br-guest-house-with-pool/stt28jmgELn48tMhCrFAfW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002297674/00b0b_khzxo7H2Rvl_0nm0hw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-18T00:16:33.682Z",
+      "id": "0253fc1167a6"
+    },
+    {
+      "title": "Private 4BR Vacation Villa with Pool – Sleeps 16 – Tamarindo Area",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 3 h4br2500ft2Tamarindo",
+      "url": "https://www.craigslist.org/view/d/private-4br-vacation-villa-with-pool/1x7WBBjW6rDdZTSorh8QYr?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002304157/00b0b_khzxo7H2Rvl_0nm0hw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-18T00:16:38.461Z",
+      "id": "103bf2a5c30c"
+    },
+    {
+      "title": "Private 2BR Guest House with Pool – Sleeps 4 – Near Tamarindo Beach",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 3 h2br255ft2Tamarindo",
+      "url": "https://www.craigslist.org/view/d/private-2br-guest-house-with-pool/stt28jmgELn48tMhCrFAfW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002297674/00b0b_khzxo7H2Rvl_0nm0hw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-18T00:16:38.519Z",
+      "id": "0253fc1167a6"
+    },
+    {
+      "title": "Private 4BR Vacation Villa with Pool – Sleeps 16 – Tamarindo Area",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 3 h4br2500ft2Tamarindo",
+      "url": "https://www.craigslist.org/view/d/private-4br-vacation-villa-with-pool/1x7WBBjW6rDdZTSorh8QYr?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002304157/00b0b_khzxo7H2Rvl_0nm0hw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-18T00:16:43.350Z",
+      "id": "103bf2a5c30c"
+    },
+    {
+      "title": "Private 2BR Guest House with Pool – Sleeps 4 – Near Tamarindo Beach",
+      "price_text": "₡1",
+      "price_usd": 0,
+      "location": "hace 3 h2br255ft2Tamarindo",
+      "url": "https://www.craigslist.org/view/d/private-2br-guest-house-with-pool/stt28jmgELn48tMhCrFAfW?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002297674/00b0b_khzxo7H2Rvl_0nm0hw_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-18T00:16:43.407Z",
+      "id": "0253fc1167a6"
+    },
+    {
+      "title": "Luxurious Casa Belmer\n                Single Family Homes, Dominical, Puntarenas",
+      "price_text": "$4,700,000",
+      "price_usd": 4700000,
+      "location": "Single Family Homes, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/3-bed-single-family-homes-for-sale-in-dominical/3613",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0C3o00000yWovp/1krt35vvu/midres/Belmer%201%20edit.png"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-18T00:17:31.926Z",
+      "id": "74a87bdc748a"
+    },
+    {
+      "title": "El Pueblo - Nosara's Community and Commercial Hub\n                Commercial, Playa Guiones, Guanacaste",
+      "price_text": "$3,900,000",
+      "price_usd": 3900000,
+      "location": "Commercial, Playa Guiones, Guanacaste",
+      "url": "https://www.coldwellbankercostarica.com/property/7-bed-commercial-for-sale-in-playa-guiones/15858",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-11-18T00:17:38.641Z",
+      "id": "85194d06a223"
     }
   ],
-  "last_updated": "2026-11-17T15:18:52.997Z",
+  "last_updated": "2026-11-18T00:20:30.724Z",
   "total_count": 402
 }
