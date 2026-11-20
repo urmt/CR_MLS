@@ -19440,8 +19440,383 @@
       "category": "luxury",
       "scraped_at": "2026-11-19T05:15:14.666Z",
       "id": "986ba8a502d3"
+    },
+    {
+      "title": "V-Isa Rocka 3 - 3 Rental Houses in Tropical Paradise Near Tamarindo",
+      "price_text": "₡164,449,750",
+      "price_usd": 328900,
+      "location": "hace 1 h6br1400ft2Villarreal, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/isa-rocka-rental-houses-in-tropical/4R3cEJ38Px4ZfKmwJX4kqB?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8003446500/00h0h_72wVx5WLJyH_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-20T00:03:06.750Z",
+      "id": "90b4e1026d1c"
+    },
+    {
+      "title": "V- Pasy.Where Comfort Meets Natural Beauty",
+      "price_text": "₡162,753,500",
+      "price_usd": 325507,
+      "location": "hace 2 h3br250ft2La Garita,  Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/pasywhere-comfort-meets-natural-beauty/hNvfdQXgChg1XSd5oHUN5w?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8003443569/01515_apcmtYp1wGz_0uY0kM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-20T00:03:06.845Z",
+      "id": "1d3cb311ca96"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡79,500,000",
+      "price_usd": 159000,
+      "location": "hace 2 h5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/nico-santa-rosa-lot-minutes-from/nahBAJJ8hVoKLozqDGcdSS?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984237404/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-20T00:03:06.926Z",
+      "id": "9eec0788e163"
+    },
+    {
+      "title": "V-Patrcik Ju - Charming 2‑Story Home Just 2 Minutes from Playa Grande",
+      "price_text": "₡126,945,000",
+      "price_usd": 253890,
+      "location": "hace 2 h2br473ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/patrcik-ju-charming-2story-home-just/35pKPBkTpqiZF361DBrwv5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984239756/00k0k_fZXauzLDFo7_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-20T00:03:07.071Z",
+      "id": "da99f74424d7"
+    },
+    {
+      "title": "V-Kaza Ouellet - Brand‑New Villa in Exclusive Community Near the beach",
+      "price_text": "₡161,550,000",
+      "price_usd": 323100,
+      "location": "hace 2 h2br289ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/kaza-ouellet-brandnew-villa-in/5TiXoyPn1f6mMirRFgP1gx?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-11-20T00:03:07.187Z",
+      "id": "103bd8a0851c"
+    },
+    {
+      "title": "V-Isa Rocka 3 - 3 Rental Houses in Tropical Paradise Near Tamarindo",
+      "price_text": "₡164,449,750",
+      "price_usd": 328900,
+      "location": "hace 1 h6br1400ft2Villarreal, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/isa-rocka-rental-houses-in-tropical/4R3cEJ38Px4ZfKmwJX4kqB?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8003446500/00h0h_72wVx5WLJyH_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-20T00:03:12.023Z",
+      "id": "90b4e1026d1c"
+    },
+    {
+      "title": "V- Pasy.Where Comfort Meets Natural Beauty",
+      "price_text": "₡162,753,500",
+      "price_usd": 325507,
+      "location": "hace 2 h3br250ft2La Garita,  Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/pasywhere-comfort-meets-natural-beauty/hNvfdQXgChg1XSd5oHUN5w?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8003443569/01515_apcmtYp1wGz_0uY0kM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-20T00:03:12.114Z",
+      "id": "1d3cb311ca96"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡79,500,000",
+      "price_usd": 159000,
+      "location": "hace 2 h5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/nico-santa-rosa-lot-minutes-from/nahBAJJ8hVoKLozqDGcdSS?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984237404/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-20T00:03:12.192Z",
+      "id": "9eec0788e163"
+    },
+    {
+      "title": "V-Patrcik Ju - Charming 2‑Story Home Just 2 Minutes from Playa Grande",
+      "price_text": "₡126,945,000",
+      "price_usd": 253890,
+      "location": "hace 2 h2br473ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/patrcik-ju-charming-2story-home-just/35pKPBkTpqiZF361DBrwv5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984239756/00k0k_fZXauzLDFo7_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-20T00:03:12.337Z",
+      "id": "da99f74424d7"
+    },
+    {
+      "title": "V-Kaza Ouellet - Brand‑New Villa in Exclusive Community Near the beach",
+      "price_text": "₡161,550,000",
+      "price_usd": 323100,
+      "location": "hace 2 h2br289ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/kaza-ouellet-brandnew-villa-in/5TiXoyPn1f6mMirRFgP1gx?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-11-20T00:03:12.462Z",
+      "id": "103bd8a0851c"
+    },
+    {
+      "title": "V-Isa Rocka 3 - 3 Rental Houses in Tropical Paradise Near Tamarindo",
+      "price_text": "₡164,449,750",
+      "price_usd": 328900,
+      "location": "hace 1 h6br1400ft2Villarreal, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/isa-rocka-rental-houses-in-tropical/4R3cEJ38Px4ZfKmwJX4kqB?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8003446500/00h0h_72wVx5WLJyH_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-20T00:03:17.251Z",
+      "id": "90b4e1026d1c"
+    },
+    {
+      "title": "V- Pasy.Where Comfort Meets Natural Beauty",
+      "price_text": "₡162,753,500",
+      "price_usd": 325507,
+      "location": "hace 2 h3br250ft2La Garita,  Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/pasywhere-comfort-meets-natural-beauty/hNvfdQXgChg1XSd5oHUN5w?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8003443569/01515_apcmtYp1wGz_0uY0kM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-20T00:03:17.342Z",
+      "id": "1d3cb311ca96"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡79,500,000",
+      "price_usd": 159000,
+      "location": "hace 2 h5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/nico-santa-rosa-lot-minutes-from/nahBAJJ8hVoKLozqDGcdSS?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984237404/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-20T00:03:17.418Z",
+      "id": "9eec0788e163"
+    },
+    {
+      "title": "V-Patrcik Ju - Charming 2‑Story Home Just 2 Minutes from Playa Grande",
+      "price_text": "₡126,945,000",
+      "price_usd": 253890,
+      "location": "hace 2 h2br473ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/patrcik-ju-charming-2story-home-just/35pKPBkTpqiZF361DBrwv5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984239756/00k0k_fZXauzLDFo7_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-20T00:03:17.555Z",
+      "id": "da99f74424d7"
+    },
+    {
+      "title": "V-Kaza Ouellet - Brand‑New Villa in Exclusive Community Near the beach",
+      "price_text": "₡161,550,000",
+      "price_usd": 323100,
+      "location": "hace 2 h2br289ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/kaza-ouellet-brandnew-villa-in/5TiXoyPn1f6mMirRFgP1gx?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-11-20T00:03:17.670Z",
+      "id": "103bd8a0851c"
+    },
+    {
+      "title": "V-Isa Rocka 3 - 3 Rental Houses in Tropical Paradise Near Tamarindo",
+      "price_text": "₡164,449,750",
+      "price_usd": 328900,
+      "location": "hace 1 h6br1400ft2Villarreal, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/isa-rocka-rental-houses-in-tropical/4R3cEJ38Px4ZfKmwJX4kqB?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8003446500/00h0h_72wVx5WLJyH_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-20T00:03:22.447Z",
+      "id": "90b4e1026d1c"
+    },
+    {
+      "title": "V- Pasy.Where Comfort Meets Natural Beauty",
+      "price_text": "₡162,753,500",
+      "price_usd": 325507,
+      "location": "hace 2 h3br250ft2La Garita,  Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/pasywhere-comfort-meets-natural-beauty/hNvfdQXgChg1XSd5oHUN5w?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8003443569/01515_apcmtYp1wGz_0uY0kM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-20T00:03:22.535Z",
+      "id": "1d3cb311ca96"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡79,500,000",
+      "price_usd": 159000,
+      "location": "hace 2 h5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/nico-santa-rosa-lot-minutes-from/nahBAJJ8hVoKLozqDGcdSS?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984237404/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-20T00:03:22.611Z",
+      "id": "9eec0788e163"
+    },
+    {
+      "title": "V-Patrcik Ju - Charming 2‑Story Home Just 2 Minutes from Playa Grande",
+      "price_text": "₡126,945,000",
+      "price_usd": 253890,
+      "location": "hace 2 h2br473ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/patrcik-ju-charming-2story-home-just/35pKPBkTpqiZF361DBrwv5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984239756/00k0k_fZXauzLDFo7_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-20T00:03:22.746Z",
+      "id": "da99f74424d7"
+    },
+    {
+      "title": "V-Kaza Ouellet - Brand‑New Villa in Exclusive Community Near the beach",
+      "price_text": "₡161,550,000",
+      "price_usd": 323100,
+      "location": "hace 2 h2br289ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/kaza-ouellet-brandnew-villa-in/5TiXoyPn1f6mMirRFgP1gx?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-11-20T00:03:22.858Z",
+      "id": "103bd8a0851c"
+    },
+    {
+      "title": "V-Isa Rocka 3 - 3 Rental Houses in Tropical Paradise Near Tamarindo",
+      "price_text": "₡164,449,750",
+      "price_usd": 328900,
+      "location": "hace 1 h6br1400ft2Villarreal, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/isa-rocka-rental-houses-in-tropical/4R3cEJ38Px4ZfKmwJX4kqB?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8003446500/00h0h_72wVx5WLJyH_0CI0pL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-20T00:03:27.640Z",
+      "id": "90b4e1026d1c"
+    },
+    {
+      "title": "V- Pasy.Where Comfort Meets Natural Beauty",
+      "price_text": "₡162,753,500",
+      "price_usd": 325507,
+      "location": "hace 2 h3br250ft2La Garita,  Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/pasywhere-comfort-meets-natural-beauty/hNvfdQXgChg1XSd5oHUN5w?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8003443569/01515_apcmtYp1wGz_0uY0kM_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-20T00:03:27.731Z",
+      "id": "1d3cb311ca96"
+    },
+    {
+      "title": "T-Nico Santa Rosa 1 - 5,000 m² Lot Minutes from Tamarindo",
+      "price_text": "₡79,500,000",
+      "price_usd": 159000,
+      "location": "hace 2 h5000ft2Santa Rosa, Tamarindo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/nico-santa-rosa-lot-minutes-from/nahBAJJ8hVoKLozqDGcdSS?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984237404/00d0d_dhcMRy59Nvv_0kE0bC_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-20T00:03:27.815Z",
+      "id": "9eec0788e163"
+    },
+    {
+      "title": "V-Patrcik Ju - Charming 2‑Story Home Just 2 Minutes from Playa Grande",
+      "price_text": "₡126,945,000",
+      "price_usd": 253890,
+      "location": "hace 2 h2br473ft2Playa Grande, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/patrcik-ju-charming-2story-home-just/35pKPBkTpqiZF361DBrwv5?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7984239756/00k0k_fZXauzLDFo7_0x20m3_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-20T00:03:27.957Z",
+      "id": "da99f74424d7"
+    },
+    {
+      "title": "V-Kaza Ouellet - Brand‑New Villa in Exclusive Community Near the beach",
+      "price_text": "₡161,550,000",
+      "price_usd": 323100,
+      "location": "hace 2 h2br289ft2Matapalo, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/kaza-ouellet-brandnew-villa-in/5TiXoyPn1f6mMirRFgP1gx?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-11-20T00:03:28.076Z",
+      "id": "103bd8a0851c"
     }
   ],
-  "last_updated": "2026-11-19T15:01:51.619Z",
+  "last_updated": "2026-11-20T00:06:47.401Z",
   "total_count": 402
 }
