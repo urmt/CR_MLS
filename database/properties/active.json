@@ -19050,8 +19050,23 @@
       "category": "luxury",
       "scraped_at": "2026-11-23T04:57:27.118Z",
       "id": "8a2e8eb486b4"
+    },
+    {
+      "title": "High-Value Prime Commercial Building on Central Avenue, Downtown San José\n                Commercial, San Jose, San Jose",
+      "price_text": "$1,600,000",
+      "price_usd": 1600000,
+      "location": "Commercial, San Jose, San Jose",
+      "url": "https://www.coldwellbankercostarica.com/property/20-bed-commercial-for-sale-in-san-jose/15886",
+      "images": [
+        "https://s3.amazonaws.com/propertybase-clients/00Dd0000000donbEAA/a0Cjz0000057tk7/3nizk9i7v/midres/Frente%20local.jpg"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-11-23T16:57:06.581Z",
+      "id": "b7c536e2f7eb"
     }
   ],
-  "last_updated": "2026-11-23T04:59:36.247Z",
+  "last_updated": "2026-11-23T16:59:52.840Z",
   "total_count": 402
 }
