@@ -19125,8 +19125,308 @@
       "category": "land",
       "scraped_at": "2026-11-24T16:45:28.429Z",
       "id": "1a3a8d046816"
+    },
+    {
+      "title": "Studio home on 2,000 m² with volcano views | Casa en Turrialba",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 1 hLa Pastora, Santa Cruz de Turrialba",
+      "url": "https://www.craigslist.org/view/d/studio-home-on-2000-with-volcano-views/c7AqTSnwfSLmf1PkkTKnex?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002407504/01010_6cPwMhu1cIi_0x10oL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-25T01:46:23.026Z",
+      "id": "cb663ab1da81"
+    },
+    {
+      "title": "1,250 m² lot with volcano views | La Pastora, Turrialba",
+      "price_text": "₡42,500,000",
+      "price_usd": 85000,
+      "location": "hace 1 hLa Pastora, Santa Cruz de Turrialba",
+      "url": "https://www.craigslist.org/view/d/1250-lot-with-volcano-views-la-pastora/3wuhNcmAnhh46tKsx7q4Ek?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002404195/00m0m_jI1he0v5Er3_0kM0fA_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-25T01:46:23.065Z",
+      "id": "4ec352d54d51"
+    },
+    {
+      "title": "625 m² lot with volcano views | La Pastora, Turrialba",
+      "price_text": "₡25,000,000",
+      "price_usd": 50000,
+      "location": "hace 1 hLa Pastora, Santa Cruz de Turrialba",
+      "url": "https://www.craigslist.org/view/d/625-lot-with-volcano-views-la-pastora/uq731T6spff6Mzuxw87nza?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002397964/00E0E_9OjyFYukiA6_0hw0d9_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-25T01:46:23.100Z",
+      "id": "72172470980c"
+    },
+    {
+      "title": "T- Gilles. 2 Flat Mixed-Use Lots (800 m²) Ready to Build in Huacas",
+      "price_text": "₡30,015,000",
+      "price_usd": 60030,
+      "location": "hace 5 h803ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/gilles-flat-mixed-use-lots-800-ready-to/aPdDfLLsouJccru2RDJzPw?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005944489/00U0U_iEsaXzCMA1R_09G07g_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-25T01:46:23.158Z",
+      "id": "1b41554f71bb"
+    },
+    {
+      "title": "Studio home on 2,000 m² with volcano views | Casa en Turrialba",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 1 hLa Pastora, Santa Cruz de Turrialba",
+      "url": "https://www.craigslist.org/view/d/studio-home-on-2000-with-volcano-views/c7AqTSnwfSLmf1PkkTKnex?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002407504/01010_6cPwMhu1cIi_0x10oL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-25T01:46:27.918Z",
+      "id": "cb663ab1da81"
+    },
+    {
+      "title": "1,250 m² lot with volcano views | La Pastora, Turrialba",
+      "price_text": "₡42,500,000",
+      "price_usd": 85000,
+      "location": "hace 1 hLa Pastora, Santa Cruz de Turrialba",
+      "url": "https://www.craigslist.org/view/d/1250-lot-with-volcano-views-la-pastora/3wuhNcmAnhh46tKsx7q4Ek?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002404195/00m0m_jI1he0v5Er3_0kM0fA_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-25T01:46:27.955Z",
+      "id": "4ec352d54d51"
+    },
+    {
+      "title": "625 m² lot with volcano views | La Pastora, Turrialba",
+      "price_text": "₡25,000,000",
+      "price_usd": 50000,
+      "location": "hace 1 hLa Pastora, Santa Cruz de Turrialba",
+      "url": "https://www.craigslist.org/view/d/625-lot-with-volcano-views-la-pastora/uq731T6spff6Mzuxw87nza?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002397964/00E0E_9OjyFYukiA6_0hw0d9_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-25T01:46:27.990Z",
+      "id": "72172470980c"
+    },
+    {
+      "title": "T- Gilles. 2 Flat Mixed-Use Lots (800 m²) Ready to Build in Huacas",
+      "price_text": "₡30,015,000",
+      "price_usd": 60030,
+      "location": "hace 5 h803ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/gilles-flat-mixed-use-lots-800-ready-to/aPdDfLLsouJccru2RDJzPw?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005944489/00U0U_iEsaXzCMA1R_09G07g_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-25T01:46:28.048Z",
+      "id": "1b41554f71bb"
+    },
+    {
+      "title": "Studio home on 2,000 m² with volcano views | Casa en Turrialba",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 1 hLa Pastora, Santa Cruz de Turrialba",
+      "url": "https://www.craigslist.org/view/d/studio-home-on-2000-with-volcano-views/c7AqTSnwfSLmf1PkkTKnex?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002407504/01010_6cPwMhu1cIi_0x10oL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-25T01:46:32.734Z",
+      "id": "cb663ab1da81"
+    },
+    {
+      "title": "1,250 m² lot with volcano views | La Pastora, Turrialba",
+      "price_text": "₡42,500,000",
+      "price_usd": 85000,
+      "location": "hace 1 hLa Pastora, Santa Cruz de Turrialba",
+      "url": "https://www.craigslist.org/view/d/1250-lot-with-volcano-views-la-pastora/3wuhNcmAnhh46tKsx7q4Ek?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002404195/00m0m_jI1he0v5Er3_0kM0fA_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-25T01:46:32.771Z",
+      "id": "4ec352d54d51"
+    },
+    {
+      "title": "625 m² lot with volcano views | La Pastora, Turrialba",
+      "price_text": "₡25,000,000",
+      "price_usd": 50000,
+      "location": "hace 1 hLa Pastora, Santa Cruz de Turrialba",
+      "url": "https://www.craigslist.org/view/d/625-lot-with-volcano-views-la-pastora/uq731T6spff6Mzuxw87nza?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002397964/00E0E_9OjyFYukiA6_0hw0d9_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-25T01:46:32.807Z",
+      "id": "72172470980c"
+    },
+    {
+      "title": "T- Gilles. 2 Flat Mixed-Use Lots (800 m²) Ready to Build in Huacas",
+      "price_text": "₡30,015,000",
+      "price_usd": 60030,
+      "location": "hace 5 h803ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/gilles-flat-mixed-use-lots-800-ready-to/aPdDfLLsouJccru2RDJzPw?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005944489/00U0U_iEsaXzCMA1R_09G07g_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-25T01:46:32.866Z",
+      "id": "1b41554f71bb"
+    },
+    {
+      "title": "Studio home on 2,000 m² with volcano views | Casa en Turrialba",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 1 hLa Pastora, Santa Cruz de Turrialba",
+      "url": "https://www.craigslist.org/view/d/studio-home-on-2000-with-volcano-views/c7AqTSnwfSLmf1PkkTKnex?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002407504/01010_6cPwMhu1cIi_0x10oL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-25T01:46:37.550Z",
+      "id": "cb663ab1da81"
+    },
+    {
+      "title": "1,250 m² lot with volcano views | La Pastora, Turrialba",
+      "price_text": "₡42,500,000",
+      "price_usd": 85000,
+      "location": "hace 1 hLa Pastora, Santa Cruz de Turrialba",
+      "url": "https://www.craigslist.org/view/d/1250-lot-with-volcano-views-la-pastora/3wuhNcmAnhh46tKsx7q4Ek?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002404195/00m0m_jI1he0v5Er3_0kM0fA_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-25T01:46:37.587Z",
+      "id": "4ec352d54d51"
+    },
+    {
+      "title": "625 m² lot with volcano views | La Pastora, Turrialba",
+      "price_text": "₡25,000,000",
+      "price_usd": 50000,
+      "location": "hace 1 hLa Pastora, Santa Cruz de Turrialba",
+      "url": "https://www.craigslist.org/view/d/625-lot-with-volcano-views-la-pastora/uq731T6spff6Mzuxw87nza?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002397964/00E0E_9OjyFYukiA6_0hw0d9_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-25T01:46:37.623Z",
+      "id": "72172470980c"
+    },
+    {
+      "title": "T- Gilles. 2 Flat Mixed-Use Lots (800 m²) Ready to Build in Huacas",
+      "price_text": "₡30,015,000",
+      "price_usd": 60030,
+      "location": "hace 5 h803ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/gilles-flat-mixed-use-lots-800-ready-to/aPdDfLLsouJccru2RDJzPw?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005944489/00U0U_iEsaXzCMA1R_09G07g_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-25T01:46:37.681Z",
+      "id": "1b41554f71bb"
+    },
+    {
+      "title": "Studio home on 2,000 m² with volcano views | Casa en Turrialba",
+      "price_text": "₡85,000,000",
+      "price_usd": 170000,
+      "location": "hace 1 hLa Pastora, Santa Cruz de Turrialba",
+      "url": "https://www.craigslist.org/view/d/studio-home-on-2000-with-volcano-views/c7AqTSnwfSLmf1PkkTKnex?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002407504/01010_6cPwMhu1cIi_0x10oL_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-25T01:46:42.368Z",
+      "id": "cb663ab1da81"
+    },
+    {
+      "title": "1,250 m² lot with volcano views | La Pastora, Turrialba",
+      "price_text": "₡42,500,000",
+      "price_usd": 85000,
+      "location": "hace 1 hLa Pastora, Santa Cruz de Turrialba",
+      "url": "https://www.craigslist.org/view/d/1250-lot-with-volcano-views-la-pastora/3wuhNcmAnhh46tKsx7q4Ek?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002404195/00m0m_jI1he0v5Er3_0kM0fA_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-25T01:46:42.405Z",
+      "id": "4ec352d54d51"
+    },
+    {
+      "title": "625 m² lot with volcano views | La Pastora, Turrialba",
+      "price_text": "₡25,000,000",
+      "price_usd": 50000,
+      "location": "hace 1 hLa Pastora, Santa Cruz de Turrialba",
+      "url": "https://www.craigslist.org/view/d/625-lot-with-volcano-views-la-pastora/uq731T6spff6Mzuxw87nza?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8002397964/00E0E_9OjyFYukiA6_0hw0d9_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-25T01:46:42.442Z",
+      "id": "72172470980c"
+    },
+    {
+      "title": "T- Gilles. 2 Flat Mixed-Use Lots (800 m²) Ready to Build in Huacas",
+      "price_text": "₡30,015,000",
+      "price_usd": 60030,
+      "location": "hace 5 h803ft2Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/gilles-flat-mixed-use-lots-800-ready-to/aPdDfLLsouJccru2RDJzPw?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005944489/00U0U_iEsaXzCMA1R_09G07g_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-25T01:46:42.501Z",
+      "id": "1b41554f71bb"
     }
   ],
-  "last_updated": "2026-11-24T16:50:15.038Z",
+  "last_updated": "2026-11-25T01:50:31.746Z",
   "total_count": 402
 }
