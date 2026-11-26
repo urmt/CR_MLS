@@ -19275,8 +19275,308 @@
       "category": "residential",
       "scraped_at": "2026-11-25T16:33:24.537Z",
       "id": "d4e3fff4fc64"
+    },
+    {
+      "title": "T-Xavier - 13 Hectares Investment Land with Ocean & Mountain Views",
+      "price_text": "₡69,500,000",
+      "price_usd": 139000,
+      "location": "hace 3 h130000ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xavier-13-hectares-investment-land-with/mFgovqpAAepyYWN9WVe9Rx?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/8006513442/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-11-26T01:21:35.181Z",
+      "id": "bf24e0862554"
+    },
+    {
+      "title": "T-TopherSJP - 5000 m² lot near Tamarindo",
+      "price_text": "₡55,000,000",
+      "price_usd": 110000,
+      "location": "hace 3 h5000ft2San José de Pinilla, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/tophersjp-lot-near-tamarindo/7w4Pnvzaqq8zMoiV4UPqE8?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8006511987/00k0k_fpOIBfin2YZ_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T01:21:35.215Z",
+      "id": "09ba3e893153"
+    },
+    {
+      "title": "APARTAMENTO/ESTUDIO EN VENTA, CERCA DE ZONA FRANCA.31-285-78-AP38M",
+      "price_text": "₡48,000,000",
+      "price_usd": 96000,
+      "location": "hace 6 h38ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-estudio-en-venta-cerca-de/4DC5tTXRoupjSCVSRNQrHX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8006398866/00q0q_aeUywEWZg7e_0iy0m4_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T01:21:35.269Z",
+      "id": "aeab853426b0"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CON ESPACIO MULTIFUNCIONAL. 31-285-78-AP57M",
+      "price_text": "₡68,000,000",
+      "price_usd": 136000,
+      "location": "hace 6 h1br57ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-con-espacio/kvT76GY4zu4L5Nb6U4F8v3?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8006392629/00O0O_9hwIJLSz27N_0wJ0cv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T01:21:35.344Z",
+      "id": "5b01d965263c"
+    },
+    {
+      "title": "T-Xavier - 13 Hectares Investment Land with Ocean & Mountain Views",
+      "price_text": "₡69,500,000",
+      "price_usd": 139000,
+      "location": "hace 3 h130000ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xavier-13-hectares-investment-land-with/mFgovqpAAepyYWN9WVe9Rx?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/8006513442/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-11-26T01:21:40.419Z",
+      "id": "bf24e0862554"
+    },
+    {
+      "title": "T-TopherSJP - 5000 m² lot near Tamarindo",
+      "price_text": "₡55,000,000",
+      "price_usd": 110000,
+      "location": "hace 3 h5000ft2San José de Pinilla, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/tophersjp-lot-near-tamarindo/7w4Pnvzaqq8zMoiV4UPqE8?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8006511987/00k0k_fpOIBfin2YZ_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T01:21:40.452Z",
+      "id": "09ba3e893153"
+    },
+    {
+      "title": "APARTAMENTO/ESTUDIO EN VENTA, CERCA DE ZONA FRANCA.31-285-78-AP38M",
+      "price_text": "₡48,000,000",
+      "price_usd": 96000,
+      "location": "hace 6 h38ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-estudio-en-venta-cerca-de/4DC5tTXRoupjSCVSRNQrHX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8006398866/00q0q_aeUywEWZg7e_0iy0m4_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T01:21:40.505Z",
+      "id": "aeab853426b0"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CON ESPACIO MULTIFUNCIONAL. 31-285-78-AP57M",
+      "price_text": "₡68,000,000",
+      "price_usd": 136000,
+      "location": "hace 6 h1br57ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-con-espacio/kvT76GY4zu4L5Nb6U4F8v3?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8006392629/00O0O_9hwIJLSz27N_0wJ0cv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T01:21:40.581Z",
+      "id": "5b01d965263c"
+    },
+    {
+      "title": "T-Xavier - 13 Hectares Investment Land with Ocean & Mountain Views",
+      "price_text": "₡69,500,000",
+      "price_usd": 139000,
+      "location": "hace 3 h130000ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xavier-13-hectares-investment-land-with/mFgovqpAAepyYWN9WVe9Rx?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/8006513442/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-11-26T01:21:45.555Z",
+      "id": "bf24e0862554"
+    },
+    {
+      "title": "T-TopherSJP - 5000 m² lot near Tamarindo",
+      "price_text": "₡55,000,000",
+      "price_usd": 110000,
+      "location": "hace 3 h5000ft2San José de Pinilla, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/tophersjp-lot-near-tamarindo/7w4Pnvzaqq8zMoiV4UPqE8?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8006511987/00k0k_fpOIBfin2YZ_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T01:21:45.589Z",
+      "id": "09ba3e893153"
+    },
+    {
+      "title": "APARTAMENTO/ESTUDIO EN VENTA, CERCA DE ZONA FRANCA.31-285-78-AP38M",
+      "price_text": "₡48,000,000",
+      "price_usd": 96000,
+      "location": "hace 6 h38ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-estudio-en-venta-cerca-de/4DC5tTXRoupjSCVSRNQrHX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8006398866/00q0q_aeUywEWZg7e_0iy0m4_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T01:21:45.643Z",
+      "id": "aeab853426b0"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CON ESPACIO MULTIFUNCIONAL. 31-285-78-AP57M",
+      "price_text": "₡68,000,000",
+      "price_usd": 136000,
+      "location": "hace 6 h1br57ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-con-espacio/kvT76GY4zu4L5Nb6U4F8v3?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8006392629/00O0O_9hwIJLSz27N_0wJ0cv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T01:21:45.720Z",
+      "id": "5b01d965263c"
+    },
+    {
+      "title": "T-Xavier - 13 Hectares Investment Land with Ocean & Mountain Views",
+      "price_text": "₡69,500,000",
+      "price_usd": 139000,
+      "location": "hace 3 h130000ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xavier-13-hectares-investment-land-with/mFgovqpAAepyYWN9WVe9Rx?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/8006513442/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-11-26T01:21:50.695Z",
+      "id": "bf24e0862554"
+    },
+    {
+      "title": "T-TopherSJP - 5000 m² lot near Tamarindo",
+      "price_text": "₡55,000,000",
+      "price_usd": 110000,
+      "location": "hace 3 h5000ft2San José de Pinilla, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/tophersjp-lot-near-tamarindo/7w4Pnvzaqq8zMoiV4UPqE8?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8006511987/00k0k_fpOIBfin2YZ_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T01:21:50.729Z",
+      "id": "09ba3e893153"
+    },
+    {
+      "title": "APARTAMENTO/ESTUDIO EN VENTA, CERCA DE ZONA FRANCA.31-285-78-AP38M",
+      "price_text": "₡48,000,000",
+      "price_usd": 96000,
+      "location": "hace 6 h38ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-estudio-en-venta-cerca-de/4DC5tTXRoupjSCVSRNQrHX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8006398866/00q0q_aeUywEWZg7e_0iy0m4_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T01:21:50.783Z",
+      "id": "aeab853426b0"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CON ESPACIO MULTIFUNCIONAL. 31-285-78-AP57M",
+      "price_text": "₡68,000,000",
+      "price_usd": 136000,
+      "location": "hace 6 h1br57ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-con-espacio/kvT76GY4zu4L5Nb6U4F8v3?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8006392629/00O0O_9hwIJLSz27N_0wJ0cv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T01:21:50.860Z",
+      "id": "5b01d965263c"
+    },
+    {
+      "title": "T-Xavier - 13 Hectares Investment Land with Ocean & Mountain Views",
+      "price_text": "₡69,500,000",
+      "price_usd": 139000,
+      "location": "hace 3 h130000ft2Llano, Huacas, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/xavier-13-hectares-investment-land-with/mFgovqpAAepyYWN9WVe9Rx?lang=es&cc=mx",
+      "images": [
+        "https://www.craigslist.org/images/d/8006513442/empty.png"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "land",
+      "scraped_at": "2026-11-26T01:21:55.873Z",
+      "id": "bf24e0862554"
+    },
+    {
+      "title": "T-TopherSJP - 5000 m² lot near Tamarindo",
+      "price_text": "₡55,000,000",
+      "price_usd": 110000,
+      "location": "hace 3 h5000ft2San José de Pinilla, Guanacaste, Costa Rica",
+      "url": "https://www.craigslist.org/view/d/tophersjp-lot-near-tamarindo/7w4Pnvzaqq8zMoiV4UPqE8?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8006511987/00k0k_fpOIBfin2YZ_0pO0ew_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T01:21:55.906Z",
+      "id": "09ba3e893153"
+    },
+    {
+      "title": "APARTAMENTO/ESTUDIO EN VENTA, CERCA DE ZONA FRANCA.31-285-78-AP38M",
+      "price_text": "₡48,000,000",
+      "price_usd": 96000,
+      "location": "hace 6 h38ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-estudio-en-venta-cerca-de/4DC5tTXRoupjSCVSRNQrHX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8006398866/00q0q_aeUywEWZg7e_0iy0m4_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T01:21:55.959Z",
+      "id": "aeab853426b0"
+    },
+    {
+      "title": "APARTAMENTO PARA VENTA, CON ESPACIO MULTIFUNCIONAL. 31-285-78-AP57M",
+      "price_text": "₡68,000,000",
+      "price_usd": 136000,
+      "location": "hace 6 h1br57ft2HEREDIA",
+      "url": "https://www.craigslist.org/view/d/apartamento-para-venta-con-espacio/kvT76GY4zu4L5Nb6U4F8v3?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8006392629/00O0O_9hwIJLSz27N_0wJ0cv_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T01:21:56.033Z",
+      "id": "5b01d965263c"
     }
   ],
-  "last_updated": "2026-11-25T16:36:31.749Z",
+  "last_updated": "2026-11-26T01:25:35.995Z",
   "total_count": 402
 }
