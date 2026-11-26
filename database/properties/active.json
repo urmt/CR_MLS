@@ -19560,8 +19560,923 @@
       "category": "residential",
       "scraped_at": "2026-11-26T01:21:56.033Z",
       "id": "5b01d965263c"
+    },
+    {
+      "title": "Suzuki Samurai 1988",
+      "price_text": "₡3,500,000",
+      "price_usd": 7000,
+      "location": "11/25221,776kmCartago, Paraiso",
+      "url": "https://www.craigslist.org/view/d/suzuki-samurai-1988/poFDuRWmKTtYR7tXdZD6jQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7991475234/00m0m_3pR3Cky9WOJ_0pO0ji_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:04:55.643Z",
+      "id": "b3669678cd09"
+    },
+    {
+      "title": "BMW X6 Año 2013",
+      "price_text": "₡12,500,000",
+      "price_usd": 25000,
+      "location": "11/2549,000kmCartago, Paraiso",
+      "url": "https://www.craigslist.org/view/d/bmw-x6-ao-2013/7Wwx1w7smZqPBEJFrfbSrQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987613466/00j0j_kedcARaASdd_0pO0ji_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:04:55.657Z",
+      "id": "c7070db671a6"
+    },
+    {
+      "title": "KIA BONGO III – Furgón Refrigerado",
+      "price_text": "₡9,600,000",
+      "price_usd": 19200,
+      "location": "11/2551,946kmCartago, Paraiso",
+      "url": "https://www.craigslist.org/view/d/kia-bongo-iii-furgn-refrigerado/5P2dgh6dJ1TGzst5NYYRNA?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987616883/01414_6jCMVCuqK5U_0pO0ji_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:04:55.686Z",
+      "id": "a788f0b648fa"
+    },
+    {
+      "title": "2019 Jaguar E-Pace S AWD Auto - 55k Miles - Agency History",
+      "price_text": "₡18,000,000",
+      "price_usd": 36000,
+      "location": "11/2589,076kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2019-jaguar-pace-awd-auto-55k-miles/5A1pV3zvLeWwWuY4Thfe2H?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005310385/00D0D_5ChM60TRtLe_0ne0t2_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:04:55.734Z",
+      "id": "5bf36c761782"
+    },
+    {
+      "title": "2022 Toyota Rush G 7-Seater - 36k Miles - Purdy 1 Owner",
+      "price_text": "₡9,500,000",
+      "price_usd": 19000,
+      "location": "11/2558,000kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2022-toyota-rush-7-seater-36k-miles/kkwkfvt9PsyXPGeVVVd2Bm?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005310982/00k0k_b97o8NBkpx9_0ne0t2_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:04:55.778Z",
+      "id": "265f2d93c3d6"
+    },
+    {
+      "title": "2025 Hyundai Venue Turbo Auto - 10k Miles - Agency Warranty",
+      "price_text": "₡9,900,000",
+      "price_usd": 19800,
+      "location": "11/2516,700kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2025-hyundai-venue-turbo-auto-10k-miles/soc8ZdqvZygyrV63nQCzWm?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005311210/00D0D_8WIi6pqvuS4_0ne0t2_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:04:55.825Z",
+      "id": "da5e0082ecd8"
+    },
+    {
+      "title": "2008 Mitsubishi Evo X MR 4x4 Auto - 91k Miles - Mint Condition",
+      "price_text": "₡15,900,000",
+      "price_usd": 31800,
+      "location": "11/25146,498kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2008-mitsubishi-evo-mr-4x4-auto-91k/2V84aieHmwjuUmVRHN71fX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005309680/00P0P_bXDNiLtMhWM_0ne0t2_300x300.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:04:55.876Z",
+      "id": "fa026e6ae952"
+    },
+    {
+      "title": "Utility Trailer 2 Floors ☑load 3ATV (2nd Floor for Roof tent) ST Legal",
+      "price_text": "₡2,500,000",
+      "price_usd": 5000,
+      "location": "11/25tibas",
+      "url": "https://www.craigslist.org/view/d/utility-trailer-floors-load-3atv-2nd/faBGEKmVW1zuEnGtxmqkrQ?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:04:55.933Z",
+      "id": "ecb30a654cbe"
+    },
+    {
+      "title": "2006 Mitsubishi Lancer GLX Auto - 119k Miles - Clean Agency",
+      "price_text": "₡3,200,000",
+      "price_usd": 6400,
+      "location": "11/25192,043kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2006-mitsubishi-lancer-glx-auto-119k/aCLYhB46FyXuevXNsGsPAe?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:04:55.979Z",
+      "id": "571d6c42ebe1"
+    },
+    {
+      "title": "2014 Chevrolet Spark Auto - National Grupo Q - 77k Miles",
+      "price_text": "₡3,450,000",
+      "price_usd": 6900,
+      "location": "11/25124,670kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2014-chevrolet-spark-auto-national/8H3WK5twUZjPxhgMx4bp4i?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:04:56.024Z",
+      "id": "a44ce1c92ee7"
+    },
+    {
+      "title": "🚗 Hyundai Elantra Coupe 2014 * 116k miles* Mint condition * Up to Dat",
+      "price_text": "₡4,400,000",
+      "price_usd": 8800,
+      "location": "11/25116,500kmSanto Domingo Heredia",
+      "url": "https://www.craigslist.org/view/d/hyundai-elantra-coupe-miles-mint/ww4rd5aAj1dpkhGesERDmU?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:04:56.081Z",
+      "id": "8715fb576387"
+    },
+    {
+      "title": "2019 Kia Rio Sedan – Guaranteed Best Price for a \"Nacional\" Car *🇨🇷",
+      "price_text": "₡5,975,000₡500/Més",
+      "price_usd": 11950001,
+      "location": "11/25117,000kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2019-kia-rio-sedan-guaranteed-best/gpqqsdo6zSMenhqVGD3rwS?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:04:56.136Z",
+      "id": "25dedefd8705"
+    },
+    {
+      "title": "Suzuki Samurai 1988",
+      "price_text": "₡3,500,000",
+      "price_usd": 7000,
+      "location": "11/25221,776kmCartago, Paraiso",
+      "url": "https://www.craigslist.org/view/d/suzuki-samurai-1988/poFDuRWmKTtYR7tXdZD6jQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7991475234/00m0m_3pR3Cky9WOJ_0pO0ji_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:00.907Z",
+      "id": "b3669678cd09"
+    },
+    {
+      "title": "BMW X6 Año 2013",
+      "price_text": "₡12,500,000",
+      "price_usd": 25000,
+      "location": "11/2549,000kmCartago, Paraiso",
+      "url": "https://www.craigslist.org/view/d/bmw-x6-ao-2013/7Wwx1w7smZqPBEJFrfbSrQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987613466/00j0j_kedcARaASdd_0pO0ji_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:00.918Z",
+      "id": "c7070db671a6"
+    },
+    {
+      "title": "KIA BONGO III – Furgón Refrigerado",
+      "price_text": "₡9,600,000",
+      "price_usd": 19200,
+      "location": "11/2551,946kmCartago, Paraiso",
+      "url": "https://www.craigslist.org/view/d/kia-bongo-iii-furgn-refrigerado/5P2dgh6dJ1TGzst5NYYRNA?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987616883/01414_6jCMVCuqK5U_0pO0ji_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:00.943Z",
+      "id": "a788f0b648fa"
+    },
+    {
+      "title": "2019 Jaguar E-Pace S AWD Auto - 55k Miles - Agency History",
+      "price_text": "₡18,000,000",
+      "price_usd": 36000,
+      "location": "11/2589,076kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2019-jaguar-pace-awd-auto-55k-miles/5A1pV3zvLeWwWuY4Thfe2H?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005310385/00D0D_5ChM60TRtLe_0ne0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:00.990Z",
+      "id": "5bf36c761782"
+    },
+    {
+      "title": "2022 Toyota Rush G 7-Seater - 36k Miles - Purdy 1 Owner",
+      "price_text": "₡9,500,000",
+      "price_usd": 19000,
+      "location": "11/2558,000kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2022-toyota-rush-7-seater-36k-miles/kkwkfvt9PsyXPGeVVVd2Bm?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005310982/00k0k_b97o8NBkpx9_0ne0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:01.034Z",
+      "id": "265f2d93c3d6"
+    },
+    {
+      "title": "2025 Hyundai Venue Turbo Auto - 10k Miles - Agency Warranty",
+      "price_text": "₡9,900,000",
+      "price_usd": 19800,
+      "location": "11/2516,700kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2025-hyundai-venue-turbo-auto-10k-miles/soc8ZdqvZygyrV63nQCzWm?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005311210/00D0D_8WIi6pqvuS4_0ne0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:01.080Z",
+      "id": "da5e0082ecd8"
+    },
+    {
+      "title": "2008 Mitsubishi Evo X MR 4x4 Auto - 91k Miles - Mint Condition",
+      "price_text": "₡15,900,000",
+      "price_usd": 31800,
+      "location": "11/25146,498kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2008-mitsubishi-evo-mr-4x4-auto-91k/2V84aieHmwjuUmVRHN71fX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005309680/00P0P_bXDNiLtMhWM_0ne0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:01.128Z",
+      "id": "fa026e6ae952"
+    },
+    {
+      "title": "Utility Trailer 2 Floors ☑load 3ATV (2nd Floor for Roof tent) ST Legal",
+      "price_text": "₡2,500,000",
+      "price_usd": 5000,
+      "location": "11/25tibas",
+      "url": "https://www.craigslist.org/view/d/utility-trailer-floors-load-3atv-2nd/faBGEKmVW1zuEnGtxmqkrQ?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:01.184Z",
+      "id": "ecb30a654cbe"
+    },
+    {
+      "title": "2006 Mitsubishi Lancer GLX Auto - 119k Miles - Clean Agency",
+      "price_text": "₡3,200,000",
+      "price_usd": 6400,
+      "location": "11/25192,043kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2006-mitsubishi-lancer-glx-auto-119k/aCLYhB46FyXuevXNsGsPAe?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:01.229Z",
+      "id": "571d6c42ebe1"
+    },
+    {
+      "title": "2014 Chevrolet Spark Auto - National Grupo Q - 77k Miles",
+      "price_text": "₡3,450,000",
+      "price_usd": 6900,
+      "location": "11/25124,670kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2014-chevrolet-spark-auto-national/8H3WK5twUZjPxhgMx4bp4i?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:01.273Z",
+      "id": "a44ce1c92ee7"
+    },
+    {
+      "title": "🚗 Hyundai Elantra Coupe 2014 * 116k miles* Mint condition * Up to Dat",
+      "price_text": "₡4,400,000",
+      "price_usd": 8800,
+      "location": "11/25116,500kmSanto Domingo Heredia",
+      "url": "https://www.craigslist.org/view/d/hyundai-elantra-coupe-miles-mint/ww4rd5aAj1dpkhGesERDmU?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:01.331Z",
+      "id": "8715fb576387"
+    },
+    {
+      "title": "2019 Kia Rio Sedan – Guaranteed Best Price for a \"Nacional\" Car *🇨🇷",
+      "price_text": "₡5,975,000₡500/Més",
+      "price_usd": 11950001,
+      "location": "11/25117,000kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2019-kia-rio-sedan-guaranteed-best/gpqqsdo6zSMenhqVGD3rwS?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:01.386Z",
+      "id": "25dedefd8705"
+    },
+    {
+      "title": "Suzuki Samurai 1988",
+      "price_text": "₡3,500,000",
+      "price_usd": 7000,
+      "location": "11/25221,776kmCartago, Paraiso",
+      "url": "https://www.craigslist.org/view/d/suzuki-samurai-1988/poFDuRWmKTtYR7tXdZD6jQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7991475234/00m0m_3pR3Cky9WOJ_0pO0ji_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:06.243Z",
+      "id": "b3669678cd09"
+    },
+    {
+      "title": "BMW X6 Año 2013",
+      "price_text": "₡12,500,000",
+      "price_usd": 25000,
+      "location": "11/2549,000kmCartago, Paraiso",
+      "url": "https://www.craigslist.org/view/d/bmw-x6-ao-2013/7Wwx1w7smZqPBEJFrfbSrQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987613466/00j0j_kedcARaASdd_0pO0ji_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:06.259Z",
+      "id": "c7070db671a6"
+    },
+    {
+      "title": "KIA BONGO III – Furgón Refrigerado",
+      "price_text": "₡9,600,000",
+      "price_usd": 19200,
+      "location": "11/2551,946kmCartago, Paraiso",
+      "url": "https://www.craigslist.org/view/d/kia-bongo-iii-furgn-refrigerado/5P2dgh6dJ1TGzst5NYYRNA?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987616883/01414_6jCMVCuqK5U_0pO0ji_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:06.284Z",
+      "id": "a788f0b648fa"
+    },
+    {
+      "title": "2019 Jaguar E-Pace S AWD Auto - 55k Miles - Agency History",
+      "price_text": "₡18,000,000",
+      "price_usd": 36000,
+      "location": "11/2589,076kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2019-jaguar-pace-awd-auto-55k-miles/5A1pV3zvLeWwWuY4Thfe2H?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005310385/00D0D_5ChM60TRtLe_0ne0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:06.331Z",
+      "id": "5bf36c761782"
+    },
+    {
+      "title": "2022 Toyota Rush G 7-Seater - 36k Miles - Purdy 1 Owner",
+      "price_text": "₡9,500,000",
+      "price_usd": 19000,
+      "location": "11/2558,000kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2022-toyota-rush-7-seater-36k-miles/kkwkfvt9PsyXPGeVVVd2Bm?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005310982/00k0k_b97o8NBkpx9_0ne0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:06.375Z",
+      "id": "265f2d93c3d6"
+    },
+    {
+      "title": "2025 Hyundai Venue Turbo Auto - 10k Miles - Agency Warranty",
+      "price_text": "₡9,900,000",
+      "price_usd": 19800,
+      "location": "11/2516,700kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2025-hyundai-venue-turbo-auto-10k-miles/soc8ZdqvZygyrV63nQCzWm?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005311210/00D0D_8WIi6pqvuS4_0ne0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:06.422Z",
+      "id": "da5e0082ecd8"
+    },
+    {
+      "title": "2008 Mitsubishi Evo X MR 4x4 Auto - 91k Miles - Mint Condition",
+      "price_text": "₡15,900,000",
+      "price_usd": 31800,
+      "location": "11/25146,498kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2008-mitsubishi-evo-mr-4x4-auto-91k/2V84aieHmwjuUmVRHN71fX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005309680/00P0P_bXDNiLtMhWM_0ne0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:06.470Z",
+      "id": "fa026e6ae952"
+    },
+    {
+      "title": "Utility Trailer 2 Floors ☑load 3ATV (2nd Floor for Roof tent) ST Legal",
+      "price_text": "₡2,500,000",
+      "price_usd": 5000,
+      "location": "11/25tibas",
+      "url": "https://www.craigslist.org/view/d/utility-trailer-floors-load-3atv-2nd/faBGEKmVW1zuEnGtxmqkrQ?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:06.527Z",
+      "id": "ecb30a654cbe"
+    },
+    {
+      "title": "2006 Mitsubishi Lancer GLX Auto - 119k Miles - Clean Agency",
+      "price_text": "₡3,200,000",
+      "price_usd": 6400,
+      "location": "11/25192,043kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2006-mitsubishi-lancer-glx-auto-119k/aCLYhB46FyXuevXNsGsPAe?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:06.573Z",
+      "id": "571d6c42ebe1"
+    },
+    {
+      "title": "2014 Chevrolet Spark Auto - National Grupo Q - 77k Miles",
+      "price_text": "₡3,450,000",
+      "price_usd": 6900,
+      "location": "11/25124,670kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2014-chevrolet-spark-auto-national/8H3WK5twUZjPxhgMx4bp4i?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:06.617Z",
+      "id": "a44ce1c92ee7"
+    },
+    {
+      "title": "🚗 Hyundai Elantra Coupe 2014 * 116k miles* Mint condition * Up to Dat",
+      "price_text": "₡4,400,000",
+      "price_usd": 8800,
+      "location": "11/25116,500kmSanto Domingo Heredia",
+      "url": "https://www.craigslist.org/view/d/hyundai-elantra-coupe-miles-mint/ww4rd5aAj1dpkhGesERDmU?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:06.674Z",
+      "id": "8715fb576387"
+    },
+    {
+      "title": "2019 Kia Rio Sedan – Guaranteed Best Price for a \"Nacional\" Car *🇨🇷",
+      "price_text": "₡5,975,000₡500/Més",
+      "price_usd": 11950001,
+      "location": "11/25117,000kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2019-kia-rio-sedan-guaranteed-best/gpqqsdo6zSMenhqVGD3rwS?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:06.732Z",
+      "id": "25dedefd8705"
+    },
+    {
+      "title": "Suzuki Samurai 1988",
+      "price_text": "₡3,500,000",
+      "price_usd": 7000,
+      "location": "11/25221,776kmCartago, Paraiso",
+      "url": "https://www.craigslist.org/view/d/suzuki-samurai-1988/poFDuRWmKTtYR7tXdZD6jQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7991475234/00m0m_3pR3Cky9WOJ_0pO0ji_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:11.460Z",
+      "id": "b3669678cd09"
+    },
+    {
+      "title": "BMW X6 Año 2013",
+      "price_text": "₡12,500,000",
+      "price_usd": 25000,
+      "location": "11/2549,000kmCartago, Paraiso",
+      "url": "https://www.craigslist.org/view/d/bmw-x6-ao-2013/7Wwx1w7smZqPBEJFrfbSrQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987613466/00j0j_kedcARaASdd_0pO0ji_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:11.472Z",
+      "id": "c7070db671a6"
+    },
+    {
+      "title": "KIA BONGO III – Furgón Refrigerado",
+      "price_text": "₡9,600,000",
+      "price_usd": 19200,
+      "location": "11/2551,946kmCartago, Paraiso",
+      "url": "https://www.craigslist.org/view/d/kia-bongo-iii-furgn-refrigerado/5P2dgh6dJ1TGzst5NYYRNA?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987616883/01414_6jCMVCuqK5U_0pO0ji_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:11.497Z",
+      "id": "a788f0b648fa"
+    },
+    {
+      "title": "2019 Jaguar E-Pace S AWD Auto - 55k Miles - Agency History",
+      "price_text": "₡18,000,000",
+      "price_usd": 36000,
+      "location": "11/2589,076kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2019-jaguar-pace-awd-auto-55k-miles/5A1pV3zvLeWwWuY4Thfe2H?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005310385/00D0D_5ChM60TRtLe_0ne0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:11.543Z",
+      "id": "5bf36c761782"
+    },
+    {
+      "title": "2022 Toyota Rush G 7-Seater - 36k Miles - Purdy 1 Owner",
+      "price_text": "₡9,500,000",
+      "price_usd": 19000,
+      "location": "11/2558,000kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2022-toyota-rush-7-seater-36k-miles/kkwkfvt9PsyXPGeVVVd2Bm?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005310982/00k0k_b97o8NBkpx9_0ne0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:11.586Z",
+      "id": "265f2d93c3d6"
+    },
+    {
+      "title": "2025 Hyundai Venue Turbo Auto - 10k Miles - Agency Warranty",
+      "price_text": "₡9,900,000",
+      "price_usd": 19800,
+      "location": "11/2516,700kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2025-hyundai-venue-turbo-auto-10k-miles/soc8ZdqvZygyrV63nQCzWm?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005311210/00D0D_8WIi6pqvuS4_0ne0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:11.632Z",
+      "id": "da5e0082ecd8"
+    },
+    {
+      "title": "2008 Mitsubishi Evo X MR 4x4 Auto - 91k Miles - Mint Condition",
+      "price_text": "₡15,900,000",
+      "price_usd": 31800,
+      "location": "11/25146,498kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2008-mitsubishi-evo-mr-4x4-auto-91k/2V84aieHmwjuUmVRHN71fX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005309680/00P0P_bXDNiLtMhWM_0ne0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:11.681Z",
+      "id": "fa026e6ae952"
+    },
+    {
+      "title": "Utility Trailer 2 Floors ☑load 3ATV (2nd Floor for Roof tent) ST Legal",
+      "price_text": "₡2,500,000",
+      "price_usd": 5000,
+      "location": "11/25tibas",
+      "url": "https://www.craigslist.org/view/d/utility-trailer-floors-load-3atv-2nd/faBGEKmVW1zuEnGtxmqkrQ?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:11.737Z",
+      "id": "ecb30a654cbe"
+    },
+    {
+      "title": "2006 Mitsubishi Lancer GLX Auto - 119k Miles - Clean Agency",
+      "price_text": "₡3,200,000",
+      "price_usd": 6400,
+      "location": "11/25192,043kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2006-mitsubishi-lancer-glx-auto-119k/aCLYhB46FyXuevXNsGsPAe?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:11.782Z",
+      "id": "571d6c42ebe1"
+    },
+    {
+      "title": "2014 Chevrolet Spark Auto - National Grupo Q - 77k Miles",
+      "price_text": "₡3,450,000",
+      "price_usd": 6900,
+      "location": "11/25124,670kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2014-chevrolet-spark-auto-national/8H3WK5twUZjPxhgMx4bp4i?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:11.826Z",
+      "id": "a44ce1c92ee7"
+    },
+    {
+      "title": "🚗 Hyundai Elantra Coupe 2014 * 116k miles* Mint condition * Up to Dat",
+      "price_text": "₡4,400,000",
+      "price_usd": 8800,
+      "location": "11/25116,500kmSanto Domingo Heredia",
+      "url": "https://www.craigslist.org/view/d/hyundai-elantra-coupe-miles-mint/ww4rd5aAj1dpkhGesERDmU?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:11.883Z",
+      "id": "8715fb576387"
+    },
+    {
+      "title": "2019 Kia Rio Sedan – Guaranteed Best Price for a \"Nacional\" Car *🇨🇷",
+      "price_text": "₡5,975,000₡500/Més",
+      "price_usd": 11950001,
+      "location": "11/25117,000kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2019-kia-rio-sedan-guaranteed-best/gpqqsdo6zSMenhqVGD3rwS?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:11.939Z",
+      "id": "25dedefd8705"
+    },
+    {
+      "title": "Suzuki Samurai 1988",
+      "price_text": "₡3,500,000",
+      "price_usd": 7000,
+      "location": "11/25221,776kmCartago, Paraiso",
+      "url": "https://www.craigslist.org/view/d/suzuki-samurai-1988/poFDuRWmKTtYR7tXdZD6jQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7991475234/00m0m_3pR3Cky9WOJ_0pO0ji_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:16.732Z",
+      "id": "b3669678cd09"
+    },
+    {
+      "title": "BMW X6 Año 2013",
+      "price_text": "₡12,500,000",
+      "price_usd": 25000,
+      "location": "11/2549,000kmCartago, Paraiso",
+      "url": "https://www.craigslist.org/view/d/bmw-x6-ao-2013/7Wwx1w7smZqPBEJFrfbSrQ?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987613466/00j0j_kedcARaASdd_0pO0ji_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:16.748Z",
+      "id": "c7070db671a6"
+    },
+    {
+      "title": "KIA BONGO III – Furgón Refrigerado",
+      "price_text": "₡9,600,000",
+      "price_usd": 19200,
+      "location": "11/2551,946kmCartago, Paraiso",
+      "url": "https://www.craigslist.org/view/d/kia-bongo-iii-furgn-refrigerado/5P2dgh6dJ1TGzst5NYYRNA?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/7987616883/01414_6jCMVCuqK5U_0pO0ji_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:16.773Z",
+      "id": "a788f0b648fa"
+    },
+    {
+      "title": "2019 Jaguar E-Pace S AWD Auto - 55k Miles - Agency History",
+      "price_text": "₡18,000,000",
+      "price_usd": 36000,
+      "location": "11/2589,076kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2019-jaguar-pace-awd-auto-55k-miles/5A1pV3zvLeWwWuY4Thfe2H?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005310385/00D0D_5ChM60TRtLe_0ne0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:16.818Z",
+      "id": "5bf36c761782"
+    },
+    {
+      "title": "2022 Toyota Rush G 7-Seater - 36k Miles - Purdy 1 Owner",
+      "price_text": "₡9,500,000",
+      "price_usd": 19000,
+      "location": "11/2558,000kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2022-toyota-rush-7-seater-36k-miles/kkwkfvt9PsyXPGeVVVd2Bm?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005310982/00k0k_b97o8NBkpx9_0ne0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:16.862Z",
+      "id": "265f2d93c3d6"
+    },
+    {
+      "title": "2025 Hyundai Venue Turbo Auto - 10k Miles - Agency Warranty",
+      "price_text": "₡9,900,000",
+      "price_usd": 19800,
+      "location": "11/2516,700kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2025-hyundai-venue-turbo-auto-10k-miles/soc8ZdqvZygyrV63nQCzWm?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005311210/00D0D_8WIi6pqvuS4_0ne0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:16.908Z",
+      "id": "da5e0082ecd8"
+    },
+    {
+      "title": "2008 Mitsubishi Evo X MR 4x4 Auto - 91k Miles - Mint Condition",
+      "price_text": "₡15,900,000",
+      "price_usd": 31800,
+      "location": "11/25146,498kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2008-mitsubishi-evo-mr-4x4-auto-91k/2V84aieHmwjuUmVRHN71fX?lang=es&cc=mx",
+      "images": [
+        "https://images.craigslist.org/d/8005309680/00P0P_bXDNiLtMhWM_0ne0t2_600x450.jpg"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:16.956Z",
+      "id": "fa026e6ae952"
+    },
+    {
+      "title": "Utility Trailer 2 Floors ☑load 3ATV (2nd Floor for Roof tent) ST Legal",
+      "price_text": "₡2,500,000",
+      "price_usd": 5000,
+      "location": "11/25tibas",
+      "url": "https://www.craigslist.org/view/d/utility-trailer-floors-load-3atv-2nd/faBGEKmVW1zuEnGtxmqkrQ?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:17.012Z",
+      "id": "ecb30a654cbe"
+    },
+    {
+      "title": "2006 Mitsubishi Lancer GLX Auto - 119k Miles - Clean Agency",
+      "price_text": "₡3,200,000",
+      "price_usd": 6400,
+      "location": "11/25192,043kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2006-mitsubishi-lancer-glx-auto-119k/aCLYhB46FyXuevXNsGsPAe?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:17.058Z",
+      "id": "571d6c42ebe1"
+    },
+    {
+      "title": "2014 Chevrolet Spark Auto - National Grupo Q - 77k Miles",
+      "price_text": "₡3,450,000",
+      "price_usd": 6900,
+      "location": "11/25124,670kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2014-chevrolet-spark-auto-national/8H3WK5twUZjPxhgMx4bp4i?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:17.103Z",
+      "id": "a44ce1c92ee7"
+    },
+    {
+      "title": "🚗 Hyundai Elantra Coupe 2014 * 116k miles* Mint condition * Up to Dat",
+      "price_text": "₡4,400,000",
+      "price_usd": 8800,
+      "location": "11/25116,500kmSanto Domingo Heredia",
+      "url": "https://www.craigslist.org/view/d/hyundai-elantra-coupe-miles-mint/ww4rd5aAj1dpkhGesERDmU?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:17.160Z",
+      "id": "8715fb576387"
+    },
+    {
+      "title": "2019 Kia Rio Sedan – Guaranteed Best Price for a \"Nacional\" Car *🇨🇷",
+      "price_text": "₡5,975,000₡500/Més",
+      "price_usd": 11950001,
+      "location": "11/25117,000kmMoravia",
+      "url": "https://www.craigslist.org/view/d/2019-kia-rio-sedan-guaranteed-best/gpqqsdo6zSMenhqVGD3rwS?lang=es&cc=mx",
+      "images": [
+        "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAAtJREFUGFdjYAACAAAFAAGq1chRAAAAAElFTkSuQmCC"
+      ],
+      "source": "craigslist_cr",
+      "source_name": "Craigslist Costa Rica",
+      "category": "residential",
+      "scraped_at": "2026-11-26T16:05:17.216Z",
+      "id": "25dedefd8705"
+    },
+    {
+      "title": "Casa Ladera Costa Rica Luxury Estate\n                Single Family Homes, Dominical, Puntarenas",
+      "price_text": "$4,950,000",
+      "price_usd": 4950000,
+      "location": "Single Family Homes, Dominical, Puntarenas",
+      "url": "https://www.coldwellbankercostarica.com/property/6-bed-single-family-homes-for-sale-in-dominical/12346",
+      "images": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      ],
+      "source": "coldwell_banker_cr",
+      "source_name": "Coldwell Banker Costa Rica",
+      "category": "luxury",
+      "scraped_at": "2026-11-26T16:05:49.494Z",
+      "id": "21c56e6112ec"
     }
   ],
-  "last_updated": "2026-11-26T01:26:07.032Z",
+  "last_updated": "2026-11-26T16:09:09.344Z",
   "total_count": 402
 }
